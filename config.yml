@@ -24,7 +24,7 @@ github_username: dmschulman
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: blanched
 gems:
   - jekyll-feed
 exclude:
