@@ -27,6 +27,7 @@ markdown: kramdown
 theme: blanched
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
