@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blanched
 title: "Make the switch to Jekyll in only 37 easy steps!"
 date: 2017-04-12
 category: Blog
