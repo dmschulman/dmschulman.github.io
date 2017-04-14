@@ -2,6 +2,7 @@
 layout: post
 title: "Make the switch to Jekyll in only 37 easy steps!"
 date: 2017-04-12
+categories: Blog Announcement Jekyll
 ---
 
 Today marks this site's official switch over from [Wordpress](http://wordpress.org), a CMS I've utilized for almost 12 years, to a more light-weight and agile platform, [Jekyll](http://jekyllrb.com). I'm looking forward to a long a fruitful relationship with something a little leaner and meaner than Wordpress, and hosting things on a personal Github repository via Github Pages is a welcomed solution, but I'll be damned if getting things off the ground wasn't the slightest bit confusing and frustruating.
