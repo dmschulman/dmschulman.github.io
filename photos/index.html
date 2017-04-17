@@ -4,10 +4,12 @@ title: Photos
 description: My Photos page
 ---
 	<h1>{{ page.title }}</h1>
-	<p>Photos go here</p>
 	<ul class="posts">
 		{% for post in site.categories.Photos %}
-		<li>{{ post.title }}</li><li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		<img src="{{ post.thumbnail }}"/>
+		<li>
+			<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+			<p class="metadata">{{ post.date | date_to_string }}</p>
+			<a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/></a>
+		</li>
 		{% endfor %}
 </ul>
