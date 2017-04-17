@@ -1,6 +1,6 @@
 ---
 layout: blanched
-title: "Italy Trip, 2004"
+title: "Rome, Vatican City, Florence, Cinque Terre, Pisa"
 date: 2004-07-29
 category: Photos
 tags: [Travel, Italy]
