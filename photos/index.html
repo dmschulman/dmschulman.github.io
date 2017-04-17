@@ -8,7 +8,7 @@ description: My Photos page
 		{% for post in site.categories.Photos %}
 		<li>
 			<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-			<p class="metadata">{{ post.date | date_to_string }}</p>
+			<p class="metadata">{{ post.date | date: '%B %d, %Y' }}</p>
 			<a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.thumbnail }}" alt="{{ post.title }}"/></a>
 		</li>
 		{% endfor %}
