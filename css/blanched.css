@@ -47,7 +47,7 @@ ul.posts li {
 }
 
 ul.gallery {
-    margin: 0px 0px 0px 20px;
+    margin: 0px
     padding: 0px;
 }
 
@@ -61,7 +61,9 @@ li.card {
 
 li.card img {
     height: 200px;
+    float: left;
     border: none;
+    margin-right: 20px;
 }
 
 /* FOOTER */
