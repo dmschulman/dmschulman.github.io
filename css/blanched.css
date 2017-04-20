@@ -51,6 +51,10 @@ ul.gallery {
     padding: 0px;
 }
 
+ul.gallery li {
+    list-style: none;
+}
+
 li.card {
        
 }
