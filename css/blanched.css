@@ -41,10 +41,6 @@ p {
     color: #333;
 }
 
-i.fa {
-    font-size: 16px;
-}
-
 /* BODY */
 
 ul.posts { 
@@ -74,6 +70,10 @@ li.card h3 {
     font-size: 2.5em;
 }
 
+.card i.fa {
+    font-size: 30px;
+}
+
 li.card img {
     height: 200px;
     float: left;
@@ -89,6 +89,7 @@ footer {
     text-transform: lowercase;
 }
 
-i.fa {
+footer i.fa {
     margin-right: 5px;
+    font-size: 18px;
 }
