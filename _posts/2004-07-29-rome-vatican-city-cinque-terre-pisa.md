@@ -1,5 +1,5 @@
 ---
-layout: blanched
+layout: post
 title: "Rome, Vatican City, Cinque Terre, Pisa"
 date: 2004-07-29
 category: Photos
