@@ -4,7 +4,7 @@ title: "Rome, Vatican City, Cinque Terre, Pisa"
 date: 2004-07-29
 category: Photos
 tags: [Travel, Italy]
-thumbnail: "https://lh3.googleusercontent.com/-1ssLbGrG2yg/Tt2noeZBftE/AAAAAAAAHlc/CXdPpEnM3qMzme2tTSFzSjWaNZDmP-6QQCHM/s160-c/RomeFlorenceCinqueTerre2004"
+thumbnail: "https://lh3.googleusercontent.com/-1ssLbGrG2yg/Tt2noeZBftE/AAAAAAAAHlc/CXdPpEnM3qMzme2tTSFzSjWaNZDmP-6QQCHM/RomeFlorenceCinqueTerre2004"
 ---
 
 Photos from my trip to Italy in 2004
