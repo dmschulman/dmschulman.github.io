@@ -71,7 +71,7 @@ li.card h3 {
 }
 
 .card i.fa {
-    font-size: 30px;
+    font-size: 22px;
 }
 
 li.card img {
@@ -79,6 +79,10 @@ li.card img {
     float: left;
     border: none;
     margin-right: 20px;
+}
+
+.metadata {
+    font-size: 1em;   
 }
 
 /* FOOTER */
