@@ -18,7 +18,7 @@ Quoted from [I Wanna Be The Guy: The Movie: The Game](http://kayin.pyoko.org/iwb
 
 > In the end, you can at least take heart that save points can be frequently encountered. It is just about the only solace you shall have on your quest to become The Guy.
 
-Frustrating doesn't even begin to describe the difficulty level of this game. Stitched together from pieces of old 8-bit platformer games, I Wanna Be the Guy mischievously takes the most challenging parts from every video game you’ve ever encountered and stitches them back to back to back. Major props on the Megaman intro though.
+Frustrating doesn't even begin to describe the difficulty level of this game. Stitched together from pieces of old 8-bit platformer games, I Wanna Be the Guy mischievously takes the most challenging parts from every video game you’ve ever encountered and stitches them back to back to back. Major props on the Megaman intro and all of the throwback music though.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/CPBgxWyXYKI?rel=0" frameborder="0" allowfullscreen></iframe>
 
