@@ -22,5 +22,5 @@ Frustrating doesn't even begin to describe the difficulty level of this game. St
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/CPBgxWyXYKI?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[boingboing.net](http://www.boingboing.net/2008/02/20/i-wanna-be-the-guy-p.html)
+Source: [boingboing.net](http://www.boingboing.net/2008/02/20/i-wanna-be-the-guy-p.html)
 
