@@ -10,7 +10,7 @@ tags:
 source-id: 1Zo97z2k6sJO1wiIxTnrzrIg8rn6BElEcmVcK4R9EqoQ
 published: true
 ---
-Quoted from [!WBTG!](http://kayin.pyoko.org/iwbtg/index.php):
+Quoted from [I Wanna Be The Guy: The Movie: The Game](http://kayin.pyoko.org/iwbtg/index.php):
 
 > This game is very hard. You could find that getting past the very first few screens is taking you the better part of an hour, or more. Do not be deterred. Its supposed to be unfair. Realize this before all else; any and all situations can kill without warning. Take nothing for granted. If it appears safe; you can be nearly certain that it is a trap. Understand that you can only get hit once before you die in a particularly gruesome manner. Be careful!
 
