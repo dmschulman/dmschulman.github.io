@@ -1,8 +1,8 @@
 ---
-title: Inspiredology.com: 125 concert posters (part 1)
+title: Inspiredology: 125 concert posters (part 1)
 layout: post
 author: dmschulman
-permalink: /inspiredology.com-125-concert-posters-part-1/
+permalink: /inspiredology-125-concert-posters-part-1/
 tags:
 - art
 - graphic design
