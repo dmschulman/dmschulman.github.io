@@ -5,7 +5,7 @@ author: dmschulman
 permalink: /historic-houses-humbled-by-downturn/
 tags:
 - economy
-- housing
+- architecture
 - politics
 source-id: 1XeTydrLafP0nVbLgUfPLZlzlz1Y4I5RUzVbaG1PbCmc
 published: true
