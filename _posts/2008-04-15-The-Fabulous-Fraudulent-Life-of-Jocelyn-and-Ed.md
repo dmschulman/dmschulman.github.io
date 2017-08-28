@@ -5,6 +5,7 @@ author: dmschulman
 permalink: /the-fabulous-fraudulent-life-of-jocelyn-and-ed/
 tags:
 - crime
+- philadelphia
 source-id: 1SCFA1Hx6ASh8MZYTE3mETGURgOLfmhT73kjk3x9MzYc
 published: true
 ---
