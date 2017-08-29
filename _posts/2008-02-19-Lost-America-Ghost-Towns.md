@@ -26,5 +26,5 @@ Inside one of the out buildings at the [ghost town](https://archive.li/hqXeu) Lo
 
 The stars spiral overhead at the massive abandoned mine complex in Grantsville, Nevada. Night, full moon, 6 minutes, f5.6, 100VS film. Available light only.
 
-[Lost America: Ghost Towns](http://www.designshed.com/lostamerica/ghost.html)
+[Lost America: Ghost Towns](http://lostamerica.com/)
 
