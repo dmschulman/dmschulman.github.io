@@ -9,7 +9,7 @@ tags:
 source-id: 1FbNNnZxjXRMpY6IcbKhoAjedXR2_TERMtd2QaN_0FCs
 published: true
 ---
-In what I hope will be another regular installment, I present Mix Tape, a collection of songs with one unifying theme, slapped together for your pleasure. After milling over the most legal (read: least liability for me) way possible to present this, I settled on using [Seeqpod.com](http://www.seeqpod.com/) to host/stream the mixes. Seeqpod is a frequented site of mine but it's questionable how much longer these guys will be around (RIAA, lawsuits, yadda yadda yadda), so I figure I might as well take advantage of the site while it lasts.
+In what I hope will be another regular installment, I present Mix Tape, a collection of songs with one unifying theme, slapped together for your pleasure. After milling over the most legal (read: least liability for me) way possible to present this, I settled on using Seeqpod.com to host/stream the mixes. Seeqpod is a frequented site of mine but it's questionable how much longer these guys will be around (RIAA, lawsuits, yadda yadda yadda), so I figure I might as well take advantage of the site while it lasts.
 
 At any rate, the following selections are a compilation of songs from yesteryears, simpler times when MySpace and Paris Hilton didn't exist yet and you could still get a gallon of gas without having to pay an arm and a leg. Grab an Ecto-cooler, sit back, and enjoy the sounds of 1990s alternative radio, as it was meant to be remembered (on computers!).
 
