@@ -22,7 +22,7 @@ Now, I've been weighing the options in my head all day, the iPhone has a nicer i
 
 MadDailyNews hard-hitting in-depth analysis of the Blackberry's features versus the iPhone, includes some of the following:
 
-**MacDailyNews Take: **Since when is RIM is a touch-screen titan?
+MacDailyNews Take: Since when is RIM is a touch-screen titan?
 
 But when it comes right down to it, the BlackBerry Storm will be the superior mobile device and represents a true iPhone killer, Hickey bloviates; presumably with a straight face.
 
@@ -30,11 +30,11 @@ Hickey gives five so-called reasons why the BlackBerry Storm is a true iPhone ki
 
 1. It has a better camera.
 
-**MacDailyNews Take: **Yawn. If you care anything at all about photography, you use a real camera, not a phone. For quick shots, iPhone is fine and is in no danger of being killed off by phones with marginally or even markedly better cameras. Strike one.
+MacDailyNews Take: Yawn. If you care anything at all about photography, you use a real camera, not a phone. For quick shots, iPhone is fine and is in no danger of being killed off by phones with marginally or even markedly better cameras. Strike one.
 
 2. BlackBerry set the gold standard for corporate e-mail.
 
-**MacDailyNews Take: **Puleeze. iPhone can and does send corporate email all day long. Yes, even with Exchange support. This is not a reason why iPhone will be killed. Strike two.
+MacDailyNews Take: Puleeze. iPhone can and does send corporate email all day long. Yes, even with Exchange support. This is not a reason why iPhone will be killed. Strike two.
 
 At least he's honestly hashing out the argument, deconstructing it point by point and reconstituting it for readers in an unbiased and informative way. The Blackberry has a camera and can send email, "oh so does the iPhone, but better because I say so". If anything, please consider for a moment that the device your God (Steve Jobs) created might be fallible a few months down the road when a new technology comes out that bests the iPhone. For all its merits the author might as well not care since he’s going to blindly preach that readers should invest in an Apple product anyway. Why bother reading a dissenting opinion when you know it’s going to be so free of any facts or analysis? Honestly people.
 
