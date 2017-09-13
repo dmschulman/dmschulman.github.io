@@ -28,11 +28,11 @@ But when it comes right down to it, the BlackBerry Storm will be the superior mo
 
 Hickey gives five so-called reasons why the BlackBerry Storm is a true iPhone killer:
 
-1. It has a better camera.
+* It has a better camera.
 
 MacDailyNews Take: Yawn. If you care anything at all about photography, you use a real camera, not a phone. For quick shots, iPhone is fine and is in no danger of being killed off by phones with marginally or even markedly better cameras. Strike one.
 
-2. BlackBerry set the gold standard for corporate e-mail.
+* BlackBerry set the gold standard for corporate e-mail.
 
 MacDailyNews Take: Puleeze. iPhone can and does send corporate email all day long. Yes, even with Exchange support. This is not a reason why iPhone will be killed. Strike two.
 
