@@ -20,7 +20,7 @@ But enough about me, let's talk about MacDailyNews.com. As a journalist I find i
 
 Now, I've been weighing the options in my head all day, the iPhone has a nicer interface and more applications to choose from, not to mention WiFi and the iPod functionality, but runs pretty expensive. The Blackberry Storm does mostly everything the iPhone does, has a 1-megapixel advantage camera-wise (I’ve been working with a 3 megapixel cameraphone as of late and the quality is far superior to any 2 megapixel camera I’ve seen), has an SD card slot (so I can swap out all the 16GB micro-SD cards full of media I want), and a few other bells and whistles that go beyond the scope of this rant.
 
-MadDailyNews hard-hitting in-depth analysis of the Blackberry's features versus the iPhone, includes some of the following:
+MacDailyNews hard-hitting in-depth analysis of the Blackberry's features versus the iPhone, includes some of the following:
 
 MacDailyNews Take: Since when is RIM is a touch-screen titan?
 
