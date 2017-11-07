@@ -8,9 +8,9 @@
 			{% include nav.html %}
 			</nav>
 			<h1>{{ page.title }}</h1>
-			<p class="meta">Published: {{ page.date | date_to_string }}</p>
+			<p class="meta"><strong>Published:</strong> {{ page.date | date_to_string }}</p>
 			{% if page.tags.size > 0 %}
-  			<p class="meta">Tag{% if page.tags.size > 1 %}s{% endif %}:
+			<p class="meta"><strong>Tag{% if page.tags.size > 1 %}s{% endif %}:</strong>
   			{{ page.tags | sort | join: ", " }}</p>
 			{% endif %}
 			<div class="post">
