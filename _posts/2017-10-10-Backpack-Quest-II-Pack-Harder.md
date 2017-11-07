@@ -35,10 +35,9 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 ## Current Bag: 
 
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_0.png)
+
 <table>
-  <tr>
-    <td></td>
-  </tr>
   <tr>
     <td>Mission Workshop Sanction</td>
   </tr>
