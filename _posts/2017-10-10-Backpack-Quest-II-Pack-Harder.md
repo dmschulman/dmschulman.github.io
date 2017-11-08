@@ -43,7 +43,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Style:** Top loading backpack, **Laptop:** 15"
 
-**Materials:** 1000D Nylon, **Weight:** 2.6lbs
+**Materials:** 1000D Nylon, **Weight:** 2.6 lbs
 
 **Price:** $205, **Color:** Charcoal
 
@@ -54,4 +54,40 @@ Functionality is key, but I'm also focused on finding something that looks good 
 **Verdict:** Sturdy and stylish pack that will make for a good backup bag, but with its top loading construction, not ideal for long excursions.
 
 ## Previous Packs:
+
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_1.png)
+
+### [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag)
+
+**Capacity:** 35L, **Dimensions:** 21.6" x 13.7” x 7.87”
+
+**Style:** Zippered backpack, **Laptop:** 15"
+
+**Materials:** 500D Cordura, **Weight:** 3.08 lbs
+
+**Price:** $299, **Color:** Grey
+
+**Likes:** Sharp looking bag with multiple carry options, plenty of room in the main compartment and easy to pack since it zips completely open, very well conceived design that gives just enough storage without being too complicated.
+
+**Dislikes:** Can understand why there's a zippered flap for the backpack straps but would prefer another solution, the laptop compartment felt reductive, water bottle holder unbalances the look of the bag, biggest issue however was the price.
+
+**Verdict:** A stellar choice for Onebag travel given the ample storage and carry options, well crafted and engineered but a few of the design choices left me feeling like it wasn't worth $300 + shipping.
+
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_2.png)
+
+### [Minaal Daily](https://www.minaal.com/products/daily-bag)
+
+**Capacity:** 21L, **Dimensions:** 16.9" x 12.6” x 6.3”
+
+**Style:** Zippered backpack, **Laptop:** 15"
+
+**Materials:** 500D Cordura, **Weight:** 2.16 lbs
+
+**Price:** $249, **Color:** Grey
+
+**Likes:** Functional and sleek, materials look and feel superb, main compartment opens up all the way, versatile carry options, a compact bag that feels technical without any of the BS.
+
+**Dislikes:** Enough space for carrying the essentials but not enough room for longer trips, wish there were a few interior pockets or another zippered area, separate laptop compartment feels like wasted space.
+
+**Verdict:** Essentially a shrunken version of the Carry-on 2.0 but the design doesn't work in an everyday carry backpack, Minaal should have put their energy into creating a different bag that solves a different problem.
 
