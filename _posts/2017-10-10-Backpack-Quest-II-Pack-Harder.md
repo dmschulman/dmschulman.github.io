@@ -1,5 +1,5 @@
 ---
-title: Backpack Quest II - Pack Harder
+title: Backpack Quest II: Pack Harder
 layout: post
 author: dmschulman
 permalink: /backpack-quest-ii-pack-harder/
@@ -37,33 +37,21 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 ![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_0.png)
 
-<table>
-  <tr>
-    <td>Mission Workshop Sanction</td>
-  </tr>
-  <tr>
-    <td>Capacity: 20L, Dimensions: 12" x 18" x 5"</td>
-  </tr>
-  <tr>
-    <td>Style: Top loading backpack, Laptop: 15"</td>
-  </tr>
-  <tr>
-    <td>Materials: 1000D Nylon, Weight: 2.6lbs</td>
-  </tr>
-  <tr>
-    <td>Price: $205, Color: Charcoal</td>
-  </tr>
-  <tr>
-    <td>Likes: Very stylish, quality materials and construction, inventive pocket configuration (but only for narrow items), minimal velcro, comfortable shoulder straps</td>
-  </tr>
-  <tr>
-    <td>Dislikes: 20L isn't enough space for a week long trip. Top loading means a lot of repacking and fishing for items, plastic clips might break eventually, can only carry as backpack</td>
-  </tr>
-  <tr>
-    <td>Verdict: Sturdy and stylish pack that will make for a good backup bag</td>
-  </tr>
-</table>
+### [Mission Workshop Sanction](https://missionworkshop.com/collections/backpacks/products/the-sanction-rucksack-backpack)
 
+**Capacity:** 20L, **Dimensions:** 12" x 18" x 5"
+
+**Style:** Top loading backpack, **Laptop:** 15"
+
+**Materials:** 1000D Nylon, **Weight:** 2.6lbs
+
+**Price:** $205, **Color:** Charcoal
+
+**Likes:** Very stylish, quality materials and construction, inventive pocket configuration (but only for narrow items), minimal velcro, comfortable shoulder straps.
+
+**Dislikes:** 20L isn't enough space for a week long trip. Top loading means a lot of repacking and fishing for items, plastic clips might break eventually, can only carry as backpack.
+
+**Verdict:** Sturdy and stylish pack that will make for a good backup bag, but with its top loading construction, not ideal for long excursions.
 
 ## Previous Packs:
 
