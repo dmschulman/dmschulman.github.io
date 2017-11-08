@@ -91,3 +91,21 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Essentially a shrunken version of the Carry-on 2.0 but the design doesn't work in an everyday carry backpack, Minaal should have put their energy into creating a different bag that solves a different problem.
 
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_3.png)
+
+### [Mission Workshop Rambler](https://missionworkshop.com/products/the-rambler)
+
+**Capacity:** 22L-44L, **Dimensions:** 13" x 19" x 5"
+
+**Style:** Zippered backpack, **Laptop:** 15"
+
+**Materials:** 1000D Nylon, **Weight:** 3.7 lbs
+
+**Price:** $295, **Color:** Charcoal
+
+**Likes:** Industrial and slightly punk aesthetic, expandable main compartment gives bag more functional purpose, works as a rolltop or over-the-flap closure, comfortable to wear even with a lot of weight inside.
+
+**Dislikes:** Tall and narrow pockets reduce packing possibilities, only functions as a backpack, elastic instead of interior buckles would have been nice, carry capacity in non-expanded mode seems a little restrictive.
+
+**Verdict:** This bag was fantastic and it got me very interested in trying the next size up, The Vandal. If it were not for the tall and narrow pockets being so limiting and the relatively small size of the interior compartment when not expanded I would have held onto this bag.
+
