@@ -105,7 +105,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Likes:** Industrial and slightly punk aesthetic, expandable main compartment gives bag more functional purpose, works as a rolltop or over-the-flap closure, comfortable to wear even with a lot of weight inside.
 
-**Dislikes:** Tall and narrow pockets reduce packing possibilities, only functions as a backpack, elastic instead of interior buckles would have been nice, carry capacity in non-expanded mode seems a little restrictive.
+**Dislikes:** Tall and narrow pockets reduce packing possibilities and increases frustrations fishing stuff out, only functions as a backpack, elastic instead of interior buckles would have been nice, carry capacity in non-expanded mode seems a little restrictive.
 
 **Verdict:** This bag was fantastic and it got me very interested in trying the next size up, The Vandal. If it were not for the tall and narrow pockets being so limiting and the relatively small size of the interior compartment when not expanded I would have held onto this bag.
 
