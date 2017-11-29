@@ -3,9 +3,7 @@
 /* GLOBALS */
 
 body {
-    margin: 60px auto;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    width: 70%;
 }
 
 a {
@@ -30,12 +28,30 @@ h2 {
 /* BREAKPOINTS */
 
 @media only screen and (min-width: 320px) and (max-width: 1024px) {
+    body {
+        width: 90%;
+    }
+    
     footer ul li {
         display: block;
     }
 }
 
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 1025px) and (max-width: 1600px) {
+    body {
+        width: 80%;
+    }
+    
+    footer ul li {
+        display: inline;
+    }
+}
+
+@media only screen and (min-width: 1601px) {
+    body {
+        width: 70%;
+    }
+    
     footer ul li {
         display: inline;
     }
@@ -43,13 +59,21 @@ h2 {
 
 /* HEADER */
 
-nav ul {
+header nav a {
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: none;
+}
+
+header nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 
-nav ul li {
+header nav ul li {
     display: inline;
     margin-right: 20px;
 }
@@ -61,6 +85,14 @@ nav ul li {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+}
+
+. content a {
+    text-decoration: underline;
+}
+
+. content a:hover {
+    text-decoration: none;
 }
 
 ul.posts { 
