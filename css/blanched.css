@@ -167,9 +167,20 @@ footer ul {
 }
 
 footer ul li {
+    padding-right: 10px;
+}
+
+footer ul.social a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer ul.social a:hover {
+    text-decoration: none;
+    font-weight: bold;
 }
 
 footer i.fa {
     margin-right: 5px;
-    font-size: 18px;
+    font-size: 22px;
 }
