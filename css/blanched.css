@@ -1,30 +1,22 @@
 /* blanched.css created by David Schulman */
 
+/* GLOBALS */
+
 body {
     margin: 60px auto;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     width: 70%;
 }
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
 a {
-    text-decoration: none;
+    text-decoration: underline;
+    font-weight: bold;
     color: #999;
 }
 
 a:hover {
     text-decoration: none;
+    font-weight: bold;
 }
 
 h1 {
@@ -34,6 +26,47 @@ h1 {
 h2 {
     font-size: 2.5em;
 }
+
+h3 {
+{
+    
+h4 {
+{
+
+h5 {
+{
+    
+h6 {
+{
+
+/* BREAKPOINTS */
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+    footer ul li {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+    footer ul li {
+        display: inline;
+    }
+}
+
+/* HEADER */
+
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
 
 /* BODY */
 
@@ -85,6 +118,7 @@ p.metadata {
     font-size: 1em;   
 }
 
+
 /* FOOTER */
 
 footer {
@@ -93,9 +127,16 @@ footer {
     text-transform: lowercase;
 }
 
+footer ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+footer ul li {
+}
+
 footer i.fa {
     margin-right: 5px;
     font-size: 18px;
 }
-
-
