@@ -60,8 +60,11 @@ h2 {
 /* HEADER */
 
 header {
-    float: right;
-    clear: right;
+    width: 100%;
+}
+
+header nav {
+    text-align: right;
 }
 
 header nav a {
@@ -82,15 +85,14 @@ header nav ul {
 
 header nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 
 /* BODY */
 
 main {
-    float: left;
-    clear: left;
+    width: 100%;
 }
 
 .content p {
@@ -153,8 +155,7 @@ p.metadata {
 /* FOOTER */
 
 footer {
-    float: left;
-    clear: left;
+    width: 100%;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     text-transform: lowercase;
