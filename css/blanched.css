@@ -3,6 +3,8 @@
 /* GLOBALS */
 
 body {
+    margin: auto;
+    padding: 0;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -59,6 +61,11 @@ h2 {
 
 /* HEADER */
 
+header {
+    float: right;
+    clear: right;
+}
+
 header nav a {
     text-decoration: none;
 }
@@ -80,6 +87,11 @@ header nav ul li {
 
 
 /* BODY */
+
+main {
+    float: left;
+    clear: left;
+}
 
 .content p {
     font-size: 1.5em;
@@ -141,6 +153,8 @@ p.metadata {
 /* FOOTER */
 
 footer {
+    float: left;
+    clear: left;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     text-transform: lowercase;
