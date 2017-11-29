@@ -170,12 +170,12 @@ footer ul li {
     padding-right: 10px;
 }
 
-footer ul.social a {
+footer ul.social li a {
     text-decoration: none;
     font-weight: bold;
 }
 
-footer ul.social a:hover {
+footer ul.social li a:hover {
     text-decoration: none;
     font-weight: bold;
 }
