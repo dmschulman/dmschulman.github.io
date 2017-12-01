@@ -20,6 +20,16 @@ This page contains a lengthy list of web bookmarks I've collected over the years
 
 [The Atlantic](https://www.theatlantic.com/)
 
+## Politics
+
+[CSPAN](https://www.c-span.org)
+
+## Culture
+
+[Boing Boing](https://boingboing.net/)
+
+[Dangerous Minds](https://dangerousminds.net/)
+
 # Podcasts
 
 ## News and Media Podcasts
@@ -29,6 +39,12 @@ This page contains a lengthy list of web bookmarks I've collected over the years
 ## Interview Podcasts
 
 [The Tim Ferriss Show](https://tim.blog/podcast/)
+
+# Tools
+
+## Information
+
+[GovTrack](https://www.govtrack.us/)
 
 # Personal Sites
 
