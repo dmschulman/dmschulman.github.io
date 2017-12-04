@@ -2,6 +2,7 @@
 title: Make the switch to Jekyll in only 37 easy steps!
 layout: post
 author: dmschulman
+permalink: /blog/:year/:title.html
 tags:
 - announcement
 - jekyll
