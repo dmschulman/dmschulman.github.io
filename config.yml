@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
   My great website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dmschulman.com"
-permalink: /blog/:year/:title.html
 
 # Build settings
 markdown: kramdown
@@ -20,3 +19,12 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+defaults:
+-
+scope: blog
+path: "_posts"
+type: "posts"
+values:
+  layout: "post"
+  permalink: /blog/:year/:title.html
