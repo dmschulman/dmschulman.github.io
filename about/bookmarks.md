@@ -20,15 +20,47 @@ This page contains a lengthy list of web bookmarks I've collected over the years
 
 [The Atlantic](https://www.theatlantic.com/)
 
+[NPR](https://www.npr.org/)
+
 ## Politics
 
 [CSPAN](https://www.c-span.org)
 
-## Culture
+## Technology
+
+[The Outline](https://theoutline.com/)
+
+## Magazines and Journals
+
+[Jacobin Magazine](https://www.jacobinmag.com/)
+
+[n+1 Magazine](https://nplusonemag.com/)
+
+[The Baffler](https://thebaffler.com/)
+
+# Arts and Culture
+
+## Blogs
 
 [Boing Boing](https://boingboing.net/)
 
 [Dangerous Minds](https://dangerousminds.net/)
+
+## Magazines and Journals
+
+[Paste Magazine](https://www.pastemagazine.com/)
+
+[Juxtapoz Magazine](https://www.juxtapoz.com/)
+
+## Music
+
+[Pitchfork](https://pitchfork.com/)
+
+## Street Art
+
+[Wooster Collective](http://www.woostercollective.com/)
+
+[Brooklyn Street Art](http://www.brooklynstreetart.com/theblog/)
 
 # Podcasts
 
