@@ -7,6 +7,7 @@ tags:
 - life
 - musings
 - los angeles
+- ithaca
 source-id: 1RckdLIW0HP57p3BsOb4lsiicl03AzNCyzAfCCSXdWho
 published: true
 ---
