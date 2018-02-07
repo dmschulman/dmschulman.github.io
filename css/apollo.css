@@ -43,8 +43,8 @@ h6 {}
     main {
         width: 824px;
         margin-left: 200px;
-        padding: auto 30px;
-        }
+        padding-top: 30px;
+    }
 
     footer {
 
@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 nav ul {
-    padding: 0px;
+    padding: 0 20px;
     list-style: none;
 }
 
