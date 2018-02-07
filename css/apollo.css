@@ -65,8 +65,12 @@ nav a:hover {
 }
 
 nav ul {
-    padding: 0 20px;
+    margin: 20px 0;
     list-style: none;
+}
+
+nav ul li {
+    padding-bottom: 5px;
 }
 
 /* PAGE CONTENT STYLES */
