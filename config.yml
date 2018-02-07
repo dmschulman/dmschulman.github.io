@@ -7,11 +7,11 @@ email: david@dmschulman.com
 description: > # this means to ignore newlines until "baseurl:"
   My great website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dmschulman.com"
+url: "https://dmschulman.com"
 
 # Build settings
 markdown: kramdown
-theme: blanched
+theme: apollo
 gems:
   - jekyll-feed
   - jekyll-sitemap
