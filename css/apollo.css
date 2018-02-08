@@ -72,13 +72,14 @@ nav ul {
     list-style: none;
 }
 
-nav ul li {
+nav ul a {
     padding: 5px 0px;
     font-size: 1rem;
 }
 
-nav ul .social {
+nav ul.social a {
     font-size: .875rem;
+    padding: 0;
 }
 /* PAGE CONTENT STYLES */
 
