@@ -53,15 +53,18 @@ h6 {}
 
 /* HEADER STYLES */
 
+nav {
+    text-transform: lowercase;
+}
+
 nav a {
     text-decoration: none;
-    font-weight: bold;
     color: #bbbbbb;
 }
 
 nav a:hover {
     text-decoration: none;
-    font-weight: bold;
+    color: #000000;
 }
 
 nav ul {
@@ -70,9 +73,13 @@ nav ul {
 }
 
 nav ul li {
-    padding-bottom: 5px;
+    padding: 5px 0px;
+    font-size: 1rem;
 }
 
+nav ul .social {
+    font-size: .875rem;
+}
 /* PAGE CONTENT STYLES */
 
 .content p {
