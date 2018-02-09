@@ -118,11 +118,11 @@ footer p {
     margin-bottom: 40px;
 }
 
-. content a {
+.content a {
     border-bottom: solid 1px #dddddd;
 }
 
-. content a:hover {
+.content a:hover {
     border-bottom: solid 1px #000000;
 }
 
