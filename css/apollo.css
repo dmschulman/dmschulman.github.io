@@ -15,7 +15,10 @@ a:hover {
     text-decoration: underline;
     color: #000000;
 }
-h1 {}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
 h2 {}
 h3 {}
 h4 {}
@@ -78,10 +81,20 @@ nav ul a {
 }
 
 nav ul.social a {
-    font-size: .875rem;
+    font-size: .750rem;
     padding: 0;
 }
+
+.card i.fa {
+    font-size: 18px;
+    padding-right: 5px;
+}
+
 /* PAGE CONTENT STYLES */
+
+.content {
+    margin-bottom: 20px;
+}
 
 .content p {
 }
@@ -119,10 +132,6 @@ li.card {
 
 li.card h3 {
     font-size: 2.5em;
-}
-
-.card i.fa {
-    font-size: 18px;
 }
 
 li.card img {
