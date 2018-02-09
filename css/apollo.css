@@ -74,25 +74,40 @@ nav ul {
     list-style: none;
 }
 
-nav ul a {
-    padding: 5px 0px;
+nav ul li {
+    padding: 7px 0px;
     font-size: 1rem;
 }
 
-nav ul.social a {
+nav ul li a {
+    color: #000000;
+}
+
+nav ul li a:hover {
+    color: #bbbbbb;
+}
+
+ul.social a {
     font-size: .750rem;
     padding: 0;
 }
 
-.card i.fa {
-    font-size: 18px;
+ul.social i.fa {
     padding-right: 5px;
+}
+
+footer {
+    border-top: 1px solid #bbbbbb;
+}
+
+footer p {
+    padding: 10px 0;
 }
 
 /* PAGE CONTENT STYLES */
 
 .content {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .content p {
@@ -138,6 +153,10 @@ li.card img {
     float: left;
     border: none;
     margin-right: 20px;
+}
+
+.card i.fa {
+    font-size: 18px;
 }
 
 p.metadata {
