@@ -16,7 +16,7 @@ a:hover {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     margin-bottom: 20px;
 }
 h2 {}
@@ -117,11 +117,8 @@ ul.global li a:hover {
 
 ul.social li {
     font-size: .750rem;
-    padding: 0;
-}
-
-ul.social i.fa {
     padding-right: 5px;
+    display: inline;
 }
 
 footer {
@@ -152,18 +149,14 @@ footer p {
     line-height: 1.5rem;
 }
 
-.content p.meta {
-    font-size: .9rem;
-}
-
-.content p.meta:last-child {
+.meta {
     padding-bottom: 40px;
+    font-size: .9rem;
 }
 
 .content .highlight {
     padding-left: 20px;
     font-size: .9rem;
-    margin: 20px 0px 20px 20px;
     font-style: italic;
 }
 
