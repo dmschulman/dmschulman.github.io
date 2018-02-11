@@ -107,11 +107,11 @@ nav ul li {
     font-size: 1rem;
 }
 
-ul.social li a {
+ul.global li a {
     color: #bbbbbb;
 }
 
-ul.social li a:hover {
+ul.global li a:hover {
     color: #202020;
 }
 
