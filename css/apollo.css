@@ -136,7 +136,12 @@ footer p {
 
 .meta {
     padding-bottom: 40px;
+}
+
+.meta p {
     font-size: .9rem;
+    margin: 0;
+    padding: 0;
 }
 
 .content .highlight {
@@ -181,23 +186,4 @@ li.card img {
 
 .card i.fa {
     font-size: 18px;
-}
-
-p.metadata {
-    font-size: 1em;   
-}
-
-
-/* FOOTER */
-
-footer ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-
-
-footer i.fa {
-    margin-right: 5px;
-    font-size: 22px;
 }
