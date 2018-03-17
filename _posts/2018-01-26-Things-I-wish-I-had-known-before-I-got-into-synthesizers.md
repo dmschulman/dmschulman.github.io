@@ -30,6 +30,8 @@ What kind of music do you like listening to? What artists and bands inspire you?
 
 Read interviews with other musicians and learn about how their gear choices and production workflows evolved over time. You might be surprised to learn just how many other artists didn't realize a damn thing about how to utilize their gear and went through many phases before settling on what synths worked for them and what sound they really enjoyed producing. Thinking even the slightest bit about what you want to accomplish with your music before you start getting invest will help save both time and money from the onset. It will help clarify more than any amount of synth noodling can ever teach you, but more importantly, it will allow you to take your first steps of this journey with purpose and confidence.
 
+![image alt text]({{ site.url }}/public/2WLlTIjJ3WeIX2cnMEFZw_img_0.jpg)
+
 ## 2. Every single instrument is completely unique, don't give up on the ones you get along with
 
 As I mentioned above, my very first piece of music gear was a junky old Roland MC-505 with a busted LCD screen that I bought off a friend from work. I loved that thing to bits, it was quintessentially fun to program, very immediate to interface with, and didn't sound half bad either (if 90s techno is your thing). Even if I was just making some cheesy dance loops, the experience of using the Groovebox was exciting and enjoyable. But eventually, after getting frustrated at the limited palette of sounds the MC-505 offered, I brushed this fun little box aside in favor of its bigger and more complicated brother, the [Roland MC-909](http://www.vintagesynth.com/roland/mc909.php).
@@ -49,6 +51,8 @@ Similar to point #2, it never hurts to explore and try out new instruments or ne
 When I look back on the times I've had a higher than average creative output I can remember it was during a time when I had a simple but effective group of machines in front of me that required very little overhead or hassle to operate. This isn’t particularly a problem when you only have a few pieces of gear to choose from, but it’s tempting to want to reconfigure a setup and see what other results can be achieved after only noodling around on your hardware for a short while. My message to you: if the way you set things up felt fun and inspiring, just walk away for a little bit and come back to it when you feel the urge to play again.
 
 Resist the temptation to immediately retool until you've had enough time to dive deeper into a process that works for you. Otherwise you’ll spend more time rewiring your gear together than you will using that gear, and this will lead to frustration and burnout rather than creative results.
+
+![image alt text]({{ site.url }}/public/2WLlTIjJ3WeIX2cnMEFZw_img_1.jpg)
 
 ## 4. Keep it simple, stupid
 
@@ -82,6 +86,8 @@ And I wish I had been aware of the benefits early on because it could have saved
 
 I still love my [Roland SH-101](http://www.vintagesynth.com/roland/sh101.php) for fat analog bass and lead sounds (and acid!), but for me both analog as well as virtual analogs get just as much use in my studio. They just sound good to my ears, what else can I say?
 
+![image alt text]({{ site.url }}/public/2WLlTIjJ3WeIX2cnMEFZw_img_2.jpg)
+
 ## 7. Go for quality, not quantity, with your studio arsenal (for more reasons than you'd think)
 
 This is something I still struggle with in my studio. With so many options out there and so much hardware, both new and rare, to choose from, a home studio can very quickly start to turn into a synth museum. I say a museum because you might end up with quite a bit of gear, but more so a lot of that gear will merely sit around on display collecting dust.
@@ -113,6 +119,8 @@ To echo some sentiments above, you don't necessarily need to buy a piece of anal
 If you do happen to have a USB to MIDI box or even an audio interface with MIDI I/O you have everything you need to bring your synthesizer into the computer-assisted realm of audio production, but even the lowliest of iPads, enhanced by the correct Apple-approved MIDI or USB dongle will open your studio up to numerous and inspiring software possibilities. And for all my Android friends out there, you don't even need to invest in a dongle as long as you have USB connectivity on your device. And even more conveniently, you can use the headphone jack on these devices to both record music (for manipulation inside the tablet) and to generate clock, gates, and trigger signals for any modular or semi-modular gear you might have on hand.
 
 A couple of apps to consider for sequencing and MIDI integration on the iPad include [Cubasis](https://www.steinberg.net/en/products/mobile_apps/cubasis/start.html), [Genome](https://itunes.apple.com/us/app/genome-midi-sequencer/id450475494?mt=8), [Fugue Machine](https://itunes.apple.com/us/app/fugue-machine/id1014191410?mt=8), [Patterning](https://itunes.apple.com/us/app/patterning-drum-machine/id976690555?mt=8), and [Lemur](https://itunes.apple.com/us/app/lemur/id481290621?mt=8). For Android, I'd recommend browsing the blog over at [Musical Android](http://www.musicalandroid.com/blog/category/midi) to get an idea of some of the great apps available on non-iOS devices. I’d also be doing a disservice if I didn’t mention [Sunvox](http://www.warmplace.ru/soft/sunvox/), [Caustic](http://singlecellsoftware.com/caustic), and Moog’s [Model 15](https://www.moogmusic.com/products/apps/model-15-app) synth apps, available on both Android and iOS. I’ve only recently come into owning an iPad and being able to take advantage of some of these great pieces of software.
+
+![image alt text]({{ site.url }}/public/2WLlTIjJ3WeIX2cnMEFZw_img_3.jpg)
 
 ## 10. There is no better time than the present to get started
 
