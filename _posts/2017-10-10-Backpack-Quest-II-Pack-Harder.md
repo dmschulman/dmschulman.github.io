@@ -71,7 +71,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Dislikes:** Main flap is held down by velcro, the latching straps are a bit long and flap around when I'm on the go, form factor is quite small making it suitable as a day bag but little else.
 
-**Verdict:** As a grab-and-go messenger bag for taking my laptop, a few accessories, and books out on the town it's an excellent fit. I’ve done weekend trips with this bag a well, the messenger design works in this small bag’s favor. Velcro means I hate tearing the bag open but little else irks me about this great little day bag.
+**Verdict:** As a grab-and-go messenger bag for taking my laptop, a few accessories, and books out on the town it's an excellent fit. I’ve done weekend trips with this bag as well, the messenger design works in this small bag’s favor. Velcro means I hate tearing the bag open but little else irks me about this great little day bag.
 
 ## Previous Packs:
 
