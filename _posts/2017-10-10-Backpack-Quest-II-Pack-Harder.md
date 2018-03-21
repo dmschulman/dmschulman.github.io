@@ -59,6 +59,24 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 ![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_1.png)
 
+### [Mission Workshop Arkiv R6 20L](https://missionworkshop.com/products/arkiv-bag-series)
+
+**Capacity:** 20L, **Dimensions:** 12" x 18" x 5"
+
+**Style:** Rolltop backpack, **Laptop:** 15"
+
+**Materials:** Waxed Canvas, **Weight:** 3 lbs
+
+**Price:** $260, **Color:** Brown
+
+**Likes:** Distinctive look, solid construction, innovative modular design means I can add as many compartments as I please to the base pack, well designed rails system leaves almost no gaps on the accessory mounts, no annoying straps or waist belts, functional and comfortable to wear.
+
+**Dislikes:** The base pack is just a rolltop bag that weighs 3 lbs by itself, and once you start to tack on accessories (in my case a [Folio](https://missionworkshop.com/collections/arkiv-modular-systems/products/arkiv-modular-systems-folio-pocket-backpack-accessory) and [Rolltop Pocket](https://missionworkshop.com/collections/arkiv-modular-systems/products/arkiv-modular-systems-vertical-rolltop-pocket-backpack-accessory)) this pack really gets heavy. The 20L compartment was roomy but still feels too tight and narrow for long trips. Waxed canvas was a nice choice stylistically but the material shows scrapes and scratches.
+
+**Verdict:** This bag excels as a daypack or book bag but due to the weight of the Arkiv system I would not be happy with this bag as a travel backpack. The accessory mounts impressed me, it felt like a bag and not a bunch of pouches hanging off of the main pack, but the 20L size didn't feel practical for my needs.
+
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_2.png)
+
 ### [Mission Workshop Sanction](https://missionworkshop.com/collections/backpacks/products/the-sanction-rucksack-backpack)
 
 **Capacity:** 20L, **Dimensions:** 12" x 18" x 5"
@@ -75,7 +93,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Sturdy and stylish pack that will make for a good backup bag, but with its top loading construction and 2 compartments for packing it's not ideal for long excursions.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_2.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_3.png)
 
 ### [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag)
 
@@ -93,7 +111,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** A stellar choice for Onebag travel given the ample storage and carry options, well crafted and engineered but a few of the design choices left me feeling like it wasn't worth $300 + shipping.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_3.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_4.png)
 
 ### [Minaal Daily](https://www.minaal.com/products/daily-bag)
 
@@ -111,7 +129,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Essentially a shrunken version of the [Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) but the design concept doesn't quite work for an everyday carry bag, Minaal should have put their energy into creating a different bag that solves a different problem.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_4.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_5.png)
 
 ### [Mission Workshop Rambler](https://missionworkshop.com/products/the-rambler)
 
@@ -129,7 +147,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** This bag was fantastic and it got me very interested in trying the next size up, [The Vandal](https://missionworkshop.com/products/the-vandal). If it were not for the tall and narrow pockets being so limiting and the relatively small size of the interior compartment when not expanded I would have held onto this bag.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_5.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_6.png)
 
 ### [Life Behind Bars Peloton Rolltop](http://store.lbbjkt.com/bags/36--the-peloton-rolltop.html)
 
