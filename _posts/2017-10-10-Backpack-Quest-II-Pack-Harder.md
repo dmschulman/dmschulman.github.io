@@ -55,9 +55,27 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Minaal redesigned this bag based on some very minor gripe but honestly I am enjoying the original Carry-on more than the upgraded version. This bag accompanied me to Iceland and it was the perfect amount of space, packing cubes were necessary to keep the bag organized but everything about the bag's design made my trip that much more enjoyable and hassle-free. Also unlike the 2.0, the original Minaal Carry-on can be found at a great used price.
 
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_1.png)
+
+### [Timbuk2 Dashboard Messenger, Small](http://amzn.to/2GePcez)
+
+**Capacity:** 12L, **Dimensions:** 12.4" x 15.9" x 3.9"
+
+**Style:** Messenger, **Laptop:** 13"
+
+**Materials:** Nylon and PVC, **Weight:** 2.1 lbs
+
+**Price:** $109, **Color:** Carbon
+
+**Likes:** Durable construction and materials, good amount of organization options for a small messenger, padded laptop compartment doubles as a removable laptop sleeve and fits my 14" Thinkpad X1, stylish but understated look, roomy interior for a "small”.
+
+**Dislikes:** Main flap is held down by velcro, the latching straps are a bit long and flap around when I'm on the go, form factor is quite small making it suitable as a day bag but little else.
+
+**Verdict:** As a grab-and-go messenger bag for taking my laptop, a few accessories, and books out on the town it's an excellent fit. I’ve done weekend trips with this bag a well, the messenger design works in this small bag’s favor. Velcro means I hate tearing the bag open but little else irks me about this great little day bag.
+
 ## Previous Packs:
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_1.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_2.png)
 
 ### [Mission Workshop Arkiv R6 20L](https://missionworkshop.com/products/arkiv-bag-series)
 
@@ -75,7 +93,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** This bag excels as a daypack or book bag but due to the weight of the Arkiv system I would not be happy with this bag as a travel backpack. The accessory mounts impressed me, it felt like a bag and not a bunch of pouches hanging off of the main pack, but the 20L size didn't feel practical for my needs.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_2.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_3.png)
 
 ### [Mission Workshop Sanction](https://missionworkshop.com/collections/backpacks/products/the-sanction-rucksack-backpack)
 
@@ -93,7 +111,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Sturdy and stylish pack that will make for a good backup bag, but with its top loading construction and 2 compartments for packing it's not ideal for long excursions.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_3.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_4.png)
 
 ### [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag)
 
@@ -111,7 +129,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** A stellar choice for Onebag travel given the ample storage and carry options, well crafted and engineered but a few of the design choices left me feeling like it wasn't worth $300 + shipping.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_4.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_5.png)
 
 ### [Minaal Daily](https://www.minaal.com/products/daily-bag)
 
@@ -129,7 +147,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** Essentially a shrunken version of the [Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) but the design concept doesn't quite work for an everyday carry bag, Minaal should have put their energy into creating a different bag that solves a different problem.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_5.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_6.png)
 
 ### [Mission Workshop Rambler](https://missionworkshop.com/products/the-rambler)
 
@@ -147,7 +165,7 @@ Functionality is key, but I'm also focused on finding something that looks good 
 
 **Verdict:** This bag was fantastic and it got me very interested in trying the next size up, [The Vandal](https://missionworkshop.com/products/the-vandal). If it were not for the tall and narrow pockets being so limiting and the relatively small size of the interior compartment when not expanded I would have held onto this bag.
 
-![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_6.png)
+![image alt text]({{ site.url }}/public/MRHfat1smEfVgAxhVQfeQ_img_7.png)
 
 ### [Life Behind Bars Peloton Rolltop](http://store.lbbjkt.com/bags/36--the-peloton-rolltop.html)
 
