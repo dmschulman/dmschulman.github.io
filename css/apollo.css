@@ -111,6 +111,11 @@ nav a:hover {
     border: none;
 }
 
+ul.global li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
 ul.global li a {
     color: #bbbbbb;
 }
