@@ -55,14 +55,14 @@ h6 {}
         margin: 20px 0;
     }
 
+    ul.social li {
+        padding-right: 7px;    
+    }
+
     main {
         padding-top: 30px;
         padding-left: 200px;
         padding-right: 15%;
-    }
-
-    footer {
-
     }
 }
 
@@ -71,16 +71,16 @@ h6 {}
         padding: 20px 20px 0 20px;
     }
 
-    nav ul {
-        margin: 0;
-    }
-
     header .logo {
         display: none;
     }
 
     header ul li {
         display: inline;
+    }
+
+    ul.global li {
+        padding: 0px 10px 10px 10px;
     }
     
     main {
@@ -111,11 +111,6 @@ nav a:hover {
     border: none;
 }
 
-nav ul li {
-    padding: 3px 0px;
-    font-size: 1rem;
-}
-
 ul.global li a {
     color: #bbbbbb;
 }
@@ -125,8 +120,8 @@ ul.global li a:hover {
 }
 
 ul.social li {
-    font-size: .750rem;
-    padding-right: 5px;
+    font-size: 1rem;
+    line-height: 1.5rem;
     display: inline;
 }
 
