@@ -1,6 +1,12 @@
 /* apollo.css created by david schulman 1/18/18 */
 /* GLOBALS */
 
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     color: #202020;
@@ -11,10 +17,17 @@ a {
     border-bottom: solid 1px #bbbbbb;
     color: #bbbbbb;
 }
-a:hover {
+
+a:hover,
+a:focus {
     text-decoration: none;
     border-bottom: solid 1px #202020;
     color: #202020;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 h1 {
@@ -25,6 +38,7 @@ h2 {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
 h3 {}
 h4 {}
 h5 {}
