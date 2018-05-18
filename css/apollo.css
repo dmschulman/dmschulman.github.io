@@ -12,10 +12,17 @@ body {
     color: #202020;
 }
 
+p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: -.5px;
+    padding-bottom: 20px;
+}
+
 a {
     text-decoration: none;
-    border-bottom: solid 1px #bbbbbb;
-    color: #bbbbbb;
+    border-bottom: solid 1px #999999;
+    color: #999999;
 }
 
 a:hover,
@@ -25,24 +32,43 @@ a:focus {
     color: #202020;
 }
 
+h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    letter-spacing: -1px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+    letter-spacing: -1px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+    letter-spacing: -1px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h4 {}
+h5 {}
+h6 {}
+
+code {
+    font-size: .9rem;
+    font-style: italic;
+}
+
 img {
     max-width: 100%;
     height: auto;
 }
-
-h1 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-}
-h2 {
-    font-size: 1.5rem;
-    font-weight: bold;
-}
-
-h3 {}
-h4 {}
-h5 {}
-h6 {}
 
 @media only screen and (min-width: 1024px) {
     nav {
@@ -80,7 +106,7 @@ h6 {}
     }
 
     ul.global li {
-        padding: 0px 10px 10px 10px;
+        padding-right: 20px;
     }
     
     main {
@@ -112,8 +138,8 @@ nav a:hover {
 }
 
 ul.global li {
-    font-size: 1rem;
-    line-height: 1.5rem;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
 }
 
 ul.global li a {
@@ -144,10 +170,9 @@ footer p {
     margin-bottom: 40px;
 }
 
-.content p {
-    font-size: 1rem;
-    padding-bottom: 20px;
-    line-height: 1.5rem;
+.content ul {
+    list-style: disc;
+    margin-left: 40px;
 }
 
 .meta {
@@ -160,10 +185,14 @@ footer p {
     padding: 0;
 }
 
-.content .highlight {
-    padding-left: 20px;
-    font-size: .9rem;
-    font-style: italic;
+.highlighter-rouge {
+    background-color: #eee;
+    border-left: 1px solid #555;
+    margin: 0 0 20px 20px;
+}
+
+pre.highlight {
+    padding: 0 20px;
 }
 
 ul.posts { 
