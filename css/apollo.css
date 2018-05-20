@@ -70,7 +70,7 @@ img {
     height: auto;
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1025px) {
     nav {
         position: fixed;
         width: 200px;
@@ -92,7 +92,7 @@ img {
     }
 }
 
-@media only screen and (min-width: 320px) and (max-width: 1023px) {
+@media only screen and (max-width: 1024px) {
     nav {
         padding: 20px 20px 0 20px;
     }
@@ -107,6 +107,15 @@ img {
 
     ul.global li {
         padding-right: 20px;
+    }
+    
+    ul.social {
+        text-align: right;   
+        padding-top: 10px;
+    }
+    
+     ul.social li {
+        padding-left: 7px;    
     }
     
     main {
