@@ -12,7 +12,7 @@ url: "https://dmschulman.com"
 collections:
   photos:
     output: true
-    permalink: /photos/:path/
+    permalink: /photos/:name
 
 # Build settings
 markdown: kramdown
