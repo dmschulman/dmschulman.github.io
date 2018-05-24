@@ -165,13 +165,6 @@ ul.social li {
     display: inline;
 }
 
-footer {
-    border-top: 1px solid #bbbbbb;
-}
-
-footer p {
-    padding: 10px 0;
-}
 
 /* PAGE CONTENT STYLES */
 
@@ -196,6 +189,7 @@ footer p {
     font-size: .9rem;
     margin: 0;
     padding: 0;
+    text-transform: capitalize;
 }
 
 .highlighter-rouge {
@@ -244,4 +238,14 @@ li.card img {
 
 .card i.fa {
     font-size: 18px;
+}
+
+/* HEADER STYLES */
+
+footer {
+    border-top: 1px solid #bbbbbb;
+}
+
+footer p {
+    padding: 10px 0;
 }
