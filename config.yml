@@ -10,9 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dmschulman.com"
 
 collections:
-  photos:
-    output: true
-    permalink: /photos/:name
+  - photos:
+      output: true
+      permalink: /photos/:name
 
 # Build settings
 markdown: kramdown
