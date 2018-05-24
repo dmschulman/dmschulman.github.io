@@ -184,6 +184,10 @@ footer p {
     margin-left: 40px;
 }
 
+.content li {
+    padding-bottom: 10px;
+}
+
 .meta {
     padding-bottom: 40px;
 }
