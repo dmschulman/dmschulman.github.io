@@ -14,14 +14,6 @@ collections:
     output: true
     permalink: /photos/:path/
 
-defaults:
-  - scope:
-      path: "/_photos/"
-      type: photos
-    values:
-      layout: photo
-    
-
 # Build settings
 markdown: kramdown
 theme: apollo
