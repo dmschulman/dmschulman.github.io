@@ -13,9 +13,6 @@ collections:
   photos:
     output: true
     permalink: /photos/:path/
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
 
 defaults:
   - scope:
@@ -23,11 +20,6 @@ defaults:
       type: photos
     values:
       layout: photo
-  - scope:
-      path: "/_portfolio/"
-      type: portfolio
-    values:
-      layout: portfolio
     
 
 # Build settings
