@@ -9,6 +9,27 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dmschulman.com"
 
+collections:
+  photos:
+    output: true
+    permalink: /photos/:path/
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  - scope:
+      path: "/_photos/"
+      type: photos
+    values:
+      layout: photo
+  - scope:
+      path: "/_portfolio/"
+      type: portfolio
+    values:
+      layout: portfolio
+    
+
 # Build settings
 markdown: kramdown
 theme: apollo
@@ -19,5 +40,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-# add scope defaults for each content type
