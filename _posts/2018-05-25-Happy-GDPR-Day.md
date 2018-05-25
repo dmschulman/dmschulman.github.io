@@ -22,5 +22,5 @@ While there are some controversial provisions in the law, such as the "right to 
 
 But for now, I'm hopeful and excited. Happy GDPR Day everyone! 🎂
 
-**EDIT:** Looks like Facebook and Google have been [hit with a total of $8.8 billion dollars in fines](https://www.theverge.com/2018/5/25/17393766/facebook-google-gdpr-lawsuit-max-schrems-europe) today. Let's get this party started!
+**EDIT:** Looks like Facebook and Google have been [hit with a total of $8.8 billion dollars in fines](https://www.theverge.com/2018/5/25/17393766/facebook-google-gdpr-lawsuit-max-schrems-europe) today. Let's get this party started! 
 
