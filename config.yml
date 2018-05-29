@@ -14,7 +14,7 @@ url: "https://dmschulman.com"
 collections:
   photos
     output: true
-    permalink: /photos/index.html
+    permalink: /photos/:name
   # posts
     # output: true
     # permalink: /blog/index.html
