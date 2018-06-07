@@ -12,9 +12,9 @@ url: "https://dmschulman.com"
 # Define collections
 # collections_dir: content
 collections:
-  photos
-    output: true
-    permalink: /photos/index.html
+  - photos
+      output: true
+      permalink: /photos/index.html
   # posts
     # output: true
     # permalink: /blog/index.html
