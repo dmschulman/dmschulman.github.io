@@ -20,9 +20,9 @@
 					{% endif %}
 				</div>
 				{% for item in site.photos %}
-					<h2>{{ item.title }}</h2>
+					<h2>{{ photos.title }}</h2>
 					<p>{{ item.description }}</p>
-					<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+					<p><a href="{{ photos.url }}">{{ item.title }}</a></p>
 				{% endfor %}
 			<div class="post">
 				{{ content }}
