@@ -5,3 +5,9 @@ description: My Photos page
 ---
 	<h1>{{ page.title }}</h1>
   	<p>Photos go here</p>
+{% for collection in site.collections %}
+    <section>
+        <h1><a href="{{ collection.directory }}">{{ collection.title }}</a></h1>
+        Label: {{ collection.label }}
+    </section>
+{% endfor %}
