@@ -8,9 +8,9 @@ description: My Photos page
         <img src="assets/images/photographs/thumbs/{{ photo.image.thumbnail }}" alt="{{ photo.title }}" />
       </a>
     </li>
-{% for collection in site.collections %}
+{% for photos in site.photos %}
     <section>
-        <h1><a href="{{ collection.directory }}">{{ collection.title }}</a></h1>
-        Label: {{ collection.label }}
+        <h1><a href="{{ photos.url }}">{{ photos.title }}</a></h1>
+        Label: {{ photos.label }}
     </section>
 {% endfor %}
