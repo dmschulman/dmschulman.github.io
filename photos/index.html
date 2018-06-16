@@ -9,8 +9,7 @@ description: My Photos page
       </a>
     </li>
 {% for photos in site.photos %}
-    <section>
-        <h1><a href="{{ photos.url }}">{{ photos.title }}</a></h1>
-        Label: {{ photos.label }}
-    </section>
+    <li>
+        <p>{{ photos.title }}</p>
+    </li>
 {% endfor %}
