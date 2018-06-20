@@ -20,3 +20,9 @@ title: Photos
 					<img src="{{ photos.thumbnail }}
 					<p><a href="{{ photos.url }}">{{ item.title }}</a></p>
 				{% endfor %}
+								     
+{% for item in site.photos %}
+    <li>
+        <p>{{ item.title }}</p>
+    </li>
+{% endfor %}
