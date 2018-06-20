@@ -1,9 +1,36 @@
-----
-layout: apollo
-----
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-{{ content }}
-</div>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include head-code.html %}
+	</head>
+	<body>
+		<nav>
+			{% include nav.html %}
+		</nav>
+		<main>
+			<div class="content">
+				<h1>{{ page.title }}</h1>
+				<div class="meta">
+					<p><strong>Published:</strong> {{ page.date | date: '%B %d, %Y' }}</p>
+					{% if page.tags.size > 0 %}
+						<p>
+							<strong>Tag{% if page.tags.size > 1 %}s{% endif %}:</strong>
+							{{ page.tags | sort | join: ", " }}
+						</p>
+					{% endif %}
+				</div>
+				{% for item in site.photos %}
+					<h2>{{ photos.title }}</h2>
+					<p>{{ item.description }}</p>
+					<img src="{{ photos.thumbnail }}
+					<p><a href="{{ photos.url }}">{{ item.title }}</a></p>
+				{% endfor %}
+			<div class="post">
+				{{ content }}
+			</div>
+			<footer>
+					{% include footer.html %}
+			</footer>
+		</main>
+	</body>
+</html>
