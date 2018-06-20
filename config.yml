@@ -13,10 +13,10 @@ url: "https://dmschulman.com"
 # collections_dir: content
 collections:
   photos:
-    output: true
-    output_ext: .html
-    title: Photo Galleries
-    permalink: /photos/:path/
+    - output: true
+    - output_ext: .html
+    - title: Photos
+    - permalink: /photos/:path/
   # posts
     # output: true
     # permalink: /blog/index.html
