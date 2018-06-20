@@ -1,15 +1,16 @@
 ---
 layout: apollo
+title: Photos
 ---
 
 			<div class="content">
 				<h1>{{ page.title }}</h1>
 				<div class="meta">
-					<p><strong>Published:</strong> {{ page.date | date: '%B %d, %Y' }}</p>
-					{% if page.tags.size > 0 %}
+					<p><strong>Published:</strong> {{ photos.date | date: '%B %d, %Y' }}</p>
+					{% if photos.tags.size > 0 %}
 						<p>
-							<strong>Tag{% if page.tags.size > 1 %}s{% endif %}:</strong>
-							{{ page.tags | sort | join: ", " }}
+							<strong>Tag{% if photos.tags.size > 1 %}s{% endif %}:</strong>
+							{{ photos.tags | sort | join: ", " }}
 						</p>
 					{% endif %}
 				</div>
