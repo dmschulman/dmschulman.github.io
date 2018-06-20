@@ -12,11 +12,11 @@ url: "https://dmschulman.com"
 # Define collections
 # collections_dir: content
 collections:
-  - photos:
-      output: true
-      output_ext: .html
-      title: Photo Galleries
-      permalink: /photos/:path/
+  photos:
+    output: true
+    output_ext: .html
+    title: Photo Galleries
+    permalink: /photos/:path/
   # posts
     # output: true
     # permalink: /blog/index.html
@@ -29,6 +29,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-rss
+  - github-pages-health-check
 exclude:
   - Gemfile
   - Gemfile.lock
