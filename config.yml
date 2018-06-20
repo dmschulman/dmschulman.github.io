@@ -20,12 +20,6 @@ collections:
   # posts
     # output: true
     # permalink: /blog/index.html
-defaults:
-  - scope:
-      path: ""
-        type: photos
-    values:
-      layout: photos
 
 
 # Build settings
