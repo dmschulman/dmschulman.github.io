@@ -3,6 +3,7 @@ layout: photo-gallery
 title: "Rome, Vatican City, Cinque Terre, Florence"
 date: 2004-07-29
 tags: [Travel, Italy]
+permalink: /italy-2004/
 label: photos
 category: photos
 thumbnail: https://lh3.googleusercontent.com/-1ssLbGrG2yg/Tt2noeZBftE/AAAAAAAAHlc/CXdPpEnM3qMzme2tTSFzSjWaNZDmP-6QQCHM/5682882618606059217
