@@ -12,7 +12,7 @@ url: "https://dmschulman.com"
 # Define collections
 # collections_dir: content
  collections:
-   photos:
+   - photos:
      output: true
      output_ext: .html
      title: Photos
