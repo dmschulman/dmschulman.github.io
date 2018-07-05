@@ -18,8 +18,6 @@ Enter [Twitter](http://www.twitter.com)…
 
 If you pay attention to any modicum of internet news, or even news news, you've probably heard of Twitter by now. This post isn’t me introducing Twitter to the world, this is me telling you why you should embrace the deluge of Twits out there and why, after many months of fierce resistance to yet another social network, I have succumbed to the simple pleasure of such a great service (it’s really not that bad after all!).
 
-![image alt text]({{ site.url }}/public/J5pTobZ4ktIorMlidkaoRA_img_0.jpg)
-
 It is easy to see why people love Twitter. Twitter is simple. Twitter connects people. Twitter provides your lonely life with little tidbits about what your friends and those you admire in the real world are up to.
 
 Those you admire you say?
@@ -33,7 +31,6 @@ However, under the layers of public relations accounts, fake celebrities, fake c
 I get the sense that there are a few distinct categories of people who are attracted to a site like Twitter. These people are more or less (surprise!) involved in technology and computing and certainly have a handle on the latest and greatest when it comes to the internet. You might not be seeing Clint Eastwood on Twitter in the near future, but you will find HUNDREDS of well known journalists, tech moguls, developers, writers, comedians (I'd follow Tina Fey, but she only seems to talk about what she’s eaten for lunch), filmmakers, and my favorite recent discovery: DJs and hip hop producers.
 
 Now for some Twitters I follow:
-
 * [QTip](https://twitter.com/QtipTheAbstract)
 * [Talib Kweli](https://twitter.com/TalibKweli)
 * [Questlove](https://twitter.com/questlove)
