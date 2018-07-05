@@ -11,8 +11,10 @@ description: "Whether traveling abroad to far away places or simply getting lost
   <ul>
 {% for photos in site.photos %}
     <li>
-      <img src="{{ photos.thumbnail }}" alt="{{ photos.title }}">
-        {{ photos.title }}
+      <a href="{{ photos.permalink }}" title="{{ photo.title }}">
+        <img src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
+        <span>{{ photos.title }}</span>
+      </a>
     </li>
 {% endfor %}
   </ul>
