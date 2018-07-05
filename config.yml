@@ -3,24 +3,47 @@
 
 # Site settings
 title: dmschulman.com
-email: david@dmschulman.com
-description: > # this means to ignore newlines until "baseurl:"
-  My great website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dmschulman.com"
+title_separator: "|"
+description: "My great website"
+url: "https://dmschulman.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "dmschulman/dmschulman.github.io"
+locale: "en-US"
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs: false # true, false (default)
+read_more: "disabled" # if enabled, adds "Read more" links to excerpts
 
-# Define collections
-# collections_dir: content
- collections:
-   - photos:
-     output: true
-     output_ext: .html
-     title: Photos
-     #permalink: /photos/:path/
-  # posts
-    # output: true
-    # permalink: /blog/index.html
+name: "David Schulman"
+email: "david@dmschulman.com"
 
+#analytics:
+ # provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  #google:
+   # tracking_id:
+
+# Social media
+twitter:
+  username: dmschulman
+facebook:
+  username: dmschulman
+og_image: #Open Graph/Twitter default site image
+social:
+  type: #Person or Organization (defaults to Person)
+  name: #If the user or organization name differs from the site's name
+  links: #An array of links to social media profiles
+
+# Collections
+collections:
+  photos:
+    output: true
+    output_ext: .html
+    title: Photos
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    output_ext: .html
+    title: Projects
+    permalink: /:collection/:path/
 
 # Build settings
 markdown: kramdown
