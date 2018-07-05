@@ -38,12 +38,10 @@ collections:
     output: true
     output_ext: .html
     title: Photos
-    permalink: /photos/:title/
   projects:
     output: true
     output_ext: .html
     title: Projects
-    permalink: /projects/:title/
 
 # Build settings
 markdown: kramdown
