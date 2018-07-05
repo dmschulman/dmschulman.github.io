@@ -51,7 +51,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-rss
   - github-pages-health-check
 exclude:
   - Gemfile
