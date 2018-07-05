@@ -35,27 +35,16 @@ I get the sense that there are a few distinct categories of people who are attra
 Now for some Twitters I follow:
 
 * [QTip](https://twitter.com/QtipTheAbstract)
-
 * [Talib Kweli](https://twitter.com/TalibKweli)
-
 * [Questlove](https://twitter.com/questlove)
-
 * [KC Green](https://twitter.com/kcgreenn)
-
 * [Tech Crunch](https://twitter.com/TechCrunch)
-
 * [Larry Lessig](https://twitter.com/LarryLessig)
-
 * [Major Nelson](https://twitter.com/majornelson)
-
 * [Tim Ferriss](https://twitter.com/tferriss)
-
 * [Patrick Norton](https://twitter.com/patricknorton)
-
 * [Kevin Rose](https://twitter.com/kevinrose)
-
 * [Leo Laporte](https://twitter.com/leolaporte)
-
 * [Xeni Jardin](https://twitter.com/xeni)
 
 Twitter! Go use it!
