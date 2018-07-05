@@ -32,6 +32,19 @@ a:focus {
     color: #202020;
 }
 
+ul { 
+    list-style: disc;
+    margin-left: 60px;
+    padding-bottom: 20px;
+}
+
+li { 
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: -.5px;
+    margin: 10px 0;
+}
+
 h1 {
     font-size: 2rem;
     line-height: 2.5rem;
@@ -170,15 +183,6 @@ ul.social li {
 
 .content {
     margin-bottom: 40px;
-}
-
-.content ul {
-    list-style: disc;
-    margin-left: 60px;
-}
-
-.content li {
-    margin: 10px 0;
 }
 
 .meta {
