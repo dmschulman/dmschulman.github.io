@@ -1,4 +1,4 @@
-/* apollo.css created by david schulman 1/18/18 */
+/* apollo.css created by David Schulman 1/18/18 */
 /* GLOBALS */
 
 * {
@@ -139,10 +139,10 @@ img {
 
 /* HEADER STYLES */
 
-header .logo {
+header a.logo {
     font-size: 1.3rem;
     border: none;
-    color: #202020
+    color: #202020;
 }
 
 nav {
@@ -161,7 +161,10 @@ nav a:hover {
 
 nav ul {
     list-style: none;
-    margin: 0;
+}
+
+ul.global {
+    margin: 10px 0;
 }
 
 ul.global li {
@@ -176,6 +179,10 @@ ul.global li a {
 
 ul.global li a:hover {
     color: #202020;
+}
+
+ul.social {
+    margin: 10px 0;   
 }
 
 ul.social li {
