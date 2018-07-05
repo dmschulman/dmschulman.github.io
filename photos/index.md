@@ -7,6 +7,8 @@ title: Photos
 
 {% for photos in site.photos %}
   <div class="post">
-    <h2>{{ photos.title }}</h2>
+    <ul>
+      <li>{{ photos.title }}</li>
+    </ul>
   </div>
 {% endfor %}
