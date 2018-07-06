@@ -2,7 +2,7 @@
 layout: apollo
 title: Mutable Instruments Ambika
 description: "Ambika is a Hindu goddess who rides a lion and bears multiple weapons, but in the physical world the Mutable Instruments Ambika is a 6 voice DIY polyphonic synthesizer capable of bearing multiple filter types."
-permalink: /mutable-instruments-ambika/
+permalink: /projects/mutable-instruments-ambika.html
 bom: https://mutable-instruments.net/archive/ambika/build/
 guide: https://mutable-instruments.net/archive/ambika/build/
 manual: https://mutable-instruments.net/archive/ambika/manual/
