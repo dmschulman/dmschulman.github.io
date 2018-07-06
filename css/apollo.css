@@ -1,88 +1,86 @@
 /* apollo.css created by David Schulman 1/18/18 */
 /* GLOBALS */
+    * {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
 
-* {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
+    body {
+        font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+        color: #202020;
+    }
 
-body {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    color: #202020;
-}
+    p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        letter-spacing: -.5px;
+        padding-bottom: 20px;
+    }
 
-p {
-    font-size: 1rem;
-    line-height: 1.5rem;
-    letter-spacing: -.5px;
-    padding-bottom: 20px;
-}
+    a {
+        text-decoration: none;
+        border-bottom: solid 1px #999999;
+        color: #999999;
+    }
 
-a {
-    text-decoration: none;
-    border-bottom: solid 1px #999999;
-    color: #999999;
-}
+    a:hover,
+    a:focus {
+        text-decoration: none;
+        border-bottom: solid 1px #202020;
+        color: #202020;
+    }
 
-a:hover,
-a:focus {
-    text-decoration: none;
-    border-bottom: solid 1px #202020;
-    color: #202020;
-}
+    ul { 
+        list-style: none;
+    }
 
-ul { 
-    list-style: disc;
-    margin-left: 60px;
-    padding-bottom: 20px;
-}
+    li { 
+        font-size: 1rem;
+        line-height: 1.5rem;
+        letter-spacing: -.5px;
+        margin: 10px 0;
+    }
 
-li { 
-    font-size: 1rem;
-    line-height: 1.5rem;
-    letter-spacing: -.5px;
-    margin: 10px 0;
-}
+    h1 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+        letter-spacing: -1px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
 
-h1 {
-    font-size: 2rem;
-    line-height: 2.5rem;
-    letter-spacing: -1px;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
+    h2 {
+        font-size: 1.7rem;
+        line-height: 2.2rem;
+        letter-spacing: -1px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
 
-h2 {
-    font-size: 1.7rem;
-    line-height: 2.2rem;
-    letter-spacing: -1px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
+    h3 {
+        font-size: 1.3rem;
+        line-height: 1.8rem;
+        letter-spacing: -1px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
 
-h3 {
-    font-size: 1.3rem;
-    line-height: 1.8rem;
-    letter-spacing: -1px;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
+    h4 {}
+    h5 {}
+    h6 {}
 
-h4 {}
-h5 {}
-h6 {}
+    code {
+        font-size: .9rem;
+        font-style: italic;
+    }
 
-code {
-    font-size: .9rem;
-    font-style: italic;
-}
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
-
+/* BREAKPOINTS */
 @media only screen and (min-width: 1025px) {
     nav {
         position: fixed;
@@ -138,61 +136,68 @@ img {
 }
 
 /* HEADER STYLES */
+    header a.logo {
+        font-size: 1.3rem;
+        border: none;
+        color: #202020;
+    }
 
-header a.logo {
-    font-size: 1.3rem;
-    border: none;
-    color: #202020;
-}
+    nav {
+        text-transform: lowercase;
+    }
 
-nav {
-    text-transform: lowercase;
-}
+    nav a {
+        color: #202020;
+        border: none;
+    }
 
-nav a {
-    color: #202020;
-    border: none;
-}
+    nav a:hover {
+        color: #bbbbbb;
+        border: none;
+    }
 
-nav a:hover {
-    color: #bbbbbb;
-    border: none;
-}
+    ul.global {
+        margin: 10px 0;
+    }
 
-nav ul {
-    list-style: none;
-}
+    ul.global li {
+        font-size: 1.2rem;
+        line-height: 1.7rem;
+    }
 
-ul.global {
-    margin: 10px 0;
-}
+    ul.global li a {
+        color: #bbbbbb;
+    }
 
-ul.global li {
-    font-size: 1.2rem;
-    line-height: 1.7rem;
-    margin: 0;
-}
+    ul.global li a:hover {
+        color: #202020;
+    }
 
-ul.global li a {
-    color: #bbbbbb;
-}
+    ul.social {
+        margin: 10px 0;   
+    }
 
-ul.global li a:hover {
-    color: #202020;
-}
+    ul.social li {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        display: inline;
+    }
 
-ul.social {
-    margin: 10px 0;   
-}
+/* PHOTO STYLES */
+    ul.photo-gallery {
+    
+    }
 
-ul.social li {
-    font-size: 1rem;
-    line-height: 1.5rem;
-    display: inline;
-}
+    ul.photo-gallery li a {
+        
+    }
 
+    .thumbnail {
+        width: 300px;
+        height: auto;
+    }
 
-/* PAGE CONTENT STYLES */
+/* CONTENT STYLES */
 
 .content {
     margin-bottom: 40px;
@@ -220,13 +225,19 @@ pre.highlight {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
+    margin: 20px auto 60px; 
     font-size: 1.5em;
+    list-style: disc;
 }
 
 ul.posts li {
     list-style: none;
 }
+
+
+
+
+
 
 ul.gallery {
     margin: 0px;
@@ -257,7 +268,7 @@ li.card img {
     font-size: 18px;
 }
 
-/* HEADER STYLES */
+/* FOOTER STYLES */
 
 footer {
     border-top: 1px solid #bbbbbb;
