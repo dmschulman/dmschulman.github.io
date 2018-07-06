@@ -178,65 +178,84 @@
     }
 
     ul.social li {
-        font-size: 1rem;
-        line-height: 1.5rem;
-        display: inline;
+      font-size: 1rem;
+      line-height: 1.5rem;
+      display: inline;
     }
 
 /* PHOTO STYLES */
-    ul.photo-gallery {
-    
-    }
+   ul.photo-gallery {
 
-    ul.photo-gallery li a {
-        border-bottom: none;
-    }
+   }
 
-    ul.photo-gallery li a:hover {
-        border-bottom: none;
-    }
+   ul.photo-gallery li {
+      position: relative;
+      width: auto;
+      height: 360px;
+      font-size: 1.2vw;
+      line-height: 2.4vw;
+      font-weight: bold;
+   }
 
-    .thumbnail {
-        width: 300px;
-        height: auto;
-    }
+   ul.photo-gallery li a {
+      border-bottom: none;
+      color: #ffffff;
+   }
 
-/* CONTENT STYLES */
+   ul.photo-gallery li a:hover {
+      border-bottom: none;
+      color: #ffffff;
+      font-size: 1.2vw;
+      line-height: 2.4vw;
+   }
 
-.content {
-    margin-bottom: 40px;
-}
+   ul.photo-gallery li span {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+   }
 
-.meta {
-    padding-bottom: 40px;
-}
+   .thumbnail {
+      width: auto;
+      height: 360px;
+   }
 
-.meta p {
-    font-size: .9rem;
-    margin: 0;
-    padding: 0;
-    text-transform: capitalize;
-}
+/* POST STYLES */
+   .content {
+       margin-bottom: 40px;
+   }
 
-.highlighter-rouge {
-    background-color: #eee;
-    border-left: 1px solid #555;
-    margin: 0 0 20px 20px;
-}
+   .meta {
+       padding-bottom: 40px;
+   }
 
-pre.highlight {
-    padding: 0 20px;
-}
+   .meta p {
+       font-size: .9rem;
+       margin: 0;
+       padding: 0;
+       text-transform: capitalize;
+   }
 
-ul.posts { 
-    margin: 20px auto 60px; 
-    font-size: 1.5em;
-    list-style: disc;
-}
+   .highlighter-rouge {
+       background-color: #eee;
+       border-left: 1px solid #555;
+       margin: 0 0 20px 20px;
+   }
 
-ul.posts li {
-    list-style: none;
-}
+   pre.highlight {
+       padding: 0 20px;
+   }
+
+   ul.posts { 
+       margin: 20px auto 60px; 
+       font-size: 1.5em;
+       list-style: disc;
+   }
+
+   ul.posts li {
+       list-style: none;
+   }
 
 
 
