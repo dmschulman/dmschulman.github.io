@@ -1,11 +1,13 @@
 ---
 layout: apollo
-title: "Italy 2004"
-description: "My trip to Italy"
+title: "Italy: Rome, Vatican City, Florence, and Cinque Terre"
+galleryYear: "2004"
+galleryDate: "July 20-26"
+description: ""
+categories: ""
 thumbnail: thumbnails/italy-trip-thumb.jpg
-permalink: italy-2004.html
-location: "Italy"
-date: "July, 2004"
+permalink: /photos/italy-2004.html
+geo: "Italy"
 camera: "Canon PowerShot A40"
 ---
 
