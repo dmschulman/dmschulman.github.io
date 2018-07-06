@@ -2,7 +2,7 @@
 layout: apollo
 title: "RYO Aperture"
 description: ""
-permalink: /ryo-aperture.html
+permalink: /projects/ryo-aperture.html
 bom: 
 guide: 
 manual: 
