@@ -189,15 +189,17 @@
 
    ul.photo-gallery li {
       position: relative;
+      display: inline-block;
       text-align: center;
-      width: auto;
-      height: 360px;
       font-size: 1.2vw;
       line-height: 2.4vw;
       font-weight: bold;
    }
 
    ul.photo-gallery li a {
+      display: block;
+      width: auto;
+      height: 360px;
       border-bottom: none;
       color: #ffffff;
    }
