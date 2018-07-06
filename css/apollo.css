@@ -228,6 +228,11 @@
        margin-bottom: 40px;
    }
 
+   .content ul {
+      list-style: disc;
+      margin: 0 0 30px 60px;
+   }
+
    .content li {
        margin: 10px 0;   
    }
