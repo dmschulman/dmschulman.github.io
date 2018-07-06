@@ -13,4 +13,4 @@ camera: "Canon PowerShot A40"
 
 <h1>{{ page.title }}</h1>
 
-<iframe src="https://get.google.com/albumarchive/100383597065721263769/album/AF1QipOpATT6xpj89d9-XJKb27dT0df1SEvb03DW7mth" border="0" />
+<iframe src="https://get.google.com/albumarchive/100383597065721263769/album/AF1QipOpATT6xpj89d9-XJKb27dT0df1SEvb03DW7mth"></iframe>
