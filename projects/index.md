@@ -1,14 +1,19 @@
 ---
 layout: apollo
 title: Projects
+description: ""
 ---
 
 <h1>{{ page.title }}</h1>
 
-{% for projects in site.projects %}
-  <div class="post">
-    <ul>
-      <li>{{ projects.title }}</li>
-    </ul>
-  </div>
+<div class="post">
+  <ul>
+{% for photos in site.projects %}
+    <li>
+      <a href="{{ projects.permalink }}" title="{{ projects.title }}">
+        {{ projects.title }}
+      </a>
+    </li>
 {% endfor %}
+  </ul>
+</div>
