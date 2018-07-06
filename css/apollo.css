@@ -190,6 +190,7 @@
 
    ul.photo-gallery li {
       position: relative;
+      text-align: center;
       width: auto;
       height: 360px;
       font-size: 1.2vw;
