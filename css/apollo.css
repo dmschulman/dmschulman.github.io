@@ -189,7 +189,11 @@
     }
 
     ul.photo-gallery li a {
-        
+        border-bottom: none;
+    }
+
+    ul.photo-gallery li a:hover {
+        border-bottom: none;
     }
 
     .thumbnail {
