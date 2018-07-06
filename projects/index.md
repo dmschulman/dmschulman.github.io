@@ -8,7 +8,7 @@ description: ""
 
 <div class="post">
   <ul>
-{% for photos in site.projects %}
+{% for projects in site.projects %}
     <li>
       <a href="{{ projects.permalink }}" title="{{ projects.title }}">
         {{ projects.title }}
