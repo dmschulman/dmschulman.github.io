@@ -13,7 +13,7 @@ description: "Whether traveling abroad to far away places or simply getting lost
     <li>
       <a href="{{ photos.permalink }}" title="{{ photo.title }}">
         <img src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
-        <span>{{ photos.title }}</span>
+        {{ photos.title }}
       </a>
     </li>
 {% endfor %}
