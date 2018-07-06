@@ -39,7 +39,6 @@
         font-size: 1rem;
         line-height: 1.5rem;
         letter-spacing: -.5px;
-        margin: 10px 0;
     }
 
     h1 {
@@ -225,6 +224,10 @@
 /* POST STYLES */
    .content {
        margin-bottom: 40px;
+   }
+
+   .content li {
+       margin: 10px 0;   
    }
 
    .meta {
