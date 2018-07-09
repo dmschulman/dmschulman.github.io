@@ -8,15 +8,20 @@ description: ""
 
 <div class="post">
   
-    <ul>
 {% assign groups = site.projects | group_by: "category" | sort: "name" %}
-    <li>
-      <a href="{{ projects.permalink }}" title="{{ projects.title }}">
-        {{ projects.title }}
-      </a>
-    </li>
+  {% for group in groups %}
+    <h2>{{ group.name }}</h2>
+    {% for item in group.items %}
+      <ul>
+        <li>
+          <a href="{{ item.permalink }}" title="{{ item.title }}">
+            {{ item.title }}
+          </a>
+        </li>
+      </ul>
+    {% endfor %}
+  {% endfor %}
 {% endfor %}
-  </ul>
   
   <!-- <ul>
 {% for projects in site.projects %}
