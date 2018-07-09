@@ -1,35 +1,39 @@
 /* apollo.css created by David Schulman 1/18/18 */
 /* GLOBALS */
-    * {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-    }
+   * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+   }
 
-    body {
-        font-family: 'Helvetica', 'Arial', sans-serif;
-        color: #202020;
-    }
+   body {
+      font-family: 'Helvetica', 'Arial', sans-serif;
+      color: #202020;
+   }
 
-    p {
-        font-size: 1rem;
-        line-height: 1.5rem;
-        letter-spacing: -.5px;
-        padding-bottom: 20px;
-    }
+   span {
+      display: block;
+   }
 
-    a {
-        text-decoration: none;
-        border-bottom: solid 1px #999999;
-        color: #999999;
-    }
+   p {
+      font-size: 1rem;
+      line-height: 1.5rem;
+      letter-spacing: -.5px;
+      padding-bottom: 20px;
+   }
 
-    a:hover,
-    a:focus {
-        text-decoration: none;
-        border-bottom: solid 1px #202020;
-        color: #202020;
-    }
+   a {
+      text-decoration: none;
+      border-bottom: solid 1px #999999;
+      color: #999999;
+   }
+
+   a:hover,
+   a:focus {
+      text-decoration: none;
+      border-bottom: solid 1px #202020;
+      color: #202020;
+   }
 
     ul { 
         list-style: none;
