@@ -9,8 +9,8 @@ description: ""
 <div class="post">
   <ul>
     {% for projects in site.categories %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% if projects.url %}
+        <li><a href="{{ projects.url }}">{{ projects.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>
