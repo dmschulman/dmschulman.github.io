@@ -207,7 +207,7 @@
     }
 
 /* PHOTO STYLES */
-   ul.photo-gallery {
+   .content ul.photo-gallery {
       list-style: none;
       margin: 0;
    }
@@ -291,32 +291,6 @@
 
 
 
-
-
-ul.gallery {
-    margin: 0px;
-    padding: 0px;
-}
-
-ul.gallery li {
-    list-style: none;
-}
-
-li.card {
-    height: 200px;
-    margin-bottom: 30px;
-}
-
-li.card h3 {
-    font-size: 2.5em;
-}
-
-li.card img {
-    height: 200px;
-    float: left;
-    border: none;
-    margin-right: 20px;
-}
 
 .card i.fa {
     font-size: 18px;
