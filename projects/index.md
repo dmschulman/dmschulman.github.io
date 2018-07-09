@@ -8,20 +8,13 @@ description: ""
 
 <div class="post">
   <ul>
-    {% for projects in site.categories %}
-    {% if projects.url %}
-        <li><a href="{{ projects.url }}">{{ projects.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-  
-  <!-- <ul>
-{% for projects in site.projects %}
+  {% for projects in site.projects %}
     <li>
       <a href="{{ projects.permalink }}" title="{{ projects.title }}">
         {{ projects.title }}
       </a>
+      <span>{{ projects.category }}</span>
     </li>
-{% endfor %}
-  </ul> -->
+  {% endfor %}
+  </ul>
 </div>
