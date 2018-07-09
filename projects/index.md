@@ -7,21 +7,13 @@ description: ""
 <h1>{{ page.title }}</h1>
 
 <div class="post">
-  
-{% assign groups = site.projects | group_by: "category" | sort: "name" %}
-  {% for group in groups %}
-    <h2>{{ group.name }}</h2>
-    {% for item in group.items %}
-      <ul>
-        <li>
-          <a href="{{ item.permalink }}" title="{{ item.title }}">
-            {{ item.title }}
-          </a>
-        </li>
-      </ul>
-    {% endfor %}
+  <ul>
+    {% for projects in site.categories %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
   {% endfor %}
-{% endfor %}
+  </ul>
   
   <!-- <ul>
 {% for projects in site.projects %}
