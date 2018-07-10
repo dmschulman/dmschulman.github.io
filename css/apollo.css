@@ -281,6 +281,9 @@ ul.photo-gallery li {
    ul.photo-gallery img.thumbnail {
      width: auto; 
      height: 330px;
+     -webkit-filter: contrast(80%);
+     filter: contrast(80%);
+     opacity: 1;
    }
 
 /* POST STYLES */
