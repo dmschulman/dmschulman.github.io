@@ -219,7 +219,6 @@
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  max-width: 1024px;
   margin: 0 auto;
   list-style: none;
 }
@@ -244,12 +243,18 @@ ul.photo-gallery li {
       width: auto;
       border-bottom: none;
       color: #ffffff;
+       -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
    }
 
    ul.photo-gallery a:hover,
    ul.photo-gallery a:focus {
       border-bottom: none;
       color: #ffffff;
+       -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
    }
 
   ul.photo-gallery li a .gallery-meta {
@@ -318,14 +323,6 @@ ul.photo-gallery li {
    ul.posts li {
        list-style: none;
    }
-
-
-
-
-
-.card i.fa {
-    font-size: 18px;
-}
 
 /* FOOTER STYLES */
 
