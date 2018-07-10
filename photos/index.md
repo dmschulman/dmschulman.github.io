@@ -14,6 +14,7 @@ description: "Whether traveling abroad to far away places or simply getting lost
       <a href="{{ photos.permalink }}" title="{{ photo.title }}">
         <img class="thumbnail" src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
         <h2>{{ photos.title }}</h2>
+        <span><i class="fa fa-globe-americas"></i> {{ photos.geo }}</span>
       </a>
     </li>
 {% endfor %}
