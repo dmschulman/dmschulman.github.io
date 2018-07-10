@@ -105,7 +105,7 @@
         padding-right: 15%;
     }
   
-  ul.content .photo-gallery {
+  .content ul.photo-gallery {
       -webkit-flex-direction: row;
       -ms-flex-direction: row;
       flex-direction: row;
@@ -147,10 +147,10 @@
       line-height: 1.5rem;
     }
   
-    ul.content .photo-gallery {
+  .content ul.photo-gallery {
       -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
   }
 }
 
