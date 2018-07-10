@@ -256,7 +256,7 @@ ul.photo-gallery li {
       color: #ffffff;
    }
 
-   ul.photo-gallery h2 {
+   ul.photo-gallery li a h2 {
       position: absolute;
       width: 80%;
       top: 50%;
