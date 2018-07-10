@@ -11,11 +11,13 @@ description: "Whether traveling abroad to far away places or simply getting lost
   <ul class="photo-gallery">
 {% for photos in site.photos %}
     <li>
-      <a href="{{ photos.permalink }}" title="{{ photo.title }}">
-        <img class="thumbnail" src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
+      <a href="{{ photos.permalink }}" title="{{ photos.title }}">
         <h2>{{ photos.title }}</h2>
-        <span><i class="fa fa-globe-americas"></i> {{ photos.geo }}</span>
+        <img class="thumbnail" src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
       </a>
+      <span>
+        <i class="fa fa-globe"></i> {{ photos.geo }}
+      </span>
     </li>
 {% endfor %}
   </ul>
