@@ -262,12 +262,17 @@ ul.photo-gallery li {
     width: 80%;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);   
+    transform: translate(-50%, -50%);
   }
 
-   ul.photo-gallery li a .gallery-meta span {
-     font-size: 1.5rem;
-     line-height: 2rem;
+  .gallery-meta h2 {
+    font-weight: normal;
+    margin-bottom: 20px;
+  }
+
+   .gallery-meta span {
+     font-size: 1rem;
+     line-height: 1.5rem;
    }
 
    ul.photo-gallery img.thumbnail {
