@@ -234,8 +234,7 @@ ul.photo-gallery li {
   -ms-flex-item-align: auto;
   align-self: auto;
   position: relative;
-  padding: 2px;
-  margin: 0;
+  margin: 2px;
   width: 440px;
   overflow: hidden;
 }
@@ -267,14 +266,6 @@ ul.photo-gallery li {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
-
-  ul.photo-gallery li a:hover .gallery-meta,
-  ul.photo-gallery li a:focus .gallery-meta,
-  {
-    -moz-transform: none;
-    -webkit-transform: none;
-    transform: none;
   }
 
   .gallery-meta h2 {
