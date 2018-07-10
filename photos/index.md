@@ -12,12 +12,12 @@ description: "Whether traveling abroad to far away places or simply getting lost
 {% for photos in site.photos %}
     <li>
       <a href="{{ photos.permalink }}" title="{{ photos.title }}">
-        <h2>{{ photos.title }}</h2>
+        <img class="thumbnail" src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
         <div class="gallery-meta">
+          <h2>{{ photos.title }}</h2>
           <span><i class="fa fa-calendar"></i> {{ photos.date | date: "%B %d, %Y" }}</span>
           <span><i class="fa fa-globe"></i> {{ photos.geo }}</span>
         </div>
-        <img class="thumbnail" src="{{ photos.thumbnail }}" alt="{{ photos.title }}" />
       </a>
     </li>
 {% endfor %}
