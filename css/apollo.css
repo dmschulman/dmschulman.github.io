@@ -243,6 +243,8 @@ ul.photo-gallery li {
       width: auto;
       border-bottom: none;
       color: #ffffff;
+     width: 440px;
+     height: 330px;
        -moz-transition: all 0.5s;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -276,8 +278,9 @@ ul.photo-gallery li {
    }
 
    ul.photo-gallery img.thumbnail {
-     width: 460px; 
-     height: auto;
+     width: auto; 
+     height: 330px;
+     overflow: hidden;
    }
 
 /* POST STYLES */
