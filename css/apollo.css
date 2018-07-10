@@ -241,24 +241,22 @@ ul.photo-gallery li {
   -ms-flex-item-align: auto;
   align-self: auto;
   position: relative;
-  display: inline-block;
-  text-align: center;
-  font-weight: bold;
+  margin: 2px;
 }
 
-   ul.photo-gallery li a {
+   ul.photo-gallery a {
       display: block;
       width: auto;
       border-bottom: none;
       color: #ffffff;
    }
 
-   ul.photo-gallery li a:hover {
+   ul.photo-gallery a:hover {
       border-bottom: none;
       color: #ffffff;
    }
 
-   ul.photo-gallery li span {
+   ul.photo-gallery h2 {
       position: absolute;
       width: 80%;
       top: 50%;
@@ -266,7 +264,7 @@ ul.photo-gallery li {
       transform: translate(-50%, -50%);
    }
 
-   .thumbnail {
+   ul.photo-gallery img.thumbnail {
       width: auto;
    }
 
