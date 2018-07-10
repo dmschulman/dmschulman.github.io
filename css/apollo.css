@@ -105,12 +105,6 @@
         padding-right: 15%;
     }
    
-    ul.photo-gallery li a {
-      height: 360px;
-      font-size: 2rem;
-      line-height: 2.5rem;
-   }
-   
     .thumbnail {
       width: 460px;
    }
@@ -145,11 +139,10 @@
     main {
         padding: 20px;
     }
-   
-    ul.photo-gallery li a {
-        height: 240px;
-        font-size: 1rem;
-        line-height: 1.5rem;
+  
+    .gallery-meta h2 {
+      font-size: 1rem;
+      line-height: 1.5rem;
     }
    
     .thumbnail {
