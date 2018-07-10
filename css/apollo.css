@@ -244,10 +244,10 @@ ul.photo-gallery li {
       width: auto;
       border-bottom: none;
       color: #ffffff;
-     height: 330px;
-       -moz-transition: all 0.5s;
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
+      height: 330px;
+      -moz-transition: all 1s;
+      -webkit-transition: all 1s;
+      transition: all 1s;
    }
 
    ul.photo-gallery a:hover,
