@@ -9,24 +9,13 @@
 		</nav>
 		<main>
 			<div class="content">
-				<h1>{{ page.title }}</h1>
-				<div class="meta">
-					<p><strong>Published:</strong> {{ page.date | date: '%B %d, %Y' }}</p>
-					{% if page.tags.size > 0 %}
-						<p>
-							<strong>Tag{% if page.tags.size > 1 %}s{% endif %}:</strong>
-							{{ page.tags | sort | join: ", " }}
-						</p>
-					{% endif %}
-				</div>
-				{% for item in site.photos %}
-					<h2>{{ photos.title }}</h2>
-					<p>{{ item.description }}</p>
-					<img src="{{ photos.thumbnail }}
-					<p><a href="{{ photos.url }}">{{ item.title }}</a></p>
-				{% endfor %}
-			<div class="post">
-				{{ content }}
+				<h1>{{ photos.title }}</h1>
+				<span><i class="fa fa-calendar"></i> {{ page.date | date: "%B %d, %Y" }}</span>
+				<span><i class="fa fa-globe"></i> {{ photos.geo }}</span>
+				<span><i class="fa fa-camera"></i> {{ photos.camera }}</span>
+				<span><i class="fa fa-images"></i> {{ photos.reel }}</span>
+				<span><i class="fa fa-tag"></i> {{ photos.tags }}</span>
+				<p>{{ photos.description }}</p>
 			</div>
 			<footer>
 					{% include footer.html %}
