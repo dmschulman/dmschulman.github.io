@@ -300,11 +300,11 @@ ul.photo-gallery li {
        margin: 10px 0;   
    }
 
-   .meta {
+   .post-meta {
        padding-bottom: 40px;
    }
 
-   .meta p {
+   .post-meta p {
        font-size: .9rem;
        margin: 0;
        padding: 0;
