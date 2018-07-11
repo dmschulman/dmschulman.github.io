@@ -2,7 +2,7 @@
 layout: photo-gallery
 title: "Rome, Vatican City, Florence, and Cinque Terre"
 name: "Italy 2004"
-#permalink: /photos/italy-2004.html
+permalink: /photos/italy-2004.html
 thumbnail: thumbnails/italy-trip-thumb.jpg
 date: 2004-07-29
 galleryYear: "2004"
