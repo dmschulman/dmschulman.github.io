@@ -1,7 +1,8 @@
 ---
 layout: photo-gallery
 title: "Bruges, Amsterdam, Berlin, and Prague"
-permalink: /photos/european-tour-2006.html
+name: "European Tour 2006"
+#permalink: /photos/european-tour-2006.html
 thumbnail: thumbnails/italy-trip-thumb.jpg
 date: 2006-11-29
 galleryYear: "2006"
