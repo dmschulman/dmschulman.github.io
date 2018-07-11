@@ -1,5 +1,5 @@
 ---
-layout: apollo
+layout: photo-gallery
 title: "Bruges, Amsterdam, Berlin, and Prague"
 permalink: /photos/european-tour-2006.html
 date: 2006-11-29
@@ -10,7 +10,7 @@ tags: [Travel, Photos, Europe, Bruges, Belgium, Amsterdam, The Netherlands, Berl
 category: photos
 thumbnail: thumbnails/italy-trip-thumb.jpg
 geo: "Western Europe"
-camera: "Canon PowerShot A40"
+camera: "HTC Tornado Camera Phone"
 ---
 
 <h1>{{ page.title }}</h1>
