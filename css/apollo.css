@@ -304,11 +304,15 @@ ul.photo-gallery li {
        padding-bottom: 40px;
    }
 
-   .post-meta p {
+   .post-meta span {
        font-size: .9rem;
        margin: 0;
        padding: 0;
        text-transform: capitalize;
+   }
+
+   .post-meta i {
+       padding: 0 3px 5px 0;
    }
 
    .highlighter-rouge {
