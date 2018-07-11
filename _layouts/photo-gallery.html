@@ -9,13 +9,13 @@
 		</nav>
 		<main>
 			<div class="content">
-				<h1>{{ photos.title }}</h1>
+				<h1>{{ page.title }}</h1>
 				<span><i class="fa fa-calendar"></i> {{ page.date | date: "%B %d, %Y" }}</span>
-				<span><i class="fa fa-globe"></i> {{ photos.geo }}</span>
-				<span><i class="fa fa-camera"></i> {{ photos.camera }}</span>
-				<span><i class="fa fa-images"></i> {{ photos.reel }}</span>
-				<span><i class="fa fa-tag"></i> {{ photos.tags }}</span>
-				<p>{{ photos.description }}</p>
+				<span><i class="fa fa-globe"></i> {{ page.geo }}</span>
+				<span><i class="fa fa-camera"></i> {{ page.camera }}</span>
+				<span><i class="fa fa-images"></i> {{ page.reel }}</span>
+				<span><i class="fa fa-tag"></i> {{ page.tags }}</span>
+				<p>{{ page.description }}</p>
 			</div>
 			<footer>
 					{% include footer.html %}
