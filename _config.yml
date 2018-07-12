@@ -53,7 +53,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - github-pages-health-check
-  - exifr
+  - jekyll-exifr
   - mini_magick
   - jekyll-minimagick
 exclude:
