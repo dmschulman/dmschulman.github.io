@@ -95,6 +95,10 @@
         margin: 20px 0;
     }
 
+    ul.global {
+        margin: 10px 0 40px 0px;
+    }
+  
     ul.social li {
         padding-right: 7px;    
     }
@@ -123,6 +127,10 @@
 
     header ul li {
         display: inline;
+    }
+  
+    ul.global {
+        margin: 10px 0 20px 0px;
     }
 
     ul.global li {
@@ -173,10 +181,6 @@
     nav a:hover {
         color: #bbbbbb;
         border: none;
-    }
-
-    ul.global {
-        margin: 10px 0 40px 0px;
     }
 
     ul.global li {
