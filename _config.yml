@@ -53,7 +53,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - activesupport
   - mini_magick
   - jekyll-minimagick
 exclude:
