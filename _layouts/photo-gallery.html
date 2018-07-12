@@ -16,7 +16,7 @@
 							{{ page.date | date: "%B %d-" }}{{ page.endDate | date: "%d, %Y" }}
 						{% else %}
 							{{ page.date | date: "%B %d, %Y" }}
-						(% endif %)
+						{% endif %}
 					</span>
 					<span><i class="fas fa-globe-americas"></i> {{ page.geo }}</span>
 					<span><i class="far fa-images"></i> {{ page.reel }} photos</span>
