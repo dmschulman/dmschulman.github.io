@@ -104,9 +104,10 @@
     }
 
     main {
+        max-width: 1600px;
         padding-top: 30px;
         padding-left: 200px;
-        padding-right: 15%;
+        padding-right: 100px;
     }
   
   .content ul.photo-gallery {
