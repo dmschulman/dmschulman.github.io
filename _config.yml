@@ -52,7 +52,8 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - github-pages-health-check
+  - jekyll-seo-tag
+  - activesupport
   - mini_magick
   - jekyll-minimagick
 exclude:
