@@ -53,6 +53,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - github-pages-health-check
+  - exifr
+  - mini_magick
+  - jekyll-minimagick
 exclude:
   - Gemfile
   - Gemfile.lock
