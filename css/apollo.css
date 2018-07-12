@@ -305,10 +305,14 @@ ul.photo-gallery li {
    }
 
    .post-meta span {
-       font-size: .9rem;
        margin: 0;
        padding: 0;
        text-transform: capitalize;
+   }
+
+   .post-meta span:nth-child(odd) {
+       display: inline;
+       margin-right: 10px;
    }
 
    .post-meta i {
