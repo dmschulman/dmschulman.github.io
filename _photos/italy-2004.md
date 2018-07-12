@@ -12,3 +12,5 @@ geo: "Italy"
 camera: "Canon PowerShot A40"
 reel: 105
 ---
+
+<a href='https://photos.google.com/share/AF1QipNWlkrBPwDWuGaQp9a9MUE1HekFhPvz-9cd6aOSwzHM7n7DuyFiAoIHNdpFdLKVZA?key=LW5PcXZHX3pYUjhLNUdoX2V5QUFZRzFwd1ZkdTB3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/fQQVeO-dYB1fWdxSCDzxf0uvg3uSy3z_ScxTEHgLUc0ZUorrwG-hlHul6Ye0gdq9JcY7aPr2v3h9i7QBji2hkS8We7Q2e7SLY01Ey5f8SVA4yMFJwDCWJ7RKYD9h8CeLkbNYUxxaUA=w2400' /></a>
