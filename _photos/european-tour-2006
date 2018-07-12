@@ -4,14 +4,11 @@ title: "Bruges, Amsterdam, Berlin, and Prague"
 name: "European Tour 2006"
 permalink: /photos/european-tour-2006.html
 thumbnail: thumbnails/italy-trip-thumb.jpg
-date: 2006-11-29
-galleryYear: "2006"
-galleryDate: "July 20-26"
+date: 2006-11-22
+endDate: 2006-11-29
 description: ""
 tags: [Travel, Photos, Europe, Bruges, Belgium, Amsterdam, The Netherlands, Berlin, Germany, Prague, Czech Republic]
 geo: "Western Europe"
 camera: "HTC Tornado Camera Phone"
 reel: 49
 ---
-
-<h1>{{ page.title }}</h1>
