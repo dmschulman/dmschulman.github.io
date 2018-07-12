@@ -11,17 +11,17 @@
 			<div class="content">
 				<h1>{{ page.title }}</h1>
 				<div class="post-meta">
-					<span><i class="far fa-calendar-alt"></i> 
+					<span><i aria-hidden class="far fa-calendar-alt" title="Date"></i> 
 						{% if page.endDate %}
 							{{ page.date | date: "%B %d-" }}{{ page.endDate | date: "%d, %Y" }}
 						{% else %}
 							{{ page.date | date: "%B %d, %Y" }}
 						{% endif %}
 					</span>
-					<span><i class="fas fa-globe-americas"></i> {{ page.geo }}</span>
-					<span><i class="far fa-images"></i> {{ page.reel }} photos</span>
-					<span><i class="fas fa-camera-retro"></i> {{ page.camera }}</span>
-					<span class="tags"><i class="fas fa-tags"></i> {{ page.tags | sort | join: ", " }}</span>
+					<span><i aria-hidden class="fas fa-globe-americas" title="Location"></i> {{ page.geo }}</span>
+					<span><i aria-hidden class="far fa-images" title="Size"></i> {{ page.reel }} photos</span>
+					<span><i aria-hidden class="fas fa-camera-retro" title="Camera"></i> {{ page.camera }}</span>
+					<span class="tags"><i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}</span>
 				</div>
 				<p>{{ page.description }}</p>
 			</div>
