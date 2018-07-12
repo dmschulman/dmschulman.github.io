@@ -305,18 +305,13 @@ ul.photo-gallery li {
    }
 
    .post-meta span {
-     display: inline;
-       margin: 0 10px 0 0;
-       padding: 0;
+     display: inline-block;
+       margin: 0 10px 3px 0;
        text-transform: capitalize;
    }
 
    .post-meta span.tags {
      display: block;
-   }
-
-   .post-meta i {
-       padding-right: 3px;
    }
 
    .highlighter-rouge {
