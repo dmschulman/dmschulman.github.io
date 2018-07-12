@@ -53,8 +53,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - mini_magick
-  - jekyll-minimagick
 exclude:
   - Gemfile
   - Gemfile.lock
