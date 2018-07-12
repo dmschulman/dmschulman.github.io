@@ -15,7 +15,7 @@
 					<span><i class="fas fa-globe-americas"></i> {{ page.geo }}</span>
 					<span><i class="far fa-images"></i> {{ page.reel }} photos</span>
 					<span><i class="fas fa-camera-retro"></i> {{ page.camera }}</span>
-					<span><i class="fas fa-tags"></i> {{ page.tags | sort | join: ", " }}</span>
+					<span class="tags"><i class="fas fa-tags"></i> {{ page.tags | sort | join: ", " }}</span>
 				</div>
 				<p>{{ page.description }}</p>
 			</div>
