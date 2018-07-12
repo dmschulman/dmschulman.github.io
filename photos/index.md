@@ -16,15 +16,15 @@ description: "Whether traveling abroad to far away places or simply getting lost
         <div class="gallery-meta">
           <h2>{{ photos.title }}</h2>
           	<span><i aria-hidden class="far fa-calendar-alt" title="Date"></i> 
-						{% if page.endDate %}
-							{{ page.date | date: "%B %d-" }}{{ page.endDate | date: "%d, %Y" }}
-						{% else %}
-							{{ page.date | date: "%B %d, %Y" }}
-						{% endif %}
-					</span>
-					<span><i aria-hidden class="fas fa-globe-americas" title="Location"></i> {{ page.geo }}</span>
-					<span><i aria-hidden class="far fa-images" title="Size"></i> {{ page.reel }} photos</span>
-					<span><i aria-hidden class="fas fa-camera-retro" title="Camera"></i> {{ page.camera }}</span>
+		  {% if photos.endDate %}
+		    {{ photos.date | date: "%B %d-" }}{{ photos.endDate | date: "%d, %Y" }}
+		  {% else %}
+		    {{ photos.date | date: "%B %d, %Y" }}
+		  {% endif %}
+		</span>
+		<span><i aria-hidden class="fas fa-globe-americas" title="Location"></i> {{ photos.geo }}</span>
+		<span><i aria-hidden class="far fa-images" title="Size"></i> {{ photos.reel }} photos</span>
+		<span><i aria-hidden class="fas fa-camera-retro" title="Camera"></i> {{ photos.camera }}</span>
         </div>
       </a>
     </li>
