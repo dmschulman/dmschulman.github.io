@@ -311,6 +311,10 @@ ul.photo-gallery li {
        text-transform: capitalize;
    }
 
+   .post-meta span.tags {
+     display: block;
+   }
+
    .post-meta i {
        padding-right: 3px;
    }
