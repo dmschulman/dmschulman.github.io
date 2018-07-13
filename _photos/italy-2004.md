@@ -20,7 +20,5 @@ reel: 105
 </ul>
 
 <ul>
-  {% for gallery in site.data.google-photos[feed.entry[0].title] %}
-     <li>{{ title.type }}</li>
-  {% endfor %}    
+     <li>{{ site.data.photos.feed.title.typee }}</li>  
 </ul>
