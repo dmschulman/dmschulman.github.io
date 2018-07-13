@@ -14,5 +14,5 @@ reel: 105
 ---
 
 <ul>
-     <li>{{ site.data.photos.feed.title.type }}</li>  
+     <li>{{ site.data.google-photos.feed.title.type }}</li>  
 </ul>
