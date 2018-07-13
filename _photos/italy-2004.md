@@ -18,8 +18,8 @@ reel: 105
 </ul>
 
 <ul>
-{% for gallery in site.data.google-photos.feed.entry[n].link[2].href %}
-   <li>{{ gallery }}</li>
+{% for gallery in site.data.italy-2004.feed.entry.content.src %}
+   <li><img src="{{ gallery }}" /></li>
 {% endfor %}    
 </ul>
 
