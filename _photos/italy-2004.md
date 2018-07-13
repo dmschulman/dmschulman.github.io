@@ -18,8 +18,8 @@ reel: 105
 </ul>
 
 <ul>
-{% for gallery in site.data.italy-2004.feed.entry.content.src %}
-   <li><img src="{{ gallery }}" /></li>
+{% for photoURL in site.data.italy-2004.feed.entry.content %}
+   <li><img src="{{ photoURL.src }}" /></li>
 {% endfor %}    
 </ul>
 
