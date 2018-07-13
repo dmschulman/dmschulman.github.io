@@ -39,7 +39,5 @@ reel: 105
 {% assign photourl = site.data.google-photos.feed.entry.link %}
 
 <ul>
-    {% for url in photourl %}
-    <li>{{ url.href }}</li>
-    {% endfor %}
+    <li>{{ photourl.href }}</li>
 </ul>
