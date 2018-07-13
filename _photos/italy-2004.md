@@ -20,5 +20,5 @@ reel: 105
 </ul>
 
 <ul>
-     <li>{{ site.data.photos.feed.title.typee }}</li>  
+     <li>{{ site.data.photos.feed.title.type }}</li>  
 </ul>
