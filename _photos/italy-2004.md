@@ -18,7 +18,7 @@ reel: 105
 </ul>
 
 <ul>
-     <li>{{ site.data.google-photosfeed.entry[n].id.link[0] }}</li> 
+     <li>{{ site.data.google-photos.feed.entry[n].id.link[0] }}</li> 
 </ul>
 
 <ul>
