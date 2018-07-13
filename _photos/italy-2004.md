@@ -23,15 +23,15 @@ reel: 105
 </ul>
 
 <ul>
-{% for gallery in site.data.google-photos.feed.entry[1].id.link[0] %}
+{% for gallery in site.data.google-photos.feed.entry[n].link[2].href %}
    <li>{{ gallery.href }}</li>
 {% endfor %}    
 </ul>
 
 <ul>
-     <li>{{ site.data.google-photos.feed.entry[n].id.link[0] }}</li> 
+     <li>{{ site.data.google-photos.feed.entry[n].id.link[2] }}</li> 
 </ul>
 
 <ul>
-     <li>{{ site.data.google-photos.feed.entry[0].link[1].href }}</li>  
+     <li>{{ site.data.google-photos.feed.entry[0].link[2].href }}</li>  
 </ul>
