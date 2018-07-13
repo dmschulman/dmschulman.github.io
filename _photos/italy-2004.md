@@ -14,7 +14,7 @@ reel: 105
 ---
 
 <ul>
-     <li><img src="{{ site.data.italy-2004.feed.entry[0].content.src }}" /></li>  
+     <li><img src="{{ site.data.italy-2004.feed.entry[11].content.src }}" /></li>  
 </ul>
 
 <ul>
