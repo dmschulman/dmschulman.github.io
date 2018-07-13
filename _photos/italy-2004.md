@@ -13,7 +13,11 @@ camera: "Canon PowerShot A40"
 reel: 105
 ---
 
-<p>test</p>
+<ul>
+  {% for gallery in site.data.google-photos[feed.entry.id.link] %}
+     <li>{{ link.href }}</li>
+  {% endfor %}    
+</ul>
 
 <ul>
      <li>{{ site.data.google-photos.feed.title.type }}</li>  
