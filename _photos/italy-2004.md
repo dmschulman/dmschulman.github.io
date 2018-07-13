@@ -17,13 +17,13 @@ reel: 105
      <li>{{ site.data.google-photos.feed.entry[1].id.link.href }}</li>   
 </ul>
 
-{% assign gallery = site.data.google-photos.feed.entry[1].id.link[0] %}
+{% assign gallery = site.data.google-photos.feed.entry[n].link[2] %}
 <ul>
-     <li>{{ author.twitter }}</li>
+     <li>{{ gallery.href }}</li>
 </ul>
 
 <ul>
-{% for gallery in site.data.google-photos.feed.entry[n].link[2].href %}
+{% for gallery in site.data.google-photos.feed.entry[n].link[2] %}
    <li>{{ gallery.href }}</li>
 {% endfor %}    
 </ul>
