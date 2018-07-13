@@ -12,3 +12,7 @@ geo: "Italy"
 camera: "Canon PowerShot A40"
 reel: 105
 ---
+
+{% assign stuff = site.data.italy-2004.json | where: '"type":"image/jpeg","src":"' > 0 %}
+
+{{ stuff | inspect }}
