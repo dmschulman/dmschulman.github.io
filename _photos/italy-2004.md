@@ -13,13 +13,10 @@ camera: "Canon PowerShot A40"
 reel: 105
 ---
 
-<ul>
-     <li>{{ site.data.google-photos.feed.entry[1].id.link.href }}</li>   
-</ul>
+{% assign photourl = site.data.google-photos.feed.entry.link %}
 
-{% assign gallery = site.data.google-photos.feed.entry[n].link[2].href %}
 <ul>
-     <li>{{ gallery }}</li>
+    <li>{{ photourl.href }}</li>
 </ul>
 
 <ul>
@@ -34,10 +31,4 @@ reel: 105
 
 <ul>
      <li>{{ site.data.google-photos.feed.entry[0].link[2].href }}</li>  
-</ul>
-
-{% assign photourl = site.data.google-photos.feed.entry.link %}
-
-<ul>
-    <li>{{ photourl.href }}</li>
 </ul>
