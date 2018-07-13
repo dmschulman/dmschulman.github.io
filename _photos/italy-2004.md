@@ -33,5 +33,5 @@ reel: 105
 </ul>
 
 <ul>
-     <li>{{ site.data.google-photos.feed.title.type }}</li>  
+     <li>{{ site.data.google-photos.feed.entry[0].link[1].href }}</li>  
 </ul>
