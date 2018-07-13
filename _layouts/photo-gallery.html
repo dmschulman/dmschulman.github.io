@@ -24,6 +24,10 @@
 					<span class="tags"><i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}</span>
 				</div>
 				<p>{{ page.description }}</p>
+				
+				<div class="post">
+					{{ content }}
+				</div>
 			</div>
 			<footer>
 					{% include footer.html %}
