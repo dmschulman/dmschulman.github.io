@@ -14,9 +14,7 @@ reel: 105
 ---
 
 <ul>
-  {% for gallery in site.data.google-photos[feed.entry.id] %}
-    {% for link in gallery.link %}
-      <li>{{ link.href }}</li>
-    {% endfor %}
+  {% for gallery in site.data.google-photos[feed.entry.id.link] %}
+     <li>{{ link.href }}</li>
   {% endfor %}    
 </ul>
