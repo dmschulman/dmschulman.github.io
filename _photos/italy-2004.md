@@ -14,7 +14,7 @@ reel: 105
 ---
 
 <ul>
-  {% for image in site.data.italy-2004.media$group.media$content %}
-    <li><img src="{{ image.url }}"/></li>
+  {% for gallery in site.data.google-photos %}
+    <li>{{ gallery.published }}</li>
   {% endfor %}    
 </ul>
