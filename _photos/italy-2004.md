@@ -32,9 +32,11 @@ reel: 105
 </ul>
 
 <script>
+     function(
      var myLazyLoad = new LazyLoad({
           elements_selector: ".lazy"
      });
+     )
 </script>
 
 <ul>
