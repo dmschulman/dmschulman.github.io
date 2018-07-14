@@ -13,33 +13,6 @@ camera: "Canon PowerShot A40"
 reel: 105
 ---
 
-<ul>
-     <li><img src="{{ site.data.italy-2004.feed.entry[11].content.src }}" /></li>  
-</ul>
-
-<ul>
-{% for photoURL in site.data.italy-2004.feed.entry.content %}
-   <li><img src="{{ photoURL.src }}" /></li>
-{% endfor %}    
-</ul>
-
-<ul>
-     <li>{{ site.data.google-photos.feed.entry[n].id.link[2] }}</li> 
-</ul>
-
-<ul>
-     <li>{{ site.data.google-photos.feed.entry[0].link[2].href }}</li>  
-</ul>
-
-<script>
-     function lazyLoad() {
-     var myLazyLoad = new LazyLoad({
-          elements_selector: ".lazy"
-     });
-     }
-     window.onload = lazyLoad
-</script>
-
 <ul class="photo-gallery">
      {% for photoURL in site.data.italy-2004.feed.entry %}
           <li class="gallery-display"><img class="lazy" data-src="{{ photoURL.content.src }}" /></li>
