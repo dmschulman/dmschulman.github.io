@@ -30,3 +30,7 @@ reel: 105
 <ul>
      <li>{{ site.data.google-photos.feed.entry[0].link[2].href }}</li>  
 </ul>
+
+{% for photoURL in site.data.italy-2004.feed.entry %}
+   <li><img src="{{ photoURL.content.src }}" /></li>
+{% endfor %}
