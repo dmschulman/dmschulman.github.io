@@ -40,8 +40,8 @@ reel: 105
      window.onload = lazyLoad
 </script>
 
-<ul>
+<ul class="photo-gallery">
      {% for photoURL in site.data.italy-2004.feed.entry %}
-          <li><img class="lazy" data-src="{{ photoURL.content.src }}" /></li>
+          <li class="gallery-display"><img class="lazy" data-src="{{ photoURL.content.src }}" /></li>
      {% endfor %}
 </ul>
