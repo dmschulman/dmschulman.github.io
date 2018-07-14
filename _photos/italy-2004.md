@@ -31,6 +31,14 @@ reel: 105
      <li>{{ site.data.google-photos.feed.entry[0].link[2].href }}</li>  
 </ul>
 
-{% for photoURL in site.data.italy-2004.feed.entry %}
-   <li><img src="{{ photoURL.content.src }}" /></li>
-{% endfor %}
+<script>
+     var myLazyLoad = new LazyLoad({
+          elements_selector: ".lazy"
+     });
+</script>
+
+<ul>
+     {% for photoURL in site.data.italy-2004.feed.entry %}
+          <li><img class="lazy" src="{{ photoURL.content.src }}" /></li>
+     {% endfor %}
+</ul>
