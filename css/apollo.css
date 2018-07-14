@@ -258,9 +258,11 @@ ul.photo-gallery li {
    }
 
 ul.photo-gallery img {
+  vertical-align: top;
   min-width: 300px;
   max-width: 360px;
-  margin: 2px;
+  height: auto;
+  margin: 1px 2px;
 }
 
    ul.photo-gallery img.thumbnail {
