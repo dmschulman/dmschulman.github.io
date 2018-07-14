@@ -12,7 +12,7 @@ description: "Whether traveling abroad to far away places or simply getting lost
 {% for photos in site.photos %}
     <li>
       <a href="{{ photos.permalink }}" title="{{ photos.title }}">
-        <img class="thumbnail" src="/thumb/{{ photos.thumbnail }}" alt="{{ photos.title }}" />
+        <img class="thumbnail" src="thumb/{{ photos.thumbnail }}" alt="{{ photos.title }}" />
         <div class="gallery-meta">
           <h2>{{ photos.title }}</h2>
           	<span><i aria-hidden class="far fa-calendar-alt" title="Date"></i> 
