@@ -42,6 +42,6 @@ reel: 105
 
 <ul>
      {% for photoURL in site.data.italy-2004.feed.entry %}
-          <li><img class="lazy" src="{{ photoURL.content.src }}" /></li>
+          <li><img class="lazy" data-src="{{ photoURL.content.src }}" /></li>
      {% endfor %}
 </ul>
