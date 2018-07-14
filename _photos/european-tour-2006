@@ -3,10 +3,11 @@ layout: photo-gallery
 title: "Bruges, Amsterdam, Berlin, and Prague"
 name: "European Tour 2006"
 permalink: /photos/european-tour-2006.html
-thumbnail: thumbnails/italy-trip-thumb.jpg
+thumbnail: italy-trip-thumb.jpg
+photoJSON: european-tour-2006.json
 date: 2006-11-22
 endDate: 2006-11-29
-description: ""
+description: "It was hard to resist taking small trips here and there while I was studying abroad in England. The majority of these excursions were only for short weekends, but over fall break in 2006 I expanded my horizons and traveled deeper into Europe. My solo adventure started on a ferry to Calais, France and then continued via bus to the city of Bruges and through to Amsterdam. After getting a through dose of Belgian and Dutch culture I made my way to Centraal Station and traveled 7 hours by train to experience Berlin, Germany before making my way to Prague, final leg of my journey."
 tags: [Travel, Photos, Europe, Bruges, Belgium, Amsterdam, The Netherlands, Berlin, Germany, Prague, Czech Republic]
 geo: "Western Europe"
 camera: "HTC Tornado Camera Phone"
