@@ -3,9 +3,8 @@
 	<head>
 		{% include head-code.html %}
 		<script>
-				var myLazyLoad = new LazyLoad({
-				elements_selector: ".lazy"
-				});
+			function lazyLoad() {var myLazyLoad = new LazyLoad({elements_selector: ".lazy"});}
+			window.onload = lazyLoad
 		</script>
 	</head>
 	<body>
