@@ -232,7 +232,7 @@ ul.photo-gallery li {
   align-self: auto;
   position: relative;
   overflow: hidden;
-  margin: 0;
+  margin: 2px;
   min-width: 300px;
   max-width: 360px;
 }
@@ -262,7 +262,6 @@ ul.photo-gallery img {
   min-width: 300px;
   max-width: 360px;
   height: auto;
-  margin: 1px 2px;
 }
 
    ul.photo-gallery img.thumbnail {
