@@ -12,9 +12,3 @@ geo: "Italy"
 camera: "Canon PowerShot A40"
 reel: 105
 ---
-
-<ul class="photo-gallery">
-     {% for photoURL in site.data.italy-2004.feed.entry %}
-          <li class="gallery-display"><img class="lazy" data-src="{{ photoURL.content.src }}" /></li>
-     {% endfor %}
-</ul>
