@@ -30,9 +30,9 @@
 				<p>{{ page.description }}</p>
 				
 				<ul class="photo-gallery">
-     					{% for photo in site.data.italy-2004.feed.entry %}
+     					{% for photoJSON in site.data.italy-2004.feed.entry %}
           					<li class="photo-mosaic">
-							<img class="lazy" data-src="{{ photo.content.src }}" alt="{{ photo.title.$t }}" />
+							<img class="lazy" data-src="{{ photoJSON.content.src }}" alt="{{ photoJSON.title.$t }}" />
 						</li>
      					{% endfor %}
 				</ul>
