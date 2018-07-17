@@ -1,0 +1,589 @@
+{
+  "bookmarks": [
+    {
+      "name": "Roadside America",
+      "url": "https://www.roadsideamerica.com/",
+      "favicon": "https://www.roadsideamerica.com/favicon.ico",
+      "category1": "Art",
+      "category2": "Photography",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "University of Twente - WebSDR",
+      "url": "http://websdr.ewi.utwente.nl:8901/",
+      "favicon": "http://websdr.ewi.utwente.nl:8901/favicon.ico",
+      "category1": "Technology",
+      "category2": "Radio",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Radio Garden",
+      "url": "http://radio.garden/",
+      "favicon": "http://radio.garden/favico.png",
+      "category1": "Entertainment",
+      "category2": "Radio",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Hubble Space Telescope",
+      "url": "http://www.spacetelescope.org/",
+      "favicon": "http://www.spacetelescope.org/static/favicon.ico",
+      "category1": "Science",
+      "category2": "Space",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Cure for Bedbugs",
+      "url": "http://cureforbedbugs.com/",
+      "favicon": "",
+      "category1": "Blogs",
+      "category2": "Friends and Colleagues",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/",
+      "favicon": "https://www.washingtonpost.com/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Atlantic",
+      "url": "https://www.theatlantic.com/",
+      "favicon": "https://www.theatlantic.com/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "favicon": "https://www.reuters.com/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "NPR",
+      "url": "https://www.npr.org/",
+      "favicon": "https://www.npr.org/favicon.ico",
+      "category1": "News",
+      "category2": "Media",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "C-SPAN",
+      "url": "https://www.c-span.org/",
+      "favicon": "https://www.c-span.org/favicon.ico",
+      "category1": "News",
+      "category2": "Media",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Outline",
+      "url": "https://theoutline.com/",
+      "favicon": "https://theoutline.com/images/favicon/pink/favicon-32x32-51d2a9128c35821eae506c336486e97a.png?vsn=d",
+      "category1": "Culture",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Jacobin Magazine",
+      "url": "https://www.jacobinmag.com/",
+      "favicon": "https://www.jacobinmag.com/static/img/logo/logo-favicon.png",
+      "category1": "Culture",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "n+1 Magazine",
+      "url": "https://nplusonemag.com/",
+      "favicon": "https://nplusonemag.com/wp-content/uploads/2016/06/cropped-n1_web_favicon-32x32.png",
+      "category1": "Culture",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Baffler",
+      "url": "https://thebaffler.com/",
+      "favicon": "https://thebaffler.com/favicon.ico",
+      "category1": "Culture",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Boing Boing",
+      "url": "https://boingboing.net/",
+      "favicon": "https://boingboing.net/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Dangerous Minds",
+      "url": "https://dangerousminds.net/",
+      "favicon": "https://dangerousminds.net/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Paste Magazine",
+      "url": "https://www.pastemagazine.com/",
+      "favicon": "https://www.pastemagazine.com/pastemagazine.img/favicon.ico",
+      "category1": "Art",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Juxtapoz Magazine",
+      "url": "https://www.juxtapoz.com/",
+      "favicon": "https://www.juxtapoz.com/favicon.ico",
+      "category1": "Art",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Pitchfork",
+      "url": "https://pitchfork.com/",
+      "favicon": "https://cdn.pitchfork.com/assets/misc/favicon-32.png",
+      "category1": "Music",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wooster Collective",
+      "url": "http://www.woostercollective.com/",
+      "favicon": "http://www.woostercollective.com/favicon.ico",
+      "category1": "Art",
+      "category2": "Street Art",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Brooklyn Street Art",
+      "url": "http://www.brooklynstreetart.com/theblog/",
+      "favicon": "http://www.brooklynstreetart.com/theblog/favicon.ico",
+      "category1": "Art",
+      "category2": "Street Art",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "All Things Considered",
+      "url": "https://www.npr.org/programs/all-things-considered/",
+      "favicon": "https://www.npr.org/favicon.ico",
+      "category1": "Podcast",
+      "category2": "News",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Tim Ferriss Show",
+      "url": "https://tim.blog/podcast/",
+      "favicon": "https://tim.blog/favicon.ico",
+      "category1": "Podcast",
+      "category2": "Interviews",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wired Magazine",
+      "url": "https://www.wired.com/",
+      "favicon": "https://www.wired.com/favicon.ico",
+      "category1": "Technology",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/",
+      "favicon": "https://www.economist.com/favicon.ico",
+      "category1": "News",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Slate Magazine",
+      "url": "http://www.slate.com/",
+      "favicon": "",
+      "category1": "News",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/",
+      "favicon": "https://www.nature.com/favicon.ico",
+      "category1": "Science",
+      "category2": "Magazines and Journals",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Poynter Institute",
+      "url": "https://www.poynter.org/",
+      "favicon": "https://www.poynter.org/themes/custom/poynter_theme/favicons/favicon.ico",
+      "category1": "News",
+      "category2": "Journalism",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "ShortFormBlog",
+      "url": "http://shortformblog.com/",
+      "favicon": "http://shortformblog.com/favicon.ico",
+      "category1": "Blogs",
+      "category2": "News",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Mediagazer",
+      "url": "https://www.mediagazer.com/",
+      "favicon": "https://www.mediagazer.com/favicon.ico",
+      "category1": "News",
+      "category2": "Aggregators",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Fuego - NiemanLabs",
+      "url": "http://www.niemanlab.org/fuego/",
+      "favicon": "http://www.niemanlab.org/favicon.ico",
+      "category1": "News",
+      "category2": "Aggregators",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "NeimanLabs",
+      "url": "http://www.niemanlab.org/",
+      "favicon": "http://www.niemanlab.org/favicon.ico",
+      "category1": "News",
+      "category2": "Journalism",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Reader Supported News",
+      "url": "http://readersupportednews.org/",
+      "favicon": "http://readersupportednews.org/templates/custom/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "McSweeneys",
+      "url": "https://www.mcsweeneys.net/",
+      "favicon": "https://www.mcsweeneys.net/assets/favicon-c00a7323f0c7e4d41a62566b39d7da544be6e13c1aadcde94586aec0057e2322.png",
+      "category1": "Culture",
+      "category2": "Humor",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Onion",
+      "url": "https://www.theonion.com/",
+      "favicon": "https://i.kinja-img.com/gawker-media/image/upload/s--4Aggfcp6--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/eti2h1r4wg0bqxctxenl.png",
+      "category1": "Culture",
+      "category2": "Humor",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "/Film",
+      "url": "http://www.slashfilm.com/",
+      "favicon": "http://www.slashfilm.com/favicon.ico",
+      "category1": "Culture",
+      "category2": "Film",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Seeking Alpha",
+      "url": "https://seekingalpha.com/",
+      "favicon": "https://seekingalpha.com/favicon.ico",
+      "category1": "Business",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Zero Hedge",
+      "url": "http://www.zerohedge.com/",
+      "favicon": "http://www.zerohedge.com/favicon.ico",
+      "category1": "Business",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Cryptome",
+      "url": "http://cryptome.org/",
+      "favicon": "http://cryptome.org/favicon.ico",
+      "category1": "Technology",
+      "category2": "Security",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Lists of Note",
+      "url": "http://www.listsofnote.com/",
+      "favicon": "http://www.listsofnote.com/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Letters of Note",
+      "url": "http://www.lettersofnote.com/",
+      "favicon": "http://www.lettersofnote.com/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Budget Bytes",
+      "url": "https://www.budgetbytes.com/",
+      "favicon": "https://www.budgetbytes.com/favicon.ico",
+      "category1": "Food",
+      "category2": "Recipes",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Public Domain Review",
+      "url": "https://publicdomainreview.org/",
+      "favicon": "https://publicdomainreview.org/favicon.ico",
+      "category1": "",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "BBC News",
+      "url": "http://www.bbc.com/news",
+      "favicon": "http://www.bbc.co.uk/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us",
+      "favicon": "https://www.theguardian.com/favicon.ico",
+      "category1": "News",
+      "category2": "Daily Reads",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Tin House",
+      "url": "http://tinhouse.com/",
+      "favicon": "http://tinhouse.com/favicon.ico",
+      "category1": "",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Roads & Kingdoms",
+      "url": "http://roadsandkingdoms.com/",
+      "favicon": "http://roadsandkingdoms.com/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/",
+      "favicon": "https://www.aljazeera.com/favicon.ico",
+      "category1": "News",
+      "category2": "International",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Der Spiegel",
+      "url": "http://www.spiegel.de/international/",
+      "favicon": "http://www.spiegel.de/favicon.ico",
+      "category1": "News",
+      "category2": "International",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "A List Apart",
+      "url": "http://alistapart.com/",
+      "favicon": "http://alistapart.com/favicon.ico",
+      "category1": "Web Design",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Slate Star Codex",
+      "url": "http://slatestarcodex.com/",
+      "favicon": "http://slatestarcodex.com/favicon.ico",
+      "category1": "Blogs",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Nathan Rabin's Happy Place",
+      "url": "https://www.nathanrabin.com/",
+      "favicon": "https://www.nathanrabin.com/favicon.ico",
+      "category1": "Blogs",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Pennsylvania Horticultural Society McLean Library",
+      "url": "https://phsonline.org/resources/the-phs-mclean-library/",
+      "favicon": "",
+      "category1": "Travel",
+      "category2": "Philadelphia",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philadelphia Parks & Recreation Sculptures",
+      "url": "http://www.phila.gov/ParksandRecreation/placestogo/Pages/Sculptures.aspx#page=1",
+      "favicon": "http://www.phila.gov/favicon.ico",
+      "category1": "Travel",
+      "category2": "Philadelphia",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Moxie Marlinspike",
+      "url": "https://moxie.org/",
+      "favicon": "https://moxie.org/images/favicon.ico",
+      "category1": "Blogs",
+      "category2": "Tech People",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Idle Words",
+      "url": "http://idlewords.com/",
+      "favicon": "http://idlewords.com/favicon.ico",
+      "category1": "Blogs",
+      "category2": "Tech People",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Culturium",
+      "url": "https://www.theculturium.com/",
+      "favicon": "http://www.theculturium.com/wp-content/uploads/2015/05/favicon.ico",
+      "category1": "Culture",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Hacking, Distributed",
+      "url": "http://hackingdistributed.com/",
+      "favicon": "http://hackingdistributed.com/favicon.ico",
+      "category1": "Technology",
+      "category2": "Blogs",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Shodan",
+      "url": "https://www.shodan.io/",
+      "favicon": "https://static.shodan.io/shodan/img/favicon.png",
+      "category1": "Technology",
+      "category2": "Security",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Norse Attack Map",
+      "url": "http://map.norsecorp.com/",
+      "favicon": "",
+      "category1": "Technology",
+      "category2": "Security",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Paul Graham",
+      "url": "http://paulgraham.com/",
+      "favicon": "",
+      "category1": "Blogs",
+      "category2": "Tech People",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Every Noise At Once",
+      "url": "http://everynoise.com/engenremap.html/",
+      "favicon": "",
+      "category1": "Music",
+      "category2": "",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "PRISM Break",
+      "url": "https://prism-break.org/en/",
+      "favicon": "",
+      "category1": "Technology",
+      "category2": "Security",
+      "category3": "",
+      "dead": ""
+    },
+    {
+      "name": "Press Think",
+      "url": "http://pressthink.org/",
+      "favicon": "http://pressthink.org/favicon.ico",
+      "category1": "Blogs",
+      "category2": "News",
+      "category3": "",
+      "dead": ""
+    }
+  ]
+}
