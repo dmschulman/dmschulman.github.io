@@ -15,6 +15,8 @@ permalink: /about/bookmarks.html
 
 {% for category in bookmarks %}
 	<h2>{{ category.cat1 }}</h2>
+{% endfor %}
+
 	<ul class="bookmarks">
 		{% for bookmark in bookmarks %}
 			<li>
@@ -25,7 +27,6 @@ permalink: /about/bookmarks.html
 			</li>
 		{% endfor %}
 	</ul>
-{% endfor %}
 
 </div>
 </div>
