@@ -344,6 +344,11 @@ ul.photo-gallery img {
 
 /* MISC CONTENT STYLES */
 
+ul.bookmarks {
+  list-style: none;
+  margin: 0;
+}
+
 img.favicon {
   width: 16px;
   height: 16px;
