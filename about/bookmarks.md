@@ -11,15 +11,15 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 	
-{% assign marks = site.data.bookmarks.bookmarks | group_by: 'cat1' %}
-{% for bookmark in marks %}
-	<h2>{{ category.cat1 }}</h2>
+{% assign bookmarks = site.data.bookmarks | group_by: 'cat1' %}
+{% for bookmark in bookmarks %}
+	<h2>{{ bookmark.cat1 }}</h2>
 	<ul class="bookmarks">
 			<li>
-				{% if marks.icon %}
-					<img class="favicon" src="{{ marks.icon }}" />
+				{% if bookmark.icon %}
+					<img class="favicon" src="{{ bookmark.icon }}" />
 				{% endif %} 
-				<a href="{{ marks.src }}" title="{{ marks.name }}" target="_blank">{{ marks.name }}</a>
+				<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 			</li>
 	</ul>
 {% endfor %}
