@@ -13,6 +13,7 @@ permalink: /about/bookmarks.html
 	{% for category in site.data.bookmarks.bookmarks %}
 		<h2>{{ category.cat1 }}</h2>
 			<ul class="bookmarks">
+				{% for bookmark in site.data.bookmarks.bookmarks.cat1 %}
 				{% for bookmark in site.data.bookmarks.bookmarks %}
 				<li>
 					{% if bookmark.icon %}
@@ -21,6 +22,7 @@ permalink: /about/bookmarks.html
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
      				{% endfor %}
+				{% endfor %}
 			</ul>
 	{% endfor %}
 </div>
