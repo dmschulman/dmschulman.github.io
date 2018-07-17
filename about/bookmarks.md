@@ -12,21 +12,16 @@ permalink: /about/bookmarks.html
 <div class="post">
 	
 {% assign bookmarks = site.data.bookmarks.bookmarks | group_by: 'cat1' %}
-
-{% for category in bookmarks %}
+{% for bookmark in bookmarks %}
 	<h2>{{ category.cat1 }}</h2>
-{% endfor %}
-
 	<ul class="bookmarks">
-		{% for bookmark in bookmarks %}
 			<li>
 				{% if bookmark.icon %}
 					<img class="favicon" src="{{ bookmark.icon }}" />
 				{% endif %} 
 				<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 			</li>
-		{% endfor %}
 	</ul>
-
+{% endfor %}
 </div>
 </div>
