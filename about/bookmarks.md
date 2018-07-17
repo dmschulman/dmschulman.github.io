@@ -9,17 +9,17 @@ description: "A list of bookmarks"
 
 <div class="post">
 	{% for category in site.data.bookmarks.bookmarks %}
-	<h2>{{ category.cat1 }}</h2>
+		<h2>{{ category.cat1 }}</h2>
+			<ul class="bookmarks">
+				{% for bookmark in site.data.bookmarks.bookmarks %}
+				<li>
+					{% if bookmark.icon %}
+						<img class="favicon" src="{{ bookmark.icon }}" />
+					{% endif %} 
+					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				</li>
+     				{% endfor %}
+			</ul>
 	{% endfor %}
-	
-	<ul class="bookmarks">
-	{% for bookmark in site.data.bookmarks.bookmarks %}
-		<li>
-			{% if bookmark.icon %}
-				<img class="favicon" src="{{ bookmark.icon }}" />
-			{% endif %} 
-			<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a></li>
-     	{% endfor %}
-	</ul>
 </div>
 </div>
