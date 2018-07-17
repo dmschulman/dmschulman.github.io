@@ -10,7 +10,7 @@ description: "A list of bookmarks"
 <div class="post">
 	<ul>
 	{% for bookmark in site.data.bookmarks.bookmarks %}
-	<li>{{ bookmark.name }}</li>
+		<li><a href="{{ bookmark.url }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a></li>
      	{% endfor %}
 	</ul>
 </div>
