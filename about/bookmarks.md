@@ -13,15 +13,6 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
-{% assign items_grouped = site.data.bookmarks.items | group_by: 'cat1' | sort: 'name' %}
-{% for group in items_grouped %}
-  {% assign items = item.items | sort: 'cat1' %}
-  {% for item in items  %}
-    {{ item.name }}
-  {% endfor %}
-{% endfor %}
-
-
 {% for category in site.data.bookmarks | group_by: 'cat1' %}
 {% assign category = name %}
 {{ category }}
