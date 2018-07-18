@@ -12,15 +12,20 @@ permalink: /about/bookmarks.html
 <div class="post">
 	
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+	{% assign c = cat1 | first %}
 	<h2>{{ bookmark.cat1 }}</h2>
-	<ul class="bookmarks">
-			<li>
-				{% if bookmark.icon %}
-					<img class="favicon" src="{{ bookmark.icon }}" />
-				{% endif %} 
-				<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
-			</li>
-	</ul>
+	{% if bookmark contains c %}
+		<ul class="bookmarks">
+				<li>
+					{% if bookmark.icon %}
+						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
+					{% else %}
+						<i aria-hidden class="fas fa-globe" title="Bookmark"></i>
+					{% endif %}
+					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				</li>
+		</ul>
+	{% endif %}
 {% endfor %}
 
 </div>
