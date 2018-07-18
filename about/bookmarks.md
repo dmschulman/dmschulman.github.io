@@ -13,10 +13,10 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
-{% for categorized_bookmarks = site.data.bookmarks.bookmarks | group_by: 'cat1' %}
-  category: {{ categorized_bookmarks.name }}
-  {% for bookmark = categorized_bookmarks.items %}
-    item: {{ item }}
+{% for category in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+  category: {{ category.name }}
+  {% for bookmark in category.items %}
+    bookmark: {{ bookmark }}
   {% endfor %}
 {% endfor %}
 
