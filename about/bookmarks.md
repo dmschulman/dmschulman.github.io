@@ -12,5 +12,6 @@ permalink: /about/bookmarks.html
 <div class="post">
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
+{{ bookmarks.name }}
 
 </div>
