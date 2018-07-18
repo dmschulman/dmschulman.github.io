@@ -28,9 +28,10 @@ permalink: /about/bookmarks.html
 
 {% for cat in site.data.bookmarks.bookmarks %}
   {% assign c = cat.cat1 | first %}
-  {% assign posts = cat | last %}
-{{ c }}
+  {% assign mark = cat.name | last %}
+<h2>{{ c }}</h2>
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+{% if mark contains c %}
 		<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon == '' %}
@@ -41,6 +42,7 @@ permalink: /about/bookmarks.html
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
 		</ul>
+{% endif %}
 {% endfor %}
 {% endfor %}
 </div>
