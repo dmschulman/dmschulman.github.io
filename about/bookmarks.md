@@ -13,15 +13,14 @@ permalink: /about/bookmarks.html
 	
 {% for bookmark in site.data.bookmarks %}
 	{% assign cat1 = bookmark.cat1 | first %}
-	{% assign mark = bookmark | last %}
 	
 	{{ cat1 }}
 	<ul class="bookmarks">
 			<li>
-				{% if mark.icon %}
-					<img class="favicon" src="{{ mark.icon }}" />
+				{% if bookmark.icon %}
+					<img class="favicon" src="{{ bookmark.icon }}" />
 				{% endif %} 
-				<a href="{{ mark.src }}" title="{{ mark.name }}" target="_blank">{{ mark.name }}</a>
+				<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 			</li>
 	</ul>
 {% endfor %}
