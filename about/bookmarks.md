@@ -17,7 +17,7 @@ permalink: /about/bookmarks.html
 					{% if bookmark.icon %}
 						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
 					{% elsif bookmark.icon == '' %}
-						<i aria-hidden class="fas fa-globe" title="Bookmark"></i>
+						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
 					{% endif %}
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
