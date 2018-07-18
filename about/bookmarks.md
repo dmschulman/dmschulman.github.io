@@ -12,8 +12,12 @@ permalink: /about/bookmarks.html
 <div class="post">
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
-{% if site.data.bookmarks.bookmarks == 'Art' %}
-	{{ site.data.bookmarks.bookmarks.name }}
-{% endif %}
+
+{% for categorized_bookmarks = site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+  category: {{ categorized_bookmarks.name }}
+  {% for bookmark = categorized_bookmarks.items %}
+    item: {{ item }}
+  {% endfor %}
+{% endfor %}
 
 </div>
