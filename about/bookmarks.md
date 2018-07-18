@@ -26,8 +26,8 @@ permalink: /about/bookmarks.html
 
 
 
-{% for cat in site.data.bookmarks.bookmarks.cat1 %}
-  {% assign c = cat | first %}
+{% for cat in site.data.bookmarks.bookmarks %}
+  {% assign c = cat.cat1 | first %}
   {% assign posts = cat | last %}
 {{ c }}
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
