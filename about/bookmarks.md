@@ -12,7 +12,7 @@ permalink: /about/bookmarks.html
 <div class="post">
 	
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
-	{% assign c = cat1 | first %}
+	{% assign c = bookmark.cat1 | first %}
 	<h2>{{ c }}</h2>
 	{% if bookmark.cat1 contains c %}
 		<ul class="bookmarks">
