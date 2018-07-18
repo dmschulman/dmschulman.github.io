@@ -14,7 +14,12 @@ permalink: /about/bookmarks.html
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
 {% for category in site.data.bookmarks | group_by: 'cat1' %}
-  category: <h2>{{ name }}</h2>
+{% assign category = name %}
+{{ category }}
+{% endfor %}
+
+{% for category in site.data.bookmarks | group_by: 'cat1' %}
+  category: <h2>{{ category.name }}</h2>
   {% for bookmark in category %}
     bookmark: <p>{{ bookmark.name }}</p>
   {% endfor %}
