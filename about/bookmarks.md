@@ -12,6 +12,8 @@ permalink: /about/bookmarks.html
 <div class="post">
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
-{{ bookmarks.name }}
+{% if site.data.bookmarks.bookmarks == 'Art' %}
+	{{ site.data.bookmarks.bookmarks.name }}
+{% endif %}
 
 </div>
