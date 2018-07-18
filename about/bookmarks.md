@@ -23,4 +23,6 @@ permalink: /about/bookmarks.html
 			</li>
 	</ul>
 {% endfor %}
+
+</div>
 </div>
