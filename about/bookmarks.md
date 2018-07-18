@@ -24,5 +24,24 @@ permalink: /about/bookmarks.html
 		</ul>
 {% endfor %}
 
+
+
+{% for cat in site.data.bookmarks.bookmarks.cat1 %}
+  {% assign c = cat | first %}
+  {% assign posts = cat | last %}
+{{ c }}
+{% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+		<ul class="bookmarks">
+				<li>
+					{% if bookmark.icon == '' %}
+						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
+					{% else  %}
+						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
+					{% endif %}
+					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				</li>
+		</ul>
+{% endfor %}
+{% endfor %}
 </div>
 </div>
