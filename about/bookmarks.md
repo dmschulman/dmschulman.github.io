@@ -12,9 +12,6 @@ permalink: /about/bookmarks.html
 <div class="post">
 	
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
-	{% assign c = bookmark.cat1 | first %}
-	<h2>{{ c }}</h2>
-	{% if bookmark contains c %}
 		<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon %}
@@ -25,7 +22,6 @@ permalink: /about/bookmarks.html
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
 		</ul>
-	{% endif %}
 {% endfor %}
 
 </div>
