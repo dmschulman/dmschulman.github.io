@@ -11,33 +11,18 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 	
-{% assign bookmarks = site.data.bookmarks | group_by: 'cat1' %}
-{% for bookmark in bookmarks %}
-	<h2>{{ bookmark.cat1 }}</h2>
+{% for bookmark in site.data.bookmarks %}
+	{% assign cat1 = bookmark.cat1 | first %}
+	{% assign mark = bookmark | last %}
+	
+	{{ cat1 }}
 	<ul class="bookmarks">
 			<li>
-				{% if bookmark.icon %}
-					<img class="favicon" src="{{ bookmark.icon }}" />
+				{% if mark.icon %}
+					<img class="favicon" src="{{ mark.icon }}" />
 				{% endif %} 
-				<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				<a href="{{ mark.src }}" title="{{ mark.name }}" target="_blank">{{ mark.name }}</a>
 			</li>
 	</ul>
 {% endfor %}
-
-	{% for category in site.data.bookmarks.bookmarks %}
-		<h2>{{ category.cat1 }}</h2>
-			<ul class="bookmarks">
-				{% for bookmark in site.data.bookmarks.bookmarks.cat1 %}
-				{% for bookmark in site.data.bookmarks.bookmarks %}
-				<li>
-					{% if bookmark.icon %}
-						<img class="favicon" src="{{ bookmark.icon }}" />
-					{% endif %} 
-					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
-				</li>
-     				{% endfor %}
-				{% endfor %}
-			</ul>
-	{% endfor %}
-</div>
 </div>
