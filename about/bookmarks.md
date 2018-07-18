@@ -10,8 +10,9 @@ permalink: /about/bookmarks.html
 	<p>This page contains a lengthy list of web bookmarks I’ve collected over the years. These links have been painstakingly catalogued here for posterity’s sake, I will do my best to maintain these lists but I make no guarantees that any of the items here are immune from <a href="https://en.wikipedia.org/wiki/Link_rot" title="link rot" target="_blank">link rot</a>. Some of these sites you will know, but many, I anticipate, you will not. I hope you’ll have as much fun and enjoyment exploring these sites as I did when I first stumbled on them.</p>
 
 <div class="post">
-	
+
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+{{ bookmark.cat1 }}
 		<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon == '' %}
@@ -27,10 +28,10 @@ permalink: /about/bookmarks.html
 
 
 {% for cat in site.data.bookmarks.bookmarks %}
-  {% assign c = cat.cat1 | first %}
-  {% assign mark = cat.name | last %}
+  {% assign c = cat.cat1 %}
+  {% assign mark = cat.name %}
 <h2>{{ c }}</h2>
-{% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
+{% for bookmark in site.data.bookmarks.bookmarks %}
 {% if mark contains c %}
 		<ul class="bookmarks">
 				<li>
