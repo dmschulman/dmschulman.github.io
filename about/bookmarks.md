@@ -11,10 +11,9 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 	
-{% for bookmark in site.data.bookmarks %}
-	{% assign cat1 = bookmark.cat1 | first %}
-	
-	<h2>{{ cat1 }}</h2>
+{% assign bookmarks = site.data.bookmarks | group_by: 'cat1' %}
+{% for bookmark in bookmarks %}
+	<h2>{{ bookmark.cat1 }}</h2>
 	<ul class="bookmarks">
 			<li>
 				{% if bookmark.icon %}
