@@ -14,7 +14,7 @@ permalink: /about/bookmarks.html
 {% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
 	{% assign c = bookmark.cat1 | first %}
 	<h2>{{ c }}</h2>
-	{% if bookmark.cat1 contains c %}
+	{% if bookmark contains c %}
 		<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon %}
