@@ -28,12 +28,5 @@ permalink: /about/bookmarks.html
 		</ul>
 	{% endfor %}
 {% endfor %}
-
-{% for cat2 in category2 %}
-<h3>{{ cat2.name }}</h3>
-{% for bookmark in category2.items %}
-{{ bookmark.name }}
-{% endfor %}
-{% endfor %}
 </div>
 </div>
