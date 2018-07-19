@@ -14,7 +14,7 @@ permalink: /about/bookmarks.html
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
 {% for category in site.data.bookmarks.bookmarks %}
-{{ name }}
+{{ category.name }}
 {% endfor %}
 
 </div>
