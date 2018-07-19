@@ -11,21 +11,12 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 
-{{ site.data.bookmarks.bookmarks.item | group_by: 'cat1' | sort: 'name' }}
-
-{% assign bookmarks_grouped = site.data.bookmarks.bookmarks.items | group_by: 'cat1' | sort: 'name' %}
-{% for bookmark in bookmarks_grouped %}
-<h2>{{ bookmark.cat1 }}</h2>
-		<ul class="bookmarks">
-				<li>
-					{% if bookmark.icon == '' %}
-						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
-					{% else  %}
-						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
-					{% endif %}
-					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
-				</li>
-		</ul>
+{% for category in site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
+  <h2>{{ category.name }}</h2>
+  {% for bookmark in category.items %}
+    <p>bookmark: {{ bookmark.name }}</p>
+  {% endfor %}
 {% endfor %}
+
 </div>
 </div>
