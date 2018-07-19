@@ -14,8 +14,8 @@ permalink: /about/bookmarks.html
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
 {% assign items_grouped = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
-{% for group in items_grouped %}
-  {% assign items = item.items | sort: 'name' | reverse %}
+{% for category in items_grouped %}
+  {% assign items = item.items | sort: 'name' %}
   {% for item in items  %}
     {{ item.title }}
   {% endfor %}
