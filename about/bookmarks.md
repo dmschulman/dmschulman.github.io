@@ -11,13 +11,13 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 
-{{ site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' }}
-
 {% assign categories = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
 {% for category in categories %}
-    <h2>{{ category.name }}</h2>
-  {% for bookmark in category.items %}
-    		<ul class="bookmarks">
+	{% assign category2 = site.data.bookmarks.bookmarks | group_by: 'cat2' | sort: 'name' %}
+	<h2>{{ category.name }}</h2>
+	<h3>{{ category2.name }}</h3>
+	{% for bookmark in category.items %}
+	<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon == '' %}
 						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
@@ -27,7 +27,7 @@ permalink: /about/bookmarks.html
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
 		</ul>
-  {% endfor %}
+	{% endfor %}
 {% endfor %}
 
 </div>
