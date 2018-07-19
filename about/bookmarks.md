@@ -13,7 +13,7 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
-{% for category in site.data.bookmarks.bookmarks %}
+{% for category in site.data.bookmarks.bookmarks | group_by: 'cat1' %}
 {{ category.name }}
 {% endfor %}
 
