@@ -30,7 +30,10 @@ permalink: /about/bookmarks.html
 {% endfor %}
 
 {% for cat2 in category2 %}
-{{ cat2.name }}
+<h3>{{ cat2.name }}</h3>
+{% for bookmark in category2.items %}
+{{ bookmark.name }}
+{% endfor %}
 {% endfor %}
 </div>
 </div>
