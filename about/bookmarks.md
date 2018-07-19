@@ -18,3 +18,4 @@ permalink: /about/bookmarks.html
 {% endfor %}
 
 </div>
+</div>
