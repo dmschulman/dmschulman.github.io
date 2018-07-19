@@ -11,7 +11,7 @@ permalink: /about/bookmarks.html
 
 <div class="post">
 
-{{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
+{{ site.data.bookmarks.bookmarks.item | group_by: 'cat1' | sort: 'name' }}
 
 {% assign bookmarks_grouped = site.data.bookmarks.bookmarks.items | group_by: 'cat1' | sort: 'name' %}
 {% for bookmark in bookmarks_grouped %}
