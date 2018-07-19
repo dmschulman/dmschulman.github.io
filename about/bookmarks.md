@@ -17,7 +17,16 @@ permalink: /about/bookmarks.html
 {% for category in categories %}
     <h2>{{ category.name }}</h2>
   {% for bookmark in category.items %}
-    <p>bookmark: {{ bookmark.name }}</p>
+    		<ul class="bookmarks">
+				<li>
+					{% if bookmark.icon == '' %}
+						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
+					{% else  %}
+						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
+					{% endif %}
+					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				</li>
+		</ul>
   {% endfor %}
 {% endfor %}
 
