@@ -13,7 +13,8 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
-{% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
+{% assign bookmarks_grouped = site.data.bookmarks.bookmarks.items | group_by: 'cat1' | sort: 'name' %}
+{% for bookmark in bookmarks_grouped %}
 <h2>{{ bookmark.cat1 }}</h2>
 		<ul class="bookmarks">
 				<li>
