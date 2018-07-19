@@ -13,9 +13,9 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' }}
 
-{% for category in site.data.bookmarks | group_by: 'cat1' | sort: 'name' %}
+{% for category in site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
   <h2>{{ category.name }}</h2>
-  {% for bookmark in category.item %}
+  {% for bookmark in category.items %}
     <p>bookmark: {{ bookmark.name }}</p>
   {% endfor %}
 {% endfor %}
