@@ -12,7 +12,6 @@ permalink: /about/bookmarks.html
 <div class="post">
 
 {% assign categories = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
-{% assign category2 = site.data.bookmarks.bookmarks | group_by: 'cat2' | sort: 'name' %}
 {% for category in categories %}
 	<h2>{{ category.name }}</h2>
 	{% for bookmark in category.items %}
