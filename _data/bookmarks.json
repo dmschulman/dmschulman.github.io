@@ -1,20 +1,11 @@
 {
   "bookmarks": [
     {
-      "name": "Roadside America",
-      "src": "https://www.roadsideamerica.com/",
-      "icon": "https://www.roadsideamerica.com/favicon.ico",
+      "name": "Brooklyn Street Art",
+      "src": "http://www.brooklynstreetart.com/theblog/",
+      "icon": "http://www.brooklynstreetart.com/theblog/favicon.ico",
       "cat1": "Art",
-      "cat2": "Photography",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Paste Magazine",
-      "src": "https://www.pastemagazine.com/",
-      "icon": "https://www.pastemagazine.com/pastemagazine.img/favicon.ico",
-      "cat1": "Art",
-      "cat2": "Magazines and Journals",
+      "cat2": "Street Art",
       "cat3": "",
       "dead": ""
     },
@@ -28,18 +19,36 @@
       "dead": ""
     },
     {
-      "name": "Wooster Collective",
-      "src": "http://www.woostercollective.com/",
-      "icon": "http://www.woostercollective.com/favicon.ico",
+      "name": "Paste Magazine",
+      "src": "https://www.pastemagazine.com/",
+      "icon": "https://www.pastemagazine.com/pastemagazine.img/favicon.ico",
       "cat1": "Art",
-      "cat2": "Street Art",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Brooklyn Street Art",
-      "src": "http://www.brooklynstreetart.com/theblog/",
-      "icon": "http://www.brooklynstreetart.com/theblog/favicon.ico",
+      "name": "Public Domain Review",
+      "src": "https://publicdomainreview.org/",
+      "icon": "https://publicdomainreview.org/favicon.ico",
+      "cat1": "Art",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Roadside America",
+      "src": "https://www.roadsideamerica.com/",
+      "icon": "https://www.roadsideamerica.com/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wooster Collective",
+      "src": "http://www.woostercollective.com/",
+      "icon": "http://www.woostercollective.com/favicon.ico",
       "cat1": "Art",
       "cat2": "Street Art",
       "cat3": "",
@@ -55,38 +64,11 @@
       "dead": ""
     },
     {
-      "name": "ShortFormBlog",
-      "src": "http://shortformblog.com/",
-      "icon": "http://shortformblog.com/favicon.ico",
+      "name": "Hyperallergic",
+      "src": "https://hyperallergic.com/",
+      "icon": "https://hyperallergic.com/favicon.ico",
       "cat1": "Blogs",
-      "cat2": "News",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Slate Star Codex",
-      "src": "http://slatestarcodex.com/",
-      "icon": "http://slatestarcodex.com/favicon.ico",
-      "cat1": "Blogs",
-      "cat2": "",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Nathan Rabin's Happy Place",
-      "src": "https://www.nathanrabin.com/",
-      "icon": "https://www.nathanrabin.com/favicon.ico",
-      "cat1": "Blogs",
-      "cat2": "",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Moxie Marlinspike",
-      "src": "https://moxie.org/",
-      "icon": "https://moxie.org/images/favicon.ico",
-      "cat1": "Blogs",
-      "cat2": "Tech People",
+      "cat2": "Arts and Culture",
       "cat3": "",
       "dead": ""
     },
@@ -96,6 +78,24 @@
       "icon": "http://idlewords.com/favicon.ico",
       "cat1": "Blogs",
       "cat2": "Tech People",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Moxie Marlinspike",
+      "src": "https://moxie.org/",
+      "icon": "https://moxie.org/assets/favicon-bc6331b8e1dc03b622e83cb4730f9fdf5cf1c00cb739bbb36ac2b46ac20a568f.ico",
+      "cat1": "Blogs",
+      "cat2": "Tech People",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Nathan Rabin's Happy Place",
+      "src": "https://www.nathanrabin.com/",
+      "icon": "https://www.nathanrabin.com/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "",
       "cat3": "",
       "dead": ""
     },
@@ -118,6 +118,24 @@
       "dead": ""
     },
     {
+      "name": "ShortFormBlog",
+      "src": "http://shortformblog.com/",
+      "icon": "",
+      "cat1": "Blogs",
+      "cat2": "News",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Slate Star Codex",
+      "src": "http://slatestarcodex.com/",
+      "icon": "http://slatestarcodex.com/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Seeking Alpha",
       "src": "https://seekingalpha.com/",
       "icon": "https://seekingalpha.com/favicon.ico",
@@ -128,46 +146,19 @@
     },
     {
       "name": "Zero Hedge",
-      "src": "http://www.zerohedge.com/",
-      "icon": "http://www.zerohedge.com/favicon.ico",
+      "src": "https://www.zerohedge.com/",
+      "icon": "https://www.zerohedge.com/themes/zerohedge/favicons/favicon-16x16.png",
       "cat1": "Business",
       "cat2": "",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Outline",
-      "src": "https://theoutline.com/",
-      "icon": "https://theoutline.com/images/favicon/pink/favicon-32x32-51d2a9128c35821eae506c336486e97a.png?vsn=d",
+      "name": "/Film",
+      "src": "http://www.slashfilm.com/",
+      "icon": "http://www.slashfilm.com/favicon.ico",
       "cat1": "Culture",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Jacobin Magazine",
-      "src": "https://www.jacobinmag.com/",
-      "icon": "https://www.jacobinmag.com/static/img/logo/logo-favicon.png",
-      "cat1": "Culture",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "n+1 Magazine",
-      "src": "https://nplusonemag.com/",
-      "icon": "https://nplusonemag.com/wp-content/uploads/2016/06/cropped-n1_web_favicon-32x32.png",
-      "cat1": "Culture",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "The Baffler",
-      "src": "https://thebaffler.com/",
-      "icon": "https://thebaffler.com/favicon.ico",
-      "cat1": "Culture",
-      "cat2": "Magazines and Journals",
+      "cat2": "Film",
       "cat3": "",
       "dead": ""
     },
@@ -190,29 +181,29 @@
       "dead": ""
     },
     {
-      "name": "McSweeneys",
-      "src": "https://www.mcsweeneys.net/",
-      "icon": "https://www.mcsweeneys.net/assets/favicon-c00a7323f0c7e4d41a62566b39d7da544be6e13c1aadcde94586aec0057e2322.png",
+      "name": "Huck Magazine",
+      "src": "https://www.huckmag.com/",
+      "icon": "https://www.huckmag.com/favicon.ico",
       "cat1": "Culture",
-      "cat2": "Humor",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Onion",
-      "src": "https://www.theonion.com/",
-      "icon": "https://i.kinja-img.com/gawker-media/image/upload/s--4Aggfcp6--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/eti2h1r4wg0bqxctxenl.png",
+      "name": "Jacobin Magazine",
+      "src": "https://www.jacobinmag.com/",
+      "icon": "https://www.jacobinmag.com/static/img/logo/logo-favicon.png",
       "cat1": "Culture",
-      "cat2": "Humor",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "/Film",
-      "src": "http://www.slashfilm.com/",
-      "icon": "http://www.slashfilm.com/favicon.ico",
+      "name": "Letters of Note",
+      "src": "http://www.lettersofnote.com/",
+      "icon": "http://www.lettersofnote.com/favicon.ico",
       "cat1": "Culture",
-      "cat2": "Film",
+      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
@@ -226,9 +217,36 @@
       "dead": ""
     },
     {
-      "name": "Letters of Note",
-      "src": "http://www.lettersofnote.com/",
-      "icon": "http://www.lettersofnote.com/favicon.ico",
+      "name": "McSweeneys",
+      "src": "https://www.mcsweeneys.net/",
+      "icon": "https://www.mcsweeneys.net/assets/favicon-c00a7323f0c7e4d41a62566b39d7da544be6e13c1aadcde94586aec0057e2322.png",
+      "cat1": "Culture",
+      "cat2": "Humor",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "n+1 Magazine",
+      "src": "https://nplusonemag.com/",
+      "icon": "https://nplusonemag.com/wp-content/uploads/2016/06/cropped-n1_web_favicon-32x32.png",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "NYPL Digital Collections",
+      "src": "https://digitalcollections.nypl.org/",
+      "icon": "https://digitalcollections.nypl.org/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Collections",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Popula",
+      "src": "https://popula.com/",
+      "icon": "https://popula.com/wp-content/uploads/sites/4/2018/07/cropped-popula-logo-square-with-a-bit-of-padding.png?w=32",
       "cat1": "Culture",
       "cat2": "Blogs",
       "cat3": "",
@@ -244,11 +262,38 @@
       "dead": ""
     },
     {
+      "name": "The Baffler",
+      "src": "https://thebaffler.com/",
+      "icon": "https://thebaffler.com/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "The Culturium",
       "src": "https://www.theculturium.com/",
       "icon": "http://www.theculturium.com/wp-content/uploads/2015/05/favicon.ico",
       "cat1": "Culture",
       "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Onion",
+      "src": "https://www.theonion.com/",
+      "icon": "https://i.kinja-img.com/gawker-media/image/upload/s--4Aggfcp6--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/eti2h1r4wg0bqxctxenl.png",
+      "cat1": "Culture",
+      "cat2": "Humor",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Outline",
+      "src": "https://theoutline.com/",
+      "icon": "https://theoutline.com/images/favicon/pink/favicon-16x16.1b624a5e4111ff9d82623870b8230534.png?vsn=d",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
@@ -271,15 +316,6 @@
       "dead": ""
     },
     {
-      "name": "Pitchfork",
-      "src": "https://pitchfork.com/",
-      "icon": "https://cdn.pitchfork.com/assets/misc/favicon-32.png",
-      "cat1": "Music",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
       "name": "Every Noise At Once",
       "src": "http://everynoise.com/engenremap.html/",
       "icon": "",
@@ -289,47 +325,29 @@
       "dead": ""
     },
     {
-      "name": "New York Times",
-      "src": "https://www.nytimes.com/",
-      "icon": "https://www.nytimes.com/favicon.ico",
-      "cat1": "News",
-      "cat2": "Daily Reads",
+      "name": "Pitchfork",
+      "src": "https://pitchfork.com/",
+      "icon": "https://cdn.pitchfork.com/assets/misc/favicon-32.png",
+      "cat1": "Music",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Washington Post",
-      "src": "https://www.washingtonpost.com/",
-      "icon": "https://www.washingtonpost.com/favicon.ico",
+      "name": "Al Jazeera",
+      "src": "https://www.aljazeera.com/",
+      "icon": "https://www.aljazeera.com/favicon.ico",
       "cat1": "News",
-      "cat2": "Daily Reads",
+      "cat2": "International",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Atlantic",
-      "src": "https://www.theatlantic.com/",
-      "icon": "https://www.theatlantic.com/favicon.ico",
+      "name": "BBC News",
+      "src": "http://www.bbc.com/news",
+      "icon": "http://www.bbc.co.uk/favicon.ico",
       "cat1": "News",
       "cat2": "Daily Reads",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Reuters",
-      "src": "https://www.reuters.com/",
-      "icon": "https://www.reuters.com/favicon.ico",
-      "cat1": "News",
-      "cat2": "Daily Reads",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "NPR",
-      "src": "https://www.npr.org/",
-      "icon": "https://www.npr.org/favicon.ico",
-      "cat1": "News",
-      "cat2": "Media",
       "cat3": "",
       "dead": ""
     },
@@ -343,38 +361,11 @@
       "dead": ""
     },
     {
-      "name": "The Economist",
-      "src": "https://www.economist.com/",
-      "icon": "https://www.economist.com/favicon.ico",
+      "name": "Der Spiegel",
+      "src": "http://www.spiegel.de/international/",
+      "icon": "http://www.spiegel.de/favicon.ico",
       "cat1": "News",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Slate Magazine",
-      "src": "http://www.slate.com/",
-      "icon": "",
-      "cat1": "News",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Poynter Institute",
-      "src": "https://www.poynter.org/",
-      "icon": "https://www.poynter.org/themes/custom/poynter_theme/favicons/favicon.ico",
-      "cat1": "News",
-      "cat2": "Journalism",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Mediagazer",
-      "src": "https://www.mediagazer.com/",
-      "icon": "https://www.mediagazer.com/favicon.ico",
-      "cat1": "News",
-      "cat2": "Aggregators",
+      "cat2": "International",
       "cat3": "",
       "dead": ""
     },
@@ -382,6 +373,15 @@
       "name": "Fuego - NiemanLabs",
       "src": "http://www.niemanlab.org/fuego/",
       "icon": "http://www.niemanlab.org/favicon.ico",
+      "cat1": "News",
+      "cat2": "Aggregators",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Mediagazer",
+      "src": "https://www.mediagazer.com/",
+      "icon": "https://www.mediagazer.com/favicon.ico",
       "cat1": "News",
       "cat2": "Aggregators",
       "cat3": "",
@@ -397,6 +397,33 @@
       "dead": ""
     },
     {
+      "name": "New York Times",
+      "src": "https://www.nytimes.com/",
+      "icon": "https://www.nytimes.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "NPR",
+      "src": "https://www.npr.org/",
+      "icon": "https://www.npr.org/favicon.ico",
+      "cat1": "News",
+      "cat2": "Media",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Poynter Institute",
+      "src": "https://www.poynter.org/",
+      "icon": "https://www.poynter.org/themes/custom/poynter_theme/favicons/favicon.ico",
+      "cat1": "News",
+      "cat2": "Journalism",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Reader Supported News",
       "src": "http://readersupportednews.org/",
       "icon": "http://readersupportednews.org/templates/custom/favicon.ico",
@@ -406,11 +433,38 @@
       "dead": ""
     },
     {
-      "name": "BBC News",
-      "src": "http://www.bbc.com/news",
-      "icon": "http://www.bbc.co.uk/favicon.ico",
+      "name": "Reuters",
+      "src": "https://www.reuters.com/",
+      "icon": "https://www.reuters.com/favicon.ico",
       "cat1": "News",
       "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Slate Magazine",
+      "src": "http://www.slate.com/",
+      "icon": "",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Atlantic",
+      "src": "https://www.theatlantic.com/",
+      "icon": "https://www.theatlantic.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Economist",
+      "src": "https://www.economist.com/",
+      "icon": "https://www.economist.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
@@ -424,20 +478,20 @@
       "dead": ""
     },
     {
-      "name": "Al Jazeera",
-      "src": "https://www.aljazeera.com/",
-      "icon": "https://www.aljazeera.com/favicon.ico",
+      "name": "Washington Post",
+      "src": "https://www.washingtonpost.com/",
+      "icon": "https://www.washingtonpost.com/favicon.ico",
       "cat1": "News",
-      "cat2": "International",
+      "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Der Spiegel",
-      "src": "http://www.spiegel.de/international/",
-      "icon": "http://www.spiegel.de/favicon.ico",
+      "name": "Hacker News",
+      "src": "https://news.ycombinator.com/",
+      "icon": "https://news.ycombinator.com/favicon.ico",
       "cat1": "News",
-      "cat2": "International",
+      "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     },
@@ -460,6 +514,15 @@
       "dead": ""
     },
     {
+      "name": "Unsplash",
+      "src": "https://unsplash.com/",
+      "icon": "https://unsplash.com/favicon.ico",
+      "cat1": "Resources",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Hubble Space Telescope",
       "src": "http://www.spacetelescope.org/",
       "icon": "http://www.spacetelescope.org/static/favicon.ico",
@@ -473,24 +536,6 @@
       "src": "https://www.nature.com/",
       "icon": "https://www.nature.com/favicon.ico",
       "cat1": "Science",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "University of Twente - WebSDR",
-      "src": "http://websdr.ewi.utwente.nl:8901/",
-      "icon": "http://websdr.ewi.utwente.nl:8901/favicon.ico",
-      "cat1": "Technology",
-      "cat2": "Radio",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Wired Magazine",
-      "src": "https://www.wired.com/",
-      "icon": "https://www.wired.com/favicon.ico",
-      "cat1": "Technology",
       "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
@@ -514,15 +559,6 @@
       "dead": ""
     },
     {
-      "name": "Shodan",
-      "src": "https://www.shodan.io/",
-      "icon": "https://static.shodan.io/shodan/img/favicon.png",
-      "cat1": "Technology",
-      "cat2": "Security",
-      "cat3": "",
-      "dead": ""
-    },
-    {
       "name": "Norse Attack Map",
       "src": "http://map.norsecorp.com/",
       "icon": "",
@@ -537,6 +573,60 @@
       "icon": "",
       "cat1": "Technology",
       "cat2": "Security",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Shodan",
+      "src": "https://www.shodan.io/",
+      "icon": "https://static.shodan.io/shodan/img/favicon.png",
+      "cat1": "Technology",
+      "cat2": "Security",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Textfiles",
+      "src": "http://textfiles.com/",
+      "icon": "http://textfiles.com/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "History",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Malware Museum",
+      "src": "https://archive.org/details/malwaremuseum?&sort=-downloads",
+      "icon": "https://archive.org/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "History",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Windows 3.x Showcase",
+      "src": "https://archive.org/details/softwarelibrary_win3_showcase&tab=collection",
+      "icon": "https://archive.org/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "History",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "University of Twente - WebSDR",
+      "src": "http://websdr.ewi.utwente.nl:8901/",
+      "icon": "http://websdr.ewi.utwente.nl:8901/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "Radio",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wired Magazine",
+      "src": "https://www.wired.com/",
+      "icon": "https://www.wired.com/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
@@ -559,6 +649,15 @@
       "dead": ""
     },
     {
+      "name": "Billy Penn",
+      "src": "https://billypenn.com/",
+      "icon": "https://billypenn.com/wp-content/themes/billy-penn/assets/images/favicons/dist/favicon-16x16.png",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "A List Apart",
       "src": "http://alistapart.com/",
       "icon": "http://alistapart.com/favicon.ico",
@@ -568,29 +667,38 @@
       "dead": ""
     },
     {
-      "name": "Public Domain Review",
-      "src": "https://publicdomainreview.org/",
-      "icon": "https://publicdomainreview.org/favicon.ico",
-      "cat1": "",
-      "cat2": "",
-      "cat3": "",
-      "dead": ""
-    },
-    {
       "name": "Tin House",
       "src": "http://tinhouse.com/",
       "icon": "http://tinhouse.com/favicon.ico",
-      "cat1": "",
-      "cat2": "",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Unsplash",
-      "src": "https://unsplash.com/",
-      "icon": "https://unsplash.com/favicon.ico",
-      "cat1": "Resources",
-      "cat2": "Photography",
+      "name": "Newsmap",
+      "src": "http://newsmap.jp/",
+      "icon": "http://newsmap.jp/favicon.ico",
+      "cat1": "News",
+      "cat2": "Aggregators",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philebrity",
+      "src": "https://www.philebrity.com/",
+      "icon": "https://static1.squarespace.com/static/56f019dd45bf2132b08f9d08/t/56fee5ae044262e175f031d0/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philadelphia Inquirer",
+      "src": "http://www.philly.com/",
+      "icon": "http://www.philly.com/media.philly.com/designimages/favicon-32x32.png",
+      "cat1": "News",
+      "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     }
