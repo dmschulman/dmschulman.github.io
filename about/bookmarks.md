@@ -13,6 +13,8 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
-{{ site.data.bookmarks.bookmarks.name | group_by: 'cat1' }}
+{% for category in site.data.bookmarks.bookmarks %}
+{{ name }}
+{% endfor %}
 
 </div>
