@@ -13,7 +13,7 @@ permalink: /about/bookmarks.html
 
 {% assign categories = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
 {% for category in categories %}
-	{% assign category2 = site.data.bookmarks.bookmarks | group_by: 'cat2' | sort: 'name' %}
+	{% assign category2 = site.data.bookmarks.bookmarks.cat2 | group_by: 'cat2' | sort: 'name' %}
 	<h2>{{ category.name }}</h2>
 	<h3>{{ category2.name }}</h3>
 	{% for bookmark in category.items %}
