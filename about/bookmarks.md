@@ -15,10 +15,7 @@ permalink: /about/bookmarks.html
 {% assign category2 = site.data.bookmarks.bookmarks | group_by: 'cat2' | sort: 'name' %}
 {% for category in categories %}
 	<h2>{{ category.name }}</h2>
-		{% for cat2 in category2 %}
-		<h3>{{ cat2.name }}</h3>
-		{% endfor %}
-	{% for bookmark in category.items %}
+	{% for bookmark in category.items[cat2] %}
 	<ul class="bookmarks">
 				<li>
 					{% if bookmark.icon == '' %}
