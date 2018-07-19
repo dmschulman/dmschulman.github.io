@@ -13,15 +13,18 @@ permalink: /about/bookmarks.html
 
 {{ site.data.bookmarks.bookmarks | group_by: 'cat1' }}
 
- {% assign items_grouped = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
-{% for cat1 in items_grouped %}
-  {% assign items = item.items | sort: 'name' %}
-{% for category in items_grouped %}
- {% assign items = item.items | sort: 'name' %}
-   {% for item in items  %}
-     {{ item.title }}
-   {% endfor %}
-{% endfor %}
+{% for bookmark in site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
+<h2>{{ bookmark.cat1 }}</h2>
+		<ul class="bookmarks">
+				<li>
+					{% if bookmark.icon == '' %}
+						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
+					{% else  %}
+						<img class="favicon" src="{{ bookmark.icon }}" alt="{{ bookmark.name }}" /> 
+					{% endif %}
+					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
+				</li>
+		</ul>
 {% endfor %}
 </div>
 </div>
