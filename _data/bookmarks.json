@@ -30,7 +30,7 @@
     {
       "name": "Public Domain Review",
       "src": "https://publicdomainreview.org/",
-      "icon": "https://publicdomainreview.org/favicon.ico",
+      "icon": "https://publicdomainreview.org/wp-content/themes/hpy_pdr/favicon.ico",
       "cat1": "Art",
       "cat2": "",
       "cat3": "",
@@ -132,6 +132,42 @@
       "icon": "http://slatestarcodex.com/favicon.ico",
       "cat1": "Blogs",
       "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Billy Penn",
+      "src": "https://billypenn.com/",
+      "icon": "https://billypenn.com/wp-content/themes/billy-penn/assets/images/favicons/dist/favicon-16x16.png",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philebrity",
+      "src": "https://www.philebrity.com/",
+      "icon": "https://static1.squarespace.com/static/56f019dd45bf2132b08f9d08/t/56fee5ae044262e175f031d0/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "PlanPhilly",
+      "src": "http://planphilly.com/",
+      "icon": "http://planphilly.com/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Hidden City Philadelphia",
+      "src": "https://hiddencityphila.org/",
+      "icon": "",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
       "cat3": "",
       "dead": ""
     },
@@ -298,6 +334,42 @@
       "dead": ""
     },
     {
+      "name": "Tin House",
+      "src": "http://tinhouse.com/",
+      "icon": "http://tinhouse.com/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "kottke.org",
+      "src": "https://kottke.org/",
+      "icon": "",
+      "cat1": "Culture",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The New Yorker",
+      "src": "https://www.newyorker.com/",
+      "icon": "https://www.newyorker.com/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "VICE",
+      "src": "https://www.vice.com/en_us",
+      "icon": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon-16x16.png",
+      "cat1": "Culture",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Radio Garden",
       "src": "http://radio.garden/",
       "icon": "http://radio.garden/favico.png",
@@ -317,7 +389,7 @@
     },
     {
       "name": "Every Noise At Once",
-      "src": "http://everynoise.com/engenremap.html/",
+      "src": "http://everynoise.com/engenremap.html",
       "icon": "",
       "cat1": "Music",
       "cat2": "",
@@ -496,6 +568,51 @@
       "dead": ""
     },
     {
+      "name": "Newsmap",
+      "src": "http://newsmap.jp/",
+      "icon": "http://newsmap.jp/favicon.ico",
+      "cat1": "News",
+      "cat2": "Aggregators",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Philadelphia Inquirer",
+      "src": "http://www.philly.com/",
+      "icon": "http://media.philly.com/designimages/favicon-32x32.png",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Mother Jones",
+      "src": "https://www.motherjones.com/",
+      "icon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=32",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Truthout",
+      "src": "https://truthout.org/",
+      "icon": "https://truthout.org/wp-content/uploads/2018/03/cropped-Truthout-T-logo-sq-1200x1200-e1521532408148-32x32.png",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Nation",
+      "src": "https://www.thenation.com/",
+      "icon": "https://www.thenation.com/images/favicon.ico",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "All Things Considered",
       "src": "https://www.npr.org/programs/all-things-considered/",
       "icon": "https://www.npr.org/favicon.ico",
@@ -631,6 +748,24 @@
       "dead": ""
     },
     {
+      "name": "Synthtopia",
+      "src": "http://www.synthtopia.com/",
+      "icon": "",
+      "cat1": "Technology",
+      "cat2": "Music",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Product Hunt",
+      "src": "https://www.producthunt.com/",
+      "icon": "https://www.producthunt.com/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Pennsylvania Horticultural Society McLean Library",
       "src": "https://phsonline.org/resources/the-phs-mclean-library/",
       "icon": "",
@@ -641,18 +776,9 @@
     },
     {
       "name": "Philadelphia Parks & Recreation Sculptures",
-      "src": "http://www.phila.gov/ParksandRecreation/placestogo/Pages/Sculptures.aspx#page=1",
+      "src": "http://www.phila.gov/ParksandRecreation/placestogo/Pages/Sculptures.aspx",
       "icon": "http://www.phila.gov/favicon.ico",
       "cat1": "Travel",
-      "cat2": "Philadelphia",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Billy Penn",
-      "src": "https://billypenn.com/",
-      "icon": "https://billypenn.com/wp-content/themes/billy-penn/assets/images/favicons/dist/favicon-16x16.png",
-      "cat1": "Blogs",
       "cat2": "Philadelphia",
       "cat3": "",
       "dead": ""
@@ -667,38 +793,56 @@
       "dead": ""
     },
     {
-      "name": "Tin House",
-      "src": "http://tinhouse.com/",
-      "icon": "http://tinhouse.com/favicon.ico",
+      "name": "Streets Dept",
+      "src": "https://streetsdept.com/",
+      "icon": "https://secure.gravatar.com/blavatar/0f8b5030f60178a6c67d4970d04d6d35?s=32",
+      "cat1": "Art",
+      "cat2": "Street Art",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Talking Points Memo",
+      "src": "https://talkingpointsmemo.com/",
+      "icon": "https://talkingpointsmemo.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Millions",
+      "src": "https://themillions.com/",
+      "icon": "https://themillions.com/wp-content/themes/millions-v2/dist/images/favicon-16x16.png",
       "cat1": "Culture",
       "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Newsmap",
-      "src": "http://newsmap.jp/",
-      "icon": "http://newsmap.jp/favicon.ico",
-      "cat1": "News",
-      "cat2": "Aggregators",
+      "name": "The Paris Review",
+      "src": "https://www.theparisreview.org",
+      "icon": "https://www.theparisreview.org/images/favicons/favicon-16x16.png",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Philebrity",
-      "src": "https://www.philebrity.com/",
-      "icon": "https://static1.squarespace.com/static/56f019dd45bf2132b08f9d08/t/56fee5ae044262e175f031d0/favicon.ico",
+      "name": "Philly Chit Chat",
+      "src": "http://www.phillychitchat.com/",
+      "icon": "http://www.phillychitchat.com/wp-content/uploads/fbrfg/favicon-16x16.png",
       "cat1": "Blogs",
       "cat2": "Philadelphia",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Philadelphia Inquirer",
-      "src": "http://www.philly.com/",
-      "icon": "http://www.philly.com/media.philly.com/designimages/favicon-32x32.png",
-      "cat1": "News",
-      "cat2": "Daily Reads",
+      "name": "Real Life",
+      "src": "http://reallifemag.com/",
+      "icon": "http://reallifemag.com/favicon-16x16.png",
+      "cat1": "Technology",
+      "cat2": "Culture",
       "cat3": "",
       "dead": ""
     }
