@@ -56,3 +56,4 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
