@@ -1,7 +1,7 @@
 ---
 layout: apollo
 title: Photos
-description: "Whether traveling abroad to far away places or simply getting lost in my own backyard, I've always managed to keep a camera at my side. View my collections of photographs here."
+description: "Whether traveling abroad to far away places or simply getting lost in my own backyard, I've always managed to keep a camera at my side. View my collections of photos here."
 ---
 
 <h1>{{ page.title }}</h1>
