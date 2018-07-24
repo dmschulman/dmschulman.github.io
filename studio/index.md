@@ -1,7 +1,7 @@
 ---
 layout: apollo
 title: Studio
-description: "My studio page"
+description: "Find out more about how I produce techno and electronic music, view my synthesizer and eurorack modular collections, grab controller templates and patches for your favorite digital instruments."
 ---
 
 <h1>{{ page.title }}</h1>
