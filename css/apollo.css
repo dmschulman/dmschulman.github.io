@@ -370,6 +370,10 @@ ul.bookmarks {
   margin: 0 auto 30px auto;
 }
 
+  ul.bookmarks li i {
+  font-size: 1rem;
+  }
+
 img.favicon {
   width: 16px;
   height: 16px;
