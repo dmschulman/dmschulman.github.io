@@ -1,8 +1,6 @@
 ---
 title: So here's the deal with Windows
 layout: post
-author: dmschulman
-permalink: /so-here's-the-deal-with-windows/
 tags:
 - life
 - computing

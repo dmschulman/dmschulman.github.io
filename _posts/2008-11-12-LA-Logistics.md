@@ -1,8 +1,6 @@
 ---
 title: LA Logistics
 layout: post
-author: dmschulman
-permalink: /la-logistics/
 tags:
 - life
 - problem solving

@@ -1,8 +1,6 @@
 ---
 title: I've been reading a lot of blogs lately
 layout: post
-author: dmschulman
-permalink: /ive-been-reading-a-lot-of-blogs-lately/
 tags:
 - life
 - musings

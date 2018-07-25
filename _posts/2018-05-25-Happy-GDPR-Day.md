@@ -1,8 +1,6 @@
 ---
 title: Happy GDPR Day!
 layout: post
-author: dmschulman
-permalink: /happy-gdpr-day/
 tags:
 - internet
 - technology

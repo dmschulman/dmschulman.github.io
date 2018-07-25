@@ -1,8 +1,6 @@
 ---
 title: Why people like Twitter and why everyone should use it
 layout: post
-author: dmschulman
-permalink: /why-people-like-twitter-and-why-everyone-should-use-it/
 tags:
 - internet
 - technology

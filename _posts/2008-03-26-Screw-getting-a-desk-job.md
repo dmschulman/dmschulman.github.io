@@ -1,8 +1,6 @@
 ---
 title: Screw getting a desk job
 layout: post
-author: dmschulman
-permalink: /screw-getting-a-desk-job/
 tags:
 - travel
 - economy

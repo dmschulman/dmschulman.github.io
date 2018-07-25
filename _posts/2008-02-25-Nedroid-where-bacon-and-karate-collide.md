@@ -1,8 +1,6 @@
 ---
 title: Nedroid, where bacon and karate collide
 layout: post
-author: dmschulman
-permalink: /nedroid-where-bacon-and-karate-collide/
 tags:
 - comic
 - funny

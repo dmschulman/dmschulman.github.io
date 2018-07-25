@@ -1,8 +1,6 @@
 ---
 title: Pre-departure Checklist
 layout: post
-author: dmschulman
-permalink: /pre-departure-checklist/
 tags:
 - life
 - travel

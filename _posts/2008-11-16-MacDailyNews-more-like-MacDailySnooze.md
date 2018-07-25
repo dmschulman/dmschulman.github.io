@@ -1,8 +1,6 @@
 ---
 title: MacDailyNews more like MacDailySnooze
 layout: post
-author: dmschulman
-permalink: /macdailynews-more-like-macdailysnooze/
 tags:
 - technology
 - gadget

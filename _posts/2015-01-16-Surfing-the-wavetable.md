@@ -1,8 +1,6 @@
 ---
 title: Surfing the wavetable
 layout: post
-author: dmschulman
-permalink: /surfing-the-wavetable/
 tags:
 - synthesizer
 - music

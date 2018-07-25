@@ -1,8 +1,6 @@
 ---
 title: Perpetually Unemployed
 layout: post
-author: dmschulman
-permalink: /perpetually-unemployed/
 tags:
 - life
 - musings

@@ -1,8 +1,6 @@
 ---
 title: Portfolio, ho!
 layout: post
-author: dmschulman
-permalink: /portfolio-ho!/
 tags:
 - life
 - announcement

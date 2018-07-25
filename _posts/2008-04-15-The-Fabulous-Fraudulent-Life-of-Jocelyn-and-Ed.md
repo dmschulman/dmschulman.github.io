@@ -1,8 +1,6 @@
 ---
 title: The Fabulous Fraudulent Life of Jocelyn and Ed
 layout: post
-author: dmschulman
-permalink: /the-fabulous-fraudulent-life-of-jocelyn-and-ed/
 tags:
 - crime
 - philadelphia

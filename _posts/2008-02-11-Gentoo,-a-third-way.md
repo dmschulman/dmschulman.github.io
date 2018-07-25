@@ -1,8 +1,6 @@
 ---
 title: Gentoo, a third way
 layout: post
-author: dmschulman
-permalink: /gentoo,-a-third-way/
 tags:
 - linux
 - computing

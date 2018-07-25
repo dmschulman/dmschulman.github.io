@@ -1,8 +1,6 @@
 ---
 title: Oh, so you want updates now?
 layout: post
-author: dmschulman
-permalink: /oh-so-you-want-updates-now/
 tags:
 - life
 - announcement

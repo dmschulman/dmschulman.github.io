@@ -1,8 +1,6 @@
 ---
 title: Out of Print - The death of the American newspaper
 layout: post
-author: dmschulman
-permalink: /out-of-print-the-death-of-the-american-newspaper/
 tags:
 - musings
 - internet

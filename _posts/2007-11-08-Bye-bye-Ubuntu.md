@@ -1,7 +1,6 @@
 ---
 title: Bye bye Ubuntu
 layout: post
-author: dmschulman
 tags:
 - windows
 - linux

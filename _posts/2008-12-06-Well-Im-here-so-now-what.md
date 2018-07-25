@@ -1,8 +1,6 @@
 ---
 title: Well, I'm here, so now what?
 layout: post
-author: dmschulman
-permalink: /well-im-here-so-now-what/
 tags:
 - life
 - los angeles

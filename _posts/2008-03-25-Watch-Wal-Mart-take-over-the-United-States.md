@@ -1,8 +1,6 @@
 ---
 title: Watch Wal-Mart take over the United States
 layout: post
-author: dmschulman
-permalink: /watch-wal-mart-take-over-the-united-states/
 tags:
 - politics
 - economy

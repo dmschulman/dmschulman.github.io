@@ -1,8 +1,6 @@
 ---
 title: If this is the future of advertising we are in for some serious trouble
 layout: post
-author: dmschulman
-permalink: /if-this-is-the-future-of-advertising-we-are-in-for-some-serious-trouble/
 tags:
 - television
 - musings

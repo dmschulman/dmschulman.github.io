@@ -1,8 +1,6 @@
 ---
 title: Here's How I spent my Winter Road Trip
 layout: post
-author: dmschulman
-permalink: /here's-how-i-spent-my-winter-road-trip/
 tags:
 - life
 - travel

@@ -1,8 +1,6 @@
 ---
 title: A fresh start, whether I like it or not
 layout: post
-author: dmschulman
-permalink: /a-fresh-start-whether-i-like-it-or-not/
 tags:
 - life
 - linux

@@ -1,8 +1,6 @@
 ---
 title: IPv4 finally exhausted, long live IPv6
 layout: post
-author: dmschulman
-permalink: /_posts//ipv4-finally-exhausted,-long-live-ipv6/
 tags:
 - internet
 - technology

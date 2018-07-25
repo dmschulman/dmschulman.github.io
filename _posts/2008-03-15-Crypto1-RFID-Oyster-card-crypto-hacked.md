@@ -1,8 +1,6 @@
 ---
 title: Crypto1 (RFID, Oyster card crypto) hacked
 layout: post
-author: dmschulman
-permalink: /crypto1-rfid-oyster-card-crypto-hacked/
 tags:
 - hacking
 - wireless

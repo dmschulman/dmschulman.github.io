@@ -1,8 +1,6 @@
 ---
 title: Archive.org to the rescue
 layout: post
-author: dmschulman
-permalink: /archiveorg-to-the-rescue/
 tags:
 - life
 - internet

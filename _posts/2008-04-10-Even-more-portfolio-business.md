@@ -1,8 +1,6 @@
 ---
 title: Even more portfolio business
 layout: post
-author: dmschulman
-permalink: /even-more-portfolio-business/
 tags:
 - announcement
 - graphic design

@@ -1,8 +1,6 @@
 ---
 title: I'm convinced Cory Doctorow is a jackass
 layout: post
-author: dmschulman
-permalink: /i'm-convinced-cory-doctorow-is-a-jackass/
 tags:
 - internet
 - funny

@@ -1,8 +1,6 @@
 ---
 title: Lost America - Ghost Towns
 layout: post
-author: dmschulman
-permalink: /lost-america-ghost-towns/
 tags:
 - bookmarks
 - photography

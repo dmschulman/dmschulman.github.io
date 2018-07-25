@@ -1,8 +1,6 @@
 ---
 title: Historic houses humbled by downturn
 layout: post
-author: dmschulman
-permalink: /historic-houses-humbled-by-downturn/
 tags:
 - economy
 - architecture

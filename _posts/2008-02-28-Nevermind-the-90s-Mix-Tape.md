@@ -1,8 +1,6 @@
 ---
 title: Nevermind the 90s Mix Tape
 layout: post
-author: dmschulman
-permalink: /nevermind-the-90s-mix-tape/
 tags:
 - music
 - mixtape

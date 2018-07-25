@@ -1,8 +1,6 @@
 ---
 title: The Gentoo checklist
 layout: post
-author: dmschulman
-permalink: /the-gentoo-checklist/
 tags:
 - linux
 - computing

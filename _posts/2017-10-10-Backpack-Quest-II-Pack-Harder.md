@@ -1,8 +1,6 @@
 ---
 title: Backpack Quest II - Pack Harder
 layout: post
-author: dmschulman
-permalink: /backpack-quest-ii-pack-harder/
 tags:
 - process
 - travel

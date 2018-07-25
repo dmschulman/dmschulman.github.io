@@ -1,8 +1,6 @@
 ---
 title: Bookmark No More
 layout: post
-author: dmschulman
-permalink: /bookmark-no-more/
 tags:
 - internet
 - technology

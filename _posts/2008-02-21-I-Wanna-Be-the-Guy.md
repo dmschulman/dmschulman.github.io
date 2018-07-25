@@ -1,8 +1,6 @@
 ---
 title: I Wanna Be the Guy!
 layout: post
-author: dmschulman
-permalink: /i-wanna-be-the-guy/
 tags:
 - gaming
 - video

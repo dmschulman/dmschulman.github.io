@@ -1,8 +1,6 @@
 ---
 title: Installing Arch Linux on a Thinkpad X1 Yoga for fun and profit
 layout: post
-author: dmschulman
-permalink: /installing-arch-linux-on-a-thinkpad-x1-yoga-for-fun-and-profit/
 tags:
 - linux
 - how-to

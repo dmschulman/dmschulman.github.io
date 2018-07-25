@@ -1,8 +1,6 @@
 ---
 title: Total lunar eclipse tonight
 layout: post
-author: dmschulman
-permalink: /total-lunar-eclipse-tonight/
 tags:
 - space
 source-id: 18tfeyhYk6ljM6I35MT45IiLTmNOke2aBvqNRoGK-ZBE

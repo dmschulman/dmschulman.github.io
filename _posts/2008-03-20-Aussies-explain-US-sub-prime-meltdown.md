@@ -1,8 +1,6 @@
 ---
 title: Aussies explain US sub-prime meltdown
 layout: post
-author: dmschulman
-permalink: /aussies-explain-us-sub-prime-meltdown/
 tags:
 - economy
 - politics

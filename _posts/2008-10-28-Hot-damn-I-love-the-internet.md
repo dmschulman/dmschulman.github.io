@@ -1,8 +1,6 @@
 ---
 title: Hot damn, I love the internet
 layout: post
-author: dmschulman
-permalink: /hot-damn-i-love-the-internet/
 tags:
 - los angeles
 - announcement

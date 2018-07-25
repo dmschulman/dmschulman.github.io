@@ -1,8 +1,6 @@
 ---
 title: Fortune-TV - fortune files full of TV quotes
 layout: post
-author: dmschulman
-permalink: /fortune-tv-fortune-files-full-of-tv-quotes/
 tags:
 - internet
 - linux

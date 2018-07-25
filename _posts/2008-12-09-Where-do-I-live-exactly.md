@@ -1,8 +1,6 @@
 ---
 title: Where do I live exactly?
 layout: post
-author: dmschulman
-permalink: /where-do-i-live-exactly/
 tags:
 - musings
 - los angeles

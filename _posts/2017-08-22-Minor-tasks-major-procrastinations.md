@@ -1,8 +1,6 @@
 ---
 title: Minor tasks, major procrastinations
 layout: post
-author: dmschulman
-permalink: /minor-tasks-major-procrastinations/
 tags:
 - process
 - life
