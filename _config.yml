@@ -61,8 +61,9 @@ markdown: kramdown
 #theme: apollo
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
+gems:
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
