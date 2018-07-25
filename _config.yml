@@ -6,7 +6,7 @@ title: dmschulman.com
 title_separator: "|"
 description: "My great website"
 url: "https://dmschulman.com" # the base hostname & protocol for your site
-baseurl: "/blog" # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
 locale: "en-US"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -47,13 +47,14 @@ collections:
 
 # Defaults
 defaults:
+ -
     scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       author: "David Schulman"
-      #permalink: /:title.html
+      permalink: /blog/:title.html
       
 # Build settings
 markdown: kramdown
