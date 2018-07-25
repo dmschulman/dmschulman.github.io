@@ -8,7 +8,7 @@ description: "My great website"
 url: "https://dmschulman.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
-#permalink: "/blog/:name:output_ext"
+permalink: "/blog/:name:output_ext"
 locale: "en-US"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
