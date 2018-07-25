@@ -53,7 +53,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: "/:path/:basename:output_ext"
+      author: "David Schulman"
+      permalink: "/blog/:slug.html"
       
 # Build settings
 markdown: kramdown
