@@ -8,7 +8,6 @@ description: "My great website"
 url: "https://dmschulman.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
-#permalink: "/blog/:name:output_ext"
 locale: "en-US"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
@@ -29,8 +28,8 @@ facebook:
   username: dmschulman
 og_image: #Open Graph/Twitter default site image
 social:
-  type: #Person or Organization (defaults to Person)
-  name: #If the user or organization name differs from the site's name
+  type: "Person"
+  name: "David M. Schulman"
   links: #An array of links to social media profiles
 
 # Collections
@@ -38,23 +37,24 @@ collections:
   photos:
     output: true
     output_ext: .html
-    title: Photos
+    title: "Photos"
     #permalink: /:collection/:name:output_ext
   projects:
     output: true
     output_ext: .html
-    title: Projects
+    title: "Projects"
     #permalink: /:collection/:name:output_ext
 
 # Defaults
 defaults:
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_posts" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       author: "David Schulman"
-      permalink: "blog/:year/:title.html"
+      output_ext: .html
+      permalink: "/blog/:year/:title"
       
 # Build settings
 markdown: kramdown
