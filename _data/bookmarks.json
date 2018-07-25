@@ -176,7 +176,7 @@
       "src": "https://seekingalpha.com/",
       "icon": "https://seekingalpha.com/favicon.ico",
       "cat1": "Business",
-      "cat2": "",
+      "cat2": "Finance",
       "cat3": "",
       "dead": ""
     },
@@ -185,7 +185,7 @@
       "src": "https://www.zerohedge.com/",
       "icon": "https://www.zerohedge.com/themes/zerohedge/favicons/favicon-16x16.png",
       "cat1": "Business",
-      "cat2": "",
+      "cat2": "Finance",
       "cat3": "",
       "dead": ""
     },
@@ -335,8 +335,8 @@
     },
     {
       "name": "Tin House",
-      "src": "http://tinhouse.com/",
-      "icon": "http://tinhouse.com/favicon.ico",
+      "src": "https://tinhouse.com/",
+      "icon": "",
       "cat1": "Culture",
       "cat2": "Magazines and Journals",
       "cat3": "",
@@ -401,7 +401,7 @@
       "src": "https://pitchfork.com/",
       "icon": "https://cdn.pitchfork.com/assets/misc/favicon-32.png",
       "cat1": "Music",
-      "cat2": "Magazines and Journals",
+      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
@@ -751,8 +751,8 @@
       "name": "Synthtopia",
       "src": "http://www.synthtopia.com/",
       "icon": "",
-      "cat1": "Technology",
-      "cat2": "Music",
+      "cat1": "Music",
+      "cat2": "Technology",
       "cat3": "",
       "dead": ""
     },
@@ -815,7 +815,7 @@
       "src": "https://themillions.com/",
       "icon": "https://themillions.com/wp-content/themes/millions-v2/dist/images/favicon-16x16.png",
       "cat1": "Culture",
-      "cat2": "Magazines and Journals",
+      "cat2": "Literature",
       "cat3": "",
       "dead": ""
     },
@@ -824,7 +824,7 @@
       "src": "https://www.theparisreview.org",
       "icon": "https://www.theparisreview.org/images/favicons/favicon-16x16.png",
       "cat1": "Culture",
-      "cat2": "Magazines and Journals",
+      "cat2": "Literature",
       "cat3": "",
       "dead": ""
     },
@@ -843,6 +843,42 @@
       "icon": "http://reallifemag.com/favicon-16x16.png",
       "cat1": "Technology",
       "cat2": "Culture",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Bitter Southerner",
+      "src": "https://bittersoutherner.com/",
+      "icon": "https://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/5277d2fee4b02f841cc51a86/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "MacKiDo",
+      "src": "http://www.mackido.com/",
+      "icon": "",
+      "cat1": "Technology",
+      "cat2": "Apple",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "soma.fm",
+      "src": "http://somafm.com/",
+      "icon": "http://somafm.com/favicon.ico",
+      "cat1": "Music",
+      "cat2": "Streaming Radio",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "West Philly Local",
+      "src": "http://www.westphillylocal.com/",
+      "icon": "",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
       "cat3": "",
       "dead": ""
     }
