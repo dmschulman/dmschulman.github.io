@@ -168,7 +168,7 @@
   }
   
   ul.bookmarks li {
-  margin-bottom: 5px;
+  margin: 0 0 5px 0;
   }
 }
 
@@ -367,7 +367,7 @@ ul.photo-gallery img {
 
 ul.bookmarks {
   list-style: none;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 30px auto;
 }
 
 img.favicon {
