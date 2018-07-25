@@ -115,6 +115,11 @@
     -moz-column-count: 4;
     column-count: 4;
   }
+  
+  ul.bookmarks li {
+  margin: 0;
+  font-size: .875rem;
+  }
 }
 
 @media only screen and (max-width: 1023px) {
@@ -160,6 +165,10 @@
      -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2;
+  }
+  
+  ul.bookmarks li {
+  margin-bottom: 5px;
   }
 }
 
@@ -358,7 +367,7 @@ ul.photo-gallery img {
 
 ul.bookmarks {
   list-style: none;
-  margin: 0;
+  margin: 0 auto 20px auto;
 }
 
 img.favicon {
