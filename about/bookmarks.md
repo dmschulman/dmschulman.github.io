@@ -14,8 +14,8 @@ permalink: /about/bookmarks.html
 {% assign categories = site.data.bookmarks.bookmarks | group_by: 'cat1' | sort: 'name' %}
 {% for category in categories %}
 	<h2>{{ category.name }}</h2>
-	{% for bookmark in category.items %}
 	<ul class="bookmarks">
+		{% for bookmark in category.items %}
 				<li>
 					{% if bookmark.icon == '' %}
 						<i aria-hidden class="fas fa-globe" title="{{ bookmark.name }}"></i>
@@ -24,8 +24,8 @@ permalink: /about/bookmarks.html
 					{% endif %}
 					<a href="{{ bookmark.src }}" title="{{ bookmark.name }}" target="_blank">{{ bookmark.name }}</a>
 				</li>
-		</ul>
-	{% endfor %}
+		{% endfor %}
+	</ul>
 {% endfor %}
 </div>
 </div>
