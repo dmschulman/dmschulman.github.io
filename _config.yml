@@ -53,6 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: "/:path/:basename:output_ext"
       
 # Build settings
 markdown: kramdown
