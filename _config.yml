@@ -54,7 +54,7 @@ defaults:
     values:
       layout: "post"
       author: "David Schulman"
-      permalink: /blog/:title.html
+      permalink: /blog/:slug.html
       
 # Build settings
 markdown: kramdown
