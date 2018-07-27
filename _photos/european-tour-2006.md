@@ -3,7 +3,7 @@ layout: photo-gallery
 title: "Bruges, Amsterdam, Berlin, and Prague"
 name: "European Tour 2006"
 permalink: /photos/european-tour-2006.html
-thumbnail: italy-2004.jpg
+thumbnail: european-tour-2006-thumb.jpg
 photoJSON: european-tour-2006.json
 date: 2006-10-17
 endDate: 2006-10-22
