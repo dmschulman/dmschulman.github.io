@@ -3,7 +3,7 @@ layout: photo-gallery
 title: "Rome, Vatican City, Florence, and Cinque Terre"
 name: "Italy 2004"
 permalink: /photos/italy-2004.html
-thumbnail: italy-2004.jpg
+thumbnail: italy-2004-thumb.jpg
 photoJSON: italy-2004.json
 date: 2004-07-20
 endDate: 2004-07-26
