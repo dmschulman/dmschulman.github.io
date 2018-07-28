@@ -261,13 +261,14 @@ ul.photo-gallery li {
 }
 
    ul.photo-gallery a {
-      display: block;
-      width: auto;
-      border-bottom: none;
-      color: #ffffff;
-      -moz-transition: all 1s;
-      -webkit-transition: all 1s;
-      transition: all 1s;
+     display: block;
+     width: 360px;
+     height: 280px;
+     border-bottom: none;
+     color: #ffffff;
+     -moz-transition: all 1s;
+     -webkit-transition: all 1s;
+     transition: all 1s;
    }
 
    ul.photo-gallery a:hover,
@@ -282,29 +283,23 @@ ul.photo-gallery li {
 
 ul.photo-gallery img {
   vertical-align: top;
-  min-width: 300px;
-  max-width: 360px;
+  width: 360px;
   height: auto;
 }
-
-   ul.photo-gallery img.thumbnail {
-   }
 
   ul.photo-gallery li a .gallery-meta {
     position: absolute;
     display: flex;
     width: 360px;
     height: 280px;
-    top: 40%;
-    left: 60%;
+    top: 46%;
+    left: 58%;
     transform: translate(-50%, -50%);
-    width: 80%;
   }
 
   .gallery-meta h2 {
     display: block;
     font-weight: normal;
-    margin-bottom: 20px;
     line-height: 2rem;
     align-self: flex-end;
   }
