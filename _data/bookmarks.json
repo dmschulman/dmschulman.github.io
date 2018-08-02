@@ -55,6 +55,15 @@
       "dead": ""
     },
     {
+      "name": "Streets Dept",
+      "src": "https://streetsdept.com/",
+      "icon": "https://secure.gravatar.com/blavatar/0f8b5030f60178a6c67d4970d04d6d35?s=32",
+      "cat1": "Art",
+      "cat2": "Street Art",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Cure for Bedbugs",
       "src": "http://cureforbedbugs.com/",
       "icon": "",
@@ -165,6 +174,24 @@
     {
       "name": "Hidden City Philadelphia",
       "src": "https://hiddencityphila.org/",
+      "icon": "",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philly Chit Chat",
+      "src": "http://www.phillychitchat.com/",
+      "icon": "http://www.phillychitchat.com/wp-content/uploads/fbrfg/favicon-16x16.png",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "West Philly Local",
+      "src": "http://www.westphillylocal.com/",
       "icon": "",
       "cat1": "Blogs",
       "cat2": "Philadelphia",
@@ -370,11 +397,29 @@
       "dead": ""
     },
     {
-      "name": "Radio Garden",
-      "src": "http://radio.garden/",
-      "icon": "http://radio.garden/favico.png",
-      "cat1": "Entertainment",
-      "cat2": "Radio",
+      "name": "The Millions",
+      "src": "https://themillions.com/",
+      "icon": "https://themillions.com/wp-content/themes/millions-v2/dist/images/favicon-16x16.png",
+      "cat1": "Culture",
+      "cat2": "Literature",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Paris Review",
+      "src": "https://www.theparisreview.org",
+      "icon": "https://www.theparisreview.org/images/favicons/favicon-16x16.png",
+      "cat1": "Culture",
+      "cat2": "Literature",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Bitter Southerner",
+      "src": "https://bittersoutherner.com/",
+      "icon": "https://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/5277d2fee4b02f841cc51a86/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
@@ -384,6 +429,15 @@
       "icon": "https://www.budgetbytes.com/favicon.ico",
       "cat1": "Food",
       "cat2": "Recipes",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Radio Garden",
+      "src": "http://radio.garden/",
+      "icon": "http://radio.garden/favico.png",
+      "cat1": "Music",
+      "cat2": "Streaming Radio",
       "cat3": "",
       "dead": ""
     },
@@ -402,6 +456,24 @@
       "icon": "https://cdn.pitchfork.com/assets/misc/favicon-32.png",
       "cat1": "Music",
       "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Synthtopia",
+      "src": "http://www.synthtopia.com/",
+      "icon": "",
+      "cat1": "Music",
+      "cat2": "Technology",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "soma.fm",
+      "src": "http://somafm.com/",
+      "icon": "http://somafm.com/favicon.ico",
+      "cat1": "Music",
+      "cat2": "Streaming Radio",
       "cat3": "",
       "dead": ""
     },
@@ -613,6 +685,33 @@
       "dead": ""
     },
     {
+      "name": "Talking Points Memo",
+      "src": "https://talkingpointsmemo.com/",
+      "icon": "https://talkingpointsmemo.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Slate Magazine",
+      "src": "https://slate.com/",
+      "icon": "https://slate.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Axios",
+      "src": "https://www.axios.com/",
+      "icon": "https://assets.axios.com/icons-023b31e91db1f3ed6ba6184b3117b001/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "All Things Considered",
       "src": "https://www.npr.org/programs/all-things-considered/",
       "icon": "https://www.npr.org/favicon.ico",
@@ -636,6 +735,15 @@
       "icon": "https://unsplash.com/favicon.ico",
       "cat1": "Resources",
       "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wikipedia",
+      "src": "https://www.wikipedia.org/",
+      "icon": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+      "cat1": "Resources",
+      "cat2": "Information",
       "cat3": "",
       "dead": ""
     },
@@ -748,20 +856,29 @@
       "dead": ""
     },
     {
-      "name": "Synthtopia",
-      "src": "http://www.synthtopia.com/",
-      "icon": "",
-      "cat1": "Music",
-      "cat2": "Technology",
-      "cat3": "",
-      "dead": ""
-    },
-    {
       "name": "Product Hunt",
       "src": "https://www.producthunt.com/",
       "icon": "https://www.producthunt.com/favicon.ico",
       "cat1": "Technology",
       "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Real Life",
+      "src": "http://reallifemag.com/",
+      "icon": "http://reallifemag.com/favicon-16x16.png",
+      "cat1": "Technology",
+      "cat2": "Culture",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "MacKiDo",
+      "src": "http://www.mackido.com/",
+      "icon": "",
+      "cat1": "Technology",
+      "cat2": "Apple",
       "cat3": "",
       "dead": ""
     },
@@ -793,92 +910,74 @@
       "dead": ""
     },
     {
-      "name": "Streets Dept",
-      "src": "https://streetsdept.com/",
-      "icon": "https://secure.gravatar.com/blavatar/0f8b5030f60178a6c67d4970d04d6d35?s=32",
-      "cat1": "Art",
-      "cat2": "Street Art",
+      "name": "Troy Hunt",
+      "src": "https://www.troyhunt.com/",
+      "icon": "https://www.troyhunt.com/favicon.png",
+      "cat1": "Technology",
+      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "Talking Points Memo",
-      "src": "https://talkingpointsmemo.com/",
-      "icon": "https://talkingpointsmemo.com/favicon.ico",
+      "name": "Phil Haack",
+      "src": "https://haacked.com/",
+      "icon": "https://haacked.com/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Big Muff π Page ",
+      "src": "http://www.kitrae.net/music/Big_Muff_Mods_and_Tweaks_Page.html",
+      "icon": "",
+      "cat1": "DIY",
+      "cat2": "Electronics",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Politico",
+      "src": "https://www.politico.com/",
+      "icon": "https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png",
       "cat1": "News",
       "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Millions",
-      "src": "https://themillions.com/",
-      "icon": "https://themillions.com/wp-content/themes/millions-v2/dist/images/favicon-16x16.png",
-      "cat1": "Culture",
-      "cat2": "Literature",
+      "name": "FiveThirtyEight",
+      "src": "https://fivethirtyeight.com/",
+      "icon": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.8",
+      "cat1": "News",
+      "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Paris Review",
-      "src": "https://www.theparisreview.org",
-      "icon": "https://www.theparisreview.org/images/favicons/favicon-16x16.png",
-      "cat1": "Culture",
-      "cat2": "Literature",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Philly Chit Chat",
-      "src": "http://www.phillychitchat.com/",
-      "icon": "http://www.phillychitchat.com/wp-content/uploads/fbrfg/favicon-16x16.png",
-      "cat1": "Blogs",
-      "cat2": "Philadelphia",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Real Life",
-      "src": "http://reallifemag.com/",
-      "icon": "http://reallifemag.com/favicon-16x16.png",
+      "name": "Electronic Privacy Information Center",
+      "src": "https://epic.org/",
+      "icon": "https://epic.org/favicon2.ico",
       "cat1": "Technology",
-      "cat2": "Culture",
+      "cat2": "Security",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "The Bitter Southerner",
-      "src": "https://bittersoutherner.com/",
-      "icon": "https://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/5277d2fee4b02f841cc51a86/favicon.ico",
-      "cat1": "Culture",
+      "name": "Stratechery",
+      "src": "https://stratechery.com/",
+      "icon": "https://stratechery.com/favicon/favicon.ico",
+      "cat1": "Technology",
       "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
     {
-      "name": "MacKiDo",
-      "src": "http://www.mackido.com/",
-      "icon": "",
+      "name": "Restore Privacy",
+      "src": "https://restoreprivacy.com/",
+      "icon": "https://cdn-resprivacy.pressidium.com/wp-content/uploads/2017/06/cropped-icon-32x32.png",
       "cat1": "Technology",
-      "cat2": "Apple",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "soma.fm",
-      "src": "http://somafm.com/",
-      "icon": "http://somafm.com/favicon.ico",
-      "cat1": "Music",
-      "cat2": "Streaming Radio",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "West Philly Local",
-      "src": "http://www.westphillylocal.com/",
-      "icon": "",
-      "cat1": "Blogs",
-      "cat2": "Philadelphia",
+      "cat2": "Security",
       "cat3": "",
       "dead": ""
     }
