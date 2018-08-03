@@ -19,10 +19,12 @@ own: true
 blurb: ""
 ---
 
-{{ page.title }}
+<h1>{{ page.title }}</h1>
 <img src="{{ page.image }}" alt="{{ page.title }}">
 
-Short Description
-Tips and Tricks
-Special Notes
-Patches/Downloads
+<h2>Audio Examples</h2>
+<h2>Tips and Tricks</h2>
+<h2>Documentation</h2>
+<h2>Patches and Downloads</h2>
+<h2>Links and Resources</h2>
+<h2>{{ page.title }} Pictures</h2>
