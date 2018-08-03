@@ -52,14 +52,14 @@ collections:
 
 # Defaults
 defaults:
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
       layout: "post"
       author: "David Schulman"
       permalink: /blog/:year/:slug.html  
-    scope:
+  - scope:
       path: ""
       type: "gear"
     values:
