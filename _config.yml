@@ -44,6 +44,11 @@ collections:
     output_ext: .html
     title: "Projects"
     #permalink: /:collection/:name:output_ext
+  gear:
+    output: true
+    output_ext: .html
+    title: "Gear"
+    permalink: /studio/:collection/:name:output_ext
 
 # Defaults
 defaults:
