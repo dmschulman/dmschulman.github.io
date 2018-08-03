@@ -38,17 +38,14 @@ collections:
     output: true
     output_ext: .html
     title: "Photos"
-    #permalink: /:collection/:name:output_ext
   projects:
     output: true
     output_ext: .html
     title: "Projects"
-    #permalink: /:collection/:name:output_ext
   gear:
     output: true
     output_ext: .html
     title: "Gear"
-    permalink: /studio/:collection/:name:output_ext
 
 # Defaults
 defaults:
@@ -64,6 +61,7 @@ defaults:
       type: "gear"
     values:
       layout: "gear"
+      permalink: /studio/:collection/:name.html
       
 # Build settings
 markdown: kramdown
