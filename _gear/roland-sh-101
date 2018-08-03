@@ -1,4 +1,5 @@
-layout: gear
+---
+layout: apollo 
 title: "Roland SH-101"
 description: ""
 make: "Roland"
