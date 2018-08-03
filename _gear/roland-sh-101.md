@@ -20,7 +20,7 @@ blurb: ""
 ---
 
 {{ page.title }}
-{{ page.image }}
+<img src="{{ page.image }}" alt="{{ page.title }}">
 
 Short Description
 Tips and Tricks
