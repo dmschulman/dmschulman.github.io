@@ -41,7 +41,7 @@ service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 </ul>
 <h2>{{ page.title }} Pictures</h2>
 <ul>
-  <li><img src="https://drive.google.com/open?id=1coqyCaZ3zZRWfzGZxoE-Y_jP-zZcXwfI" /></li>
+  <li><iframe src="https://drive.google.com/file/d/1coqyCaZ3zZRWfzGZxoE-Y_jP-zZcXwfI/preview" width="640" height="480"></iframe></li>
   <li><img src="https://drive.google.com/open?id=154bH97_UHR37qy4-Dewa_peb_68vLzCP" /></li>
   <li><img src="https://drive.google.com/open?id=190-hlJmC7OxfogM2v8efk9eiKPArZBEx" /></li>
   <li><img src="https://drive.google.com/open?id=10r0PjVLR2SNk6sG8re5JItlblKMcpeRr" /></li>
