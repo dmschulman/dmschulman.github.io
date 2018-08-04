@@ -40,10 +40,3 @@ service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
   <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
 </ul>
 <h2>{{ page.title }} Pictures</h2>
-<ul>
-  <li><iframe src="https://drive.google.com/file/d/1coqyCaZ3zZRWfzGZxoE-Y_jP-zZcXwfI/preview" width="640" height="480"></iframe></li>
-  <li><img src="https://drive.google.com/open?id=154bH97_UHR37qy4-Dewa_peb_68vLzCP" /></li>
-  <li><img src="https://drive.google.com/open?id=190-hlJmC7OxfogM2v8efk9eiKPArZBEx" /></li>
-  <li><img src="https://drive.google.com/open?id=10r0PjVLR2SNk6sG8re5JItlblKMcpeRr" /></li>
-  <li><img src="https://drive.google.com/open?id=1G7miFHIbCzRSVuzWxzEdCEc5-4IjcZhq" /></li>
-</ul>
