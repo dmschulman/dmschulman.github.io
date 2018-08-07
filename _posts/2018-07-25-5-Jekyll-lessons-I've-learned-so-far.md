@@ -24,7 +24,7 @@ I'm embarrassed to admit this as this was my own damn fault, the result of a typ
 
 As it turns out, Jekyll was not able to take my configuration preferences into account because Jekyll was never able to detect I had a config file available. My file was incorrectly named "config.yml". Jekyll only listens for a configuration file named “_config.yml”. After renaming the file appropriately, adding the leading underscore to the filename, everything worked as expected I was off and running again.
 
-![image alt text]({{ site.url }}/public/jyz3TuQRZ7u74D3VdsTXQg_img_0.png)
+<center>![image alt text]({{ site.url }}/public/jyz3TuQRZ7u74D3VdsTXQg_img_0.png)</center>
 
 ## 2. Do not use quotation marks around URLs in your front matter
 
@@ -46,7 +46,7 @@ It was due to the fact that I had issues getting my permalink structure to work 
 
 Prevent issues like this before they become a problem. Decide on a structure from day one and use a global permalink definition in your _config.yml (and make sure to remove or disable any permalink tags that may get added to your documents via a Markdown editor or publishing tool).
 
-![image alt text]({{ site.url }}/public/jyz3TuQRZ7u74D3VdsTXQg_img_1.jpg)
+<center>![image alt text]({{ site.url }}/public/jyz3TuQRZ7u74D3VdsTXQg_img_1.jpg)</center>
 
 ## 4. Using Github Pages? You'll want to install Travis CI for debugging
 
@@ -69,12 +69,8 @@ As I've taken on developing a lot of these features concurrently my blog might b
 **Bonus!** Here are a few other Jekyll blog posts, tools, and other miscellany that have helped me along the way in my early days with this site:
 
 [Moving to Jekyll / Outcoldman.com](https://www.outcoldman.com/en/archive/2014/04/29/jekyll/)
-
-[Stupid Jekyll tricks / Ethan Marcotte](https://ethanmarcotte.com/wrote/stupid-jekyll-tricks/)[How I'm Using Jekyll in 2016 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2016/)
-
+[Stupid Jekyll tricks / Ethan Marcotte](https://ethanmarcotte.com/wrote/stupid-jekyll-tricks/)
+[How I'm Using Jekyll in 2016 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2016/)
 [How I'm Using Jekyll in 2017 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2017/)
-
 [A master _config.yml containing a bunch of configuration options](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml)
-
 [Gabriel for Google Docs, a Markdown editor and publishing tool](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff?hl=en-GB)
-
