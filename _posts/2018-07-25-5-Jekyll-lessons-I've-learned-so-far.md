@@ -2,6 +2,7 @@
 title: 5 Jekyll lessons I've learned so far
 layout: post
 author: dmschulman
+permalink: /5-jekyll-lessons-i've-learned-so-far/
 tags:
 - jekyll
 - github
