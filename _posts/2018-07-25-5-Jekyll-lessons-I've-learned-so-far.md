@@ -68,11 +68,11 @@ As I've taken on developing a lot of these features concurrently my blog might b
 
 **Bonus!** Here are a few other Jekyll blog posts, tools, and other miscellany that have helped me along the way in my early days with this site:
 
-[Moving to Jekyll | Outcoldman.com](https://www.outcoldman.com/en/archive/2014/04/29/jekyll/)
+[Moving to Jekyll / Outcoldman.com](https://www.outcoldman.com/en/archive/2014/04/29/jekyll/)
 
-[Stupid Jekyll tricks | Ethan Marcotte](https://ethanmarcotte.com/wrote/stupid-jekyll-tricks/)[How I'm Using Jekyll in 2016 | Mistakes Made](https://mademistakes.com/articles/using-jekyll-2016/)
+[Stupid Jekyll tricks / Ethan Marcotte](https://ethanmarcotte.com/wrote/stupid-jekyll-tricks/)[How I'm Using Jekyll in 2016 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2016/)
 
-[How I'm Using Jekyll in 2017 | Mistakes Made](https://mademistakes.com/articles/using-jekyll-2017/)
+[How I'm Using Jekyll in 2017 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2017/)
 
 [A master _config.yml containing a bunch of configuration options](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml)
 
