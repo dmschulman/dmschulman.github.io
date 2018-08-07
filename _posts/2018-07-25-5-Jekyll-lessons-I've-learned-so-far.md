@@ -10,6 +10,7 @@ tags:
 source-id: 1Jt69FSrH3unmScWuqYlRa4ndfUmu2jXpKYK0waHoO8o
 published: true
 ---
+
 About three weeks ago, I had a breakthrough. Ever since my old Wordpress website kicked the bitbucket I've been exploring more minimal, lightweight options to transition my personal website to. [Jekyll](https://jekyllrb.com/) was of course the winner of that competition, but even as I’ve started to enjoy the robustness of engine and simplicity of working with a static site generator there have been [multiple hurdles to clear](https://dmschulman.com/blog/2017/make-the-switch-to-jekyll-in-only-37-easy-steps.html) in order to get things working the way I’ve always wanted.
 
 Getting this site up and running has been a learning experience through and through, but honestly I wouldn't have it any other way since the successes that come after days or weeks of frustration only feel that much sweeter. And one of the sweetest, my breakthrough the other week, came after many months of bashing my head against the keyboard in multiple attempts to get [Jekyll’s collections feature](https://jekyllrb.com/docs/collections/) working (or even rendering) correctly.
@@ -67,7 +68,6 @@ That's pretty much it! Now that I’m able to dive more deeply into my Jekyll si
 As I've taken on developing a lot of these features concurrently my blog might be kind of quite for the next few weeks, but I hope this post has helped others get a better understanding of how to work with and troubleshoot some common issues with their Github Pages site.
 
 **Bonus!** Here are a few other Jekyll blog posts, tools, and other miscellany that have helped me along the way in my early days with this site:
-
 * [Moving to Jekyll / Outcoldman.com](https://www.outcoldman.com/en/archive/2014/04/29/jekyll/)
 * [Stupid Jekyll tricks / Ethan Marcotte](https://ethanmarcotte.com/wrote/stupid-jekyll-tricks/)
 * [How I'm Using Jekyll in 2016 / Mistakes Made](https://mademistakes.com/articles/using-jekyll-2016/)
