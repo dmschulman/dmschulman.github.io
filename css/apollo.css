@@ -110,6 +110,10 @@
         padding-right: 100px;
     }
   
+    ul.posts li span.date {
+      float: right;
+    }
+  
     ul.bookmarks {
      -webkit-column-count: 4;
     -moz-column-count: 4;
@@ -305,6 +309,7 @@ ul.photo-gallery img {
        text-transform: capitalize;
    }
 
+/* BLOG INDEX STYLES*/
 
 
 /* POST STYLES */
