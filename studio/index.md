@@ -21,6 +21,8 @@ Oh yeah, and some music too.
 {% endfor %}
 
 ## Production Posts
-{% for post in site.categories.'music production' | sort: 'date' %}
-  <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% for post in site.posts | sort: 'date' %}
+  {% if post.tags contains 'music production' %}
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endif %}
 {% endfor %}
