@@ -21,13 +21,13 @@ Oh yeah, and some music too.
 {% endfor %}
 
 ## Production Posts
-{% for post in site.posts | sort: 'date' %}
 <ul class="posts">
+{% for post in site.posts | sort: 'date' %}
 {% if post.tags contains 'music production' %}
 <li>
   <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
   <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 </li>
 {% endif %}
-</ul>
 {% endfor %}
+</ul>
