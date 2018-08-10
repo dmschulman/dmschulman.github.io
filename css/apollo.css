@@ -351,7 +351,7 @@ ul.photo-gallery img {
    }
 
    ul.posts { 
-       margin: 20px auto 60px; 
+       margin: 10px auto; 
        font-size: 1.5em;
        list-style: disc;
    }
