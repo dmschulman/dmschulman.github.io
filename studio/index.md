@@ -22,7 +22,9 @@ Oh yeah, and some music too.
 
 ## Production Posts
 {% for post in site.posts | sort: 'date' %}
-{% if post.tags contains 'music production' %}
-<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endif %}
+  {% if post.tags contains 'music production' %}
+  <ul>
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  </ul>
+  {% endif %}
 {% endfor %}
