@@ -13,7 +13,7 @@ Oh yeah, and some music too.
 {% assign gear = site.gear | group_by: 'category' | sort: 'name' %}
 {% for category in gear %}
 <h3>{{ category.name }}</h3>
-<ul>
+<ul class="posts">
   {% for item in category.items %}
     <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
   {% endfor %}
@@ -22,9 +22,9 @@ Oh yeah, and some music too.
 
 ## Production Posts
 {% for post in site.posts | sort: 'date' %}
+<ul class="posts">
   {% if post.tags contains 'music production' %}
-  <ul>
     <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  </ul>
   {% endif %}
+</ul>
 {% endfor %}
