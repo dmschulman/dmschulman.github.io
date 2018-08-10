@@ -13,12 +13,12 @@ Oh yeah, and some music too.
 
 {% assign gear = site.gear | group_by: 'category' | sort: 'name' %}
 {% for category in gear %}
-	<h2>{{ category.name }}</h2>
-	<ul>
-		{% for item in category.items %}
-				<li>
-					<a href="{{ gear.src }}" title="{{ gear.name }}" target="_blank">{{ gear.name }}</a>
-				</li>
+<h2>{{ category.name }}</h2>
+<ul>
+	{% for item in category.items %}
+	<li>
+		<a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+	</li>
 		{% endfor %}
 	</ul>
 {% endfor %}
