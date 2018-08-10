@@ -24,7 +24,10 @@ Oh yeah, and some music too.
 {% for post in site.posts | sort: 'date' %}
 <ul class="posts">
 {% if post.tags contains 'music production' %}
-<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+<li>
+  <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+</li>
 {% endif %}
 </ul>
 {% endfor %}
