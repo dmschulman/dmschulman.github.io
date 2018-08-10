@@ -13,7 +13,7 @@ Oh yeah, and some music too.
 
 <ul>
   {% for gear in site.gear %}
-  <li>{{ gear.category }}</li>
+  <li>{{ gear.title }}</li>
   { % endfor %}
 </ul>
 
