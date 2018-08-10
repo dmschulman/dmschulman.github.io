@@ -11,10 +11,22 @@ Oh yeah, and some music too.
 
 ## Music Gear
 
+{% assign gear = site.gear | group_by: 'category' | sort: 'name' %}
+{% for category in gear %}
+	<h2>{{ category.name }}</h2>
+	<ul>
+		{% for item in category.items %}
+				<li>
+					<a href="{{ gear.src }}" title="{{ gear.name }}" target="_blank">{{ gear.name }}</a>
+				</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
+
 <ul>
   {% for gear in site.gear %}
-  <li>{{ gear.title }}</li>
-  { % endfor %}
+  <li>{{ gear.category }}</li>
+  {% endfor %}
 </ul>
 
 ## Production Posts
