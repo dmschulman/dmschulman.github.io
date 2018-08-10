@@ -11,6 +11,10 @@ Oh yeah, and some music too.
 
 ## Music Gear
 
-{{ gear.category }}
+<ul>
+  {% for gear in site.gear %}
+  <li>{{ gear.category }}</li>
+  { % endfor %}
+</ul>
 
 ## Production Posts
