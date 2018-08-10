@@ -10,4 +10,7 @@ Welcome my constantly changing, ever evolving bedroom music studio. Here you wil
 Oh yeah, and some music too.
 
 ## Music Gear
-## Production Blogs 
+
+{{ gear.category }}
+
+## Production Posts
