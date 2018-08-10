@@ -23,9 +23,6 @@ service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 ---
 
 <h1>{{ page.title }}</h1>
-{% if page.tags.size > 0 %}
-  <span class="tags"><i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}</span>
-{% endif %}
 <img src="{{ page.image }}" alt="{{ page.title }}" />
 
 <p>{{ page.blurb }}</p>
