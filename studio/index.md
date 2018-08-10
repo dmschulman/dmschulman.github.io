@@ -10,23 +10,14 @@ Welcome my constantly changing, ever evolving bedroom music studio. Here you wil
 Oh yeah, and some music too.
 
 ## Music Gear
-
 {% assign gear = site.gear | group_by: 'category' | sort: 'name' %}
 {% for category in gear %}
-<h2>{{ category.name }}</h2>
+<h3>{{ category.name }}</h3>
 <ul>
-	{% for item in category.items %}
-	<li>
-		<a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-	</li>
-		{% endfor %}
-	</ul>
-{% endfor %}
-
-<ul>
-  {% for gear in site.gear %}
-  <li>{{ gear.category }}</li>
+  {% for item in category.items %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
   {% endfor %}
 </ul>
+{% endfor %}
 
 ## Production Posts
