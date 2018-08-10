@@ -3,7 +3,7 @@ title: Surfing the wavetable
 layout: post
 tags:
 - synthesizer
-- music
+- music production
 - elektron
 - how-to
 source-id: 1Im9Ip_ry6qEGBDw92GwtqIWwbQUBMjx9VaKbbiqcEfU
