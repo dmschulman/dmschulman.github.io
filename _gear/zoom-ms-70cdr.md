@@ -19,4 +19,12 @@ own: true
 blurb: ""
 manual: 
 service:
+audio: |
+tips: |
+  These are some tips for the {{ page.title }}.
+docs:
+patches:
+mods: 
+links:
+pics:
 ---
