@@ -5,6 +5,7 @@ description: ""
 make: "Roland"
 model: "SH-101"
 category: "Synthesizers"
+format: "Keyboard"
 tags: 
   - monophonic
   - synthesizer
@@ -15,6 +16,7 @@ tags:
   - bass
   - lead
   - sh-101
+  - keyboard
 image: https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/synthrolandsh101-0701-.2bc2JiNba83a2CuljCEvqQB4JIuiPLN.jpg
 own: true
 blurb: "One of the most iconic electronic instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass sounds and searing leads you can get out of the SH-101 are legendary in electronic music, especially on techno and house tracks."
