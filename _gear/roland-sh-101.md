@@ -38,8 +38,9 @@ service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 <h2>Modifications</h2>
 <ul>
   <li><a href="https://drive.google.com/open?id=174l_gVzt2HdHTgoG3mD_EzsKDOwLKQtk" title="SH-101 circuit diagram" target="_blank">SH-101 circuit diagram</a></li>
-  <li><a href="https://drive.google.com/open?id=1--bCWJQgU61hNEcyJ7JkFlWxaFtdxE05" title="SH-101 Nova Mods (original)" target="_blank">SH-101 Nova Mods (original)</a></li>
   <li><a href="https://drive.google.com/open?id=17wK75r4Vd8BfxzghQP-b5KgBMhDy0JVb" title="Circuitbenders.co.uk SH-101 mod guide" target="_blank">Circuitbenders.co.uk SH-101 mod guide</a></li>
+  <li><a href="https://drive.google.com/open?id=1--bCWJQgU61hNEcyJ7JkFlWxaFtdxE05" title="SH-101 Nova Mods (original)" target="_blank">SH-101 Nova Mods (original)</a></li>
+  <li><a href="https://www.scribd.com/document/269749534/Roland-SH-101-Nova-Mod-v2-Instructions" title="SH-101 Nova Mods v2 (The Lab)" target="_blank">SH-101 Nova Mods v2 (The Lab)</a></li>
   <li><a href="https://tubbutec.de/sh-1oh1/" title="Tubbutec Sh-1oh1 MIDI retrofit and feature extension" target="_blank">Tubbutec Sh-1oh1 MIDI retrofit and feature extension</a></li>
 </ul>
 <h2>Links and Resources</h2>
