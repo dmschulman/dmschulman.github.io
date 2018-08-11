@@ -21,10 +21,10 @@ manual:
 service:
 audio: |
 tips: |
-  These are some tips for the {{ page.title }}.
-docs:
-patches:
-mods: 
-links:
-pics:
+  Tips and tricks include:
+docs: |
+patches: |
+mods: |
+links: |
+pics: |
 ---
