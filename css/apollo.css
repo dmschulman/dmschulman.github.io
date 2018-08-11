@@ -80,7 +80,6 @@
 
     img {
         max-width: 100%;
-        max-height: 360px;
         height: auto;
     }
 
@@ -360,6 +359,12 @@ ul.photo-gallery img {
    ul.posts li {
        list-style: none;
    }
+
+/* GEAR STYLES */
+
+.content.gear img {
+  max-height: 360px;
+}
 
 /* MISC CONTENT STYLES */
 
