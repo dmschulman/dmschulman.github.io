@@ -1,5 +1,5 @@
 ---
-layout: apollo 
+layout: gear 
 title: "Zoom MS-70CDR"
 description: ""
 make: "Zoom"
