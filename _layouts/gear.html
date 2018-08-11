@@ -15,20 +15,33 @@
 					<p>{{ page.blurb }}</p>
 					<p>{{ content }}</p>
 					<h2>Audio Examples</h2>
-						<p>{{ page.audio }}</p>
+						{% if page.audio != "" %}
+							<p>{{ page.audio }}</p>
+						{% endif %}
 					<h2>Tips and Tricks</h2>
+					{% if page.tips != "" %}
 						<p>{{ page.tips }}</p>
+					{% endif %}
 					<h2>Documentation</h2>
+					{% if page.docs != "" %}
 						<p>{{ page.docs }}</p>
+					{% endif %}
 					<h2>Patches and Downloads</h2>
+					{% if page.patches != "" %}
 						<p>{{ page.patches }}</p>
+					{% endif %}
 					<h2>Modifications</h2>
+					{% if page.mods != "" %}
 						<p>{{ page.mods }}</p>
+					{% endif %}
 					<h2>Links and Resources</h2>
+					{% if page.links != "" %}
 						<p>{{ page.links }}</p>
+					{% endif %}
 					<h2>{{ page.title }} Pictures</h2>
+					{% if page.pics != "" %}
 						<p>{{ page.pics }}</p>
-					
+					{% endif %}
 				</div>
 			</div>
 			<footer>
