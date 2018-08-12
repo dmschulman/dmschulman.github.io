@@ -18,23 +18,23 @@ Enjoy them anyway:
 
 > Funny because the first thing that a greeter said to me when I drove into burning man was
 
-Greeter: Are you bringing any drugs or alcohol into the camp ground?
+    Greeter: Are you bringing any drugs or alcohol into the camp ground?
 
-Me: Uh
+    Me: Uh
 
-Greeter: Why the fuck not? Go and have a good time!
+    Greeter: Why the fuck not? Go and have a good time!
 
-Me: OK!
+    Me: OK!
 
-what a great way to start the week.
+    what a great way to start the week.
 
 > On the last morning we were there, my friend and I went out for a ride just to see what we could find, no real destination in mind. We rode past a big ole white tent where there were people drinking and as we passed someone inside called out and asked if we wanted to take the Whiskey Taste Test. Hell yes we did.
 
-Turns out it was a big camp full of Texans with weird shit written on the walls such as Time for pie God damn this is some big hippy nonsense and my personal favorite Go drink water is the new Fuck Off! Anyway the whiskey taste test was pretty simple. The bartender had about ten bottles from different kinds of alcohol (so like gin bottles, vodkas bottles, whiskey bottles etc), but they were all filled with whiskey and he told you they were all filled with whiskey. You picked a bottle and hed pour you a shot. You'd down it.. and then the test Did that taste like whiskey? Uh.. yes.. of course..? YOU WIN!!!! What do I win? Another shot!!!
+    Turns out it was a big camp full of Texans with weird shit written on the walls such as Time for pie God damn this is some big hippy nonsense and my personal favorite Go drink water is the new Fuck Off! Anyway the whiskey taste test was pretty simple. The bartender had about ten bottles from different kinds of alcohol (so like gin bottles, vodkas bottles, whiskey bottles etc), but they were all filled with whiskey and he told you they were all filled with whiskey. You picked a bottle and hed pour you a shot. You'd down it.. and then the test Did that taste like whiskey? Uh.. yes.. of course..? YOU WIN!!!! What do I win? Another shot!!!
 
-We stayed there most of the day. Helped move a broken truck on to a flatbed tow truck. Watched a guy fall asleep in a chair with his shoes on, get drawn on, then taken away by medical once it was determined he was really out of it. Then we ate a while bunch of their leftover food, played in their giant pit full of stuffed animals, and watched some people in the next camp over set a car on fire.
+    We stayed there most of the day. Helped move a broken truck on to a flatbed tow truck. Watched a guy fall asleep in a chair with his shoes on, get drawn on, then taken away by medical once it was determined he was really out of it. Then we ate a while bunch of their leftover food, played in their giant pit full of stuffed animals, and watched some people in the next camp over set a car on fire.
 
-Wandering around during the day and finding a place to stop for a drink was always the best.
+    Wandering around during the day and finding a place to stop for a drink was always the best.
 
 > Everyone has a Burning Man Moment. My favorite last year was going for a 2am bike ride out into the desert. There couldn't have been a soul within a miles radius of me. I noticed a small winking light off in the distance and headed towards it. In the middle of nowhere, it was a parking meter. My friends moment was when he was caught alone out in the desert in a sandstorm. He was wandering aimlessly for a while, safe but disoriented, when out of the dust a bus slowly rolled up to him. The driver leaned out and offered him a hot dog.
 
