@@ -1,5 +1,5 @@
 ---
-title: The Culture Code, An Ingenious Way to Understand Why People Around the World Live and Buy as They Do
+title: The Culture Code
 layout: post
 author: dmschulman
 tags:
