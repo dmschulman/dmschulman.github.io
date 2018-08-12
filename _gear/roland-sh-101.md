@@ -24,7 +24,6 @@ manual: https://drive.google.com/open?id=1zAoFoWGKgxVV8Dgg_TUGHLnEpsfmSA9d
 service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 audio: |
 tips: |
-  Tips and tricks include:
 docs: |
 patches: |
 mods: |
