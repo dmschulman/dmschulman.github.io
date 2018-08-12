@@ -1,52 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		{% include head-code.html %}
-	</head>
-	<body>
-		<nav>
-			{% include nav.html %}
-		</nav>
-		<main>
-			<div class="content gear">
-				<h1>{{ page.title }}</h1>
-				<div class="post">
-        				<img src="{{ page.image }}" alt="{{ page.title }}">
-					<p>{{ page.blurb }}</p>
-					<p>{{ content }}</p>
-					<h2>Audio Examples</h2>
-						{% if page.audio != "" %}
-							<p>{{ page.audio }}</p>
-						{% endif %}
-					<h2>Tips and Tricks</h2>
-					{% if page.tips != "" %}
-						<p>{{ page.tips }}</p>
-					{% endif %}
-					<h2>Documentation</h2>
-					{% if page.docs != "" %}
-						<p>{{ page.docs }}</p>
-					{% endif %}
-					<h2>Patches and Downloads</h2>
-					{% if page.patches != "" %}
-						<p>{{ page.patches }}</p>
-					{% endif %}
-					<h2>Modifications</h2>
-					{% if page.mods != "" %}
-						<p>{{ page.mods }}</p>
-					{% endif %}
-					<h2>Links and Resources</h2>
-					{% if page.links != "" %}
-						<p>{{ page.links }}</p>
-					{% endif %}
-					<h2>{{ page.title }} Pictures</h2>
-					{% if page.pics != "" %}
-						<p>{{ page.pics }}</p>
-					{% endif %}
-				</div>
-			</div>
-			<footer>
-					{% include footer.html %}
-			</footer>
-		</main>
-	</body>
+  <head>
+    {% include head-code.html %}
+  </head>
+  <body>
+    <nav>
+      {% include nav.html %}
+    </nav>
+    <main>
+      <div class="content gear">
+        <h1>{{ page.title }}</h1>
+        <div class="post">
+                <img src="{{ page.image }}" alt="{{ page.title }}">
+          <p>{{ page.blurb }}</p>
+          <p>{{ content }}</p>
+            {% if page.audio != "" %}
+              <h2>Audio Examples</h2>
+              <p>{{ page.audio }}</p>
+            {% endif %}
+          {% if page.tips != "" %}
+            <h2>Tips and Tricks</h2>
+            <p>{{ page.tips }}</p>
+          {% endif %}
+          {% if page.docs != "" %}
+            <h2>Documentation</h2>
+            <p>{{ page.docs }}</p>
+          {% endif %}
+          {% if page.patches != "" %}
+            <h2>Patches and Downloads</h2>
+            <p>{{ page.patches }}</p>
+          {% endif %}
+          {% if page.mods != "" %}
+            <h2>Modifications</h2>
+            <p>{{ page.mods }}</p>
+          {% endif %}
+          {% if page.links != "" %}
+            <h2>Links and Resources</h2>
+            <p>{{ page.links }}</p>
+          {% endif %}
+          {% if page.pics != "" %}
+            <h2>{{ page.title }} Pictures</h2>
+            <p>{{ page.pics }}</p>
+          {% endif %}
+        </div>
+      </div>
+      <footer>
+          {% include footer.html %}
+      </footer>
+    </main>
+  </body>
 </html>
