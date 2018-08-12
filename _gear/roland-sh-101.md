@@ -19,7 +19,7 @@ tags:
   - keyboard
 image: https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/synthrolandsh101-0701-.2bc2JiNba83a2CuljCEvqQB4JIuiPLN.jpg
 own: true
-blurb: "One of the most iconic electronic instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass sounds and searing leads you can get out of the SH-101 are legendary in electronic music, especially on techno and house tracks."
+blurb: "One of the most iconic electronic instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass and searing leads you can get out of the SH-101, not to mention the weird spacey FX and modulated noises you can make, are legendary in electronic music, especially on techno and house tracks."
 manual: https://drive.google.com/open?id=1zAoFoWGKgxVV8Dgg_TUGHLnEpsfmSA9d
 service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 audio: |
