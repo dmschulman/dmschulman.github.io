@@ -16,31 +16,37 @@
           <p>{{ content }}</p>
             {% if page.audio != "" %}
               <h2>Audio Examples</h2>
-              <p>{{ page.audio }}</p>
+              {{ page.audio }}
             {% endif %}
           {% if page.tips != "" %}
             <h2>Tips and Tricks</h2>
-            <p>{{ page.tips }}</p>
+            {{ page.tips }}
           {% endif %}
           {% if page.docs != "" %}
             <h2>Documentation</h2>
-            <p>{{ page.docs }}</p>
+            {% if page.manual != "" %}
+              <li><a href="{{ page.manual }}" title="{{ page.title }} Owners Manual">{{ page.title }} Owners Manual</a></li>
+            {% endif %}
+            {% if page.service != "" %}
+              <li><a href="{{ page.service }}" title="{{ page.title }} Owners Manual">{{ page.title }} Service Manual</a></li>
+            {% endif %}
+            {{ page.docs }}
           {% endif %}
           {% if page.patches != "" %}
             <h2>Patches and Downloads</h2>
-            <p>{{ page.patches }}</p>
+            {{ page.patches }}
           {% endif %}
           {% if page.mods != "" %}
             <h2>Modifications</h2>
-            <p>{{ page.mods }}</p>
+            {{ page.mods }}
           {% endif %}
           {% if page.links != "" %}
             <h2>Links and Resources</h2>
-            <p>{{ page.links }}</p>
+            {{ page.links }}
           {% endif %}
           {% if page.pics != "" %}
             <h2>{{ page.title }} Pictures</h2>
-            <p>{{ page.pics }}</p>
+            {{ page.pics }}
           {% endif %}
         </div>
       </div>
