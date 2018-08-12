@@ -36,26 +36,15 @@ mods: |
     <li><a href="https://tubbutec.de/sh-1oh1/" title="Tubbutec Sh-1oh1 MIDI retrofit and feature extension" target="_blank">Tubbutec Sh-1oh1 MIDI retrofit and feature extension</a></li>
   </ul>
 links: |
+  <ul>
+    <li><a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a></li>
+    <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
+  </ul>
 pics: |
 ---
 
-<h1>{{ page.title }}</h1>
-<img src="{{ page.image }}" alt="{{ page.title }}" />
-
-<p>{{ page.blurb }}</p>
-
-<h2>Audio Examples</h2>
-<h2>Tips and Tricks</h2>
 <h2>Documentation</h2>
 <ul>
   <li><a href="{{ page.manual }}" title="{{ page.title }} Owners Manual" target="_blank">{{ page.title }} Owners Manual</a></li>
   <li><a href="{{ page.service }}" title="{{ page.title }} Service Notes" target="_blank">{{ page.title }} Service Notes</a></li>
 </ul>
-<h2>Patches and Downloads</h2>
-<h2>Modifications</h2>
-<h2>Links and Resources</h2>
-<ul>
-  <li><a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a></li>
-  <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
-</ul>
-<h2>{{ page.title }} Pictures</h2>
