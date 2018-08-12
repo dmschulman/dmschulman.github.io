@@ -1,5 +1,5 @@
 ---
-title: The Culture Code: An Ingenious Way to Understand Why People Around the World Live and Buy as They Do
+title: The Culture Code, An Ingenious Way to Understand Why People Around the World Live and Buy as They Do
 layout: post
 author: dmschulman
 permalink: /the-culture-code:-an-ingenious-way-to-understand-why-people-around-the-world-live-and-buy-as-they-do/
