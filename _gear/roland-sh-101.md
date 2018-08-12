@@ -42,9 +42,3 @@ links: |
   </ul>
 pics: |
 ---
-
-<h2>Documentation</h2>
-<ul>
-  <li><a href="{{ page.manual }}" title="{{ page.title }} Owners Manual" target="_blank">{{ page.title }} Owners Manual</a></li>
-  <li><a href="{{ page.service }}" title="{{ page.title }} Service Notes" target="_blank">{{ page.title }} Service Notes</a></li>
-</ul>
