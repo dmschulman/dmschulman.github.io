@@ -73,6 +73,12 @@
     h5 {}
     h6 {}
 
+  blockquote {
+    margin: 0 40px 0 0;
+    padding: 0 10px 0 0;
+    border-left: 2px solid #999999;
+    
+}
     code {
         font-size: .9rem;
         font-style: italic;
