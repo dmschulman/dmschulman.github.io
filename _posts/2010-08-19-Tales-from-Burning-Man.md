@@ -17,10 +17,15 @@ For these reasons and more, Burning Man is probably best experienced by actually
 Enjoy them anyway:
 
 > Funny because the first thing that a greeter said to me when I drove into burning man was
+>
 > Greeter: Are you bringing any drugs or alcohol into the camp ground?
+>
 > Me: Uh
+> 
 > Greeter: Why the fuck not? Go and have a good time!
+> 
 > Me: OK!
+> 
 > what a great way to start the week.
 
 > On the last morning we were there, my friend and I went out for a ride just to see what we could find, no real destination in mind. We rode past a big ole white tent where there were people drinking and as we passed someone inside called out and asked if we wanted to take the Whiskey Taste Test. Hell yes we did.
