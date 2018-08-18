@@ -19,7 +19,7 @@ tags:
   - keyboard
 image: https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/s/synthrolandsh101-0701-.2bc2JiNba83a2CuljCEvqQB4JIuiPLN.jpg
 own: true
-blurb: "One of the most iconic electronic instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass and searing leads you can get out of the SH-101, not to mention the weird spacey FX and modulated noises you can make, are legendary in electronic music, especially on techno and house tracks."
+blurb: "One of the most iconic electronic instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass and tasty leads you can get out of the SH-101, not to mention the weird spacey FX and modulated noises you can make, are legendary in electronic music, especially on techno and house tracks."
 manual: https://drive.google.com/open?id=1zAoFoWGKgxVV8Dgg_TUGHLnEpsfmSA9d
 service: https://drive.google.com/open?id=1yfI5qh-QhhhXpE3vAVBLHekRKJUeC9vR
 audio: |
@@ -42,3 +42,12 @@ links: |
   </ul>
 pics: |
 ---
+
+There are many reasons why this grey monophonic keyboard, essentially a keytar judging by the way it was advertised, has so much going for it, but to really understand what makes the SH-101 so special I would encourage you to just look at the thing. It's beautifully simplistic, everything is right there in front of you at the touch of a knob or slider. There are no menu systems, no shift button or secret key presses. The built-in sequencer can get a little hairy to work with at times, but the SH-101 is an honest piece of gear, everything it's capible of is apparent from first glance. And it's simply a pleasure to look at.
+
+<!-- There's an LFO, basic VCO with modulation and pulsewidth options, a waveform mixer for the VCO (including a juicy sub bass woth different octave settings), a concise yet radical filter section (more on that in a minute), and basic ADSR envelopes for pitch, filter, and 
+
+Filter
+Snappy envelope
+VCO mixer
+Battery power -->
