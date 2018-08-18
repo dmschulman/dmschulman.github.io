@@ -55,11 +55,182 @@
       "dead": ""
     },
     {
+      "name": "Artsy",
+      "src": "https://www.artsy.net/",
+      "icon": "https://www.artsy.net/images/favicon.ico",
+      "cat1": "Art",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Ming Thein",
+      "src": "https://blog.mingthein.com/",
+      "icon": "https://s1.wp.com/i/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "ShootTokyo",
+      "src": "https://shoottokyo.com/",
+      "icon": "https://static1.squarespace.com/static/571b8ba07c65e4606a80a69c/t/57271bdd07eaa04b686d4865/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "Antoine Bruy",
+      "src": "https://www.antoinebruy.com/",
+      "icon": "https://static1.squarespace.com/static/586e75b5d482e93eef967924/t/587d0b3f893fc04ee2da65fc/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Shorpy",
+      "src": "http://www.shorpy.com/",
+      "icon": "http://www.shorpy.com/misc/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The New Yorker - Photo Booth",
+      "src": "https://www.newyorker.com/culture/photo-booth",
+      "icon": "https://www.newyorker.com/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "American Suburb X",
+      "src": "http://www.americansuburbx.com/",
+      "icon": "http://www.americansuburbx.com/wp-content/uploads/2014/06/BlackStar-Final.png",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "A Photo Editor",
+      "src": "http://aphotoeditor.com/",
+      "icon": "http://aphotoeditor.com/wp-content/themes/inspirin/images/apple-touch-icon.png",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "BOOOOOOOM!",
+      "src": "https://www.booooooom.com/",
+      "icon": "https://www.booooooom.com/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "New York Times - Lens",
+      "src": "https://www.nytimes.com/section/lens",
+      "icon": "https://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Feature Shoot",
+      "src": "https://www.featureshoot.com/",
+      "icon": "https://www.featureshoot.com/wp-content/themes/featureshoot/favicon.ico?a=1",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Iconic Photos",
+      "src": "https://iconicphotos.wordpress.com/",
+      "icon": "https://s1.wp.com/i/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Aperture Magazine",
+      "src": "https://aperture.org/",
+      "icon": "https://aperture.org/wp-content/themes/aperture/images/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Magazines and Journals",
+      "dead": ""
+    },
+    {
+      "name": "6mois",
+      "src": "http://www.6mois.fr/",
+      "icon": "http://www.6mois.fr/squelettes/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Phtography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "The Guardian - My Best Shot",
+      "src": "https://www.theguardian.com/artanddesign/series/mybestshot",
+      "icon": "https://assets.guim.co.uk/images/favicons/48bc5564bb01b74cf7cd1a08ae0dd98e/32x32.ico",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "TIME - Lightbox",
+      "src": "http://time.com/section/lightbox/",
+      "icon": "http://time.com/img/favicons/favicon-32.png",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Boston Globe - The Big Picture",
+      "src": "https://www.bostonglobe.com/news/bigpicture",
+      "icon": "https://www.bostonglobe.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/bg-images/png/favicon/favicon-16x16.png",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Japan Camera Hunter",
+      "src": "https://www.japancamerahunter.com/",
+      "icon": "https://www.japancamerahunter.com/wp-content/themes/jch-2014/favicon.png",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "35mmc",
+      "src": "https://www.35mmc.com/",
+      "icon": "",
+      "cat1": "Art",
+      "cat2": "Photography",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
       "name": "Streets Dept",
       "src": "https://streetsdept.com/",
       "icon": "https://secure.gravatar.com/blavatar/0f8b5030f60178a6c67d4970d04d6d35?s=32",
-      "cat1": "Art",
-      "cat2": "Street Art",
+      "cat1": "Blogs",
+      "cat2": "Philadelphia",
       "cat3": "",
       "dead": ""
     },
@@ -199,6 +370,15 @@
       "dead": ""
     },
     {
+      "name": "Peta Pixel",
+      "src": "https://petapixel.com/",
+      "icon": "",
+      "cat1": "Blogs",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Seeking Alpha",
       "src": "https://seekingalpha.com/",
       "icon": "https://seekingalpha.com/favicon.ico",
@@ -213,6 +393,24 @@
       "icon": "https://www.zerohedge.com/themes/zerohedge/favicons/favicon-16x16.png",
       "cat1": "Business",
       "cat2": "Finance",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "A Wealth of Common Sense",
+      "src": "http://awealthofcommonsense.com/",
+      "icon": "http://awealthofcommonsense.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-01-at-12.26.48-PM.png",
+      "cat1": "Business",
+      "cat2": "Finance",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Baffler",
+      "src": "https://thebaffler.com/",
+      "icon": "https://thebaffler.com/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
@@ -424,6 +622,195 @@
       "dead": ""
     },
     {
+      "name": "Brain Pickings",
+      "src": "https://www.brainpickings.org/",
+      "icon": "https://www.brainpickings.org/wp-content/themes/brainpickings/images/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Longform",
+      "src": "https://longform.org/",
+      "icon": "https://longform.org/favicon-16x16.png",
+      "cat1": "Culture",
+      "cat2": "Literature",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Granola Shotgun",
+      "src": "https://granolashotgun.com/",
+      "icon": "https://secure.gravatar.com/blavatar/b94897ee6767d39536871c9d44e998a4?s=32",
+      "cat1": "Culture",
+      "cat2": "Blogs",
+      "cat3": "Personal",
+      "dead": ""
+    },
+    {
+      "name": "Movies in Color",
+      "src": "http://moviesincolor.com/",
+      "icon": "",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Colors of Motion",
+      "src": "https://thecolorsofmotion.com/",
+      "icon": "https://thecolorsofmotion.com/assets/images/favicon.png",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wes Anderson Palettes",
+      "src": "https://wesandersonpalettes.tumblr.com/",
+      "icon": "",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "iWantHue",
+      "src": "http://tools.medialab.sciences-po.fr/iwanthue/",
+      "icon": "",
+      "cat1": "Design",
+      "cat2": "Tools",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Viz Palette",
+      "src": "http://projects.susielu.com/viz-palette",
+      "icon": "http://projects.susielu.com/favicon.ico",
+      "cat1": "Design",
+      "cat2": "Tools",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Color Hunt",
+      "src": "https://colorhunt.co/",
+      "icon": "https://colorhunt.co/img/favicon.gif",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "ColorDrop",
+      "src": "https://colordrop.io/",
+      "icon": "https://colordrop.io/img/favicon.ico",
+      "cat1": "Design",
+      "cat2": "Tools",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "COLOURlovers",
+      "src": "http://www.colourlovers.com/",
+      "icon": "http://static.colourlovers.com/favicon.ico",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Coolors",
+      "src": "https://coolors.co/browser/latest/1",
+      "icon": "https://coolors.co/assets/images/favicon.png",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Adobe Color CC",
+      "src": "https://color.adobe.com/",
+      "icon": "https://color.adobe.com/colorfavicon.ico?v=2",
+      "cat1": "Design",
+      "cat2": "Tools",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Google Material Design",
+      "src": "https://material.io/",
+      "icon": "https://material.io/favicon.ico",
+      "cat1": "Design",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Designspiration",
+      "src": "https://www.designspiration.net/",
+      "icon": "https://s.dspncdn.com/a1/webapp/img/favicons/favicon-32x32.png",
+      "cat1": "Design",
+      "cat2": "Collections",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Plenty of Colour",
+      "src": "http://plentyofcolour.com/",
+      "icon": "http://plentyofcolour.com/wordpress/wp-content/themes/Plenty%20of%20Colour/favicon.ico",
+      "cat1": "Design",
+      "cat2": "Collections",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Smashing Magazine",
+      "src": "https://www.smashingmagazine.com/",
+      "icon": "https://www.smashingmagazine.com/images/favicon/favicon.png",
+      "cat1": "Design",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Chartable",
+      "src": "https://blog.datawrapper.de/",
+      "icon": "https://blog.datawrapper.de/img/favicon/favicon-16x16.png",
+      "cat1": "Design",
+      "cat2": "Blogs",
+      "cat3": "Data Visualization",
+      "dead": ""
+    },
+    {
+      "name": "Steven DeGraeve",
+      "src": "https://www.degraeve.com/",
+      "icon": "https://www.degraeve.com/favicon.ico",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "It's Nice That",
+      "src": "https://www.itsnicethat.com/",
+      "icon": "https://www.itsnicethat.com/dev-assets/apple-touch-icon.png",
+      "cat1": "Design",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Big Muff π Page ",
+      "src": "http://www.kitrae.net/music/Big_Muff_Mods_and_Tweaks_Page.html",
+      "icon": "",
+      "cat1": "DIY",
+      "cat2": "Electronics",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Budget Bytes",
       "src": "https://www.budgetbytes.com/",
       "icon": "https://www.budgetbytes.com/favicon.ico",
@@ -446,7 +833,7 @@
       "src": "http://everynoise.com/engenremap.html",
       "icon": "",
       "cat1": "Music",
-      "cat2": "",
+      "cat2": "Streaming Radio",
       "cat3": "",
       "dead": ""
     },
@@ -712,6 +1099,60 @@
       "dead": ""
     },
     {
+      "name": "Politico",
+      "src": "https://www.politico.com/",
+      "icon": "https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "FiveThirtyEight",
+      "src": "https://fivethirtyeight.com/",
+      "icon": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.8",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Guardian",
+      "src": "https://www.theguardian.com/",
+      "icon": "https://assets.guim.co.uk/images/favicons/48bc5564bb01b74cf7cd1a08ae0dd98e/32x32.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "TIME",
+      "src": "http://time.com/",
+      "icon": "http://time.com/img/favicons/favicon-32.png",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Foreign Policy",
+      "src": "https://foreignpolicy.com/",
+      "icon": "https://s2.wp.com/wp-content/themes/vip/foreign-policy-2017/assets/src/images/logos/favicon.ico",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Week",
+      "src": "https://theweek.com/",
+      "icon": "https://theweek.com/favicon.ico",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "All Things Considered",
       "src": "https://www.npr.org/programs/all-things-considered/",
       "icon": "https://www.npr.org/favicon.ico",
@@ -748,6 +1189,24 @@
       "dead": ""
     },
     {
+      "name": "Pixel Peeper",
+      "src": "https://pixelpeeper.com/",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Pexels",
+      "src": "https://www.pexels.com/",
+      "icon": "https://www.pexels.com/favicon.ico",
+      "cat1": "Resources",
+      "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Hubble Space Telescope",
       "src": "http://www.spacetelescope.org/",
       "icon": "http://www.spacetelescope.org/static/favicon.ico",
@@ -760,6 +1219,15 @@
       "name": "Nature",
       "src": "https://www.nature.com/",
       "icon": "https://www.nature.com/favicon.ico",
+      "cat1": "Science",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "New Scientist",
+      "src": "https://www.newscientist.com/",
+      "icon": "https://www.newscientist.com/wp-content/themes/new-scientist/img/layup/new-sci-favicon.ico",
       "cat1": "Science",
       "cat2": "Magazines and Journals",
       "cat3": "",
@@ -869,7 +1337,7 @@
       "src": "http://reallifemag.com/",
       "icon": "http://reallifemag.com/favicon-16x16.png",
       "cat1": "Technology",
-      "cat2": "Culture",
+      "cat2": "Magazines and Journals",
       "cat3": "",
       "dead": ""
     },
@@ -879,33 +1347,6 @@
       "icon": "",
       "cat1": "Technology",
       "cat2": "Apple",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Pennsylvania Horticultural Society McLean Library",
-      "src": "https://phsonline.org/resources/the-phs-mclean-library/",
-      "icon": "",
-      "cat1": "Travel",
-      "cat2": "Philadelphia",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Philadelphia Parks & Recreation Sculptures",
-      "src": "http://www.phila.gov/ParksandRecreation/placestogo/Pages/Sculptures.aspx",
-      "icon": "http://www.phila.gov/favicon.ico",
-      "cat1": "Travel",
-      "cat2": "Philadelphia",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "A List Apart",
-      "src": "http://alistapart.com/",
-      "icon": "http://alistapart.com/favicon.ico",
-      "cat1": "Web Design",
-      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     },
@@ -924,33 +1365,6 @@
       "icon": "https://haacked.com/favicon.ico",
       "cat1": "Technology",
       "cat2": "Blogs",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "The Big Muff π Page ",
-      "src": "http://www.kitrae.net/music/Big_Muff_Mods_and_Tweaks_Page.html",
-      "icon": "",
-      "cat1": "DIY",
-      "cat2": "Electronics",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "Politico",
-      "src": "https://www.politico.com/",
-      "icon": "https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png",
-      "cat1": "News",
-      "cat2": "Daily Reads",
-      "cat3": "",
-      "dead": ""
-    },
-    {
-      "name": "FiveThirtyEight",
-      "src": "https://fivethirtyeight.com/",
-      "icon": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.8",
-      "cat1": "News",
-      "cat2": "Daily Reads",
       "cat3": "",
       "dead": ""
     },
@@ -978,6 +1392,42 @@
       "icon": "https://cdn-resprivacy.pressidium.com/wp-content/uploads/2017/06/cropped-icon-32x32.png",
       "cat1": "Technology",
       "cat2": "Security",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Hackaday",
+      "src": "https://hackaday.com/",
+      "icon": "https://s2.wp.com/wp-content/themes/vip/hackaday-2/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Pennsylvania Horticultural Society McLean Library",
+      "src": "https://phsonline.org/resources/the-phs-mclean-library/",
+      "icon": "",
+      "cat1": "Travel",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Philadelphia Parks & Recreation Sculptures",
+      "src": "http://www.phila.gov/ParksandRecreation/placestogo/Pages/Sculptures.aspx",
+      "icon": "http://www.phila.gov/favicon.ico",
+      "cat1": "Travel",
+      "cat2": "Philadelphia",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "A List Apart",
+      "src": "http://alistapart.com/",
+      "icon": "http://alistapart.com/favicon.ico",
+      "cat1": "Web Design",
+      "cat2": "Blogs",
       "cat3": "",
       "dead": ""
     }
