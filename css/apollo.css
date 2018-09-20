@@ -325,12 +325,15 @@ ul.photo-gallery img {
 
    .content ul {
       list-style: disc;
-      margin: 0 0 30px 60px;
+      margin: 20px 0 30px 60px;
    }
 
    .content li {
        margin: 10px 0;   
    }
+
+  .content li p {
+    padding-bottom: 0;
 
   .content img {
   margin-bottom: 20px;
