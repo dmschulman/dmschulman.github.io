@@ -332,7 +332,11 @@ ul.photo-gallery img {
        margin: 10px 0;   
    }
 
-  .post ul li p {
+.content ul li ul {
+  margin: 0px 0 0px 60px;
+}
+
+  .content ul li p {
     padding-bottom: 0;
 }
 
