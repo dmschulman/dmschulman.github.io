@@ -16,15 +16,15 @@ First, some fun facts:
 
 * Total drive time: 42 hours, non-consecutive
 
-* Average speed w/ traffic: 65 MPH
+* Average speed w/ traffic: 65mph
 
-* Estimated average speed: 85 MPH
+* Estimated average speed: 85mph
 
 * Gallons of gas purchased: 113.21
 
 * Average price of gas: $1.90/gal
 
-* Miles per gallon: 24 MPG
+* Miles per gallon: 24mpg
 
 * Total cost on the road: $729.92
 
