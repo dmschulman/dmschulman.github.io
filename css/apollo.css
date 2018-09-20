@@ -325,7 +325,7 @@ ul.photo-gallery img {
 
    .content ul {
       list-style: disc;
-      margin: 20px 0 30px 60px;
+      margin: 20px 0 30px 40px;
    }
 
    .content li {
@@ -341,7 +341,7 @@ ul.photo-gallery img {
 }
 
    .post-meta {
-       padding-bottom: 40px;
+       padding-bottom: 20px;
    }
 
    .post-meta span {
