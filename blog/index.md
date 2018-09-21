@@ -11,9 +11,9 @@ description: "'blog' /bläɡ/ noun, a regularly updated website or web page, typ
 	<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
 	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>
-      {{ post.excerpt | strip_html | truncatewords:75 }}
+    <p>{{ post.excerpt | strip_html | truncatewords:75 }}
       {% if post.excerpt != post.content %}
         <a class="readmore" href="{{ site.baseurl }}{{ post.url }}" title="Read more">Read more</a>
-      {% endif %}
+	    {% endif %}</p>
   {% endfor %}
 </ul>
