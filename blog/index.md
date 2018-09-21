@@ -13,7 +13,7 @@ description: "'blog' /bläɡ/ noun, a regularly updated website or web page, typ
     </li>
       {{ post.excerpt | strip_html | truncatewords:75 }}
       {% if post.excerpt != post.content %}
-        <a class="readmore" href="{{ site.baseurl }}{{ post.url }}" title="Read more">Read more...</a>
+        <a class="readmore" href="{{ site.baseurl }}{{ post.url }}" title="Read more">Read more</a>
       {% endif %}
   {% endfor %}
 </ul>
