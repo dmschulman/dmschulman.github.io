@@ -1,6 +1,8 @@
 ---
 title: Happy GDPR Day!
 layout: post
+author: dmschulman
+permalink: /happy-gdpr-day/
 tags:
 - internet
 - technology
@@ -10,7 +12,7 @@ tags:
 source-id: 14qnkfOMaVXGdREbqvvzc1NjEj9AzMshR43crVQtyaLc
 published: true
 ---
-Pop those bottles and drop those balloons from the ceiling, it's May 2tth, aka, GDPR Day! Today the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) goes into full effect in Europe. For us Americans it doesn't mean too much, unless you happen to work somewhere that does business with European clients or otherwise manages data records of EU citizens (in which case GDPR has been a pain to implement on your systems), but as controversial as the GDPR is, perhaps this law will be a watershed moment in online data privacy regulations.
+Pop those bottles and drop those balloons from the ceiling, it's May 25th, aka, GDPR Day! Today the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) goes into full effect in Europe. For us Americans it doesn't mean too much, unless you happen to work somewhere that does business with European clients or otherwise manages data records of EU citizens (in which case GDPR has been a pain to implement on your systems), but as controversial as the GDPR is, perhaps this law will be a watershed moment in online data privacy regulations.
 
 ![image alt text]({{ site.url }}/public/4lZmoliZIR8dGRYjqky7Hg_img_0.png)
 
@@ -20,5 +22,5 @@ While there are some controversial provisions in the law, such as the "right to 
 
 But for now, I'm hopeful and excited. Happy GDPR Day everyone! 🎂
 
-**EDIT:** Looks like Facebook and Google have been [hit with a total of $8.8 billion dollars in fines](https://www.theverge.com/2018/5/25/17393766/facebook-google-gdpr-lawsuit-max-schrems-europe) today. Let's get this party started! 
+**EDIT:** Looks like Facebook and Google have been [hit with a total of $8.8 billion dollars in fines](https://www.theverge.com/2018/5/25/17393766/facebook-google-gdpr-lawsuit-max-schrems-europe) today. Let's get this party started!
 
