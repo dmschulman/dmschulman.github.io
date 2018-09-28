@@ -91,13 +91,13 @@
 
 /* BREAKPOINTS */
 @media only screen and (min-width: 1024px) {
-    header nav {
+    header {
         position: fixed;
         width: 200px;
         padding: 30px 30px 0 40px;
     }
 
-    header nav ul {
+    header ul {
         margin: 20px 0;
     }
 
@@ -133,7 +133,7 @@
 }
 
 @media only screen and (max-width: 1023px) {
-    header nav {
+    header {
         padding: 20px 20px 0 20px;
     }
 
@@ -188,25 +188,25 @@
         text-transform: lowercase;
     }
 
-    header nav a {
+    header a {
         color: #595959;
         border: none;
     }
 
-    header nav a:hover,
-    header nav a:active {
+    header a:hover,
+    header a:active {
         color: #595959;
         border: none;
-    } */
+    }
 
     header ul.global li {
         font-size: 1.2rem;
         line-height: 1.7rem;
     }
 
-    header ul.global li a {
+    /* header ul.global li a {
         color: #bbbbbb;
-    }
+    } */
 
     /* ul.global li a:hover {
         color: #202020;
@@ -216,7 +216,7 @@
         margin: 10px 0;   
     }
 
-    ul.social li {
+    header ul.social li {
       font-size: 1rem;
       line-height: 1.5rem;
       display: inline;
