@@ -5,7 +5,7 @@ Google Photos JSON: http://photos.googleapis.com/data/feed/api/user/dmschulman?a
 
 Picasa XML: https://picasaweb.google.com/data/feed/base/user/dmschulman
 
-Background: #FFFFFF
-Font color: #222222
-Link color: #595959
-Link hover: #202020
+- Background: #FFFFFF
+- Font color: #222222
+- Link color: #595959
+- Link hover: #202020
