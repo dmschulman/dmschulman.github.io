@@ -1,93 +1,84 @@
 /* apollo.css created by David Schulman 1/18/18 */
-/* GLOBALS */
-   * {
-      -webkit-box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      box-sizing: border-box;
-   }
-
-   body {
-      font-family: 'Helvetica', 'Arial', sans-serif;
-      color: #222222;
-   }
-
-   span {
-      display: block;
-   }
-
-   p {
-      font-size: 1rem;
-      line-height: 1.5rem;
-      letter-spacing: -.5px;
-      padding-bottom: 20px;
-   }
-
-   a {
-      text-decoration: none;
-      border-bottom: solid 1px #595959;
-      color: #595959;
-   }
-
-   a:hover,
-   a:focus {
-      text-decoration: none;
-      border-bottom: solid 1px #202020;
-      color: #202020;
-   }
-
-    ul { 
-        list-style: none;
-    }
-
-    li { 
-        font-size: 1rem;
-        line-height: 1.5rem;
-        letter-spacing: -.5px;
-    }
-
-    h1 {
-        font-size: 2.5rem;
-        line-height: 3rem;
-        letter-spacing: -1px;
-        font-weight: bold;
-        margin-bottom: 20px;
-    }
-
-    h2 {
-        font-size: 2rem;
-        line-height: 2.5rem;
-        letter-spacing: -1px;
-        font-weight: bold;
-        margin-bottom: 10px;
-    }
-
-    h3 {
-        font-size: 1.5rem;
-        line-height: 2rem;
-        letter-spacing: -1px;
-        font-weight: bold;
-        margin-bottom: 10px;
-    }
-
-    h4 {}
-    h5 {}
-    h6 {}
-
-  blockquote {
-    margin: 0 0 20px 40px;
-    padding: 0 0 0 10px;
-    border-left: 2px solid #595959;
-    
+/* GLOBAL */
+html * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: #ffffff;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	color: #383838;
+	font-size: 1rem;
+	line-height: 1.5rem;
+	letter-spacing: -.5px;
+	font-weight: normal;
 }
-    code {
-        font-size: .9rem;
-        font-style: italic;
-    }
 
-    img {
-        max-width: 100%;
-        height: auto;
-    }
+p {
+	margin-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+	border-bottom: solid 1px #383838;
+	color: #383838;
+   }
+
+a:active,
+a:hover,
+a:focus {
+	text-decoration: none;
+	border-bottom: solid 1px #202020;
+	color: #202020;
+}
+
+ul { 
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-size: 2.5rem;
+	line-height: 3rem;
+	letter-spacing: -1px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 2rem;
+	line-height: 2.5rem;
+	letter-spacing: -1px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 1.5rem;
+	line-height: 2rem;
+	letter-spacing: -1px;
+ 	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+h4 {}
+h5 {}
+h6 {}
+
+blockquote {
+	margin: 0 0 20px 40px;
+	padding: 0 0 0 10px;
+	border-left: 2px solid #383838;
+}
+
+code {
+	font-size: .9rem;
+	font-style: italic;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
 
 /* BREAKPOINTS */
 @media only screen and (min-width: 1024px) {
