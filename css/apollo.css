@@ -13,6 +13,10 @@ html * {
 	font-weight: normal;
 }
 
+body {
+	width: 100%;
+}
+
 p {
 	margin-bottom: 20px;
 }
@@ -21,7 +25,7 @@ a {
 	text-decoration: none;
 	border-bottom: solid 1px #383838;
 	color: #383838;
-   }
+}
 
 a:active,
 a:hover,
@@ -84,7 +88,7 @@ img {
 @media only screen and (min-width: 1024px) {
     header {
         position: fixed;
-        width: 200px;
+        width: 220px;
         padding: 30px 30px 0 40px;
     }
 
@@ -102,25 +106,23 @@ img {
 
     main {
         max-width: 1600px;
-        padding-top: 30px;
-        padding-left: 200px;
-        padding-right: 100px;
+		padding: 30px 100px 30px 220px;
     }
   
     ul.posts li span.date {
-      float: right;
+		float: right;
     }
   
     ul.bookmarks {
-     -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
-  }
-  
-  ul.bookmarks li {
-  margin: 0;
-  font-size: .875rem;
-  }
+		-webkit-column-count: 4;
+		-moz-column-count: 4;
+		column-count: 4;
+	}
+	
+	ul.bookmarks li {
+		margin: 0;
+		font-size: .875rem;
+	}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -145,12 +147,11 @@ img {
     }
     
     header ul.social {
-        text-align: right;   
-        padding-top: 10px;
+        text-align: right;
     }
     
     header ul.social li {
-        padding-left: 7px;    
+        padding-left: 7px;
     }
     
     main {
@@ -158,19 +159,24 @@ img {
     }
   
     ul.bookmarks {
-     -webkit-column-count: 2;
-    -moz-column-count: 2;
-    column-count: 2;
-  }
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+	}
   
-  ul.bookmarks li {
-  margin: 0 0 5px 0;
-  }
+	ul.bookmarks li {
+  		margin: 0 0 5px 0;
+	}
 }
 
 /* HEADER STYLES */
     header a.logo {
-        font-size: 1.3rem;
+        font-size: 1.5rem;
+        border: none;
+        color: #222222;
+    }
+
+    header a:hover.logo {
         border: none;
         color: #222222;
     }
