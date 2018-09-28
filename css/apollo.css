@@ -170,6 +170,9 @@ img {
 }
 
 /* HEADER STYLES */
+	header {
+		letter-spacing: 1px;
+}
     header a.logo {
         font-size: 1.5rem;
         border: none;
@@ -197,7 +200,6 @@ img {
     }
 
     header ul.global li {
-        font-size: 1.2rem;
         line-height: 1.7rem;
     }
 
