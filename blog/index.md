@@ -4,7 +4,6 @@ title: "Blog"
 description: "'blog' /bläɡ/ noun, a regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style."
 ---
 
-<h1>{{ page.title }}</h1>
 <ul class="posts">
   {% for post in site.posts %}
     <li>
