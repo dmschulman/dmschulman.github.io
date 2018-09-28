@@ -9,38 +9,48 @@
 	</head>
 	<body>
 		<header>
-			{% include nav.html %}
+			<nav>
+				{% include nav.html %}
+			</nav>
 			{% include social.html %}
 		</header>
 		<main>
 			<div class="content">
 				<h1>{{ page.title }}</h1>
 				<div class="post-meta">
-					<span><i aria-hidden class="far fa-calendar-alt" title="Date"></i> 
+					<span>
+						<i aria-hidden class="far fa-calendar-alt" title="Date"></i> 
 						{% if page.endDate %}
 							{{ page.date | date: "%B %d-" }}{{ page.endDate | date: "%d, %Y" }}
 						{% else %}
 							{{ page.date | date: "%B %d, %Y" }}
 						{% endif %}
 					</span>
-					<span><i aria-hidden class="fas fa-globe-americas" title="Location"></i> {{ page.geo }}</span>
-					<span><i aria-hidden class="far fa-images" title="Size"></i> {{ page.reel }} photos</span>
-					<span><i aria-hidden class="fas fa-camera-retro" title="Camera"></i> {{ page.camera }}</span>
-					<span class="tags"><i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}</span>
+					<span>
+						<i aria-hidden class="fas fa-globe-americas" title="Location"></i> {{ page.geo }}
+					</span>
+					<span>
+						<i aria-hidden class="far fa-images" title="Size"></i> {{ page.reel }} photos
+					</span>
+					<span>
+						<i aria-hidden class="fas fa-camera-retro" title="Camera"></i> {{ page.camera }}
+					</span>
+					<span class="tags">
+						<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
+					</span>
 				</div>
 				<p>{{ page.description }}</p>
 				
 				<ul class="photo-gallery">
-     					{% for photo in site.data.photos.italy-2004.feed.entry %}
-          					<li class="photo-mosaic">
-							<img class="lazy" data-src="{{ photo.content.src }}" alt="{{ photo.title.$t }}" />
-						</li>
-     					{% endfor %}
+     			{% for photo in site.data.photos.italy-2004.feed.entry %}
+          			<li class="photo-mosaic">
+						<img class="lazy" data-src="{{ photo.content.src }}" alt="{{ photo.title.$t }}" />
+					</li>
+     			{% endfor %}
 				</ul>
-
 			</div>
 			<footer>
-					{% include footer.html %}
+				{% include footer.html %}
 			</footer>
 		</main>
 	</body>
