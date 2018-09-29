@@ -15,14 +15,14 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 - cooking
 - camping
 - traveling
-{: .3-column-list}
+{: .three-column-list}
 
 ## I've lived in...
 - Philadelphia, PA
 - Santa Monica, CA
 - London, England
 - Ithaca, NY
-{: .3-column-list}
+{: .three-column-list}
 
 ## I'm currently...
 - Reading: [The Secret History of Mac Gaming](https://unbound.com/books/macgaming/)
@@ -30,4 +30,4 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 - Watching: [Get Me Roger Stone](https://www.imdb.com/title/tt6714534/)
 - Listening to: [The Midnight Hour](https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO)
 - Typing on: Thinkpad X1 Yoga (2nd generation)
-{: .3-column-list}
+{: .three-column-list}
