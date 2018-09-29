@@ -25,4 +25,6 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 - London, England
 - Ithaca, NY
 {: .3-column-list}
+
 </div>
+{::options parse_block_html="true" /}
