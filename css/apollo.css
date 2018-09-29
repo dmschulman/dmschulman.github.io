@@ -75,8 +75,19 @@ blockquote {
 }
 
 code {
-	font-size: .9rem;
-	font-style: italic;
+	background-color: #ebebeb;
+}
+
+pre.highlight {
+	background-color: #ebebeb;
+	padding: 0 20px;
+	font-family: monospace, sans-serif;
+}
+
+.highlighter-rouge {
+	background-color: #ebebeb;
+	border-left: 1px solid #555555;
+	margin: 0 0 20px 20px;
 }
 
 img {
@@ -347,16 +358,6 @@ ul.photo-gallery img {
 
    .post-meta span.tags {
      display: block;
-   }
-
-   .highlighter-rouge {
-       background-color: #eee;
-       border-left: 1px solid #555;
-       margin: 0 0 20px 20px;
-   }
-
-   pre.highlight {
-       padding: 0 20px;
    }
 
    ul.posts { 
