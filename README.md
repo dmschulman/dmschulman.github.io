@@ -9,4 +9,4 @@ Picasa XML: https://picasaweb.google.com/data/feed/base/user/dmschulman
 - Font color: #383838
 - Link color: #383838
 - Link hover: #202020
-- Highlight: #D7D7D7
+- Highlight: #EBEBEB
