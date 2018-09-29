@@ -15,9 +15,11 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 - cooking
 - camping
 - traveling
+{: .list-column #3-column}
 
 ## I've lived in...
 - Philadelphia, PA
 - Santa Monica, CA
 - London, England
 - Ithaca, NY
+{: .list-column #3-column}
