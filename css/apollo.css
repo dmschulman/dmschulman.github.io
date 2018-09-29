@@ -7,8 +7,6 @@ html * {
 	background: #ffffff;
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	color: #383838;
-	font-size: 1rem;
-	line-height: 1.5rem;
 	letter-spacing: -.5px;
 	font-weight: normal;
 }
@@ -19,6 +17,8 @@ body {
 
 p {
 	margin-bottom: 20px;
+	font-size: 1rem;
+	line-height: 1.5rem;
 }
 
 a {
@@ -170,56 +170,47 @@ img {
 }
 
 /* HEADER STYLES */
-	header {
-		letter-spacing: 1px;
+header {
+	letter-spacing: 1px;
 }
-    header a.logo {
-        font-size: 1.5rem;
-        border: none;
-        color: #222222;
-    }
 
-    header a:hover.logo {
-        border: none;
-        color: #222222;
-    }
+header nav {
+	text-transform: lowercase;
+}
 
-    header nav {
-        text-transform: lowercase;
-    }
+header a {
+	font-size: 1.3rem;
+	color: #595959;
+	border: none;
+}
 
-    header a {
-        color: #595959;
-        border: none;
-    }
+header a:hover,
+header a:active,
+header a:focus {
+	font-size: 1.3rem;
+	color: #222222;
+	border: none;
+}
 
-    header a:hover,
-    header a:active {
-        color: #595959;
-        border: none;
-    }
+header a.logo {
+	font-size: 1.5rem;
+}
 
-    header ul.global li {
-        line-height: 1.7rem;
-    }
+header a:hover.logo,
+header a:active.logo,
+header a:focus.logo {
+	font-size: 1.5rem;
+}
 
-    /* header ul.global li a {
-        color: #bbbbbb;
-    } */
+header ul.social {
+	margin: 10px 0;
+}
 
-    /* ul.global li a:hover {
-        color: #202020;
-    } */
-
-    header ul.social {
-        margin: 10px 0;   
-    }
-
-    header ul.social li {
-      font-size: 1rem;
-      line-height: 1.5rem;
-      display: inline;
-    }
+header ul.social li {
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	display: inline;
+}
 
 /* PHOTO STYLES */
 .content ul.photo-gallery {
