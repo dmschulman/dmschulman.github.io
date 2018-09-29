@@ -224,6 +224,25 @@ header ul.social li {
 	display: inline;
 }
 
+/* CONTENT */
+.content {
+	margin-bottom: 40px;
+}
+
+.content img {
+	margin-bottom: 20px;
+}
+
+h2.3-column-list {
+	width: 32%;
+	display: inline;
+}
+
+ul.3-column-list {
+	width: 32%;
+	display: inline;
+}
+
 /* PHOTO STYLES */
 .content ul.photo-gallery {
   display: -ms-flexbox;
@@ -317,16 +336,9 @@ ul.photo-gallery img {
        text-transform: capitalize;
    }
 
-/* BLOG INDEX STYLES*/
+/* BLOG CONTENT */
 
-
-/* POST STYLES */
-   .content {
-       margin-bottom: 40px;
-   }
-
-   .content ul {
-      list-style: disc;
+ /* .content ul {
       margin: 20px 0 30px 40px;
    }
 
@@ -340,11 +352,7 @@ ul.photo-gallery img {
 
   .content ul li p {
     padding-bottom: 0;
-}
-
-  .content img {
-  margin-bottom: 20px;
-}
+} */
 
    .post-meta {
        padding-bottom: 20px;
