@@ -233,50 +233,36 @@ header ul.social li {
 	margin-bottom: 20px;
 }
 
-h2.3-column-list {
+.3-column-list {
 	width: 32%;
 	display: inline;
-}
-
-ul.3-column-list {
-	width: 32%;
-	display: inline;
+	line-height: 1.5rem;
 }
 
 /* POST */
 
- .post ul {
-	 list-style: disc;
-	 margin: 20px 0 20px 50px;
+.post ul {
+	list-style: disc;
+	margin: 20px 0 20px 50px;
 }
 
 .post ul li p {
 	margin: 0;
 }
 
-   .post-meta {
-       padding-bottom: 20px;
-   }
+.post-meta {
+	padding-bottom: 20px;
+}
 
-   .post-meta span {
-     display: inline-block;
-       margin: 0 10px 3px 0;
-       text-transform: capitalize;
-   }
+.post-meta span {
+	display: inline-block;
+	margin: 0 10px 3px 0;
+	text-transform: capitalize;
+}
 
-   .post-meta span.tags {
-     display: block;
-   }
-
-   ul.posts { 
-       margin: 10px auto; 
-       font-size: 1.5em;
-       list-style: disc;
-   }
-
-   ul.posts li {
-       list-style: none;
-   }
+.post-meta span.tags {
+	display: block;
+}
 
 
 /* PHOTO STYLES */
