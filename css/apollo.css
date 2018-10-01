@@ -25,6 +25,8 @@ a {
 	text-decoration: none;
 	border-bottom: solid 1px #383838;
 	color: #383838;
+	font-size: 1rem;
+	line-height: 1.5rem;
 }
 
 a:active,
@@ -38,10 +40,6 @@ a:focus {
 ul { 
 	list-style: none;
 	margin-bottom: 20px;
-}
-
-li {
-	margin-bottom: 5px;	
 }
 
 h1 {
