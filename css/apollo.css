@@ -131,6 +131,11 @@ img {
 		-moz-column-count: 4;
 		column-count: 4;
 	}
+	
+	ul.bookmarks li a {
+		font-size: .875rem;
+		line-height: 1.3rem;
+	}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -170,6 +175,11 @@ img {
 		-webkit-column-count: 2;
 		-moz-column-count: 2;
 		column-count: 2;
+	}
+	
+	ul.bookmarks li a {
+		font-size: 1rem;
+		line-height: 1.5rem;
 	}
 }
 
@@ -367,10 +377,6 @@ ul.bookmarks {
 
 ul.bookmarks li i {
 	font-size: 1rem;
-}
-
-ul.bookmarks li a {
-	font-size: .875rem;
 }
 
 img.favicon {
