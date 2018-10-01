@@ -117,20 +117,20 @@ img {
         padding-right: 7px;    
     }
 	
-    main {
-		max-width: 1600px;
-		padding: 30px 100px 30px 220px;
-    }
-  
-    ul.posts li span.date {
-		float: right;
-    }
+main {
+	max-width: 1600px;
+	padding: 30px 100px 30px 220px;
+}
 	
-	ul.bookmarks {
-		-webkit-column-count: 4;
-		-moz-column-count: 4;
-		column-count: 4;
-	}
+ul.posts li span.date {
+	float: right;
+}
+	
+ul.bookmarks {
+	-webkit-column-count: 4;
+	-moz-column-count: 4;
+	column-count: 4;
+}
 }
 
 @media only screen and (max-width: 1023px) {
