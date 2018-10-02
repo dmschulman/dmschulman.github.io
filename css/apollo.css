@@ -268,6 +268,7 @@ header ul.social li {
 }
 
 /* PHOTO STYLES */
+
 .content ul.photo-gallery {
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -325,9 +326,6 @@ ul.photo-gallery li {
    ul.photo-gallery a:focus {
       border-bottom: none;
       color: #ffffff;
-      /* -moz-transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1); */
      overflow: hidden;
    }
 
@@ -335,6 +333,11 @@ ul.photo-gallery img {
   vertical-align: top;
   width: 360px;
   height: auto;
+}
+
+.photo-gallery img.thumbnail {
+	filter: brightness(.8);
+    -webkit-filter: brightness(.8);
 }
 
   ul.photo-gallery li a .gallery-meta {
@@ -349,9 +352,9 @@ ul.photo-gallery img {
 
 .gallery-meta h2 {
 	display: block;
-	background-color: none;
+	background: none;
 	color: #ffffff;
-	font-weight: normal;
+	font-weight: bold;
 	line-height: 2rem;
 	align-self: flex-end;
 }
