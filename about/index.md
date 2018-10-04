@@ -7,6 +7,8 @@ description: "About me"
 Hey there. My name is David Schulman and I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full stack development on the website of [University of the Sciences](https://www.usciences.edu/index.html).
 
 ## I enjoy...
+{: .three-column-list}
+
 - electronic music
 - Linux
 - biking
@@ -18,6 +20,8 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 {: .three-column-list}
 
 ## I've lived in...
+{: .three-column-list}
+
 - Philadelphia, PA
 - Santa Monica, CA
 - London, England
@@ -25,6 +29,8 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 {: .three-column-list}
 
 ## I'm currently...
+{: .three-column-list}
+
 - Reading: [The Secret History of Mac Gaming](https://unbound.com/books/macgaming/)
 - Browsing: [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/)
 - Watching: [Get Me Roger Stone](https://www.imdb.com/title/tt6714534/)
