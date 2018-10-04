@@ -238,7 +238,8 @@ header ul.social li {
 
 .three-column-list {
 	width: 32%;
-	display: inline;
+	float: left;
+	display: inline-block;
 	line-height: 1.5rem;
 }
 
@@ -354,7 +355,7 @@ ul.photo-gallery img {
 	display: block;
 	background: none;
 	color: #ffffff;
-	font-weight: bold;
+	font-weight: normal;
 	line-height: 2rem;
 	align-self: flex-end;
 }
