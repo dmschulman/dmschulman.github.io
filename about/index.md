@@ -48,3 +48,4 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 		</ul>
 	</div>
 </div>
+<div class="clear"></div>
