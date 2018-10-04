@@ -236,7 +236,7 @@ header ul.social li {
 	margin-bottom: 20px;
 }
 
-.three-column-list {
+.three-column-list .list {
 	width: 32%;
 	float: left;
 	display: inline-block;
