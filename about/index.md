@@ -17,8 +17,8 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 
 ## My background
 
-<div class="three-column-list">
-	<div class="list">
+<div class="flexi-row">
+	<div class="three">
 		<h3>I enjoy...</h3>
 		<ul>
 			<li>electronic music</li>
@@ -31,7 +31,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 			<li>traveling</li>
 		</ul>
 	</div>
-	<div class="list">
+	<div class="three">
 		<h3>I have lived in...</h3>
 		<ul>
 			<li><i class="fas fa-home fa-fw"></i> Philadelphia, PA</li>
@@ -40,7 +40,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 			<li><i class="fas fa-tree fa-fw"></i> Ithaca, NY</li>
 		</ul>
 	</div>
-	<div class="list">
+	<div class="three">
 	<h3>I am currently...</h3>
 		<ul>
 			<li><i class="fas fa-book fa-fw"></i> <strong>Reading: </strong><a href="https://unbound.com/books/macgaming/" target="_blank" title="The Secret History of Mac Gaming">The Secret History of Mac Gaming</a></li>
