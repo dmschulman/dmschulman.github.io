@@ -43,10 +43,10 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 	<div class="three">
 	<h3>I am currently...</h3>
 		<ul>
-			<li><i class="fas fa-book fa-fw"></i> <strong>Reading: </strong><a href="https://unbound.com/books/macgaming/" target="_blank" title="The Secret History of Mac Gaming">The Secret History of Mac Gaming</a></li>
-			<li><i class="fas fa-laptop fa-fw"></i> <strong>Browsing: </strong><a href="https://solar.lowtechmagazine.com" target="_blank" title="LOW←TECH MAGAZINE">LOW←TECH MAGAZINE</a></li>
-			<li><i class="fas fa-compact-disc fa-fw"></i> <strong>Listening: </strong><a href="https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO" target="_blank" title="The Midnight Hour">The Midnight Hour</a></li>
-			<li><i class="fas fa-film fa-fw"></i> <strong>Watching: </strong><a href="https://www.imdb.com/title/tt6714534/" target="_blank" title="Get Me Roger Stone">Get Me Roger Stone</a></li>
+			<li><i class="fas fa-book fa-fw"></i> <a href="https://unbound.com/books/macgaming/" target="_blank" title="The Secret History of Mac Gaming">The Secret History of Mac Gaming</a></li>
+			<li><i class="fas fa-laptop fa-fw"></i> <a href="https://solar.lowtechmagazine.com" target="_blank" title="LOW←TECH MAGAZINE">LOW←TECH MAGAZINE</a></li>
+			<li><i class="fas fa-compact-disc fa-fw"></i> <a href="https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO" target="_blank" title="The Midnight Hour">The Midnight Hour</a></li>
+			<li><i class="fas fa-film fa-fw"></i> <a href="https://www.imdb.com/title/tt6714534/" target="_blank" title="Get Me Roger Stone">Get Me Roger Stone</a></li>
 		</ul>
 	</div>
 </div>
