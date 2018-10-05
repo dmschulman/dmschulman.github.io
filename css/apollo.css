@@ -123,36 +123,26 @@ img {
     header ul.social li {
         padding-right: 7px;    
     }
+
+main {
+max-width: 1600px;
+padding: 30px 100px 30px 230px;
+}
 	
-	main {
-		max-width: 1600px;
-		padding: 30px 100px 30px 230px;
-	}
+ul.posts li span.date {
+float: right;
+}
 	
-	.flexi-row {
-		-webkit-flex-direction: row;
-		-ms-flex-direction: row;
-		flex-direction: row;
-	}
+ul.bookmarks {
+-webkit-column-count: 4;
+-moz-column-count: 4;
+column-count: 4;
+}
 	
-	.flexi-row .three {
-		width: 32%;
-	}
-	
-	ul.posts li span.date {
-		float: right;
-	}
-	
-	ul.bookmarks {
-		-webkit-column-count: 4;
-		-moz-column-count: 4;
-		column-count: 4;
-	}
-	
-	ul.bookmarks li a {
-		font-size: .875rem;
-		line-height: 1.3rem;
-	}
+ul.bookmarks li a {
+font-size: .875rem;
+line-height: 1.3rem;
+}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -187,27 +177,17 @@ img {
     main {
         padding: 20px;
     }
-	
-	.flexi-row {
-		-webkit-flex-direction: column;
-		-ms-flex-direction: column;
-		flex-direction: column;
-	}
-	
-	.flexi-row .three {
-		width: 100%;
-	}
   
-	ul.bookmarks {
-		-webkit-column-count: 2;
-		-moz-column-count: 2;
-		column-count: 2;
-	}
+ul.bookmarks {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+}
 	
-	ul.bookmarks li a {
-		font-size: 1rem;
-		line-height: 1.5rem;
-	}
+ul.bookmarks li a {
+font-size: 1rem;
+line-height: 1.5rem;
+}
 }
 
 /* HEADER STYLES */
@@ -268,6 +248,9 @@ header ul.social li {
 display: -ms-flexbox;
 display: -webkit-flex;
 display: flex;
+-webkit-flex-direction: row;
+-ms-flex-direction: row;
+flex-direction: row;
 -webkit-flex-wrap: wrap;
 -ms-flex-wrap: wrap;
 flex-wrap: wrap;
@@ -283,15 +266,17 @@ align-items: flex-start;
 }
 
 .flexi-row .three {
-	-webkit-order: 0;
-	-ms-flex-order: 0;
-	order: 0;
-	-webkit-flex: 0 1 auto;
-	-ms-flex: 0 1 auto;
-	flex: 0 1 auto;
-	-webkit-align-self: auto;
-	-ms-flex-item-align: auto;
-	align-self: auto;
+width: 220px;
+margin: 0px 20px;
+-webkit-order: 0;
+-ms-flex-order: 0;
+order: 0;
+-webkit-flex: 0 1 auto;
+-ms-flex: 0 1 auto;
+flex: 0 1 auto;
+-webkit-align-self: auto;
+-ms-flex-item-align: auto;
+align-self: auto;
 }
 
 /* POST */
