@@ -15,9 +15,11 @@ current-song-url: "https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1
 
 Hey there. My name is David Schulman and I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full stack development on the website of [University of the Sciences](https://www.usciences.edu/index.html).
 
+## My background
+
 <div class="three-column-list">
 	<div class="list">
-		<h2>I enjoy...</h2>
+		<h3>I enjoy...</h3>
 		<ul>
 			<li>electronic music</li>
 			<li>Linux</li>
@@ -30,7 +32,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 		</ul>
 	</div>
 	<div class="list">
-		<h2>I have lived in...</h2>
+		<h3>I have lived in...</h3>
 		<ul>
 			<li><i class="fas fa-home fa-fw"></i> Philadelphia, PA</li>
 			<li><i class="fas fa-sun fa-fw"></i> Santa Monica, CA</li>
@@ -39,7 +41,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 		</ul>
 	</div>
 	<div class="list">
-	<h2>I am currently...</h2>
+	<h3>I am currently...</h3>
 		<ul>
 			<li><i class="fas fa-book fa-fw"></i> <strong>Reading: </strong><a href="https://unbound.com/books/macgaming/" target="_blank" title="The Secret History of Mac Gaming">The Secret History of Mac Gaming</a></li>
 			<li><i class="fas fa-laptop fa-fw"></i> <strong>Browsing: </strong><a href="https://solar.lowtechmagazine.com" target="_blank" title="LOW←TECH MAGAZINE">LOW←TECH MAGAZINE</a></li>
@@ -49,3 +51,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 	</div>
 </div>
 <div class="clear"></div>
+
+## About this site
+
+## You can also find me...
