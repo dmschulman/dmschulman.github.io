@@ -120,26 +120,25 @@ img {
     header ul.social li {
         padding-right: 7px;    
     }
+main {
+max-width: 1600px;
+padding: 30px 100px 30px 220px;
+}
 	
-	main {
-		max-width: 1600px;
-		padding: 30px 100px 30px 220px;
-	}
+ul.posts li span.date {
+float: right;
+}
 	
-	ul.posts li span.date {
-		float: right;
-	}
+ul.bookmarks {
+-webkit-column-count: 4;
+-moz-column-count: 4;
+column-count: 4;
+}
 	
-	ul.bookmarks {
-		-webkit-column-count: 4;
-		-moz-column-count: 4;
-		column-count: 4;
-	}
-	
-	ul.bookmarks li a {
-		font-size: .875rem;
-		line-height: 1.3rem;
-	}
+ul.bookmarks li a {
+font-size: .875rem;
+line-height: 1.3rem;
+}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -175,16 +174,16 @@ img {
         padding: 20px;
     }
   
-    ul.bookmarks {
-		-webkit-column-count: 2;
-		-moz-column-count: 2;
-		column-count: 2;
-	}
+ul.bookmarks {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+}
 	
-	ul.bookmarks li a {
-		font-size: 1rem;
-		line-height: 1.5rem;
-	}
+ul.bookmarks li a {
+font-size: 1rem;
+line-height: 1.5rem;
+}
 }
 
 /* HEADER STYLES */
@@ -197,8 +196,8 @@ header nav {
 }
 
 header a {
-	font-size: 1.3rem;
-	line-height: 1.9rem;
+	font-size: 1.5rem;
+	line-height: 2rem;
 	color: #595959;
 	border: none;
 }
@@ -206,19 +205,20 @@ header a {
 header a:hover,
 header a:active,
 header a:focus {
-	font-size: 1.3rem;
-	color: #222222;
+	font-size: 1.5rem;
+	line-height: 2rem;
+	color: #696969;
 	border: none;
 }
 
 header a.logo {
-	font-size: 1.5rem;
+	color: #222222;
 }
 
 header a:hover.logo,
 header a:active.logo,
 header a:focus.logo {
-	font-size: 1.5rem;
+	color: #595959;
 }
 
 header ul.social {
@@ -226,8 +226,6 @@ header ul.social {
 }
 
 header ul.social li {
-	font-size: 1.2rem;
-	line-height: 1.7rem;
 	display: inline;
 }
 
