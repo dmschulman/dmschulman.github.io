@@ -23,18 +23,21 @@ p {
 
 a {
 	text-decoration: none;
-	border-bottom: solid 1px #383838;
-	color: #383838;
+	border-bottom: solid 1px #595959;
+	color: #595959;;
 	font-size: 1rem;
 	line-height: 1.5rem;
+	-webkit-transition: all .5s ease-in-out 0s;
+	-moz-transition: all .5s ease-in-out 0s;
+	transition: all .5s ease-in-out 0s;
 }
 
 a:active,
 a:hover,
 a:focus {
 	text-decoration: none;
-	border-bottom: solid 1px #202020;
-	color: #202020;
+	border-bottom: solid 1px #757575;
+	color: #757575;
 }
 
 ul { 
@@ -207,13 +210,13 @@ header a:hover,
 header a:active,
 header a:focus {
 	font-size: 1.5rem;
-	line-height: 2rem;
+	line-height: 1.9rem;
 	color: #757575;
 	border: none;
 }
 
 header a.logo {
-	color: #222222;
+	color: #000000;
 	font-size: 1.7rem;
 }
 
