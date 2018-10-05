@@ -263,8 +263,8 @@ align-items: flex-start;
 }
 
 .flexi-row .three {
-	width: 32%
-	    -webkit-order: 0;
+	width: 32%;
+	-webkit-order: 0;
     -ms-flex-order: 0;
     order: 0;
     -webkit-flex: 0 1 auto;
@@ -273,13 +273,6 @@ align-items: flex-start;
     -webkit-align-self: auto;
     -ms-flex-item-align: auto;
     align-self: auto;
-}
-
-.three-column-list .list {
-	width: 32%;
-	float: left;
-	display: inline-block;
-	line-height: 1.5rem;
 }
 
 /* POST */
