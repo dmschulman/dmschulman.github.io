@@ -32,10 +32,10 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 	<div class="list">
 		<h2>I have lived in...</h2>
 		<ul>
-			<li>Philadelphia, PA</li>
-			<li>Santa Monica, CA</li>
-			<li>London, England</li>
-			<li>Ithaca, NY</li>
+			<li><i class="fas fa-home"></i> Philadelphia, PA</li>
+			<li><i class="fas fa-sun"></i> Santa Monica, CA</li>
+			<li><i class="fas fa-plane-departure"></i> London, England</li>
+			<li><i class="fas fa-tree"></i> Ithaca, NY</li>
 		</ul>
 	</div>
 	<div class="list">
