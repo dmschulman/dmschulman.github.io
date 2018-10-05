@@ -34,7 +34,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 		<ul>
 			<li><i class="fas fa-home fa-fw"></i> Philadelphia, PA</li>
 			<li><i class="fas fa-sun fa-fw"></i> Santa Monica, CA</li>
-			<li><i class="fas fa-plane-departure fa-fw"></i> London, England</li>
+			<li><i class="fas fa-umbrella fa-fw"></i> London, England</li>
 			<li><i class="fas fa-tree fa-fw"></i> Ithaca, NY</li>
 		</ul>
 	</div>
