@@ -105,7 +105,7 @@ img {
 @media only screen and (min-width: 1024px) {
     header {
         position: fixed;
-        width: 220px;
+        width: 230px;
         padding: 30px 30px 0 40px;
     }
 
@@ -114,15 +114,16 @@ img {
     }
 
     header ul.global {
-        margin: 10px 0 40px 0px;
+        margin: 30px 0 20px 0;
     }
   
     header ul.social li {
         padding-right: 7px;    
     }
+	
 main {
 max-width: 1600px;
-padding: 30px 100px 30px 220px;
+padding: 30px 100px 30px 230px;
 }
 	
 ul.posts li span.date {
@@ -207,18 +208,20 @@ header a:active,
 header a:focus {
 	font-size: 1.5rem;
 	line-height: 2rem;
-	color: #696969;
+	color: #757575;
 	border: none;
 }
 
 header a.logo {
 	color: #222222;
+	font-size: 1.7rem;
 }
 
 header a:hover.logo,
 header a:active.logo,
 header a:focus.logo {
 	color: #595959;
+	font-size: 1.7rem;
 }
 
 header ul.social {
