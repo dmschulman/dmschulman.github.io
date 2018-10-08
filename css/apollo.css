@@ -143,6 +143,12 @@ ul.bookmarks li a {
 font-size: .875rem;
 line-height: 1.3rem;
 }
+	
+.flexi-row {
+-webkit-justify-content: center;
+-ms-flex-pack: center;
+justify-content: center;
+}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -187,6 +193,11 @@ column-count: 2;
 ul.bookmarks li a {
 font-size: 1rem;
 line-height: 1.5rem;
+}
+.flexi-row {
+-webkit-justify-content: left;
+-ms-flex-pack: left;
+justify-content: left;
 }
 }
 
@@ -254,9 +265,6 @@ flex-direction: row;
 -webkit-flex-wrap: wrap;
 -ms-flex-wrap: wrap;
 flex-wrap: wrap;
--webkit-justify-content: center;
--ms-flex-pack: center;
-justify-content: center;
 -webkit-align-content: space-between;
 -ms-flex-line-pack: justify;
 align-content: space-between;
@@ -266,7 +274,7 @@ align-items: flex-start;
 }
 
 .flexi-row .three {
-width: 180px;
+min-width: 180px;
 margin: 0px 20px;
 -webkit-order: 0;
 -ms-flex-order: 0;
