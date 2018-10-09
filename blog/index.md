@@ -7,7 +7,7 @@ description: "'blog' /bläɡ/ noun, a regularly updated website or web page, typ
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-	<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
     </li>
     <p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}
