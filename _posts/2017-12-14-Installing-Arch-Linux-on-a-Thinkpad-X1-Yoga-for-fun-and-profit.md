@@ -7,7 +7,7 @@ tags:
 - computing
 source-id: 1Sg3gfSOgfZet-uYRzaC1ZfJPaCSqOOqV_rCxTx19s-s
 published: true
-last-update: "12/14/2017"
+updated: "12/14/2017"
 ---
 I've been a big fan and supporter of [Ubuntu Linux](https://www.ubuntu.com/) for well over a decade, since at least 6.06 (Dapper Drake). They’ve done more than any other distro to help propel Linux forward as a tangible option for a desktop operating system among average computer users, and that’s a great thing. A rising tide lifts all ships.
 
