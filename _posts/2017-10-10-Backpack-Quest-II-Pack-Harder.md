@@ -8,8 +8,8 @@ tags:
 - apparel
 source-id: 1op5cOlJxwMeddqVC-7B7FTcLzING9tQKXQLHyizDo9Y
 published: true
+updated: "3/21/2018"
 ---
-**_Last updated:_** 3/21/2018
 
 What's in a bag? Stuff, generally, but on a deeper more philosophical level, what makes a particular bag good at what it does versus every other bags out there in the world today? They’re all just a pouch with zippers and straps on the back, right? Well, if you travel enough, you’re probably on the same page as me when it comes to hauling your things from point A to point B (and all points beyond). Nothing can take away from the fun and excitement of exploring a new destination more than the feeling of exhaustion and pain that can come from lugging around a heavy suitcase or uncomfortable bag everywhere you go. 
 
