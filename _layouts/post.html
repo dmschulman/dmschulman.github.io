@@ -25,6 +25,9 @@
 				</div>
 				<div class="post">
 					{{ content }}
+					{% if page.updated !="" %}
+						<em>This post was last updated {{ page.updated | date: '%B %d, %Y' }}.</em>
+					{% endif %}
 				</div>
 			</div>
 			<footer>
