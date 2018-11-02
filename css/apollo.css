@@ -330,7 +330,7 @@ align-self: auto;
   list-style: none;
 }
 
-ul.photo-gallery li {
+/* ul.photo-gallery li {
   -webkit-order: 0;
   -ms-flex-order: 0;
   order: 0;
@@ -370,7 +370,7 @@ ul.photo-gallery img {
   vertical-align: top;
   width: 360px;
   height: auto;
-}
+} */
 
 .photo-gallery img.thumbnail {
 	filter: brightness(.8);
