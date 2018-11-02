@@ -52,6 +52,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 </div>
 <div class="clear"></div>
 
-## About this site
+<!-- ## About this site
 
 ## You can also find me...
+-->
