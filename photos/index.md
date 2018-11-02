@@ -9,9 +9,8 @@ The art of photography has always fascinated, the ability to capture light is ak
 <div class="post">
   <ul class="photo-gallery">
 {% for photos in site.photos %}
-    <li>
+    <li class="background-image:url(thumb/{{ photos.thumbnail }}) 100% top;">
       <a href="{{ photos.permalink }}" title="{{ photos.title }}">
-        <img class="thumbnail" src="thumb/{{ photos.thumbnail }}" alt="{{ photos.title }}" />
         <div class="gallery-meta">
           <h2>{{ photos.title }}</h2>
         </div>
