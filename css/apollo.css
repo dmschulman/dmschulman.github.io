@@ -354,12 +354,15 @@ background-size: cover;
      -webkit-transition: all 1s;
      transition: all 1s;
 	   background: none;
+	   border-bottom: none;
+	   display: block;
    }
 
    ul.photo-gallery li a:hover,
    ul.photo-gallery li a:focus {
      overflow: hidden;
 background: none;
+	   border-bottom: none;
    }
 
 ul.photo-gallery li h2 {
