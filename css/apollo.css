@@ -342,10 +342,13 @@ ul.photo-gallery li {
   align-self: auto;
   position: relative;
   overflow: hidden;
-  margin: 4px;
-  min-width: 480px;
-  min-height: 360px;
-  max-width: 480px;
+  margin: 5px;
+  max-width: 520px;
+min-width: 320px;
+max-height: 325px;
+min-height: 200px;
+width: 100%;
+height: auto;
 background-size: cover;
 }
 
