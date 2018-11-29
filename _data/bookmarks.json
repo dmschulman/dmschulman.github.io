@@ -176,7 +176,7 @@
       "src": "http://www.6mois.fr/",
       "icon": "http://www.6mois.fr/squelettes/favicon.ico",
       "cat1": "Art",
-      "cat2": "Phtography",
+      "cat2": "Photography",
       "cat3": "Blogs",
       "dead": ""
     },
@@ -223,6 +223,15 @@
       "cat1": "Art",
       "cat2": "Photography",
       "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "Todd St. John",
+      "src": "http://toddstjohn.com/",
+      "icon": "",
+      "cat1": "Art",
+      "cat2": "Artist",
+      "cat3": "",
       "dead": ""
     },
     {
@@ -275,7 +284,7 @@
       "src": "https://www.nathanrabin.com/",
       "icon": "https://www.nathanrabin.com/favicon.ico",
       "cat1": "Blogs",
-      "cat2": "",
+      "cat2": "Arts and Culture",
       "cat3": "",
       "dead": ""
     },
@@ -375,6 +384,15 @@
       "icon": "",
       "cat1": "Blogs",
       "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Lost in Cheeseland",
+      "src": "http://www.lostincheeseland.com/",
+      "icon": "http://www.lostincheeseland.com/wp-content/uploads/2015/12/favicon.png",
+      "cat1": "Blogs",
+      "cat2": "Friends and Colleagues",
       "cat3": "",
       "dead": ""
     },
@@ -523,15 +541,6 @@
       "dead": ""
     },
     {
-      "name": "The Baffler",
-      "src": "https://thebaffler.com/",
-      "icon": "https://thebaffler.com/favicon.ico",
-      "cat1": "Culture",
-      "cat2": "Magazines and Journals",
-      "cat3": "",
-      "dead": ""
-    },
-    {
       "name": "The Culturium",
       "src": "https://www.theculturium.com/",
       "icon": "http://www.theculturium.com/wp-content/uploads/2015/05/favicon.ico",
@@ -646,6 +655,42 @@
       "cat1": "Culture",
       "cat2": "Blogs",
       "cat3": "Personal",
+      "dead": ""
+    },
+    {
+      "name": "Vulture",
+      "src": "http://www.vulture.com/",
+      "icon": "https://assets.nymag.com/media/sites/vulture/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Entertainment",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Another Man Magazine",
+      "src": "http://www.anothermanmag.com",
+      "icon": "http://www.anothermanmag.com/chrome-icon.png",
+      "cat1": "Culture",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "src": "https://www.hollywoodreporter.com",
+      "icon": "https://assets.hollywoodreporter.com/assets/1543262272/images/brand/favicon.ico?952e67387cfba0d515c8",
+      "cat1": "Culture",
+      "cat2": "Film",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "TV Tropes",
+      "src": "https://tvtropes.org/",
+      "icon": "https://static.tvtropes.org/img/icons/favicon.ico",
+      "cat1": "Culture",
+      "cat2": "Film",
+      "cat3": "",
       "dead": ""
     },
     {
@@ -802,11 +847,56 @@
       "dead": ""
     },
     {
+      "name": "Lined & Unlined",
+      "src": "https://www.linedandunlined.com/",
+      "icon": "https://www.linedandunlined.com/favicon-16x16.png",
+      "cat1": "Design",
+      "cat2": "Blogs",
+      "cat3": "Personal",
+      "dead": ""
+    },
+    {
+      "name": "Design Observer",
+      "src": "https://designobserver.com/",
+      "icon": "https://designobserver.com/favicon-16x16.png",
+      "cat1": "Design",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Core77",
+      "src": "https://www.core77.com/",
+      "icon": "https://static.core77.com/images/favicons/favicon-16x16.png",
+      "cat1": "Design",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Reading Design",
+      "src": "https://www.readingdesign.org/",
+      "icon": "",
+      "cat1": "Design",
+      "cat2": "Resources",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "The Big Muff π Page ",
       "src": "http://www.kitrae.net/music/Big_Muff_Mods_and_Tweaks_Page.html",
       "icon": "",
       "cat1": "DIY",
       "cat2": "Electronics",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Make Magazine",
+      "src": "https://makezine.com/",
+      "icon": "",
+      "cat1": "DIY",
+      "cat2": "Resources",
       "cat3": "",
       "dead": ""
     },
@@ -861,6 +951,24 @@
       "icon": "http://somafm.com/favicon.ico",
       "cat1": "Music",
       "cat2": "Streaming Radio",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Orb Mag",
+      "src": "https://www.orbmag.com/",
+      "icon": "https://www.orbmag.com/favicon-16x16.png",
+      "cat1": "Music",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "WhoSampled",
+      "src": "https://www.whosampled.com/",
+      "icon": "https://www.whosampled.com/static/images/favicon.ico",
+      "cat1": "Music",
+      "cat2": "",
       "cat3": "",
       "dead": ""
     },
@@ -939,7 +1047,7 @@
     {
       "name": "NPR",
       "src": "https://www.npr.org/",
-      "icon": "https://www.npr.org/favicon.ico",
+      "icon": "https://media.npr.org/templates/favicon/favicon-96x96.png",
       "cat1": "News",
       "cat2": "Media",
       "cat3": "",
@@ -1153,9 +1261,27 @@
       "dead": ""
     },
     {
+      "name": "New Statesman",
+      "src": "https://www.newstatesman.com/",
+      "icon": "https://www.newstatesman.com/sites/default/files/favicon_0.jpg",
+      "cat1": "News",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The New Republic",
+      "src": "https://newrepublic.com/",
+      "icon": "https://assets.newrepublic.com/assets/favicons/favicon.ico",
+      "cat1": "News",
+      "cat2": "Daily Reads",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "All Things Considered",
       "src": "https://www.npr.org/programs/all-things-considered/",
-      "icon": "https://www.npr.org/favicon.ico",
+      "icon": "https://media.npr.org/templates/favicon/favicon-96x96.png",
       "cat1": "Podcast",
       "cat2": "News",
       "cat3": "",
@@ -1203,6 +1329,87 @@
       "icon": "https://www.pexels.com/favicon.ico",
       "cat1": "Resources",
       "cat2": "Photography",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Semantic Scholar",
+      "src": "https://www.semanticscholar.org/",
+      "icon": "https://www.semanticscholar.org/img/favicon.png",
+      "cat1": "Resources",
+      "cat2": "Science",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "edX",
+      "src": "https://www.edx.org/",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Education",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Udacity",
+      "src": "https://www.udacity.com/",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Education",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "MIT OpenCourseWare",
+      "src": "https://ocw.mit.edu/index.htm",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Education",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "MAC Address Lookup",
+      "src": "https://macaddresslookup.info/",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Tools",
+      "cat3": "Technology",
+      "dead": ""
+    },
+    {
+      "name": "Duper",
+      "src": "https://duper.app/",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Images",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Stack Overflow",
+      "src": "https://stackoverflow.com/",
+      "icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+      "cat1": "Resources",
+      "cat2": "Coding",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "DuckDuckGo",
+      "src": "https://duckduckgo.com/",
+      "icon": "https://duckduckgo.com/favicon.ico",
+      "cat1": "Resources",
+      "cat2": "Tools",
+      "cat3": "Search",
+      "dead": ""
+    },
+    {
+      "name": "HaveIBeenPwned",
+      "src": "https://haveibeenpwned.com/",
+      "icon": "https://haveibeenpwned.com/favicon.ico",
+      "cat1": "Resources",
+      "cat2": "Technology",
       "cat3": "",
       "dead": ""
     },
@@ -1405,6 +1612,51 @@
       "dead": ""
     },
     {
+      "name": "The Register",
+      "src": "https://www.theregister.co.uk/",
+      "icon": "https://www.theregister.co.uk/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "Magazines and Journals",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Two-Bit History",
+      "src": "https://twobithistory.org/",
+      "icon": "https://twobithistory.org/favicon.ico",
+      "cat1": "Technology",
+      "cat2": "History",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "This is Security",
+      "src": "https://thisissecurity.stormshield.com/",
+      "icon": "https://thisissecurity.stormshield.com/wp-content/uploads/2016/12/favicon-thisisscerurity.png",
+      "cat1": "Technology",
+      "cat2": "Security",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "Data&Society",
+      "src": "https://datasociety.net/",
+      "icon": "https://datasociety.net/wp-content/uploads/2015/10/cropped-infinity2-32x32.png",
+      "cat1": "Technology",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "The Jargon File",
+      "src": "http://catb.org/jargon/html/index.html",
+      "icon": "",
+      "cat1": "Technology",
+      "cat2": "Culture",
+      "cat3": "",
+      "dead": ""
+    },
+    {
       "name": "Pennsylvania Horticultural Society McLean Library",
       "src": "https://phsonline.org/resources/the-phs-mclean-library/",
       "icon": "",
@@ -1427,6 +1679,78 @@
       "src": "http://alistapart.com/",
       "icon": "http://alistapart.com/favicon.ico",
       "cat1": "Web Design",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "xkcd",
+      "src": "https://xkcd.com/",
+      "icon": "https://xkcd.com/s/919f27.ico",
+      "cat1": "Humor",
+      "cat2": "Comics",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Open Secrets",
+      "src": "https://www.opensecrets.org/",
+      "icon": "https://www.opensecrets.org/favicon.ico",
+      "cat1": "Resources",
+      "cat2": "Information",
+      "cat3": "Politics",
+      "dead": ""
+    },
+    {
+      "name": "The Shelter Blog",
+      "src": "https://www.theshelterblog.com/",
+      "icon": "https://blog.shelterpub.com/favicon.ico",
+      "cat1": "Art",
+      "cat2": "Architecture",
+      "cat3": "Blogs",
+      "dead": ""
+    },
+    {
+      "name": "LOW←TECH MAGAZINE",
+      "src": "https://solar.lowtechmagazine.com/",
+      "icon": "https://solar.lowtechmagazine.com/extra/clear-day.png",
+      "cat1": "Technology",
+      "cat2": "Blogs",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "OtherHand",
+      "src": "http://www.otherhand.org",
+      "icon": "http://www.otherhand.org/wp-content/uploads/2012/12/favicon.ico",
+      "cat1": "Blogs",
+      "cat2": "",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Wiby",
+      "src": "https://wiby.me",
+      "icon": "",
+      "cat1": "Resources",
+      "cat2": "Tools",
+      "cat3": "Search",
+      "dead": ""
+    },
+    {
+      "name": "Abandonia",
+      "src": "http://www.abandonia.com/",
+      "icon": "http://www.abandonia.com/themes/abandonia/favicon.ico",
+      "cat1": "Gaming",
+      "cat2": "Vintage",
+      "cat3": "",
+      "dead": ""
+    },
+    {
+      "name": "Attack Magazine",
+      "src": "https://www.attackmagazine.com/",
+      "icon": "https://6e80timjxr-flywheel.netdna-ssl.com/wp-content/uploads/2018/07/cropped-Attack_logo_800x800-32x32.jpg",
+      "cat1": "Music",
       "cat2": "Blogs",
       "cat3": "",
       "dead": ""
