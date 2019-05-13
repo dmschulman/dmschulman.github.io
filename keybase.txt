@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dmschulman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dmschulman.com
+  * I am dmschulman (https://keybase.io/dmschulman) on keybase.
+  * I have a public key with fingerprint B622 4073 7944 2AC3 5B7E  E291 E04D A771 E92F E8E3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fa710e7072a47cc3f9a2abf955fac3b0892ba19449a079bbfe4af74d380e72ac0a",
+      "fingerprint": "b622407379442ac35b7ee291e04da771e92fe8e3",
+      "host": "keybase.io",
+      "key_id": "e04da771e92fe8e3",
+      "kid": "0101c489919123ff529ab6ff6840d38b7c78668e9a640b400f54bc008e54d09ba6020a",
+      "uid": "15bf03cf26bea75baeea6758511f6c19",
+      "username": "dmschulman"
+    },
+    "service": {
+      "hostname": "dmschulman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1557708091,
+  "expire_in": 157680000,
+  "prev": "71c71a8d37ce9536c22050d661e1de50cd1abd402b2230cfe8ca4797f1600a94",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNtAnicbZJ9TJVVHMfBhOUljHizkHQ+K5AX4Tyv53muQeGlyIAJ5CKLBec8z3ng
+ern34n1BBYmtTCFcZMhagTUTkXkvAi50rXAq5CY4JjBByMZbSEgDmzWngPRcln/V
++efs/M7n+z3f8zuny/8pL533WPrpPTPxv09691yud3rl3OrYWkphq7Kf0pdSJrIy
+kUKF2B25JqNC6SlAM0BFkAYEAsggDsoyq0qIQViVeF5FMouBKDEY0RLHSQhACWOV
+cEiFnMKKmopBMkBULKUaLfnEVmQzWhyaLRYYhgOQhZpKI1geQ0IYiSaAUxCENJEY
+lYiE1YQFVrtHoYXDyE7ijFatpi1yV+L9D/8kN6BlTpQkWqIZVlV5RkJYUFVB5IAW
+DEMZioIgEgkJHMAcACrPYRkAkfCcAiSMBMCs5Hau2NE8VgErq4yACYI8RoQgAfIi
+T9OqINOSB7QTmwWZiUYrZrtc4Cw0IwtVFktp9WKjTDyt9dzlP0ycbDVr+iKb1WGV
+rYXaXoHDUWTXe7SO/UUeeC/Buf/a5GKjRdF6qSmKic1utFooPa2RssPo8aV5HkIg
+AomOpci+IqON5Bo9BA8FEWjDcw4p1iwhLUMaiQoLZSLxrCAzDOCBIgg0oRXCA1mh
+EVY4wGCGYYGsdVfWXl+CKi0AgCSO8lxsj8WqeWumDpSvedqN+RbkcNoIVXblcs5q
+L2+dl6/PKs8n89KtCXjy9TgxwKvH5ZcwVh55yArbNvoPP3dvJHW5+emimcjKqerS
+s8Gmvu6BsfDW5ZMtj2bvp3y99qUzRw++emdd42D87U0pFy8I1c74DL8K01y/m5/r
+Sg2a56EratNcbfn1ep/Fu4HZB3+4Zd5x7KsNLQfyFqLT3gntelhg+LS15CH7/sSf
+62u6Le7lut6g1A/jg++ML2W5cXpxQ/fJxbfTgvt0hp0pE2rLg+0vIJ/WIX3zwu3Z
+hpJA++6lU+3vKid+i8QjFX9kJr9xrZhSb06F1prjvkgbT45paFgONfwyX788+81b
+Fd21/ejUB+EJifF4c3aHSarVhce46n521qw6smY+caTviLv8YtPa767PhAiWgcGs
+6nOvkNU7F0YPbwwYKDtk2BAKGw9En/mp9oJuxzHn2emm470nPm9Lb9zy2npqV/jr
+nUk33sw87wr6supH/vigft3U0HufJSm15xOjht0dicN4W29/VcWVRr59nM78tack
+tTOp1Rdk+u2uOxfhavbdutRZ/XLY91UxlVIbnDUNHg573t3uGvX7NmLyEpUz6n+j
+oOGmLmT8cYy+jXO2HiUl43tjH4REO/762zV91+/e9ibpxWw249Ezk1m2giHh6r6c
+4SrD1cr77k8YV1hCzUT8sz4gbNSxBaUlJ2w2pIzvWjyU2dibd+mjvIyoaWX58enO
+j5VAkUQ0pVyTff8B8qbGTA==
+=3iB9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dmschulman
+
+==================================================================
