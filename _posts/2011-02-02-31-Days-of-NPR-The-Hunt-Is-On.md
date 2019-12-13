@@ -5,7 +5,7 @@ author: dmschulman
 permalink: /31-days-of-npr-the-hunt-is-on/
 tags:
 - science
-- npr
+- NPR
 source-id: 1iy8qn0h7oRWzqhbDKZclT-00MesydKhIqrcQyfpsj2A
 published: true
 ---
