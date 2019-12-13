@@ -1,5 +1,5 @@
 ---
-title: 31 Days of NPR: The Hunt Is On
+title: 31 Days of NPR - The Hunt Is On
 layout: post
 author: dmschulman
 permalink: /31-days-of-npr-the-hunt-is-on/
@@ -11,7 +11,7 @@ published: true
 ---
 Every morning when I wake up I like to immediately hop on the internet and check [hasthelargehadroncolliderdestroyedtheworldyet.com](http://hasthelargehadroncolliderdestroyedtheworldyet.com/), you know, just to make sure those brainy scientists over at CERN haven't destroyed the world yet. From the moment it was brought online in 2008, and all of the ~mysterious~ circumstances that it has suffered throughout that process ([birds dropping breadcrumbs](http://www.time.com/time/health/article/0,8599,1937370,00.html) and all), I can’t remember a single scientific experiment inspiring so much unjustified fear and panic from the public as the Russian Doomsday machine/Swiss cyclotron (known as the Large Hadron Collider) hath wrought.
 
-[For](https://web-beta.archive.org/web/20110209102917/http://www.foxnews.com/story/0,2933,483477,00.html) [all](https://web-beta.archive.org/web/20110209102917/http://www.foxnews.com/story/0,2933,538447,00.html) [of](https://web-beta.archive.org/web/20110209102917/http://www.foxnews.com/story/0,2933,342854,00.html) [the](https://web-beta.archive.org/web/20110209102917/http://www.usatoday.com/tech/science/2008-11-04-large-hadron-collider_N.htm) [speculation](http://www.youtube.com/watch?gl=US&hl=uk&v=Lt1Yo610lG0) about our impending end-times though, there really has not been a lot of news coverage around the LHC beyond scientific peer-review journals like [Nature](http://www.nature.com/) and [Science](http://www.sciencemag.org/). Well, except on [Nation Public Radio](http://www.npr.org/2010/12/28/132406486/the-hunt-is-on-massive-collider-churning-out-data) of course.
+[For](http://www.foxnews.com/story/0,2933,483477,00.html) [all](http://www.foxnews.com/story/0,2933,538447,00.html) [of](http://www.foxnews.com/story/0,2933,342854,00.html) [the](http://www.usatoday.com/tech/science/2008-11-04-large-hadron-collider_N.htm) [speculation](http://www.youtube.com/watch?gl=US&hl=uk&v=Lt1Yo610lG0) about our impending end-times though, there really has not been a lot of news coverage around the LHC beyond scientific peer-review journals like [Nature](http://www.nature.com/) and [Science](http://www.sciencemag.org/). Well, except on [Nation Public Radio](http://www.npr.org/2010/12/28/132406486/the-hunt-is-on-massive-collider-churning-out-data) of course.
 
 ![image alt text]({{ site.url }}/public/NMO152lSWadbiQ95kSM90Q_img_0.jpg)
 
