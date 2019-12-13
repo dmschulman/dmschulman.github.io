@@ -18,7 +18,7 @@ I consume a HUGE amount of content online and it changes on a frequent basis. An
 
 Even though I intend to keep growing this list, I felt the need to capture what I'm currently browsing via RSS here. Feeds have been conveniently categorized below, though I am always working to refine how my streams are sorted. Presented, for your viewing pleasure, my huge list of feeds:
 
-**News**
+## News
 
 * Al Jazeera
 
@@ -52,7 +52,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * Wall Street Journal
 
-**Business**
+## Business
 
 * BloggingStocks
 
@@ -66,7 +66,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * The Economist
 
-**Culture**
+## Culture
 
 * Boing Boing
 
@@ -92,7 +92,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * Vice Magazine
 
-**Sci Tech**
+## Sci Tech
 
 * AnandTech
 
@@ -116,7 +116,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * Wired Magazine
 
-**Entertainment**
+## Entertainment
 
 * Cinematical
 
@@ -126,7 +126,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * Pitchfork
 
-**Design and Production**
+## Design and Production
 
 * A List Apart
 
@@ -154,7 +154,7 @@ Even though I intend to keep growing this list, I felt the need to capture what 
 
 * Web Creme
 
-Lifestyle
+## Lifestyle
 
 * A Continuous Lean.
 
@@ -176,7 +176,7 @@ Lifestyle
 
 * The Art of Manliness
 
-**Food and Drink**
+## Food and Drink
 
 * Serious Eats
 
@@ -184,7 +184,7 @@ Lifestyle
 
 * TasteSpotting
 
-**Stuff**
+## Stuff
 
 * Better Living Through Design
 
@@ -208,7 +208,7 @@ Lifestyle
 
 * WatchTime
 
-**Deals**
+## Deals
 
 * Dealnews
 
@@ -216,7 +216,7 @@ Lifestyle
 
 * Woot Deals
 
-**Comics**
+## Comics
 
 * Achewood
 
@@ -240,7 +240,7 @@ Lifestyle
 
 * xkcd
 
-**Long Form**
+## Long Form
 
 * Give Me Something To Read
 
@@ -252,7 +252,7 @@ Lifestyle
 
 * The New Yorker
 
-**Music Blogs**
+## Music Blogs
 
 * Binary
 
@@ -264,7 +264,7 @@ Lifestyle
 
 * No Genre
 
-**Blogs and Friends**
+## Blogs and Friends
 
 * A Collection of Odd.
 
@@ -280,7 +280,7 @@ Lifestyle
 
 * Tim Ferriss
 
-**Image Subscriptions**
+## Image Subscriptions
 
 * Creattica
 
@@ -302,7 +302,7 @@ Lifestyle
 
 * Wooster Collective
 
-**Podcast Subscriptions**
+## Podcast Subscriptions
 
 * APM: Marketplace
 
@@ -336,7 +336,7 @@ Lifestyle
 
 * TWiT.TV
 
-**Video Subscriptions**
+## Video Subscriptions
 
 * Ignite
 
