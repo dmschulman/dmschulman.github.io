@@ -1,5 +1,5 @@
 ---
-title: Resolutions, 31 Days of NPR
+title: Resolutions - 31 Days of NPR
 layout: post
 author: dmschulman
 permalink: /resolutions-31-days-of-npr/
