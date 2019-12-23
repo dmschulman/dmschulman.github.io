@@ -1,12 +1,12 @@
 ---
-title: Resolutions: 31 Days of NPR
+title: Resolutions, 31 Days of NPR
 layout: post
 author: dmschulman
 permalink: /resolutions-31-days-of-npr/
 tags:
 - musings
 - the media
-- npr
+- NPR
 source-id: 1ao5FNFaPa4ZADUaHEXlYZqYK7tmXpVGuxAE7owAgI60
 published: true
 ---
