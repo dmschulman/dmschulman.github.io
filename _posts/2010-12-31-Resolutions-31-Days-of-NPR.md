@@ -42,5 +42,4 @@ Every day this coming January I will be writing about a piece of new and interes
 
 I'm going to try my hardest to find all of the far-left progressive propaganda I’m told NPR is constantly spewing, but barring any of that, there will likely be something fresh and captivating for you to learn about here every day.
 
-So here's to kicking of 2011 the right way, in an informed and intellectually curious way. Happy New Year, everyone!
-
+So here's to kicking off 2011 the right way, in an informed and intellectually curious way. Happy New Year, everyone!
