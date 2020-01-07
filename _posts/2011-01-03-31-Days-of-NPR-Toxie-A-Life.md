@@ -4,7 +4,7 @@ layout: post
 author: dmschulman
 permalink: /31-days-of-npr-toxie-a-life/
 tags:
-- npr
+- NPR
 - economy
 - business
 source-id: 1UbnFp1KnbUPq4gLlsGnD3KnaQUAJruU-I7i4bKhEWRE
