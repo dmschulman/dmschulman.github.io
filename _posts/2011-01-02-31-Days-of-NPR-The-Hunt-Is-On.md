@@ -14,6 +14,7 @@ Every morning when I wake up I like to immediately hop on the internet and check
 [For](http://www.foxnews.com/story/0,2933,483477,00.html) [all](http://www.foxnews.com/story/0,2933,538447,00.html) [of](http://www.foxnews.com/story/0,2933,342854,00.html) [the](http://www.usatoday.com/tech/science/2008-11-04-large-hadron-collider_N.htm) [speculation](http://www.youtube.com/watch?gl=US&hl=uk&v=Lt1Yo610lG0) about our impending end-times though, there really has not been a lot of news coverage around the LHC beyond scientific peer-review journals like [Nature](http://www.nature.com/) and [Science](http://www.sciencemag.org/). Well, except on [Nation Public Radio](http://www.npr.org/2010/12/28/132406486/the-hunt-is-on-massive-collider-churning-out-data) of course.
 
 ![image alt text]({{ site.url }}/public/NMO152lSWadbiQ95kSM90Q_img_0.jpg)
+
 *Maximilien Brice/CERN*
 
 If it were not for the December 28th segment on All Things Considered titled [The Hunt Is On: Massive Collider Churning Out Data](http://www.npr.org/2010/12/28/132406486/the-hunt-is-on-massive-collider-churning-out-data), I'd still be blissfully unaware that the physicists at CERN have actually done anything the past few months. After what had proven to be an awkward teenage growth phase for the LHC, teams of scientists have since been able to successfully smash particles into each other for some time. And now, after all those initial fireworks, the data has been gathered and the real science can begin.
