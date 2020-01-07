@@ -4,7 +4,8 @@ layout: post
 author: dmschulman
 permalink: /31-days-of-npr-the-art-of-the-danish-open-face-sandwich/
 tags:
-- npr
+- NPR
+- food
 source-id: 1SwNw6y4b0QVNKLP8-Ao1AS8Pk26-0c6Sy_c-FF40jCw
 published: true
 ---
