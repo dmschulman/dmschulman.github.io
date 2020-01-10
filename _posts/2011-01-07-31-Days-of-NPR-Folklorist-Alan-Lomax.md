@@ -5,7 +5,7 @@ author: dmschulman
 permalink: /31-days-of-npr-folklorist-alan-lomax/
 tags:
 - music
-- npr
+- NPR
 - americana
 source-id: 1m5wMVMRxb01fDe1AHKJ3JJC0LucyCEaaLJEv5hOQ0MI
 published: true
