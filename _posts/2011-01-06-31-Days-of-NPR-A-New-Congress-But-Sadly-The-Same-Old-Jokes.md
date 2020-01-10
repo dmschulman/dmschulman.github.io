@@ -4,7 +4,7 @@ layout: post
 author: dmschulman
 permalink: /31-days-of-npr-a-new-congress-but-sadly-the-same-old-jokes/
 tags:
-- npr
+- NPR
 - politics
 - podcasts
 source-id: 1PVKsVC9xjZR54QgwhmWL-bFVRq20RmS1y6NLMB66DCI
@@ -15,4 +15,3 @@ published: true
 With a new set of House members swearing in to the 112th United States Congress, IAP has no shortage of points to talk (very quickly) about. As an added bonus, the change over of staff over at the White House as well as a mention of legendary Chicago politician Bill Daley made for some interesting conversation in this most recent episode of [Political Junkie](https://www.npr.org/blogs/itsallpolitics/2011/01/07/132739507/this-weeks-podcast-a-new-congress-but-sadly-the-same-old-jokes).
 
 Listen away!
-
