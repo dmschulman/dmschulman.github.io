@@ -2,9 +2,9 @@
 title: 31 Days of NPR - Nine Rappers, One Wu-Tang Clan
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-nine-rappers-one-wu-tang-clan/
+permalink: /31-days-of-npr-nine-rappers,-one-wu-tang-clan/
 tags:
-- NPR
+- npr
 - music
 source-id: 1cp8h0iEgARph-BuKhbD9nM8aRbs7lSomhmffHfibkV0
 published: true
