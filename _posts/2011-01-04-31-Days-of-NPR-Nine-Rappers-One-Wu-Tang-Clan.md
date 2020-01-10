@@ -4,7 +4,7 @@ layout: post
 author: dmschulman
 permalink: /31-days-of-npr-nine-rappers,-one-wu-tang-clan/
 tags:
-- npr
+- NPR
 - music
 source-id: 1cp8h0iEgARph-BuKhbD9nM8aRbs7lSomhmffHfibkV0
 published: true
