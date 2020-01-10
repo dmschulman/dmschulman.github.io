@@ -10,7 +10,7 @@ tags:
 source-id: 1ao5FNFaPa4ZADUaHEXlYZqYK7tmXpVGuxAE7owAgI60
 published: true
 ---
-Like Santa-Con, drinking eggnog with brandy, and staying indoors (unless you absolutely have to go outside) this wintry time of year includes man traditions. One annual exercise, a promise made before the end of the year (and usually forgotten about by the middle of January) is resolving to become a better person through strictly regimenting your lifestyle, taking steps to improve your health, and committing to achieve a long term goal in order to improve your station in the new year. Or maybe you just want to stop Facebooking so much in 2011. No goal is too big or small!
+Like Santa-Con, drinking eggnog with brandy, and staying indoors (unless you absolutely have to go outside) this wintry time of year includes many traditions. One annual exercise, a promise made before the end of the year (and usually forgotten about by the middle of January) is resolving to become a better person through strictly regimenting your lifestyle, taking steps to improve your health, and committing to achieve a long term goal in order to improve your station in the new year. Or maybe you just want to stop Facebooking so much in 2011. No goal is too big or small!
 
 I feel like I may have told this to myself before, but this New Year's I resolve to, among other things, write here more. This website has been an ever evolving project for me, its purpose continues to change as my everyday life and the web continues to change, but after thinking over a variety of questions (many specific to the kinds of content I can contribute here), I am tempted to make this goal a reality.
 
