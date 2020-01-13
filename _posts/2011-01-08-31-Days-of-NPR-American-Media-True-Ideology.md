@@ -1,8 +1,8 @@
 ---
-title: 31 Days of NPR - American Media True Ideology
+title: 31 Days of NPR - American Media's True Ideology
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-american-media-true-ideology/
+permalink: /31-days-of-npr-american-medias-true-ideology/
 tags:
 - NPR
 - the media
