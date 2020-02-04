@@ -12,8 +12,6 @@ tags:
 source-id: 1kvge1CRoAXyZBNSZ5Q0t_asQg1l3SbY8dZSlD2Ub7NQ
 published: true
 ---
-posted: june 4th, 2014 | filed under: internet, linux, mac, technology, windows 7
-
 I like the cloud, I really do. Being able to seamlessly transfer and make your files accessible across any of your machines from anywhere in the world is a pretty great use of networks and servers. The cloud has also replaced the need (in a lot of instances) for a local development machine as a place where code can live and be accessed by others and executed remotely.
 
 That's some cool stuff if you’re someone who has been working with computers for a long time.
