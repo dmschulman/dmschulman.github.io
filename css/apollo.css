@@ -46,7 +46,7 @@ ol {
 	margin: 20px 0 20px 20px;
 }
 
-ul > ul {
+ul li > ul {
 	margin: 0;	
 }
 	
@@ -287,7 +287,7 @@ align-self: auto;
 	margin: 0 0 0 40px;
 }
 	
-.post ul > ul li {
+.post ul li > ul li {
 	list-style: circle;
 }
 
