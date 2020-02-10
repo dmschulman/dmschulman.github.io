@@ -14,10 +14,6 @@ tags:
 source-id: 13VGMEX1F-zV_LwSokF1OIJQeO-Rh9Jbi5vx_IYtsZTk
 published: true
 ---
-[streaming police scanners overloaded by interest in dorner standoff](https://web.archive.org/web/20160515122416/http://www.dmschulman.com/streaming-police-scanners-overloaded-by-interest-in-dorner-standoff/)
-
-posted: february 12th, 2013 | filed under: internet, journalism, politics, radio, security, technology
-
 A tense scene is still unfolding as the San Bernardino Police continue to surround a now burned-out house where manhunt suspect Christopher Dorner is believed to be holed up as he faces down a stand-off with police.
 
 News comes at the speed of live these days and even live television isn't good enough for stories like this one unfolding in real time. Twitter is a reliable place to find updates and people’s thoughts on breaking news, but arguably one of the best public resources for finding legitimate information in the moment are radio scanner streams. [Radioreference.com](https://radioreference.com/) and various smartphone apps help people easily access over-the-air communications between police, firefighters, pilots, truckers, and dispatchers that they communicate with.
