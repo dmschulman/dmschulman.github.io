@@ -6,7 +6,7 @@ permalink: /rss-habits/
 tags:
 - google
 - computing
-- links
+- bookmarks
 source-id: 1lA_Bq1cvMGfN0__DL_piL4OC5Bb7a8Cvy2Q-PS39kis
 published: true
 ---
