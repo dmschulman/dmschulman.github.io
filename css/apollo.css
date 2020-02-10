@@ -46,6 +46,10 @@ ol {
 	margin: 20px 0 20px 20px;
 }
 
+ul > ul {
+	margin: 0;	
+}
+	
 h1 {
 	font-size: 2.5rem;
 	line-height: 3rem;
@@ -281,6 +285,10 @@ align-self: auto;
 .post ul li {
 	list-style: disc;
 	margin: 0 0 0 40px;
+}
+	
+.post ul > ul li {
+	list-style: circle;
 }
 
 .post ol li {
