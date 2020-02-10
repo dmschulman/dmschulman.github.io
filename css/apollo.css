@@ -290,6 +290,7 @@ align-self: auto;
 .post ol li {
 	list-style-type: decimal-leading-zero;
 	margin: 0 0 0 40px;
+	font-weight: bold;
 }
 
 .post ul li p,
