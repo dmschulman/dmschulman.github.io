@@ -282,6 +282,10 @@ align-self: auto;
 
 /* POST */
 
+ul.posts {
+	margin: 0;
+}
+
 .post ul li {
 	list-style: disc;
 	margin: 0 0 0 40px;
