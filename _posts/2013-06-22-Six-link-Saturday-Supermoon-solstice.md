@@ -11,10 +11,6 @@ tags:
 source-id: 1TNBeE1ZTmzGbqZd5-TXjfbA3J9qHIUMgAVV3eYuF4Ho
 published: true
 ---
-[six link saturday – supermoon solstice](https://web.archive.org/web/20160515122416/http://www.dmschulman.com/six-link-saturday-supermoon-solstice/)
-
-posted: june 22nd, 2013 | filed under: comics, hacks, science, six link saturday
-
 Let me take you on another journey through sight and sound. Online that is:
 
 1. Just in time for summer: 41 ways to hack the great outdoors experience, put Mother Nature in a vicious headlock – [Buzzfeed](https://www.buzzfeed.com/peggy/camping-hacks-that-are-borderline-genius/)
