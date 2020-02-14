@@ -17,4 +17,4 @@ A diggers paradise, I remember watching this event live streamed via [Stones Thr
 
 The [tracklist for the mix](https://factmag-images.s3.amazonaws.com/wp-content/uploads/2014/02/PBW-24-hour-mix-tracklist.pdf) can be found thanks to FACT Magazine. Unfortunately it doesn't look like video of the livestream exists anywhere, but you can catch all 24 hours of music on Mixcloud:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/134734409&amp;color=ff5500"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/23373836&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
