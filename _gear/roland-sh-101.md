@@ -4,7 +4,7 @@ title: "Roland SH-101"
 description: ""
 make: "Roland"
 model: "SH-101"
-category: "Synthesizer"
+category: "Synthesizers"
 format: "Keyboard"
 tags: 
   - monophonic
