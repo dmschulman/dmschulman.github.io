@@ -34,7 +34,6 @@ Another reason why artists heap so much praise onto the SH-101 comes from those 
 <!--
 VCO mixer
 Key transpose
-CV/Gate inputs
 Battery power -->
 
 ## Documentation
@@ -108,7 +107,6 @@ Battery power -->
 </ul>
 
 ## Pictures
-
 <ul>
   <li>
     <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" title="SH-101 Ad" target="_blank">
