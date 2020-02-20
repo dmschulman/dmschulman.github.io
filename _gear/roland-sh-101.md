@@ -107,20 +107,50 @@ Battery power -->
 </ul>
 
 ## Pictures
-<ul>
+<ul class="pictures">
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" title="SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" alt="SH-101 Ad">
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" title="Roland SH-101 Ad" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" alt="Roland SH-101 Ad">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" title="SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" alt="SH-101 Ad">
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" title="Roland SH-101 Ad" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" alt="Roland SH-101 Ad">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" title="SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" alt="SH-101 Ad">
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" title="Roland SH-101 Ad" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" alt="Roland SH-101 Ad">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-grey.jpg" title="Grey Roland SH-101" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-grey.jpg" alt="Grey Roland SH-101">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-blue.jpg" title="Blue Roland SH-101" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-blue.jpg" alt="Blue Roland SH-101">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-red.jpg" title="Red Roland SH-101" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-red.jpg" alt="Red Roland SH-101">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-family.jpg" title="Roland SH-101 family" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-family.jpg" alt="Roland SH-101 family">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad.jpg" title="Roland SH-101 Ad" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad.jpg" alt="Roland SH-101 Ad">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-brochure-front.jpg" title="Roland SH-101 brochure" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-brochure-front.jpg" alt="Roland SH-101 brochure">
     </a>
   </li>
 </ul>
