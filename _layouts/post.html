@@ -19,7 +19,7 @@
 					</span>
 					{% if page.tags.size > 0 %}
 						<span class="tags">
-							<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
+							<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " | slugify }}
 						</span>
 					{% endif %}
 				</div>
