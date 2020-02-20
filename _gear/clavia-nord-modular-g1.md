@@ -7,7 +7,7 @@ model: "Nord Modular G1"
 category: "Synthesizers"
 format: "Keyboard"
 tags: 
-image: 
+image: https://dmschulman.com/studio/img/clavia-nord-modular-g1-keyboard.jpg
 own: true
 blurb: ""
 ---
