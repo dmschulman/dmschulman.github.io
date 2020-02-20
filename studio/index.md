@@ -26,8 +26,8 @@ Oh yeah, and some music too.
 {% for post in site.posts | sort: 'date' %}
 {% if post.tags contains 'music production' %}
 <li>
-<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
 <p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
 </li>
 {% endif %}
