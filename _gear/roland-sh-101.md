@@ -15,7 +15,7 @@ tags:
   - techno
   - bass
   - lead
-  - sh-101
+  - SH-101
   - keyboard
 image: https://dmschulman.com/studio/img/roland-sh-101.jpg
 own: true
@@ -27,7 +27,9 @@ But the filter on this thing, god damn. The 24db lowpass filter on the SH-101 is
 
 Oh yeah and the envelope response on this thing is quick, twangy, and snappy, great for anything but especially for arpeggiated sounds and percussive noises. Though there is only 1 envelope on board, you can use it to control the filter, VCA, and pitch (sort of). And unique to the SH-101, the filter can be set to gate normally, retrigger (either via the sequencer or Gate In), or be triggered by the internal LFO. While clearly a symptom of the instrument's modular roots, an envelope implementation such as this lends itself to many of the sounds the SH-101 is revered for (namely thick basses, wonky techno sequences, weird glitchy FX, and resonant grooves).
 
-Furthermore, there's a switch that allows you to change how the VCA behaves. Setting it to Gate allows sound to pass through once you hit a note (and stop when you take your finger off the key). But setting it to Env will, as you can imagine, applies the afformentioned envelope to the amplitude of the patch, giving you more control over the loudness and expressiveness of your sound.
+Furthermore, there's a switch that allows you to change how the VCA behaves. Setting it to Gate allows sound to pass through once you hit a note (and stop when you take your finger off the key). But setting it to Env will, as you can imagine, applies the afformentioned envelope to the amplitude of the patch, giving you more control over the loudness and expressiveness of your sound. Combine this feature with an external trigger or gate source, especially something with variable velocity or an off-beat clock, and you have yourself an instant techno party.
+
+Another reason why artists heap so much praise onto the SH-101 comes from those CV and Gate in/outs. Though limited, these two sets of jacks qualify the SH-101 as a "semi-modular" synthesizer, opening the instrument up to an entirely different dimension of sound design.
 
 <!--
 VCO mixer
@@ -55,6 +57,7 @@ Battery power -->
   <li><a href="https://en.wikipedia.org/wiki/Roland_SH-101" title="Roland SH-101 - Wikipedia" target="_blank">Roland SH-101 - Wikipedia</a></li>
   <li><a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a></li>
   <li><a href="https://www.synthmania.com/sh-101.htm" title="SynthMania: Roland SH-101" target="_blank">SynthMania: Roland SH-101</a></li>
+  <li><a href="http://www.dinsync.info/search/label/SH-101/" title="Din Sync - SH-101" target="_blank">Din Sync - SH-101</a></li> 
   <li><a href="http://machines.hyperreal.org/manufacturers/Roland/SH-101/" title="Music Machines: Roland SH-101" target="_blank">Music Machines: Roland SH-101</a></li>
   <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
   <li><a href="https://www.attackmagazine.com/technique/hardware-focus/roland-sh-101/" title="Roland SH-101 - Attack Magazine" target="_blank">Roland SH-101 - Attack Magazine</a></li>
