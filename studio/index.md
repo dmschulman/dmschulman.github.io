@@ -28,6 +28,7 @@ Oh yeah, and some music too.
 	<li>
 		<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
 		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		<p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
 	</li>
 {% endif %}
 {% endfor %}
