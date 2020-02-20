@@ -111,8 +111,8 @@ Battery power -->
 
 <ul>
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-gray.jpg" title="SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-gray.jpg" alt="SH-101 Ad">
+    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" title="SH-101 Ad" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" alt="SH-101 Ad">
     </a>
   </li>
   <li>
