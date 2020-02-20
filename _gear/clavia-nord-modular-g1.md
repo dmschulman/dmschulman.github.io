@@ -7,6 +7,17 @@ model: "Nord Modular G1"
 category: "Synthesizers"
 format: "Keyboard"
 tags: 
+  - digital
+  - DSP
+  - virtual analog
+  - synthesizer
+  - modular
+  - clavia
+  - nord
+  - keyboard
+  - desktop
+  - rackmount
+  - software
 image: https://dmschulman.com/studio/img/clavia-nord-modular-g1-keyboard.jpg
 own: true
 blurb: ""
