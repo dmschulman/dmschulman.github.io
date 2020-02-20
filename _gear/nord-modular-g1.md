@@ -1,6 +1,6 @@
 ---
 layout: gear
-title: "Roland SH-101"
+title: "Clavia Nord Modular G1"
 description: ""
 make: "Clavia"
 model: "Nord Modular G1"
