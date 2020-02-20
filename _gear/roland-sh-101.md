@@ -61,4 +61,7 @@ Battery power -->
 ## Videos
 <ul>
   <li><a href="https://youtu.be/ksU7GwykPXQ" title="A Love Letter To The SH-101 - Sunshine Jones" target="_blank">A Love Letter To The SH-101 - Sunshine Jones</a></li>
+  <li><a href="https://youtu.be/zYg7LWq-DBo" title="The Roland SH-101 - Mark Doty" target="_blank">The Roland SH-101 - Mark Doty</a></li>
+  <li><a href="https://youtu.be/wz3oUZfVoIg" title="Famous 70s & 80s Synth Sequences - RetroSound" target="_blank">Famous 70s & 80s Synth Sequences - RetroSound</a></li>
+  <li><a href="https://youtu.be/OC_g_hDGTcM" title="Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101" target="_blank">Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101</a></li>
 </ul>
