@@ -20,8 +20,8 @@ tags:
 image: https://dmschulman.com/studio/img/roland-sh-101.jpg
 own: true
 blurb: "One of the most iconic electronic musical instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass and tasty leads you can get out of the SH-101, not to mention the weird spacey FX and modulated noises you can make, are legendary in electronic music, especially on techno and house tracks."
-manual:
-service: 
+manual: |
+service: |
 audio: |
 tips: |
 docs: |
@@ -62,6 +62,12 @@ Battery power -->
 ## Links and Resources
 <ul>
   <li><a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a></li>
+  <li><a href="https://www.synthmania.com/sh-101.htm" title="SynthMania: Roland SH-101" target="_blank">SynthMania: Roland SH-101</a></li>
   <li><a href="http://machines.hyperreal.org/manufacturers/Roland/SH-101/" title="Music Machines: Roland SH-101" target="_blank">Music Machines: Roland SH-101</li>
   <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
+</ul>
+
+## Videos
+<ul>
+  <li><a href="https://youtu.be/ksU7GwykPXQ" title="A Love Letter To The SH-101 - Sunshine Jones" target="_blank">A Love Letter To The SH-101 - Sunshine Jones</a></li>
 </ul>
