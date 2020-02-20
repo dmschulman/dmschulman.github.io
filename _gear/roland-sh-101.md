@@ -54,7 +54,7 @@ Battery power -->
 <ul>
   <li><a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a></li>
   <li><a href="https://www.synthmania.com/sh-101.htm" title="SynthMania: Roland SH-101" target="_blank">SynthMania: Roland SH-101</a></li>
-  <li><a href="http://machines.hyperreal.org/manufacturers/Roland/SH-101/" title="Music Machines: Roland SH-101" target="_blank">Music Machines: Roland SH-101</li>
+  <li><a href="http://machines.hyperreal.org/manufacturers/Roland/SH-101/" title="Music Machines: Roland SH-101" target="_blank">Music Machines: Roland SH-101</a></li>
   <li><a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a></li>
 </ul>
 
