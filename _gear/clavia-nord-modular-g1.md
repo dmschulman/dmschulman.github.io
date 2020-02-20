@@ -52,25 +52,29 @@ blurb: ""
   </li>
 </ul>
 
+## Software
+<ul>
+  <li>
+    <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad Nord Modular Editor" target="_blank">nmEdit - Nomad Nord Modular Editor</a>
+  </li>
+</ul>
+
 ## Links and Resources
 <ul>
   <li>
-    <a href="https://en.wikipedia.org/wiki/Roland_SH-101" title="Roland SH-101 - Wikipedia" target="_blank">Roland SH-101 - Wikipedia</a>
+    <a href="https://www.nordkeyboards.com/products/nord-modular" title="Nord Modular | Nord Keyboards" target="_blank">Nord Modular | Nord Keyboards</a>
   </li>
   <li>
-    <a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a>
+    <a href="https://en.wikipedia.org/wiki/Nord_Modular" title="Nord Modular - Wikipedia" target="_blank">Nord Modular - Wikipedia</a>
   </li>
   <li>
-    <a href="https://www.synthmania.com/sh-101.htm" title="SynthMania: Roland SH-101" target="_blank">SynthMania: Roland SH-101</a>
+    <a href="http://www.vintagesynth.com/clavia/nordmod.php" title="Clavia Nord Modular | Vintage Synth Explorer" target="_blank">Clavia Nord Modular  | Vintage Synth Explorer</a>
   </li>
   <li>
-    <a href="http://www.dinsync.info/search/label/SH-101/" title="Din Sync - SH-101" target="_blank">Din Sync - SH-101</a>
-  </li> 
-  <li>
-    <a href="http://machines.hyperreal.org/manufacturers/Roland/SH-101/" title="Music Machines: Roland SH-101" target="_blank">Music Machines: Roland SH-101</a>
+    <a href="http://www.retrosound.de/modular.html" title="RetroSound: Clavia Nord Modular" target="_blank">RetroSound: Clavia Nord Modular</a>
   </li>
   <li>
-    <a href="https://retrosynthads.blogspot.com/2010/09/roland-sh-101-brochure-1982.html" title="Roland SH-101 brochure, 1982 | Retro Synth Ads" target="_blank">Roland SH-101 brochure, 1982 | Retro Synth Ads</a>
+    <a href="http://www.electro-music.com/forum/index.php" title="electro-music.com forum" target="_blank">electro-music.com forum</a>
   </li>
   <li>
     <a href="https://www.attackmagazine.com/technique/hardware-focus/roland-sh-101/" title="Roland SH-101 - Attack Magazine" target="_blank">Roland SH-101 - Attack Magazine</a>
