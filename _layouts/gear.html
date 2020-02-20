@@ -19,46 +19,6 @@
 						{{ page.blurb }}
 						{{ content }}
 					</p>
-					{% if page.audio != "" %}
-						<h2>Audio Examples</h2>
-						{{ page.audio }}
-					{% endif %}
-					{% if page.tips != "" %}
-						<h2>Tips and Tricks</h2>
-						{{ page.tips }}
-					{% endif %}
-					{% if page.manual != "" %}
-						<h2>Documentation</h2>
-						<ul>
-						{% if page.manual != "" %}
-							<li>
-								<a href="{{ page.manual }}" title="{{ page.title }} Owners Manual">{{ page.title }} Owners Manual</a>
-							</li>
-						{% endif %}
-						{% if page.service != "" %}
-							<li>
-								<a href="{{ page.service }}" title="{{ page.title }} Service Manual">{{ page.title }} Service Manual</a>
-							</li>
-						{% endif %}
-						{{ page.docs }}
-						</ul>
-					{% endif %}
-					{% if page.patches != "" %}
-						<h2>Patches and Downloads</h2>
-						{{ page.patches }}
-					{% endif %}
-					{% if page.mods != "" %}
-						<h2>Modifications</h2>
-						{{ page.mods }}
-					{% endif %}
-					{% if page.links != "" %}
-						<h2>Links and Resources</h2>
-						{{ page.links }}
-					{% endif %}
-					{% if page.pics != "" %}
-						<h2>{{ page.title }} Pictures</h2>
-						{{ page.pics }}
-					{% endif %}
 				</div>
 			</div>
 			<footer>
