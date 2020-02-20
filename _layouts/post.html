@@ -26,8 +26,9 @@
 				<div class="post">
 					{{ content }}
 					{% if page.updated !="" %}
-						<em>This post was last updated {{ page.updated }}.</em>
-					{% elsif page.updated == "" %}
+						<em>This post was last updated {{ page.updated | date: '%B %d, %Y' }}.</em>
+					{% elsif %}
+						<em>This post was last updated {{ page.date | date: '%B %d, %Y' }}.</em>
 					{% else %}
 					{% endif %}
 				</div>
