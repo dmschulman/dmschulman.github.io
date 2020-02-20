@@ -193,11 +193,26 @@ header ul.social li {
     align-self: auto;
 }
 
-/* POST */
+/* POST FEED */
 
 ul.posts {
 	margin: 0;
 }
+
+ul.posts li {
+	margin: 0 0 1.5rem 0;
+}
+
+ul.posts li a {
+	font-weight: bold;
+}
+
+ul.posts li span.date {
+	display: block;
+	margin: 0 0 1rem 0;
+}
+
+/* POST */
 
 .post ul li {
 	list-style: disc;
