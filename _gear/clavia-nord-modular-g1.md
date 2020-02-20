@@ -23,6 +23,28 @@ own: true
 blurb: ""
 ---
 
+## Links and Resources
+<ul>
+  <li>
+    <a href="https://www.nordkeyboards.com/products/nord-modular" title="Nord Modular | Nord Keyboards" target="_blank">Nord Modular | Nord Keyboards</a>
+  </li>
+  <li>
+    <a href="https://en.wikipedia.org/wiki/Nord_Modular" title="Nord Modular - Wikipedia" target="_blank">Nord Modular - Wikipedia</a>
+  </li>
+  <li>
+    <a href="http://www.vintagesynth.com/clavia/nordmod.php" title="Clavia Nord Modular | Vintage Synth Explorer" target="_blank">Clavia Nord Modular  | Vintage Synth Explorer</a>
+  </li>
+  <li>
+    <a href="http://www.retrosound.de/modular.html" title="RetroSound: Clavia Nord Modular" target="_blank">RetroSound: Clavia Nord Modular</a>
+  </li>
+  <li>
+    <a href="http://www.electro-music.com/forum/index.php" title="electro-music.com forum" target="_blank">electro-music.com forum</a>
+  </li>
+  <li>
+    <a href="https://sonicstate.com/synth/clavia_nordmodular/" title="Clavia Nord Modular - Sonic State" target="_blank">Clavia Nord Modular - Sonic State</a>
+  </li>
+</ul>
+
 <!-- ## Documentation
 <ul>
   <li>
@@ -56,28 +78,6 @@ blurb: ""
 <ul>
   <li>
     <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad Nord Modular Editor" target="_blank">nmEdit - Nomad Nord Modular Editor</a>
-  </li>
-</ul>
-
-## Links and Resources
-<ul>
-  <li>
-    <a href="https://www.nordkeyboards.com/products/nord-modular" title="Nord Modular | Nord Keyboards" target="_blank">Nord Modular | Nord Keyboards</a>
-  </li>
-  <li>
-    <a href="https://en.wikipedia.org/wiki/Nord_Modular" title="Nord Modular - Wikipedia" target="_blank">Nord Modular - Wikipedia</a>
-  </li>
-  <li>
-    <a href="http://www.vintagesynth.com/clavia/nordmod.php" title="Clavia Nord Modular | Vintage Synth Explorer" target="_blank">Clavia Nord Modular  | Vintage Synth Explorer</a>
-  </li>
-  <li>
-    <a href="http://www.retrosound.de/modular.html" title="RetroSound: Clavia Nord Modular" target="_blank">RetroSound: Clavia Nord Modular</a>
-  </li>
-  <li>
-    <a href="http://www.electro-music.com/forum/index.php" title="electro-music.com forum" target="_blank">electro-music.com forum</a>
-  </li>
-  <li>
-    <a href="https://www.attackmagazine.com/technique/hardware-focus/roland-sh-101/" title="Roland SH-101 - Attack Magazine" target="_blank">Roland SH-101 - Attack Magazine</a>
   </li>
 </ul>
 
