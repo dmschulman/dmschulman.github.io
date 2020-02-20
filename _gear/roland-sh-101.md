@@ -34,7 +34,7 @@ There are many reasons why this grey monophonic keyboard, essentially a keytar j
 
 But the filter on this thing, god damn. The 24db lowpass filter on the SH-101 is powered by the Roland [IR3109 filter chip](http://www.florian-anwander.de/roland_filters/) which has a legendary synth pedigree given it's the same magic that brings the filters of the Juno 106, Jupiter 4, Jupiter 6, Jupiter 8, Juno 6, Juno 60, and JX3p to life (almost every classic Roland people care about). The thing oozes warmth and character in all of the ways a smooth filter should. The filter can be made to self-resonate which produces a super secret 4th waveshape, a sine wave, and can be used to add nice harmonic content to your existing sound, or through the magic of keyboard tracking, can simply be played on its own. The self-resonant sine wave is the technique I hear used the most when programming the SH-101 for spacey FX and out-of-this-world noises.
 
-Oh yeah and the envelope response on this thing is quick, twangy, and snappy, great for anything but especially for arpeggiated sounds and percussive noises. Though there is only 1 envelope on board you can use it to control the filter, VCA, and pitch (sort of). And unique to the SH-101, the filter can be set to gate normally, retrigger (either via the sequencer or Gate In), or be triggered by the internal LFO. While clearly a symptom of the instrument's modular roots, an envelope implementation such as this lends itself to many of the sounds the SH-101 is revered for (namely thick basses, wonky techno sequences, weird glitchy FX, and resonant grooves).
+Oh yeah and the envelope response on this thing is quick, twangy, and snappy, great for anything but especially for arpeggiated sounds and percussive noises. Though there is only 1 envelope on board, you can use it to control the filter, VCA, and pitch (sort of). And unique to the SH-101, the filter can be set to gate normally, retrigger (either via the sequencer or Gate In), or be triggered by the internal LFO. While clearly a symptom of the instrument's modular roots, an envelope implementation such as this lends itself to many of the sounds the SH-101 is revered for (namely thick basses, wonky techno sequences, weird glitchy FX, and resonant grooves).
 
 Furthermore, there's a switch that allows you to change how the VCA behaves. Setting it to Gate allows sound to pass through once you hit a note (and stop when you take your finger off the key). But setting it to Env will, as you can imagine, applies the afformentioned envelope to the amplitude of the patch, giving you more control over the loudness and expressiveness of your sound.
 
@@ -53,10 +53,9 @@ Battery power -->
 
 ## Modification
 <ul>
-  <li><a href="https://drive.google.com/open?id=174l_gVzt2HdHTgoG3mD_EzsKDOwLKQtk" title="SH-101 circuit diagram" target="_blank">SH-101 circuit diagram</a></li>
-  <li><a href="https://drive.google.com/open?id=17wK75r4Vd8BfxzghQP-b5KgBMhDy0JVb" title="Circuitbenders.co.uk SH-101 mod guide" target="_blank">Circuitbenders.co.uk SH-101 mod guide</a></li>
-  <li><a href="https://drive.google.com/open?id=1--bCWJQgU61hNEcyJ7JkFlWxaFtdxE05" title="SH-101 Nova Mods (original)" target="_blank">SH-101 Nova Mods (original)</a></li>
-  <li><a href="https://www.scribd.com/document/269749534/Roland-SH-101-Nova-Mod-v2-Instructions" title="SH-101 Nova Mods v2 (The Lab)" target="_blank">SH-101 Nova Mods v2 (The Lab)</a></li>
+  <li><a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-circuitbenders-mods.pdf" title="Circuitbenders.co.uk Roland SH-101 mod guide" target="_blank">Circuitbenders.co.uk Roland SH-101 mod guide</a></li>
+  <li><a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-original-novamod.pdf" title="Roland SH-101 Nova Mods (original)" target="_blank">Roland SH-101 Nova Mods (original)</a></li>
+  <li><a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-novamod-v2.pdf" title="Roland SH-101 Nova Mods v2 (The Lab)" target="_blank">Roland SH-101 Nova Mods v2 (The Lab)</a></li>
   <li><a href="https://tubbutec.de/sh-1oh1/" title="Tubbutec Sh-1oh1 MIDI retrofit and feature extension" target="_blank">Tubbutec Sh-1oh1 MIDI retrofit and feature extension</a></li>
 </ul>
 
