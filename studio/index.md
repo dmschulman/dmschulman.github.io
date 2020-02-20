@@ -9,7 +9,7 @@ Welcome my constantly changing, ever evolving bedroom music studio. Here you wil
 Oh yeah, and some music too.
 
 ## Music Gear
-{% assign gear = site.gear | group_by: 'category' | sort: 'name' %}
+{% assign gear = site.gear | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in gear %}
 <h3>{{ category.name }}</h3>
 <ul class="posts">
