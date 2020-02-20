@@ -215,6 +215,7 @@ ul.posts li a {
 
 ul.posts li span.date {
 	display: block;
+	line-height: 1.5rem;
 }
 
 ul.posts li.gear {
