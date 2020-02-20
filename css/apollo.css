@@ -80,6 +80,10 @@ h3 {
  	font-weight: bold;
 }
 
+em {
+	display: block;
+}
+
 blockquote {
 	margin: 0 0 20px 40px;
 	padding: 0 0 0 10px;
@@ -153,6 +157,7 @@ header ul.social li {
 }
 
 /* CONTENT */
+
 .content {
 	margin-bottom: 40px;
 }
@@ -223,7 +228,7 @@ ul.posts li.gear a {
 
 .post ul li {
 	list-style: disc;
-	margin: 0 0 0 40px;
+	margin: 0 0 0 1.5rem;
 }
 	
 .post ul li > ul li {
@@ -232,7 +237,7 @@ ul.posts li.gear a {
 
 .post ol li {
 	list-style-type: decimal-leading-zero;
-	margin: 0 0 0 40px;
+	margin: 0 0 0 1.5rem;
 	font-weight: bold;
 }
 
@@ -242,7 +247,7 @@ ul.posts li.gear a {
 }
 
 .post-meta {
-	padding-bottom: 20px;
+	padding-bottom: 1rem;
 }
 
 .post-meta span {
@@ -253,6 +258,10 @@ ul.posts li.gear a {
 
 .post-meta span.tags {
 	display: block;
+}
+
+.post em.update {
+	margin: 1rem 0 0 0;
 }
 
 /* PHOTO STYLES */
