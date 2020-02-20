@@ -359,10 +359,27 @@ ul.photo-gallery li h2 {
 /* GEAR */
 
 .content.gear img.hero {
-    max-height: 360px;
-    margin: 0 auto 1rem auto;
-    display: block;
-    text-align: center;
+	max-height: 360px;
+	margin: 0 auto 1rem auto;
+	display: block;
+	text-align: center;
+}
+
+.content.gear ul.pictures {
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+	margin: 1rem auto;
+}
+
+.content.gear ul.pictures li {
+	list-style: none;
+	margin: 0;
+}
+
+.content.gear ul.pictures li a {
+	border: none;
+	display: block;
 }
 
 /* MISC CONTENT */
