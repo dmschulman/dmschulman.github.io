@@ -13,7 +13,7 @@ Oh yeah, and some music too.
 {% for category in gear %}
 <h3>{{ category.name }}</h3>
 <ul class="posts">
-{% for item in category.items %}
+{% for item in category.items | sort: 'name' %}
 <li class="gear">
 <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
 </li>
