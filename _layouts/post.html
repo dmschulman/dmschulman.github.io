@@ -11,7 +11,7 @@
 			{% include social.html %}
 		</header>
 		<main>
-			<div class="content">
+			<article class="content">
 				<h1>{{ page.title }}</h1>
 				<div class="post-meta">
 					<span>
@@ -27,9 +27,11 @@
 					{{ content }}
 					{% if page.updated !="" %}
 						<em>This post was last updated {{ page.updated }}.</em>
+					{% elsif page.updated == "" %}
+					{% else %}
 					{% endif %}
 				</div>
-			</div>
+			</article>
 			<footer>
 				{% include footer.html %}
 			</footer>
