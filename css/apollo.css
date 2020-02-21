@@ -365,6 +365,12 @@ ul.photo-gallery li h2 {
 	text-align: center;
 }
 
+.content.gear ul li p,
+.content.gear ul li p a {
+	font-style: italic;
+	font-size: .875rem;
+}
+
 .content.gear ul.pictures {
 	-webkit-column-count: 3;
 	-moz-column-count: 3;
