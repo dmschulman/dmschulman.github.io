@@ -369,6 +369,7 @@ ul.photo-gallery li h2 {
 .content.gear ul li p a {
 	font-style: italic;
 	font-size: .875rem;
+	text-indent: 1rem;
 }
 
 .content.gear ul.pictures {
