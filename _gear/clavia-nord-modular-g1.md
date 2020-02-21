@@ -60,7 +60,8 @@ blurb: ""
 ## Software
 <ul>
   <li>
-    <a href="https://oracle48.nl/Nomad/index.html" title="Nomad 0.4 Nord Modular Editor" target="_blank">nmEdit - Nomad 0.3 Nord Modular Editor</a>
+    <a href="https://oracle48.nl/Nomad/index.html" title="Nomad 0.4 Nord Modular Editor" target="_blank">Nomad 0.4 Nord Modular Editor</a>
+    <p>Fresh for 2019, a new version of Nomad from a new developer. Includes some bug fixes and better MIDI stability</p>
   </li>
   <li>
     <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad 0.32 Nord Modular Editor" target="_blank">nmEdit - Nomad 0.32 Nord Modular Editor</a>
