@@ -49,6 +49,24 @@ blurb: ""
   </li>
 </ul>
 
+## Patches
+<ul>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/james-j-clarke-patches.zip" title="James J. Clarke patch collection">James J. Clarke patch collection</a>
+    <p>A variety of patches archived from <a href="http://www.cim.mcgill.ca/~clark/emusic_nord_modular_patches.html" title="James J. Clarke's website" target="_blank">James J. Clarke's website</a></p>
+  </li>
+</ul>
+
+## Software
+<ul>
+  <li>
+    <a href="https://oracle48.nl/Nomad/index.html" title="Nomad 0.4 Nord Modular Editor" target="_blank">nmEdit - Nomad 0.3 Nord Modular Editor</a>
+  </li>
+  <li>
+    <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad 0.32 Nord Modular Editor" target="_blank">nmEdit - Nomad 0.32 Nord Modular Editor</a>
+  </li>
+</ul>
+
 ## Links and Resources
 <ul>
   <li>
@@ -124,14 +142,6 @@ blurb: ""
 </ul>
 
 <!--
-
-
-## Software
-<ul>
-  <li>
-    <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad Nord Modular Editor" target="_blank">nmEdit - Nomad Nord Modular Editor</a>
-  </li>
-</ul>
 
 ## Videos
 <ul>
