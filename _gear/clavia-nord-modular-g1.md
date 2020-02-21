@@ -42,6 +42,13 @@ blurb: ""
   </li>
 </ul>
 
+## Modification
+<ul>
+  <li>
+    <a href="http://www.poesboes.com/index.html?./poesboes/Nord_Modular/index.html" title="Modifying the Clavia Nord Micro Modular for use in Eurorack" target="_blank">Modifying the Clavia Nord Micro Modular for use in Eurorack</a>
+  </li>
+</ul>
+
 ## Links and Resources
 <ul>
   <li>
@@ -67,23 +74,57 @@ blurb: ""
   </li>
 </ul>
 
-<!--
-
-## Modification
-<ul>
+## Pictures
+<ul class="pictures">
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-circuitbenders-mods.pdf" title="Circuitbenders.co.uk Roland SH-101 mod guide" target="_blank">Circuitbenders.co.uk Roland SH-101 mod guide</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-angle.jpg" title="Nord Modular G1 Keyboard" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-angle.jpg" alt="Nord Modular G1 Keyboard">
+    </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-original-novamod.pdf" title="Roland SH-101 Nova Mods (original)" target="_blank">Roland SH-101 Nova Mods (original)</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-rack.png" title="Nord Modular G1 Rack" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-rack.png" alt="Nord Modular G1 Rack">
+    </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/pdf/roland-sh-101-novamod-v2.pdf" title="Roland SH-101 Nova Mods v2 (The Lab)" target="_blank">Roland SH-101 Nova Mods v2 (The Lab)</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-micro-modular-front.png" title="Nord Micro Modular" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-micro-modular-front.png" alt="Nord Micro Modular">
+    </a>
   </li>
   <li>
-    <a href="https://tubbutec.de/sh-1oh1/" title="Tubbutec Sh-1oh1 MIDI retrofit and feature extension" target="_blank">Tubbutec Sh-1oh1 MIDI retrofit and feature extension</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-editor-mac.jpg" title="Nord Modular editor running on a Mac" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-editor-mac.jpg" alt="Nord Modular editor running on a Mac">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-front-panel-angle.jpg" title="Nord Modular G1 Keyboard front panel" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-front-panel-angle.jpg" alt="Nord Modular G1 Keyboard front panel">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-inside.jpg" title="Nord Modular G1 Keyboard inside" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-inside.jpg" alt="Nord Modular G1 Keyboard inside">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-inside-control-board.jpg" title="Nord Modular G1 Keyboard control board" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-inside-control-board.jpg" alt="Nord Modular G1 Keyboard control board">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-expansion.jpg" title="Nord Modular G1 expansion board" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-expansion.jpg" alt="Nord Modular G1 expansion board">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-expansion-install.jpg" title="Nord Modular G1 expansion board installation" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-expansion-install.jpg" alt="Nord Modular G1 expansion board installation">
+    </a>
   </li>
 </ul>
+
+<!--
+
 
 ## Software
 <ul>
@@ -105,54 +146,5 @@ blurb: ""
   </li>
   <li>
     <a href="https://youtu.be/OC_g_hDGTcM" title="Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101" target="_blank">Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101</a>
-  </li>
-</ul>
-
-## Pictures
-<ul class="pictures">
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" title="Roland SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-grey.jpg" alt="Roland SH-101 Ad">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" title="Roland SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-blue.jpg" alt="Roland SH-101 Ad">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" title="Roland SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad-red.jpg" alt="Roland SH-101 Ad">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-grey.jpg" title="Grey Roland SH-101" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-grey.jpg" alt="Grey Roland SH-101">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-blue.jpg" title="Blue Roland SH-101" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-blue.jpg" alt="Blue Roland SH-101">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-red.jpg" title="Red Roland SH-101" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-red.jpg" alt="Red Roland SH-101">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-family.jpg" title="Roland SH-101 family" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-family.jpg" alt="Roland SH-101 family">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad.jpg" title="Roland SH-101 Ad" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-ad.jpg" alt="Roland SH-101 Ad">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-brochure-front.jpg" title="Roland SH-101 brochure" target="_blank">
-      <img src="https://dmschulman.com/studio/gear/roland/sh-101/img/roland-sh-101-brochure-front.jpg" alt="Roland SH-101 brochure">
-    </a>
   </li>
 </ul> -->
