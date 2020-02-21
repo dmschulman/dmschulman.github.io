@@ -55,6 +55,10 @@ blurb: ""
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/james-j-clarke-patches.zip" title="James J. Clarke patch collection">James J. Clarke patch collection</a>
     <p>A variety of patches archived from <a href="http://www.cim.mcgill.ca/~clark/emusic_nord_modular_patches.html" title="James J. Clarke's website" target="_blank">James J. Clarke's website</a></p>
   </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RetroSound-NM.zip" title="NM Classic RetroSound set">NM Classic RetroSound set</a>
+    <p>904 patches from <a href="http://www.retrosound.de/modular.html" title="RetroSounds" target="_blank">RetroSounds</a></p>
+  </li>
 </ul>
 
 ## Software
@@ -90,6 +94,12 @@ blurb: ""
   </li>
   <li>
     <a href="https://sonicstate.com/synth/clavia_nordmodular/" title="Clavia Nord Modular - Sonic State" target="_blank">Clavia Nord Modular - Sonic State</a>
+  </li>
+  <li>
+    <a href="http://www.cim.mcgill.ca/~clark/nordmodularbook/nm_book_toc.html" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
+  </li>
+  <li>
+    <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell - Jan Punter" target="_blank">Blue Hell - Jan Punter</a>
   </li>
 </ul>
 
