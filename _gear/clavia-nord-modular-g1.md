@@ -59,6 +59,13 @@ blurb: ""
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RetroSound-NM.zip" title="NM Classic RetroSound set">NM Classic RetroSound set</a>
     <p>904 patches from <a href="http://www.retrosound.de/modular.html" title="RetroSounds" target="_blank">RetroSounds</a></p>
   </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/marko-ettlich-patches.zip" title="Marko Ettlich patches">Marko Ettlich patches</a>
+    <p>Two sets of patches from Marko Ettlich, one set emulating Vangelis and another emulating Jean-Michel Jarre</p>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
+  </li>
 </ul>
 
 ## Software
