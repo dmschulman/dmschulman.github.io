@@ -29,16 +29,16 @@ blurb: ""
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nord-modular-g1-manual-english-v3.0.pdf" title="Clavia Nord Modular Manual v3.0" target="_blank">Clavia Nord Modular Manual v3.0</a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-modular-brochure.pdf" title="Nord Modular G1 sales brochure" target="_blank">Nord Modular G1 Keyboard sales brochure</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-micro-modular-brochure.pdf" title="Nord Micro Modular sales brochure" target="_blank">Nord Micro Modular sales brochure</a>
-  </li>
-  <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nordmodularbook.pdf" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
   </li>
   <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia_nord_modular_v.3.0_by_wizoo.pdf" title="Wizoo Guide - Nord Modular 2nd Edition" target="_blank">Wizoo Guide - Nord Modular 2nd Edition</a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-modular-brochure.pdf" title="Nord Modular G1 sales brochure" target="_blank">Nord Modular G1 sales brochure</a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-micro-modular-brochure.pdf" title="Nord Micro Modular sales brochure" target="_blank">Nord Micro Modular sales brochure</a>
   </li>
 </ul>
 
