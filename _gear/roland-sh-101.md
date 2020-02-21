@@ -74,7 +74,7 @@ Battery power -->
     <a href="http://www.vintagesynth.com/roland/sh101.php" title="Roland SH-101 | Vintage Synth Explorer" target="_blank">Roland SH-101 | Vintage Synth Explorer</a>
   </li>
   <li>
-    <a href="https://www.matrixsynth.com/search?q=roland+sh-101&by-date=true" title="Matrixsynth.com - Roland SH-101" target="_blank">Matrixsynth.com - Roland SH-101</a>
+    <a href="https://www.matrixsynth.com/search?q=roland+sh-101&max-results=20&by-date=false" title="Matrixsynth.com - Roland SH-101" target="_blank">Matrixsynth.com - Roland SH-101</a>
   </li>
   <li>
     <a href="https://www.synthmania.com/sh-101.htm" title="SynthMania: Roland SH-101" target="_blank">SynthMania: Roland SH-101</a>
