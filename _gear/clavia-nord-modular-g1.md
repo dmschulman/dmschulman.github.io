@@ -54,6 +54,9 @@ blurb: ""
     <a href="http://www.vintagesynth.com/clavia/nordmod.php" title="Clavia Nord Modular | Vintage Synth Explorer" target="_blank">Clavia Nord Modular  | Vintage Synth Explorer</a>
   </li>
   <li>
+    <a href="https://www.matrixsynth.com/search?q=nord+g1&max-results=20&by-date=false" title="Matrixsynth.com - Nord Modular G1" target="_blank">Matrixsynth.com - Nord Modular G1</a>
+  </li>
+  <li>
     <a href="http://www.retrosound.de/modular.html" title="RetroSound: Clavia Nord Modular" target="_blank">RetroSound: Clavia Nord Modular</a>
   </li>
   <li>
