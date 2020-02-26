@@ -23,6 +23,8 @@ own: true
 blurb: ""
 ---
 
+I am not one for hyperbole, but the Nord Modular G1
+
 ## Documentation
 <ul>
   <li>
@@ -118,6 +120,12 @@ blurb: ""
   </li>
   <li>
     <a href="http://www.cim.mcgill.ca/~clark/nordmodularbook/nm_book_toc.html" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
+  </li>
+  <li>
+    <a href="http://electro-music.com/nm_classic/" title="Nord Modular Classic Archive" target="_blank">Nord Modular Classic Archive</a>
+  </li>
+  <li>
+    <a href="https://xy.cx/synth/nordmod/" title="XY Films - Nord Modular (Modular Analog Synthesis)" target="_blank">XY Films - Nord Modular (Modular Analog Synthesis)</a>
   </li>
   <li>
     <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell - Jan Punter" target="_blank">Blue Hell - Jan Punter</a>
