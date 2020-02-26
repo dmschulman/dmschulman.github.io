@@ -130,6 +130,25 @@ blurb: ""
   </li>
 </ul>
 
+## Videos
+<ul>
+  <li>
+    <a href="https://www.youtube.com/watch?v=E16vmDTkLU4" title="Nord Modular G1 - 100 Factory Presets" target="_blank">Nord Modular G1 - 100 Factory Presets</a>
+  </li>
+<li>
+    <a href="https://www.youtube.com/watch?v=f-wqzGYTwMM" title="CLAVIA NORD MODULAR // tweaking algorithms // Session 1 // complete" target="_blank">CLAVIA NORD MODULAR // tweaking algorithms // Session 1 // complete</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=eKoeaZpXuwI" title="Clavia Micro Modular demo A" target="_blank">Clavia Micro Modular demo A</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=ZHI4Ek8iu_0" title="CLAVIA NORD MODULAR // presets // ENSONIQ DP/PRO // reverbs" target="_blank">CLAVIA NORD MODULAR // presets // ENSONIQ DP/PRO // reverbs</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=zAvMmnA4sTE" title="lissajous figures - made using a Nord Modular synth" target="_blank">lissajous figures - made using a Nord Modular synth</a>
+  </li>
+</ul>
+
 ## Pictures
 <ul class="pictures">
   <li>
@@ -178,21 +197,3 @@ blurb: ""
     </a>
   </li>
 </ul>
-
-<!--
-
-## Videos
-<ul>
-  <li>
-    <a href="https://youtu.be/ksU7GwykPXQ" title="A Love Letter To The SH-101 - Sunshine Jones" target="_blank">A Love Letter To The SH-101 - Sunshine Jones</a>
-  </li>
-  <li>
-    <a href="https://youtu.be/zYg7LWq-DBo" title="The Roland SH-101 - Mark Doty" target="_blank">The Roland SH-101 - Mark Doty</a>
-  </li>
-  <li>
-    <a href="https://youtu.be/wz3oUZfVoIg" title="Famous 70s & 80s Synth Sequences - RetroSound" target="_blank">Famous 70s & 80s Synth Sequences - RetroSound</a>
-  </li>
-  <li>
-    <a href="https://youtu.be/OC_g_hDGTcM" title="Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101" target="_blank">Mathew Jonson Presents His Synthesizer Favourites: Roland SH-101</a>
-  </li>
-</ul> -->
