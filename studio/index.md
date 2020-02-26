@@ -4,11 +4,14 @@ title: "Studio"
 description: "Find out more about how I produce techno and electronic music, view my synthesizer and eurorack modular collections, grab controller templates and patches for your favorite digital instruments."
 ---
 
-Welcome my constantly changing, ever evolving bedroom music studio. Here you will find a wealth of resources related to synthesizers, mixers, effects, electronic music production, studio tips, and sage advice from someone who has and continues to find new ways to organize their music making equipment. Alongside information about the gear I currently use, I will be hosting in-depth pages about specific instruments (complete with patches, controller templates, manuals, and other collected bits), as well as other articles and columns related to my production style and my take on building my personal studio.
+Welcome my constantly changing, ever evolving bedroom music studio. Here you will find a wealth of resources related to synthesizers, mixers, effects, electronic music production, studio tips, and sage advice from someone who has and continues to find new ways to organize their music making equipment. Alongside information about the gear I currently use, I will be hosting in-depth pages about specific instruments (complete with patches, controller templates, manuals, and other collected bits), as well as articles and other explainers related to my production style and my take on building a home music studio.
 
 Oh yeah, and some music too.
 
 ## Music Gear
+Below are some of the synthesizers, drum machines, instruments, devices, boxes, hardware, effects, tools, technology, and other dohickies I use (or have previously used) in my studio. This collection represents my favorite music making machines, the hardware which I've found to be the most versitle, best sounding, and easiest to get along with when recording.
+
+Rather than simply compiling a big list here, my intent is to share all of the valuable information and insights I've gathered while working with these devices. Inside each listing you'll find my personal commentary as well as a variety of archived materials such as manuals, patches, modification guides, software, pictures, videos, and much more. I find it necesasary to present this archive as these materials have become harder and harder to track down online (especially for older instruments). I claim no ownership over the files themselves, I am merely mirroring the material for the greater good. If I'm hosting something you created and you want me to remove it, please <a href="mailto:%64%61vi%64@d%6d&#115;c%68%75%6cm&#97;n.%63%6f&#109;?subject=Studio%20page%20content%20notice">contact me</a>.
 {% assign gear = site.gear | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in gear %}
 <h3>{{ category.name }}</h3>
