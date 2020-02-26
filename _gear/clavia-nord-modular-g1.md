@@ -74,9 +74,6 @@ blurb: ""
     <p>Two sets of patches from Marko Ettlich, one set emulating Vangelis and another emulating Jean-Michel Jarre</p>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
-  </li>
-  <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/720-nord-g1-patches.zip" title="720 Nord G1 patches">720 Nord G1 patches</a>
     <p>A set of 720 Nord G1 patches from <a href="https://github.com/sm-ll/nord-modular-g1-patches" title="mono-log.org" target="_blank">mono-log.org</a></p>
   </li>
