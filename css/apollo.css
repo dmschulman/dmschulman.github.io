@@ -209,7 +209,7 @@ p.footnote a {
 /* POST FEEDS */
 
 ul.posts {
-    	margin: 1rem 0 1rem 0rem;
+    	margin: 0 0 1rem 0;
 }
 
 ul.posts li {
