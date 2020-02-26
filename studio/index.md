@@ -24,7 +24,7 @@ Rather than simply compiling a big list here, my intent is to share all of the v
 </ul>
 {% endfor %}
 
-<em>I find it necessary to present this archive as these materials have become harder and harder to track down online (especially for older instruments). I claim no ownership over the files themselves, I am merely mirroring the material for the greater good. If I'm hosting something you created and you want me to remove it, please <a href="mailto:%64%61vi%64@d%6d&#115;c%68%75%6cm&#97;n.%63%6f&#109;?subject=Studio%20page%20content%20notice">contact me</a>.</em>
+<em>I find it necessary to present this archive as these materials have become harder and harder to track down online (especially for older instruments), and as time goes on, more and more of these files will likely become unavailable. I claim no ownership over the files themselves, I am merely mirroring the material for the greater good. If I'm hosting something you created and you want me to remove it, please <a href="mailto:%64%61vi%64@d%6d&#115;c%68%75%6cm&#97;n.%63%6f&#109;?subject=Studio%20page%20content%20notice">contact me</a>.</em>
 
 ## Production Posts
 <ul class="posts">
