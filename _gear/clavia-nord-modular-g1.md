@@ -52,6 +52,9 @@ blurb: ""
 ## Patches
 <ul>
   <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/nord-modular-factory-banks-3.0-revA.zip" title="Nord Modular Factory Patches v3.0 rev A">Nord Modular Factory Patches v3.0 rev A</a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/james-j-clarke-patches.zip" title="James J. Clarke patch collection">James J. Clarke patch collection</a>
     <p>A variety of patches archived from <a href="http://www.cim.mcgill.ca/~clark/emusic_nord_modular_patches.html" title="James J. Clarke's website" target="_blank">James J. Clarke's website</a></p>
   </li>
@@ -60,8 +63,22 @@ blurb: ""
     <p>904 patches from <a href="http://www.retrosound.de/modular.html" title="RetroSounds" target="_blank">RetroSounds</a></p>
   </li>
   <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/blue-hell.zip" title="Blue Hell patch collection">Blue Hell patch collection</a>
+    <p>Patch collection from Jan Punter aka <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell" target="_blank">Blue Hell</a></p>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/gehenna.zip" title="Gehenna patches">Gehenna patches</a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/marko-ettlich-patches.zip" title="Marko Ettlich patches">Marko Ettlich patches</a>
     <p>Two sets of patches from Marko Ettlich, one set emulating Vangelis and another emulating Jean-Michel Jarre</p>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/720-nord-g1-patches.zip" title="720 Nord G1 patches">720 Nord G1 patches</a>
+    <p>A set of 720 Nord G1 patches from <a href="https://github.com/sm-ll/nord-modular-g1-patches" title="mono-log.org" target="_blank">mono-log.org</a></p>
   </li>
   <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
