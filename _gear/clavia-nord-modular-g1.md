@@ -23,8 +23,6 @@ own: true
 blurb: ""
 ---
 
-I am not one for hyperbole, but the Nord Modular G1
-
 ## Documentation
 <ul>
   <li>
