@@ -199,13 +199,9 @@ header ul.social li {
     align-self: auto;
 }
 
-p.footnote {
-	font-style: italic;
-	font-size: .875rem;
-	line-height: 1rem;
-}
-
+p.footnote,
 p.footnote a {
+	font-style: italic;
 	font-size: .875rem;
 	line-height: 1rem;
 }
