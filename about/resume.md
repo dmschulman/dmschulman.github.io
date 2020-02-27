@@ -9,12 +9,8 @@ permalink: /about/resume.html
 
 ### Ithaca College
 August 2004 - May 2008
-
-B.A., Journalism, Politics minor
-
-B.A., Art History
-
-### The Haverford School
+* B.A., Journalism, Politics minor
+* B.A., Art History
 
 ## Languages & Technologies
 
