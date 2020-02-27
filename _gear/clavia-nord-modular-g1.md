@@ -73,7 +73,7 @@ That being said, it's incredibly easy to work around this limitation either by h
     <p>Patch collection from Jan Punter aka <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell" target="_blank">Blue Hell</a></p>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/gehenna.zip" title="Gehenna patches">Gehenna patches</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/gehenna.zip" title="Gehenna aka Keith R Crosley patches">Gehenna aka Keith R Crosley patches</a>
   </li>
   <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/marko-ettlich-patches.zip" title="Marko Ettlich patches">Marko Ettlich patches</a>
@@ -152,6 +152,12 @@ That being said, it's incredibly easy to work around this limitation either by h
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=zAvMmnA4sTE" title="lissajous figures - made using a Nord Modular synth" target="_blank">lissajous figures - made using a Nord Modular synth</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=x48LGl16zvI" title="nordcore #3" target="_blank">nordcore #3</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=7S8Prd_Wi8Y" title="CLAVIA NORD MICROMODULAR LIVE SESSION" target="_blank">CLAVIA NORD MICROMODULAR LIVE SESSION</a>
   </li>
 </ul>
 
