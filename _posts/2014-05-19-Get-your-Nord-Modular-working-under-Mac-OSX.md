@@ -36,7 +36,7 @@ This solution isn't perfect however. From time to time (especially if I’m chan
 
 Now that I've got a dedicated environment for doing all my Micro Modular related experiments my next order of business is to upload some [fantastic user created patches](https://www.dropbox.com/sh/veogrcakdoew5fv/EM4IoMjOBN) to the MM from the fine folks at [electro-music.com](https://electro-music.com/). With the Modular series being as old as it is and with the community around these units being as active as they are, there are tens of thousands of patches already out there for you to experiment with and base your own modular creations off of.
 
-Clavia also provides a [great deal of their own patches](https://web.archive.org/web/20160402140647/http://www.clavia.se/nordmodular/sounds/) for users to test out. Though the concept of modular synthesis might be a lot to digest from the get go these patch examples make it a lot easier to get started with the fundamentals, plus they sounds really great!
+Clavia also provides a [great deal of their own patches](https://www.clavia.se/nordmodular/sounds/) for users to test out. Though the concept of modular synthesis might be a lot to digest from the get go these patch examples make it a lot easier to get started with the fundamentals, plus they sounds really great!
 
 Now my job is filling up all of the Micro Modular's 99 memory slots with some awesome patches and sequences. The more I play around with various sounds on the modular the more I realize having 3 knobs on the front of the Micro Modular is a bit limiting. Getting the unit set up with my Novation Remote SL control surface will be the next hurdle to cross, but if and when I do figure that out I’ll be sure to give the details right here.
 
