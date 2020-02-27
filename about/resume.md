@@ -2,6 +2,7 @@
 layout: apollo
 title: "Resume"
 description: ""
+permalink: /about/resume.html
 ---
 
 ## Education
