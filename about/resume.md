@@ -1,5 +1,5 @@
 ---
-layout: apollo
+layout: resume
 title: "Resume"
 description: ""
 permalink: /about/resume.html
