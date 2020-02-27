@@ -25,6 +25,10 @@ blurb: "I am not usually one for hyperbole, and although this will sound like an
 
 What sets the Nord Modular series apart from other instruments is right there in the name. The Nord Modular G1 (as well as Nord's follow-up series, the Nord Modular G2) provides users with a complete suite of modular synthesizer building blocks allowing you to construct any type of patch imaginable, and inside a virtual sandbox to boot (no more searching for extra patch cables!).
 
+Off the bat I will say that that virtual software environment the Nord Modular relies on for patch programming is likely the only weak spot in an otherwise flawless physical product. Chalk it up to the ceaseless drum beat of time, the Nord Modular G1 is about 22 years old as of writing this, but most modern operating systems (anything above Windows 7 and Mac OSX) will have a problem running the official Nord editor (last updated in 2007).
+
+That being said, it's incredibly easy to work around this limitation either by hosting a virtual machine with an older OS or by running one of a handful of community-developed open-source editors, the most popular being Nomad (linked to below). Though some lingering bugs may prevent a seemless patching experience (using a USB to MIDI helps, to a point), these editors are pretty damn good at what they're supposed to do. Just make sure to read the instructions when getting started.
+
 ## Documentation
 <ul>
   <li>
