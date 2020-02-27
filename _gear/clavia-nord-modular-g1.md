@@ -73,7 +73,7 @@ That being said, it's incredibly easy to work around this limitation either by h
     <p>Patch collection from Jan Punter aka <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell" target="_blank">Blue Hell</a></p>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/gehenna.zip" title="Gehenna aka Keith R Crosley patches">Gehenna aka Keith R Crosley patches</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/encyclotronic-patch-collection.zip" title="Encyclotronic patch collection">Encyclotronic patch collection</a>
   </li>
   <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/marko-ettlich-patches.zip" title="Marko Ettlich patches">Marko Ettlich patches</a>
