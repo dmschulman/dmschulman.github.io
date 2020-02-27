@@ -24,4 +24,4 @@ August 2004 - May 2008
 
 ## Certifications
 
-* Google Analytics Individual Qualification (#28941424)[https://skillshop.exceedlms.com/student/award/28941424]
+* Google Analytics Individual Qualification [#28941424](https://skillshop.exceedlms.com/student/award/28941424)
