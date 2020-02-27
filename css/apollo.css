@@ -164,6 +164,10 @@ header ul.social li {
 	margin: 0;
 }
 
+.content.resume h2 {
+	margin: 2rem 0 0 0;
+}
+
 .flexi-row {
     display: -ms-flexbox;
     display: -webkit-flex;
