@@ -168,6 +168,10 @@ header ul.social li {
 	margin: 2rem 0 0 0;
 }
 
+.content.resume h2:first-child {
+	margin: 1rem 0 0 0;
+}
+
 .flexi-row {
     display: -ms-flexbox;
     display: -webkit-flex;
