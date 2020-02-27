@@ -177,7 +177,7 @@ header ul.social li {
 	margin: 2rem 0 .5rem 0;
 }
 
-.content.resume h2:first-child {
+.content.resume:first-child h2 {
 	margin: 1rem 0 .5rem 0;
 }
 
