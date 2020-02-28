@@ -23,11 +23,13 @@ own: true
 blurb: "I am not usually one for hyperbole, and although this will sound like an over-the-top endorsement, I would be doing Clavia and the synth community in general a disservice if I didn't recognize how monumentally incredible the Nord Modular G1 is as an achievement in digital music technology, not only for its innovative approach to synthesis but also for the instrument's thoughtful design and the superb quality of every possible sound you can make this device spit out."
 ---
 
-What sets the Nord Modular series apart from other instruments is right there in the name. The Nord Modular G1 (as well as Nord's follow-up series, the Nord Modular G2) provides users with a complete suite of modular synthesizer building blocks, allowing you to construct any type of patch imaginable, in a virtual environment (no more searching for extra patch cables!), and 16 knobs that give you complete control over any patch parameter you choose.
+What sets the Nord Modular series apart from other instruments is right there in the name. The Nord Modular G1 (as well as Nord's follow-up series, the Nord Modular G2) provides users with a complete suite of modular synthesizer building blocks, allowing you to construct any type of patch imaginable, in a virtual environment (no more searching for extra patch cables!), with 16 knobs that give you complete control over any patch parameter you choose, and 1000 slots for storing sounds.
 
 Off the bat I will say that that virtual software environment the Nord Modular relies on for patch programming is likely the only weak spot in an otherwise flawless physical product. Chalk it up to the ceaseless drum beat of time, the Nord Modular G1 is about 22 years old as of writing this, but most modern operating systems (anything above Windows 7 and Mac OSX) will have a problem running the official Nord editor (last updated in 2007).
 
 That being said, it's incredibly easy to work around this limitation either by hosting a virtual machine with an older OS or by running one of a handful of community-developed open-source editors, the most popular being Nomad (linked to below). Though some lingering bugs may prevent a seemless patching experience (using a MIDI to USB adapter helps, to a point), these editors are pretty damn good at what they're supposed to do. Just make sure to read the included instructions for getting set up properly.
+
+The first generation of the Nord Modular series (henceforth known as G1) came in three flavors. The first, most obvious, and maybe the best to own, was the G1 Keyboard. But if the bulkier keyboard version isn't really your thing, the G1 Rack slims the synthesizer down to a 3U rackmount. And for those on an extremely limited space or price budget, Clavia later introduced a scaled-down version of the G1 known as the Nord Micro Modular sporting 3 knobs, 99 patch memories, and a 1/4 of the processing power as its predecessor.
 
 ## Documentation
 <ul>
@@ -84,7 +86,7 @@ That being said, it's incredibly easy to work around this limitation either by h
     <p>A set of 720 Nord G1 patches from <a href="https://github.com/sm-ll/nord-modular-g1-patches" title="mono-log.org" target="_blank">mono-log.org</a></p>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RECOPILA.zip" title=RECOPILA collection">RECOPILA collection</a>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RECOPILA.zip" title="RECOPILA collection">RECOPILA collection</a>
   </li>
   <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
