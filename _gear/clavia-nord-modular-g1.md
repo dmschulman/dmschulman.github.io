@@ -11,13 +11,13 @@ tags:
   - DSP
   - virtual analog
   - synthesizer
-  - modular
   - clavia
   - nord
   - keyboard
   - desktop
   - rackmount
   - software
+  - multitimbral
 image: https://dmschulman.com/studio/img/clavia-nord-modular-g1-keyboard.jpg
 own: true
 blurb: "I am not usually one for hyperbole, and although this will sound like an over-the-top endorsement, I would be doing Clavia and the synth community in general a disservice if I didn't recognize how monumentally incredible the Nord Modular G1 is as an achievement in digital music technology, not only for its innovative approach to synthesis but also for the instrument's thoughtful design and the superb quality of every possible sound you can make this device spit out."
