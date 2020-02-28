@@ -17,6 +17,7 @@ tags:
   - lead
   - SH-101
   - keyboard
+  - semi-modular
 image: https://dmschulman.com/studio/img/roland-sh-101.jpg
 own: true
 blurb: "One of the most iconic electronic musical instruments Roland has ever produced. When you hear people talking about the analog synths of yesteryear, how their lack of digital microchips and circuits constitutes some kind of pure electronic soul, it's the buttery smooth sound of the Roland SH-101 that everyone's really alluding to. The warm rubbery bass and tasty leads you can get out of the SH-101, not to mention the weird spacey FX and modulated noises you can make, are legendary in electronic music, especially on techno and house tracks."
