@@ -21,24 +21,7 @@ own: true
 blurb: ""
 ---
 
-<!-- ## Documentation
-<ul>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nord-modular-g1-manual-english-v3.0.pdf" title="Clavia Nord Modular Manual v3.0" target="_blank">Clavia Nord Modular Manual v3.0</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nordmodularbook.pdf" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia_nord_modular_v.3.0_by_wizoo.pdf" title="Wizoo Guide - Nord Modular 2nd Edition" target="_blank">Wizoo Guide - Nord Modular 2nd Edition</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-modular-brochure.pdf" title="Nord Modular G1 sales brochure" target="_blank">Nord Modular G1 sales brochure</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-micro-modular-brochure.pdf" title="Nord Micro Modular sales brochure" target="_blank">Nord Micro Modular sales brochure</a>
-  </li>
-</ul>
+<!--
 
 ## Modification
 <ul>
@@ -83,18 +66,7 @@ blurb: ""
   </li>
 </ul>
 
-## Software
-<ul>
-  <li>
-    <a href="https://oracle48.nl/Nomad/index.html" title="Nomad 0.4 Nord Modular Editor" target="_blank">Nomad 0.4 Nord Modular Editor</a>
-    <p>Fresh for 2019, a new version of Nomad from a new developer. Includes some bug fixes and better MIDI stability</p>
-  </li>
-  <li>
-    <a href="http://nmedit.sourceforge.net/" title="nmEdit - Nomad 0.32 Nord Modular Editor" target="_blank">nmEdit - Nomad 0.32 Nord Modular Editor</a>
-  </li>
-</ul>
 
-## Links and Resources
 <ul>
   <li>
     <a href="https://www.nordkeyboards.com/products/nord-modular" title="Nord Modular | Nord Keyboards" target="_blank">Nord Modular | Nord Keyboards</a>
@@ -155,6 +127,31 @@ blurb: ""
     <a href="https://www.youtube.com/watch?v=7S8Prd_Wi8Y" title="CLAVIA NORD MICROMODULAR LIVE SESSION" target="_blank">CLAVIA NORD MICROMODULAR LIVE SESSION</a>
   </li>
 </ul> -->
+
+## Documentation
+<ul>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/pdf/MS-70CDR_operationManual_English.pdf" title="Zoom MS-70CDR operation manual" target="_blank">Zoom MS-70CDR operation manual</a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/pdf/MS-70CDR_FX-list_English.pdf" title="Zoom MS-70CDR effect types and parameters" target="_blank">Zoom MS-70CDR effect types and parameters</a>
+  </li>
+</ul>
+
+## Software
+<ul>
+  <li>
+    <a href="https://g200kg.github.io/zoom-ms-utility/" title="Zoom MS-50G / 60B / 70CDR Patch Editor" target="_blank">Zoom MS-50G / 60B / 70CDR Patch Editor</a>
+  </li>
+</ul>
+
+## Links and Resources
+
+<ul>
+  <li>
+    <a href="https://www.zoom-na.com/products/effects-preamps/multistomp/zoom-ms-70cdr-multistomp-chorus-delay-reverb-pedal" title="Zoom MS-70CDR product page" target="_blank">Zoom MS-70CDR product page</a>
+  </li>
+</ul>
 
 ## Pictures
 <ul class="pictures">
