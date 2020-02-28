@@ -14,17 +14,10 @@ tags:
   - digital
   - zoom
   - budget
-image: https://www.bhphotovideo.com/images/images1000x1000/zoom_ms_70cdr_multistomp_chorus_delay_944881.jpg
+  - distortion
+  - flanger
+  - modulation
+image: https://dmschulman.com/studio/img/zoom-ms-70cdr.jpg
 own: true
 blurb: ""
-manual: 
-service:
-audio: |
-tips: |
-  Tips and tricks include:
-docs: |
-patches: |
-mods: |
-links: |
-pics: |
 ---
