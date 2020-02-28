@@ -84,6 +84,9 @@ That being said, it's incredibly easy to work around this limitation either by h
     <p>A set of 720 Nord G1 patches from <a href="https://github.com/sm-ll/nord-modular-g1-patches" title="mono-log.org" target="_blank">mono-log.org</a></p>
   </li>
   <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RECOPILA.zip" title=RECOPILA collection">RECOPILA collection</a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
   </li>
 </ul>
