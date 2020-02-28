@@ -29,7 +29,7 @@ Off the bat I will say that that virtual software environment the Nord Modular r
 
 That being said, it's incredibly easy to work around this limitation either by hosting a virtual machine with an older OS or by running one of a handful of community-developed open-source editors, the most popular being Nomad (linked to below). Though some lingering bugs may prevent a seemless patching experience (using a MIDI to USB adapter helps, to a point), these editors are pretty damn good at what they're supposed to do. Just make sure to read the included instructions for getting set up properly.
 
-The first generation of the Nord Modular series (henceforth known as G1) came in three flavors. The first, most obvious, and maybe the best to own, was the G1 Keyboard. But if the bulkier keyboard version isn't really your thing, the G1 Rack slims the synthesizer down to a 3U rackmount. And for those on an extremely limited space or price budget, Clavia later introduced a scaled-down version of the G1 known as the Nord Micro Modular sporting 3 knobs, 99 patch memories, and a 1/4 of the processing power as its predecessor.
+The first generation of the Nord Modular series (henceforth known as G1) came in three flavors. The first, most obvious, and maybe the best to own, was the G1 Keyboard. But if the bulkier keyboard version isn't really your thing, the G1 Rack slims the synthesizer down to a 3U rackmount. And for those on an extremely limited space or price budget, Clavia later introduced a scaled-down version of the G1 known as the Nord Micro Modular sporting 3 knobs, 99 patch memories, and a 1/4 of the processing power of its predecessor.
 
 ## Documentation
 <ul>
