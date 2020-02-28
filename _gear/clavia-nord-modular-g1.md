@@ -211,4 +211,9 @@ That being said, it's incredibly easy to work around this limitation either by h
       <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-expansion-install.jpg" alt="Nord Modular G1 expansion board installation">
     </a>
   </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-back-panel.jpg" title="Nord Modular G1 back panel" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/img/clavia-nord-modular-g1-back-panel.jpg" alt="Nord Modular G1 back panel">
+    </a>
+  </li>
 </ul>
