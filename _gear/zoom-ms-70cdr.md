@@ -18,8 +18,10 @@ tags:
   - modulation
 image: https://dmschulman.com/studio/img/zoom-ms-70cdr.jpg
 own: true
-blurb: ""
+blurb: "The mighty little multi-effects pedal that can, Zoom's MS-70CDR excels at providing pleasurable sound processing, giving you all the functionality of your pedal board at a fraction of the price and size. Chain together 86 different effects to achieve your desired outcome, pixel-perfect recreations of classic choruses, reverbs, delays, flangers, envelope followers, phasers, pitch-shifters, and more all shine with pristine sound quality and USB (or 2x AA) power."
 ---
+
+People talk a lot about Swiss army knife hardware, big tools that come in small and inexpensive packages. If you're trying to pin down that metaphor as accurately as possible, you'd be hard pressed to find a box more qualified than the Zoom MS-70CDR. This all-in-one chainable effects processor is as small as a guitar pedal, as versitle as an entire shelf of stompboxes, and as cheap as a single BOSS effect. Though the UI of the unit can be slightly clunky, the visual paradigm of paging through and throwing down little pixelated guitar pedals (pedals modeled after classic effects we all know and love) communicates how much fine detail went into Multistomp series concept.
 
 ## Documentation
 <ul>
