@@ -159,6 +159,21 @@ blurb: ""
 ## Pictures
 <ul class="pictures">
   <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-side.jpg" title="Zoom MS-70CDR side" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-side.jpg" alt="Zoom MS-70CDR side">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-rear.jpg" title="Zoom MS-70CDR rear" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-rear.jpg" alt="Zoom MS-70CDR rear">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-with-box.jpg" title="Zoom MS-70CDR with box" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-with-box.jpg" alt="Zoom MS-70CDR with box">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-effects-1.jpg" title="Zoom MS-70CDR effects list chorus" target="_blank">
       <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-effects-1.jpg" alt="Zoom MS-70CDR effects list chorus">
     </a>
@@ -171,6 +186,11 @@ blurb: ""
   <li>
     <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-effects-3.jpg" title="Zoom MS-70CDR effects list reverb" target="_blank">
       <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-effects-3.jpg" alt="Zoom MS-70CDR effects list reverb">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-g220kg-patch-editor.jpg" title="Zoom MS-70CDR g200kg patch editor" target="_blank">
+      <img src="https://dmschulman.com/studio/gear/zoom/ms-70cdr/img/zoom-ms-70cdr-g220kg-patch-editor.jpg" alt="Zoom MS-70CDR g200kg patch editor">
     </a>
   </li>
 </ul>
