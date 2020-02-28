@@ -21,40 +21,6 @@ own: true
 blurb: ""
 ---
 
-<!--
-
-## Modification
-<ul>
-  <li>
-    <a href="http://www.poesboes.com/index.html?./poesboes/Nord_Modular/index.html" title="Modifying the Clavia Nord Micro Modular for use in Eurorack" target="_blank">Modifying the Clavia Nord Micro Modular for use in Eurorack</a>
-  </li>
-</ul>
-
-## Videos
-<ul>
-  <li>
-    <a href="https://www.youtube.com/watch?v=E16vmDTkLU4" title="Nord Modular G1 - 100 Factory Presets" target="_blank">Nord Modular G1 - 100 Factory Presets</a>
-  </li>
-<li>
-    <a href="https://www.youtube.com/watch?v=f-wqzGYTwMM" title="CLAVIA NORD MODULAR // tweaking algorithms // Session 1 // complete" target="_blank">CLAVIA NORD MODULAR // tweaking algorithms // Session 1 // complete</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=eKoeaZpXuwI" title="Clavia Micro Modular demo A" target="_blank">Clavia Micro Modular demo A</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=ZHI4Ek8iu_0" title="CLAVIA NORD MODULAR // presets // ENSONIQ DP/PRO // reverbs" target="_blank">CLAVIA NORD MODULAR // presets // ENSONIQ DP/PRO // reverbs</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=zAvMmnA4sTE" title="lissajous figures - made using a Nord Modular synth" target="_blank">lissajous figures - made using a Nord Modular synth</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=x48LGl16zvI" title="nordcore #3" target="_blank">nordcore #3</a>
-  </li>
-  <li>
-    <a href="https://www.youtube.com/watch?v=7S8Prd_Wi8Y" title="CLAVIA NORD MICROMODULAR LIVE SESSION" target="_blank">CLAVIA NORD MICROMODULAR LIVE SESSION</a>
-  </li>
-</ul> -->
-
 ## Documentation
 <ul>
   <li>
@@ -73,7 +39,6 @@ blurb: ""
 </ul>
 
 ## Links and Resources
-
 <ul>
   <li>
     <a href="https://www.zoom-na.com/products/effects-preamps/multistomp/zoom-ms-70cdr-multistomp-chorus-delay-reverb-pedal" title="Zoom MS-70CDR product page" target="_blank">Zoom MS-70CDR product page</a>
@@ -83,6 +48,25 @@ blurb: ""
   </li>
   <li>
     <a href="https://www.matrixsynth.com/search?q=zoom-ms-70cdr&max-results=20&by-date=false" title="Matrixsynth.com - Zoom MS-70CDR" target="_blank">Matrixsynth.com - Zoom MS-70CDR</a>
+  </li>
+</ul>
+
+## Videos
+<ul>
+  <li>
+    <a href="https://www.youtube.com/watch?v=yjvbEN7BeDM" title="Zoom MS-70CDR Factory Presets" target="_blank">Zoom MS-70CDR Factory Presets</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=trCc74oGhxs" title="ZOOM MS 70 CDR TESTED BY DX 7" target="_blank">ZOOM MS 70 CDR TESTED BY DX 7</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=cpLEZAx2jVE" title="Exploring Black Holes 19122016 No.02 // Korg Monotribe & Zoom MS-70CDR" target="_blank">Exploring Black Holes 19122016 No.02 // Korg Monotribe & Zoom MS-70CDR</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=gWmJdkGfw3k" title="Korg Volca FM + Zoom MS-70CDR Ambient" target="_blank">Korg Volca FM + Zoom MS-70CDR Ambient</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/watch?v=R3KkIRDnj9E" title="Kalimba & Zoom MS-70CDR - Insane Sound" target="_blank">Kalimba & Zoom MS-70CDR - Insane Sound</a>
   </li>
 </ul>
 
