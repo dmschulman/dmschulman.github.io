@@ -30,79 +30,6 @@ blurb: ""
   </li>
 </ul>
 
-## Patches
-<ul>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/nord-modular-factory-banks-3.0-revA.zip" title="Nord Modular Factory Patches v3.0 rev A">Nord Modular Factory Patches v3.0 rev A</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/james-j-clarke-patches.zip" title="James J. Clarke patch collection">James J. Clarke patch collection</a>
-    <p>A variety of patches archived from <a href="http://www.cim.mcgill.ca/~clark/emusic_nord_modular_patches.html" title="James J. Clarke's website" target="_blank">James J. Clarke's website</a></p>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RetroSound-NM.zip" title="NM Classic RetroSound set">NM Classic RetroSound set</a>
-    <p>904 patches from <a href="http://www.retrosound.de/modular.html" title="RetroSounds" target="_blank">RetroSounds</a></p>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/blue-hell.zip" title="Blue Hell patch collection">Blue Hell patch collection</a>
-    <p>Patch collection from Jan Punter aka <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell" target="_blank">Blue Hell</a></p>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/encyclotronic-patch-collection.zip" title="Encyclotronic patch collection">Encyclotronic patch collection</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/marko-ettlich-patches.zip" title="Marko Ettlich patches">Marko Ettlich patches</a>
-    <p>Two sets of patches from Marko Ettlich, one set emulating Vangelis and another emulating Jean-Michel Jarre</p>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/720-nord-g1-patches.zip" title="720 Nord G1 patches">720 Nord G1 patches</a>
-    <p>A set of 720 Nord G1 patches from <a href="https://github.com/sm-ll/nord-modular-g1-patches" title="mono-log.org" target="_blank">mono-log.org</a></p>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/RECOPILA.zip" title="RECOPILA collection">RECOPILA collection</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/patch/mu-sly_nord_modular.zip" title="Mu:Sly patches">Mu:Sly patches</a>
-  </li>
-</ul>
-
-
-<ul>
-  <li>
-    <a href="https://www.nordkeyboards.com/products/nord-modular" title="Nord Modular | Nord Keyboards" target="_blank">Nord Modular | Nord Keyboards</a>
-  </li>
-  <li>
-    <a href="https://en.wikipedia.org/wiki/Nord_Modular" title="Nord Modular - Wikipedia" target="_blank">Nord Modular - Wikipedia</a>
-  </li>
-  <li>
-    <a href="http://www.vintagesynth.com/clavia/nordmod.php" title="Clavia Nord Modular | Vintage Synth Explorer" target="_blank">Clavia Nord Modular  | Vintage Synth Explorer</a>
-  </li>
-  <li>
-    <a href="https://www.matrixsynth.com/search?q=nord+g1&max-results=20&by-date=false" title="Matrixsynth.com - Nord Modular G1" target="_blank">Matrixsynth.com - Nord Modular G1</a>
-  </li>
-  <li>
-    <a href="http://www.retrosound.de/modular.html" title="RetroSound: Clavia Nord Modular" target="_blank">RetroSound: Clavia Nord Modular</a>
-  </li>
-  <li>
-    <a href="http://www.electro-music.com/forum/index.php" title="electro-music.com forum" target="_blank">electro-music.com forum</a>
-  </li>
-  <li>
-    <a href="https://sonicstate.com/synth/clavia_nordmodular/" title="Clavia Nord Modular - Sonic State" target="_blank">Clavia Nord Modular - Sonic State</a>
-  </li>
-  <li>
-    <a href="http://www.cim.mcgill.ca/~clark/nordmodularbook/nm_book_toc.html" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
-  </li>
-  <li>
-    <a href="http://electro-music.com/nm_classic/" title="Nord Modular Classic Archive" target="_blank">Nord Modular Classic Archive</a>
-  </li>
-  <li>
-    <a href="https://xy.cx/synth/nordmod/" title="XY Films - Nord Modular (Modular Analog Synthesis)" target="_blank">XY Films - Nord Modular (Modular Analog Synthesis)</a>
-  </li>
-  <li>
-    <a href="https://bluehell.electro-music.com/iaf/" title="Blue Hell - Jan Punter" target="_blank">Blue Hell - Jan Punter</a>
-  </li>
-</ul>
-
 ## Videos
 <ul>
   <li>
@@ -134,7 +61,7 @@ blurb: ""
     <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/pdf/MS-70CDR_operationManual_English.pdf" title="Zoom MS-70CDR operation manual" target="_blank">Zoom MS-70CDR operation manual</a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/pdf/MS-70CDR_FX-list_English.pdf" title="Zoom MS-70CDR effect types and parameters" target="_blank">Zoom MS-70CDR effect types and parameters</a>
+    <a href="https://dmschulman.com/studio/gear/zoom/ms-70cdr/pdf/MS-70CDR_FX-list_English.pdf" title="Zoom MS-70CDR effect types and parameters v2" target="_blank">Zoom MS-70CDR effect types and parameters v2</a>
   </li>
 </ul>
 
@@ -150,6 +77,12 @@ blurb: ""
 <ul>
   <li>
     <a href="https://www.zoom-na.com/products/effects-preamps/multistomp/zoom-ms-70cdr-multistomp-chorus-delay-reverb-pedal" title="Zoom MS-70CDR product page" target="_blank">Zoom MS-70CDR product page</a>
+  </li>
+  <li>
+    <a href="https://www.reddit.com/r/zoommultistomp/" title="Zoom Multistomp subreddit" target="_blank">Zoom Multistomp subreddit</a>
+  </li>
+  <li>
+    <a href="https://www.matrixsynth.com/search?q=zoom-ms-70cdr&max-results=20&by-date=false" title="Matrixsynth.com - Zoom MS-70CDR" target="_blank">Matrixsynth.com - Zoom MS-70CDR</a>
   </li>
 </ul>
 
