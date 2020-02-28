@@ -14,7 +14,6 @@ tags:
   - digital
   - zoom
   - budget
-  - distortion
   - flanger
   - modulation
 image: https://dmschulman.com/studio/img/zoom-ms-70cdr.jpg
