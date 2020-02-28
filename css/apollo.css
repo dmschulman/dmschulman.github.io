@@ -417,6 +417,10 @@ ul.photo-gallery li h2 {
 	line-height: 2.5;
 }
 
+.content.gear ul.pictures li img {
+	max-height: 480px;
+}
+
 /* MISC CONTENT */
 
 ul.bookmarks {
