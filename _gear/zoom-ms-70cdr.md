@@ -23,6 +23,10 @@ blurb: "The mighty little multi-effects pedal that can, Zoom's MS-70CDR excels a
 
 People talk a lot about Swiss army knife hardware, big tools that come in small and inexpensive packages. If you're trying to pin down that metaphor as accurately as possible, you'd be hard pressed to find a box more qualified than the Zoom MS-70CDR. This all-in-one chainable effects processor is as small as a guitar pedal, as versatile  as an entire shelf of stompboxes, and as cheap as a single BOSS effect. Though the UI of the unit can be slightly clunky, the visual paradigm of paging through and throwing down little pixelated guitar pedals (pedals modeled after classic effects we all know and love) communicates how much fine detail went into Multistomp series concept.
 
+Three knobs and four navigation arrows aid in editing and applying various effect chains inside the pedal. Given the fact that each effect can have anywhere between 3-8 tweakable parameters, this control scheme makes enough sense. Editing the order of your effects can be tricky inside the pedal, but luckily there's a great web-based interface for creating, editing, saving, and uploading patches. You will fill up the 50 user editable patch slots in no time.
+
+Stereo inputs and outputs open the MS-70CDR up to a world of instruments beyond guitars. Finding pedal effects within a synthesizer recording chain is nothing new, but in many cases input impedance and circuit design leave a lot to be desired in terms of noise floor and sound quality with these boxes. The design of the Multistomp series overcomes a lot of these limiting factors leaving you with a cleaner sound that rarely clips with a balanced signal. While there are no fuzz or distortion effects in the MS-70CDR (you need to buy the MS-50G if you want to thrash) there are plenty of choruses, delays, reverbs (CDR) as well as other sound processing tools.
+
 ## Documentation
 <ul>
   <li>
