@@ -443,9 +443,11 @@ img.favicon {
 #lightbox.gallery #next,
 #lightbox.gallery #close {
 	font-size: 2.5rem !important;
+	color: #202020 !important;
+}
+#lightbox.gallery a i {
 	vertical-align: initial !important;
 	line-height: 1 !important;
-	color: #202020 !important;
 }
 
 /* FOOTER */
