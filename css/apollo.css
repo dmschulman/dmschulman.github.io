@@ -439,9 +439,7 @@ img.favicon {
     vertical-align: middle;
 }
 
-#lightbox.gallery a, 
-#lightbox.gallery #prev,
-#lightbox.gallery #next {
+#lightbox.gallery a i.fa {
 	font-size: 2.5rem !important;
 	vertical-align: initial !important;
 	line-height: 1 !important;
