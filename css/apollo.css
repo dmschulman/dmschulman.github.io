@@ -439,11 +439,13 @@ img.favicon {
     vertical-align: middle;
 }
 
-#lightbox.gallery a {
-	font-size: 2.5rem;
-	vertical-align: initial;
-	line-height: 1;
-	color: #202020;
+#lightbox.gallery a, 
+#lightbox.gallery #prev,
+#lightbox.gallery #next {
+	font-size: 2.5rem !important;
+	vertical-align: initial !important;
+	line-height: 1 !important;
+	color: #202020 !important;
 }
 
 /* FOOTER */
