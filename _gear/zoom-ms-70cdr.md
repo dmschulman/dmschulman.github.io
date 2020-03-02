@@ -16,6 +16,7 @@ tags:
   - budget
   - flanger
   - modulation
+  - multi-effects
 image: https://dmschulman.com/studio/img/zoom-ms-70cdr.jpg
 own: true
 blurb: "The mighty little multi-effects pedal that can, Zoom's MS-70CDR excels at providing pleasurable sound processing, giving you all the functionality of your pedal board at a fraction of the price and size. Chain together 86 different effects to achieve your desired outcome, pixel-perfect recreations of classic choruses, reverbs, delays, flangers, envelope followers, phasers, pitch-shifters, and more all shine with pristine sound quality and USB (or 2x AA) power."
