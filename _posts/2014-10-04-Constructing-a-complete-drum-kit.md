@@ -73,6 +73,8 @@ Next we have the toms section: High Tom (HT), Middle Tom (MT), and Low Tom (LT).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782446&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782445&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 ![image alt text]({{ site.url }}/public/3Q5eZtAf0L0EB4X3NzkFw_img_3.jpg)
 
 To round out our punchier percussion sounds we turn to some more metallic, higher frequency sounds like the Open hi-hat (OH), Closed hi-hat (CH), and Crash cymbal (CC). The OH and CH of course create a syncopated rhythm on top of whatever groove is currently playing. The CH especially can be used to "capture" a groove due to its subtle but driving qualities, sitting in the background of the overall rhythm but adding to the infectiousness of the beat. Letting the CH ride on every 16th note is a classic example of this in techno. You can also use the CH to create a sort of a gated rhythm by applying it to every 16th note and then removing only a few of these notes in your beat. In the Machinedrum I can even do this via an LFO. I like my Machinedrum.
