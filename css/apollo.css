@@ -88,6 +88,10 @@ blockquote {
 	border-left: 2px solid #383838;
 }
 
+iframe {
+	margin: 0 0 1rem 0;
+}
+
 code {
 	background-color: #ebebeb;
 }
