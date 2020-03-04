@@ -71,9 +71,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
