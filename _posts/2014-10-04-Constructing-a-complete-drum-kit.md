@@ -67,7 +67,11 @@ This combination of sounds is a tried and true format. Remember, this is just a 
 
 First and foremost we have the Bass drum (BD) and Snare drum (SD). Both these elements derive from your typical acoustic drum kit and work so well to establish rhythm due to their presence and complimentary tonalities. The low boom of the BD keeps the repetitious time of a track ("4 On The Floor", for example), sitting well below every other drum sound, while the SD accents parts of the rhythm, creating a bouncy smack that breaks up the monotony of the BD. You can tune these elements however you'd like but generally the BD will stay in the lower registers while the SD sits in the middle frequencies of your drum mix. If your drum machine allows it, it’s even a good idea to have two BD or two SD sounds in your kit because of how central they are to creating rhythm.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782447&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 Next we have the toms section: High Tom (HT), Middle Tom (MT), and Low Tom (LT). As individual drum tracks, there are many uses for these 3 slots. Of course you don't need one, two, or any toms in your kit necessarily but the toms section allows you to create a polyrhythm or additional rhythmic element by taking the same drum sound and giving it 3 different tunings. If you’re going for the typical usage of the toms it’s important to tune each drum so they work in harmony and their frequencies don’t clash. You can create interesting triads with specific tunings on each tom tom or a variety of other effects. Musical theory comes in handy for designing specific tunings but a decent ear also goes a long way.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782446&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ![image alt text]({{ site.url }}/public/3Q5eZtAf0L0EB4X3NzkFw_img_3.jpg)
 
@@ -79,11 +83,14 @@ These two sounds should be tuned similarly and I'd recommend using sets of OH an
 
 Finally we have some extra percussive elements that will mix nicely into your rhythm, either to help create some variation, backing rhythm, accent, or a completely different drum beat altogether. Clap (CL), Cowbell (CB), Rimshot (RS), and Shaker (SS) play this role, but don't let the names fool you. The term "percussion" spans so many types and sound sources that it’s impossible to break it down to something as basic as the kick and snare relationship. With these additional sounds you get an extra layer of refinement and variation over your (presumably) bare-bones drum pattern. In my example I’ve used these elements to create alternate rhythms that blend into the original beat and can be used on their own as fills or a drum relief.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782444&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 Many times I'll use these tracks for 1-shot samples, wacky LFO modulated percussion, alternately tuned versions of other drums, or even, specific to the Machinedrum, as MIDI tracks to control other machines with. CL and CB can be especially effective as-is due to their established sound in much of modern music, and depending on what machine you’re working with, you may find a lot of beautiful harmonics while tweaking your CB sound.
 
 ![image alt text]({{ site.url }}/public/3Q5eZtAf0L0EB4X3NzkFw_img_5.jpg)
 
 As you develop your drum patterns and find the need to re-tune or even replace certain sounds you'll still be miles ahead in your work in contrast to starting out your pattern with just one or two sounds in your kit. Programming your drum patterns can be a good deal of fun but the real rabbit hole comes when you begin to tweak each individual drum sound to suit the rhythm and layers of your other parts. Drum patterns can come a dime a dozen but a cohesive and battle-ready drum kit is a much more valuable resource to have at your fingertips.
 
-I hope this article has given you a wider basis to start crafting your kits with and provides a forest-from-the-trees perspective on drum machine workflow.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170782443&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+I hope this article has given you a wider basis to start crafting your kits with and provides a forest-from-the-trees perspective on drum machine workflow.
