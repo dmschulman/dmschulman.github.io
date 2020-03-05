@@ -21,26 +21,16 @@ blurb: ""
 
 ## Documentation
 
-<!-- ## Documentation
 <ul>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nord-modular-g1-manual-english-v3.0.pdf" title="Clavia Nord Modular Manual v3.0" target="_blank">Clavia Nord Modular Manual v3.0</a>
+    <a href="https://dmschulman.com/studio/gear/korg/monotribe/pdf/monotribe_OM_EFGS2.pdf" title="Korg monotribe owner's manual" target="_blank">Korg monotribe owner's manual</a>
   </li>
   <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/nordmodularbook.pdf" title="Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke" target="_blank">Advanced Programming Techniques for Nord Modular Synthesizers - James J. Clarke</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia_nord_modular_v.3.0_by_wizoo.pdf" title="Wizoo Guide - Nord Modular 2nd Edition" target="_blank">Wizoo Guide - Nord Modular 2nd Edition</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-modular-brochure.pdf" title="Nord Modular G1 sales brochure" target="_blank">Nord Modular G1 sales brochure</a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/studio/gear/clavia/nord-modular-g1/pdf/clavia-nord-micro-modular-brochure.pdf" title="Nord Micro Modular sales brochure" target="_blank">Nord Micro Modular sales brochure</a>
+    <a href="https://dmschulman.com/studio/gear/korg/monotribe/pdf/monotribe_rhythm_sch.pdf" title="Korg monotribe Rhythm section schematic" target="_blank">Korg monotribe Rhythm section schematic</a>
   </li>
 </ul>
 
-## Modification
+<!-- ## Modification
 <ul>
   <li>
     <a href="http://www.poesboes.com/index.html?./poesboes/Nord_Modular/index.html" title="Modifying the Clavia Nord Micro Modular for use in Eurorack" target="_blank">Modifying the Clavia Nord Micro Modular for use in Eurorack</a>
