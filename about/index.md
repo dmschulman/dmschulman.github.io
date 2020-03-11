@@ -13,9 +13,11 @@ current-song: "The Midnight Hour"
 current-song-url: "https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO"
 ---
 
-Hey there. My name is David Schulman and I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full stack development on the website of [University of the Sciences](https://www.usciences.edu/index.html).
+Hey there, my name is David Michael Schulman. I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full stack development at [University of the Sciences](https://www.usciences.edu/index.html), maintaining and evolving the university's web presence across all public-facing websites and applications.
 
-## My background
+Web development and design has been an interest of mine as far back as I can remember. With humble beginnings on Geocities (my first ever website was about the game [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))!), I dabbled and experimented with my own web designs that more resembled the print layouts and graphic designs I grew up admiring (thanks for the inspiration, [Phaidon Press](https://en.wikipedia.org/wiki/Phaidon_Press)) than they did any hypetext document. In many ways I also credit the website [Superbad.com](http://superbad.com/) for showing me what was possible with the medium of the web.
+
+<!-- ## My background
 
 <div class="flexi-row">
 	<div class="three">
@@ -52,7 +54,7 @@ Hey there. My name is David Schulman and I’m a front-end web developer current
 </div>
 <div class="clear"></div>
 
-<!-- ## About this site
+## About this site
 
 ## You can also find me...
 -->
