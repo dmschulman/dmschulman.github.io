@@ -1,16 +1,7 @@
 ---
 layout: apollo
 title: "About"
-description: "About me"
-lived-in: "Philadelphia PA, Santa Monica CA, London England, Ithaca NY"
-current-read: "The Secret History of Mac Gaming"
-current-read-url: "https://unbound.com/books/macgaming/"
-current-site: "Dare to be Different"
-current-site-url: "http://thekey.xpn.org/2017/02/07/dare-different-importance-phillys-wdre-20-years-later/"
-current-show: "Get Me Roger Stone"
-current-show-url: "https://www.imdb.com/title/tt6714534/"
-current-song: "The Midnight Hour"
-current-song-url: "https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO"
+description: ""
 ---
 
 Hey there, my name is David Michael Schulman. I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full stack development at [University of the Sciences](https://www.usciences.edu/index.html), maintaining and evolving the university's web presence across all public-facing websites and applications.
@@ -20,6 +11,16 @@ Web development and design has been an interest of mine as far back as I can rem
 <!-- ## My background
 
 Being an early adopter of the roll-your-own blogging platform [WordPress](https://en.wikipedia.org/wiki/WordPress), I stood up my first LAMP stack in 2005 which allowed me to cut my teeth on a new framework involving PHP and MySQL.
+
+lived-in: "Philadelphia PA, Santa Monica CA, London England, Ithaca NY"
+current-read: "The Secret History of Mac Gaming"
+current-read-url: "https://unbound.com/books/macgaming/"
+current-site: "Dare to be Different"
+current-site-url: "http://thekey.xpn.org/2017/02/07/dare-different-importance-phillys-wdre-20-years-later/"
+current-show: "Get Me Roger Stone"
+current-show-url: "https://www.imdb.com/title/tt6714534/"
+current-song: "The Midnight Hour"
+current-song-url: "https://www.youtube.com/watch?v=0EaKiQ1WGAk&list=PLJLCTosMQk1DNOkdGKyrlsXQkLBE8CguO"
 
 <div class="flexi-row">
 	<div class="three">
