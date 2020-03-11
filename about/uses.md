@@ -13,8 +13,9 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
     * Intel i5-7300U Processor
     * 16GB LPDDR3 1866 RAM
     * 1TB PCIe-NVMe OPAL 2.0 SSD
-    * 14" WQHD IPS Touchscreen display
+    * 14" WQHD IPS Multitouch display
     * Intel HD Graphics 620
+    * Dual boot environment with Manjaro Linux and Windows 10 Pro
 
 ## Software
 ### Linux
