@@ -15,7 +15,7 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
     * 1TB PCIe-NVMe OPAL 2.0 SSD
     * 14" WQHD IPS Multitouch display
     * Intel HD Graphics 620
-    * Dual boot environment with Manjaro Linux and Windows 10 Pro
+    * Dual boot environment with [Manjaro Linux](https://manjaro.org/) and [Windows 10 Pro](https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt/)
 
 ## Software
 ### Linux
