@@ -12,8 +12,8 @@ locale: "en-US"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 read_more: "enabled" # if enabled, adds "Read more" links to excerpts
-paginate: "10"
-paginate_path: "/blog/:num/"
+paginate: 10
+paginate_path: "/:num/"
 
 name: "David Schulman"
 email: "david@dmschulman.com"
@@ -79,7 +79,6 @@ gems:
   - jemoji
   - nokogiri
   - rouge
-  - jekyll-target-blank
 exclude:
   - Gemfile
   - Gemfile.lock
