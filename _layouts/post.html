@@ -13,18 +13,16 @@
 		<main>
 			<article class="content">
 				<h1>{{ page.title }}</h1>
-				{% if post.date != 0 %}
-					<div class="post-meta">
-						<span>
-							<i aria-hidden class="far fa-calendar-alt" title="Date"></i> {{ post.date | date: '%B %d, %Y' }}
+				<div class="post-meta">
+					<span>
+						<i aria-hidden class="far fa-calendar-alt" title="Date"></i> {{ page.date | date: '%B %d, %Y' }}
+					</span>
+					{% if page.tags.size > 0 %}
+						<span class="tags">
+							<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
 						</span>
-						{% if page.tags.size > 0 %}
-							<span class="tags">
-								<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
-							</span>
-						{% endif %}
-					</div>
-				{% endif %}
+					{% endif %}
+				</div>
 				<div class="post">
 					{{ content }}
 					{% if page.updated %}
