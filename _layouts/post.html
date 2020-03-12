@@ -13,10 +13,10 @@
 		<main>
 			<article class="content">
 				<h1>{{ page.title }}</h1>
-				{% if page.date != 0 %}
+				{% if post.date != 0 %}
 					<div class="post-meta">
 						<span>
-							<i aria-hidden class="far fa-calendar-alt" title="Date"></i> {{ page.date | date: '%B %d, %Y' }}
+							<i aria-hidden class="far fa-calendar-alt" title="Date"></i> {{ post.date | date: '%B %d, %Y' }}
 						</span>
 						{% if page.tags.size > 0 %}
 							<span class="tags">
