@@ -68,7 +68,7 @@ defaults:
 # Build settings
 markdown: kramdown
 #theme: apollo
-gems:
+plugins:
   - github-pages
   #- jekyll-avatar
   - jekyll-feed
