@@ -19,7 +19,8 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 * [Lenovo Thinkpad Thunderbolt 3 Dock 2nd Gen](https://www.lenovo.com/us/en/accessories-and-monitors/home-office/Thunderbolt-Dock-Gen-2-US/p/40AN0135US)
 * [LG 29" UltraWide 21:9 IPS LED Monitor 29UM58-P](https://www.lg.com/us/monitors/lg-29UM58-P-ultrawide-monitor)
 * [Focal Alpha 65 studio monitor speakers](https://www.focal.com/en/pro-audio/monitoring-speakers/alpha/monitoring-speakers/alpha-65)
-* [Universal Audio Apollo Firewire audio interface w/ Thunderbolt upgrade](https://www.uaudio.com/audio-interfaces/apollo.html)
+* [Universal Audio Apollo Firewire audio interface Thunderbolt upgrade](https://www.uaudio.com/audio-interfaces/apollo.html)
+    * Thunderbolt upgrade card
 
 ## Software
 ### Linux
