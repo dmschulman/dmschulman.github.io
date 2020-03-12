@@ -70,15 +70,15 @@ markdown: kramdown
 #theme: apollo
 gems:
   - github-pages
-  - jekyll-avatar
+  #- jekyll-avatar
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-titles-from-headings
-  - jemoji
-  - nokogiri
-  - rouge
+  # - jekyll-titles-from-headings
+  # - jemoji
+  # - nokogiri
+  # - rouge
 exclude:
   - Gemfile
   - Gemfile.lock
