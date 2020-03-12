@@ -5,7 +5,7 @@ description: ""
 permalink: /uses
 ---
 
-Here's a list of the hardware, software, scripts, suppliments, and more that I use to get the job done. Inspired by awesome-uses from [Wes Bos](https://github.com/wesbos/awesome-uses). Browse more /uses like mine at [uses.tech](https://uses.tech/).
+Here's a list of the hardware, software, scripts, suppliments, and more that I use to get the job done. Inspired by [awesome-uses](https://github.com/wesbos/awesome-uses) from [Wes Bos](https://github.com/wesbos). Browse more /uses like mine at [uses.tech](https://uses.tech/).
 
 ## Hardware
 
@@ -16,6 +16,7 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
     * 14" WQHD IPS Multitouch display
     * Intel HD Graphics 620
     * Dual boot environment with [Manjaro Linux](https://manjaro.org/) and [Windows 10 Pro](https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt/)
+* [LG 29" UltraWide 21:9 IPS LED Monitor 29UM58-P](https://www.lg.com/us/monitors/lg-29UM58-P-ultrawide-monitor)
 
 ## Software
 ### Linux
