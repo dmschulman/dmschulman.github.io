@@ -69,6 +69,7 @@ defaults:
 markdown: kramdown
 #theme: apollo
 plugins:
+  - github-pages-gem
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
