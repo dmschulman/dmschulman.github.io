@@ -228,22 +228,26 @@ p.footnote a {
 }
 
 /* POST */
-
+.content ul li,
 .post ul li {
 	list-style: disc;
 	margin: 0 0 0 1.5rem;
 }
 	
+.content ul li > ul li,
 .post ul li > ul li {
 	list-style: circle;
 }
 
+.content ol li,
 .post ol li {
 	list-style-type: decimal-leading-zero;
 	margin: 0 0 0 1.5rem;
 	font-weight: bold;
 }
 
+.content ul li p,
+.content ol li p,
 .post ul li p,
 .post ol li p {
 	margin: 0;
