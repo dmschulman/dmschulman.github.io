@@ -27,5 +27,7 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 * [Github Pages](https://pages.github.com/) for hosting the site and all of its assets.
 * [Github](https://github.com/) for version control and issue tracking.
 * [Google Analytics](https://analytics.google.com/analytics/web/) for providing web analytics information.
+* [Google Docs](https://docs.google.com/) for composing the majority of the content on this website.
+   * [Gabriel](https://gsuite.google.com/marketplace/app/gabriel/502018707867) for publishing Google Docs into Markdown format and pushing them to Github.
 * [Jekyll](https://jekyllrb.com/) for building the static web pages.
 * [Travis CI](https://travis-ci.org/) for code testing and Continuious Deployment.
