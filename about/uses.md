@@ -9,11 +9,13 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 
 ## Hardware
 
+### Workstation
+
 * [Lenovo Thinkpad X1 Yoga 2nd Gen](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-yoga/Thinkpad-X1-Yoga-2nd-Gen/p/22TP2TXX12Y)
-    * Intel i5-7300U Processor
+    * Intel i5-7300U 2.6Ghz Processor
     * 16GB LPDDR3 1866 RAM
-    * 1TB PCIe-NVMe OPAL 2.0 SSD
-    * 14" WQHD IPS Multitouch display
+    * 1TB PCIe-NVMe OPAL 2.0 SSD Hard Drive
+    * 14" WQHD IPS Multitouch Display
     * Intel HD Graphics 620
     * Dual boot environment with [Manjaro Linux](https://manjaro.org/) and [Windows 10 Pro](https://www.microsoft.com/en-us/p/windows-10-pro/df77x4d43rkt/)
 * [Lenovo Thinkpad Thunderbolt 3 Dock 2nd Gen](https://www.lenovo.com/us/en/accessories-and-monitors/home-office/Thunderbolt-Dock-Gen-2-US/p/40AN0135US)
@@ -22,10 +24,20 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 * [Universal Audio Apollo Firewire Audio Interface](https://www.uaudio.com/audio-interfaces/apollo.html)
     * Thunderbolt upgrade card
 
-### Accessories
+#### Accessories
 * [Logitech G602 Wireless Gaming Mouse](https://www.logitech.com/en-ch/product/g602-wireless-gaming-mouse)
 * [Logitech K360 Wireless Keyboard](https://www.logitech.com/en-us/product/keyboard-k360)
 * [Anker 10 Port 60W Data Hub](https://www.anker.com/products/variant/anker-10-port-60w-data-hub/A7515111)
+
+### Development Server / Media Center
+
+* [Lenovo Thinkpad X201T](http://www.thinkwiki.org/wiki/Category:X201_Tablet)
+    * Intel Dual Core i5-3320M 2.6Ghz Processor
+    * 8GB DDR3 1066 RAM
+    * 500GB SSD Hard Drive
+    * 12.1" WXGA TFT Multitouch Display
+    * Intel HD Graphics
+    * Running [Manjaro Linux](https://manjaro.org/)
 
 ## Software
 ### Linux
