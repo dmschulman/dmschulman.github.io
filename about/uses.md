@@ -22,6 +22,11 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 * [Universal Audio Apollo Firewire audio interface Thunderbolt upgrade](https://www.uaudio.com/audio-interfaces/apollo.html)
     * Thunderbolt upgrade card
 
+### Accessories
+* [Logitech G602 Wireless Gaming Mouse](https://www.logitech.com/en-ch/product/g602-wireless-gaming-mouse)
+* [Logitech K360 Wireless Keyboard](https://www.logitech.com/en-us/product/keyboard-k360)
+* [Anker 10 Port 60W Data Hub](https://www.anker.com/products/variant/anker-10-port-60w-data-hub/A7515111)
+
 ## Software
 ### Linux
 ### Windows
