@@ -9,8 +9,6 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 
 ## Hardware
 
-### Primary Laptop
-
 * [Lenovo Thinkpad X1 Yoga 2nd Gen](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-yoga/Thinkpad-X1-Yoga-2nd-Gen/p/22TP2TXX12Y)
     * Intel i5-7300U Processor
     * 16GB LPDDR3 1866 RAM
