@@ -10,7 +10,6 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 ## Hardware
 
 ### Workstation
-
 * [Lenovo Thinkpad X1 Yoga 2nd Gen](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-yoga/Thinkpad-X1-Yoga-2nd-Gen/p/22TP2TXX12Y)
     * Intel i5-7300U 2.6Ghz Processor
     * 16GB LPDDR3 1866 RAM
@@ -30,7 +29,6 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 * [Anker 10 Port 60W Data Hub](https://www.anker.com/products/variant/anker-10-port-60w-data-hub/A7515111)
 
 ### Development Server / Media Center
-
 * [Lenovo Thinkpad X201T](http://www.thinkwiki.org/wiki/Category:X201_Tablet)
     * Intel Dual Core i5-3320M 2.6Ghz Processor
     * 8GB DDR3 1066 RAM
@@ -45,7 +43,6 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 ### Windows
 
 ## dmschulman.com
-
 * [Fontello](http://fontello.com/) for generating my custom icon font package.
 * [Github Pages](https://pages.github.com/) for hosting the site and all of its assets.
 * [Github](https://github.com/) for version control and issue tracking.
