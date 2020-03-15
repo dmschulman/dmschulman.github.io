@@ -40,6 +40,17 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
 
 ## Software
 ### Linux
+* XFCE
+* Audacity
+* Bitwig Studio
+* Darktable
+* Docky
+* Filezilla
+* urxvt
+* Libre Office
+* VSCode
+* Pluma
+
 ### Windows
 
 ## dmschulman.com
