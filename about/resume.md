@@ -17,10 +17,8 @@ August 2004 - May 2008
 ## Work Experience
 
 * University of the Sciences
-
-    Web Developer
-    
-    December, 2015 - Present
+    * Web Developer
+    * December, 2015 - Present
 
 ## Awards & Honors
 
