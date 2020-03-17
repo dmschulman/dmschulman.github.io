@@ -513,10 +513,6 @@ footer span {
         padding: 20px 20px 0 20px;
     }
 
-    header .logo {
-        display: none;
-    }
-
     header ul li {
         display: inline;
     }
