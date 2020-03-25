@@ -38,6 +38,10 @@ Here's a list of the hardware, software, scripts, suppliments, and more that I u
     * Running [Manjaro Linux](https://manjaro.org/)
 * [Lenovo Thinkpad X200 UltraBase Docking Station](https://support.lenovo.com/us/en/solutions/migr-70299)
 
+#### Accessories
+* [Logitech K400 Plus Wireless Touch Keyboard](https://www.logitech.com/en-us/product/wireless-touch-keyboard-k400-plus)
+* [Steam Controller Gamepad](https://store.steampowered.com/app/353370/Steam_Controller/)
+
 ## Software
 ### Linux
 * XFCE
