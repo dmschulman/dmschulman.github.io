@@ -18,12 +18,13 @@ tags:
   - leads
   - bass
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
-blurb: "I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY electronics projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most."
 bom: https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html
 guide: https://mutable-instruments.net/archive/anushri/build/
 manual: https://mutable-instruments.net/archive/anushri/manual/
 albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424KdNLAbdWo2zfrXucrY45TfUDQSfa3pLcMw?key=RVJpcHRaSHlhUkNFZVBsNy0zbmNzam5ORkZfcG93
 ---
+
+I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY electronics projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
 The instrument's bright orange plexiglass enclosure was the detail that first caught my attention, but reading on to see what it was all about, the concept behind the product sold me on why I should make the Anushri my first foray into the world of soldering and DIY electronics.  
 
