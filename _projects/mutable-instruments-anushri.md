@@ -10,33 +10,63 @@ manual: https://mutable-instruments.net/archive/anushri/manual/
 albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424KdNLAbdWo2zfrXucrY45TfUDQSfa3pLcMw?key=RVJpcHRaSHlhUkNFZVBsNy0zbmNzam5ORkZfcG93
 ---
 
-I first stumbled upon Mutable Instruments in 2011.
+I first stumbled upon Mutable Instruments in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizers they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intriqued me the most.
 
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-11.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg)
-![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg)
+<ul class="pictures">
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" title="Mutable Instruments Anushri parts" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" title="Mutable Instruments Anushri main board and control board PCB" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" alt="Mutable Instruments Anushri main board and control board PCB">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" title="Mutable Instruments Anushri plexiglass case" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" alt="Mutable Instruments Anushri plexiglass case">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" title="My workspace while putting together the Mutable Instruments Anushri" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" alt="My workspace while putting together the Mutable Instruments Anushri">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg" title="Inserting all of the resistors in the Mutable Instruments Anushri main board" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg" alt="Inserting all of the resistors in the Mutable Instruments Anushri main board">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" title="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" alt="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" title="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" alt="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri">
+    </a>
+  </li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-11.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg"></a></li>
+<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg"></a></li>
+</ul>
 
