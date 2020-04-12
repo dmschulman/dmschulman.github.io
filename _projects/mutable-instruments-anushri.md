@@ -11,11 +11,8 @@ albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424Kd
 ---
 
 I first stumbled upon Mutable Instruments in 2011.
-<ul class="pictures">
-  <li>
+
 ![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg)
-  </li>
-  </ul>
 ![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg)
 ![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg)
 ![](https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg)
