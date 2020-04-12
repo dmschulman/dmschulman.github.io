@@ -398,7 +398,7 @@ ul.photo-gallery li h2 {
 
 /* GEAR */
 
-.content.gear img.hero {
+.content img.hero {
 	max-height: 360px;
 	margin: 0 auto 1rem auto;
 	display: block;
@@ -415,25 +415,25 @@ ul.photo-gallery li h2 {
 	margin: 0 0 0 1rem;
 }
 
-.content.gear ul.pictures {
+.content ul.pictures {
 	-webkit-column-count: 3;
 	-moz-column-count: 3;
 	column-count: 3;
 	margin: 1rem  auto 0 auto;
 }
 
-.content.gear ul.pictures li {
+.content ul.pictures li {
 	list-style: none;
 	margin: 0;
 }
 
-.content.gear ul.pictures li a {
+.content ul.pictures li a {
 	border: none;
 	display: block;
 	line-height: 2.5;
 }
 
-.content.gear ul.pictures li img {
+.content ul.pictures li img {
 	max-height: 480px;
 }
 
