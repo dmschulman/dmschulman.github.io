@@ -280,6 +280,7 @@ p.footnote a {
 
 .post-meta span.tags {
 	display: block;
+	line-height: 1.5;
 }
 
 .post em.update {
