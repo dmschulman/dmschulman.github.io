@@ -15,7 +15,7 @@ tags:
   - monophonic
   - drum machine
   - module
-  - leads
+  - lead
   - bass
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 bom: https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html
