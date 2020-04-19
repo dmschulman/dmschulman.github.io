@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Mutable Instruments Anushri"
-description: "The Anushri is a DIY monosynth styled around the legendary Roland SH-101 synthesizer. It includes a built-in sequencer, simple drum machine circuits, and was quite a fun straight-forward project to build."
+description: "The Anushri is a DIY monosynth styled around the legendary Roland SH-101 synthesizer. It includes a built-in sequencer, simple drum machine circuit, and was quite a fun straight-forward project to build."
 permalink: /projects/mutable-instruments-anushri.html
 make: "Mutable Instruments"
 model: "Anushri"
@@ -26,24 +26,35 @@ albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424Kd
 
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
-The instrument's bright orange plexiglass enclosure was the detail that first caught my attention, but reading on to see what it was all about, the concept behind the product sold me on why I should make the Anushri my first foray into the world of soldering and DIY electronics.  
+The synth's bright orange plexiglass case was certainly the first detail caught my attention, but after reading on to see what it was all about, the concept behind the instrument sold me lmoast immediately on why I should make the Anushri my first foray into the world of soldering and DIY electronics. The Anushri was almost my first semi-modular synthesizer, opening me up to the possibility of a studio beyond MIDI, interfacing voltages and CV signals into the unit to create less traditional, more exotic (and chaotic) kinds of sounds.
+
+Buying and building the Anushri was very straightforward. Although it was a bit intimidating for my first DIY project (bags upon bags of parts, 400+ solider points, 20 ICs to socket, etc) the build guide from Mutable Instruments was pristine and I could buy every part, from the PCBs, case, and all of the necessary components, from the MI website. The kit even came with a little French lemon sweet (the "victory candy") to celebrate a long successful build with.
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" title="Mutable Instruments Anushri parts" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts">
+</a>
+
+Though it would take some time to build (I believe I clocked in at around 6 hours, taking my time at every step of the process), the Anushri appealed to me as it was a pseudo clone of the legendary [Roland SH-101](https://dmschulman.com/studio/gear/roland-sh-101.html) with a few extra tricks up its sleeve. The SH-101 was a highly sought after but realistically unobtainable synth for someone on a budget like me, second-hand prices would fetch up to $2,000 for something that retailed at $400 back in 1984. Most people had eventually taken to modifying their SH-101 with extra input jacks, additional LFO circuits, fuzz overdrive circuits to beef up the VCO, and other enhancements. The Anushri offered a lot of those improvements by design, as well as a built in lo-fi drum machine with a unique pattern generator. No costly hacks to a vintage instrument necessary, though if you wanted to, the Anushri's open-source nature allowed you to modify the synth to your heart's content!
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" title="Mutable Instruments Anushri main board and control board PCB" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" alt="Mutable Instruments Anushri main board and control board PCB">
+</a>
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" title="Mutable Instruments Anushri plexiglass case" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" alt="Mutable Instruments Anushri plexiglass case">
+</a>
+
+As I mentioned before, the build was incredibly straightforward. The simplicity of the design speaks to just how basic of a synthesizer the Roland SH-101 was. This is not a knock though, it's the simplicity of that synth which has made it an endearing part of electronic music, and given this simple nature, the Anushri's main board is laid out in a way that really helps one understand (or at least helps them picture) how each circuit in the architecture contributes its little piece to the overall functionality and sound of the final product.
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" title="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" alt="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri">
+</a>
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" title="Adding the IC sockets to the main board on the Mutable Instruments Anushri" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" alt="Adding the IC sockets to the main board on the Mutable Instruments Anushri">
+</a>
 
 <ul class="pictures">
-  <li>
-    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" title="Mutable Instruments Anushri parts" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" title="Mutable Instruments Anushri main board and control board PCB" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" alt="Mutable Instruments Anushri main board and control board PCB">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" title="Mutable Instruments Anushri plexiglass case" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" alt="Mutable Instruments Anushri plexiglass case">
-    </a>
-  </li>
   <li>
     <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" title="My workspace while putting together the Mutable Instruments Anushri" target="_blank">
       <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" alt="My workspace while putting together the Mutable Instruments Anushri">
@@ -59,13 +70,11 @@ The instrument's bright orange plexiglass enclosure was the detail that first ca
       <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" alt="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted">
     </a>
   </li>
-  <li>
-    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" title="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" alt="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri">
-    </a>
-  </li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg"></a></li>
+<li>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" title="Jury rigging a work surface where I could solder without the components moving around" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" alt="Jury rigging a work surface where I could solder without the components moving around">
+  </a>
+</li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-11.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg"></a></li>
