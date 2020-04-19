@@ -64,6 +64,20 @@ Later on, I realized bending the components legs appropriately helped get them t
   <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri">
 </a>
 
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" title="Socketing the ICs into the Mutable Instruments Anushri control board" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" alt="Socketing the ICs into the Mutable Instruments Anushri control board">
+</a>
+
+There isn't much specific advice I have to share for building the main board give how well documented the build instructions are. Obviously I would say double checking which components you're placing is paramount, but since this was the single greatest fear I had during my build (besides possibly burning myself with the soldering iron) I made sure to measure each component to confirm the value and where it should go. There was much less trepidation when assembling the control board which, besides soldering all of the IC sockets in to place, turned out to be my favorite part of the build process.
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" title="Finishing up the top of the control board on the Mutable Instruments Anushri" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" alt="Finishing up the top of the control board on the Mutable Instruments Anushri">
+</a>
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" title="All ready to be placed in a case" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" alt="All ready to be placed in a case">
+</a>
+
 <h2>Pictures</h2>
 <ul class="pictures">
   <li>
@@ -96,12 +110,21 @@ Later on, I realized bending the components legs appropriately helped get them t
     <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" alt="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers.">
   </a>
 </li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg"></a></li>
+<li>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" title="Installing the buttons on the Mutable Instruments Anushri control board" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" alt="Installing the buttons on the Mutable Instruments Anushri control board">
+  </a>
+</li>
+<li>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" title="Adding switches and jacks to the Mutable Instruments Anushri control board" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" alt="Adding switches and jacks to the Mutable Instruments Anushri control board">
+  </a>
+</li>
+<li>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" title="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" alt="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri">
+  </a>
+</li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg"></a></li>
