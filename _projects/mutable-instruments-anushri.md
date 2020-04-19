@@ -56,10 +56,12 @@ As I mentioned before, the build was incredibly straightforward. The simplicity 
   <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" alt="Adding the IC sockets to the main board on the Mutable Instruments Anushri">
 </a>
 
-Being a true beginner to soldering synthesizers (I'd taken on some smaller electronics projects in the past), I learned a lot of practical lessons as I worked step by step on the build. If you look really closely you'll notice most of the resistors float just above the surface of the PCB. Since I was new to fitting through-hole components onto a circuit board I tried not to force parts too hard into a seated position (so as to not damage anything). Later on, I realized bending the components legs appropriately helped get them to sit more easily on the PCB, and in most cases, applying a little extra pressure will properly snap a piece into place.
+Being a true beginner to soldering synthesizers (I'd taken on some smaller electronics projects in the past), I learned a lot of practical lessons as I worked step by step on the build. If you look really closely you'll notice most of the resistors float just above the surface of the PCB. Since I was new to fitting through-hole components onto a circuit board I tried not to force parts too hard into a seated position (so as to not damage anything). I also decided to snip the legs of the components before soldering them into place (for reasons I cannot quite remember.
 
-<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-11.jpg" title="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri" target="_blank">
-  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-11.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri">
+Later on, I realized bending the components legs appropriately helped get them to sit more easily on the PCB, and in most cases, applying a little extra pressure will properly snap a piece into place.
+
+<a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" title="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri">
 </a>
 
 <h2>Pictures</h2>
@@ -90,11 +92,10 @@ Being a true beginner to soldering synthesizers (I'd taken on some smaller elect
   </a>
 </li>
 <li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" title="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers.">
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" title="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" alt="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers.">
   </a>
 </li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg"></a></li>
