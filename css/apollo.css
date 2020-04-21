@@ -264,6 +264,17 @@ p.footnote a {
 	line-height: 1;
 }
 
+.post figure {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-auto-flow: dense;
+	justify-items: center;
+	align-items: center;
+	justify-content: space-evenly;
+	margin-bottom: 1rem;
+}
+
 .post-meta {
 	padding-bottom: 1rem;
 }
