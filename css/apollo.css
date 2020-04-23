@@ -259,12 +259,7 @@ p.footnote a {
 .content ul li p,
 .content ul li p a,
 .content ol li p,
-.content ol li p a {
-	margin: 0 0 0 1rem;
-	font-style: italic;
-	font-size: .875rem;
-}
-
+.content ol li p a,
 .post ul li p,
 .post ol li p {
 	margin: 0;
@@ -468,6 +463,16 @@ ul.photo-gallery li h2 {
 
 .content ul.pictures li img {
 	display: inline-block;
+}
+
+.content.gear ul li p,
+.content.gear ul li p a {
+	font-style: italic;
+	font-size: .875rem;
+}
+
+.content.gear ul li p {
+	margin: 0 0 0 1rem;
 }
 
 /* MISC CONTENT */
