@@ -18,3 +18,15 @@ A repository for all of my various projects. Most of the items here will be rela
   {% endfor %}
   </ul>
 </div> -->
+
+{% assign project = site.project | group_by: 'category' | sort: 'name' | reverse %}
+{% for category in project %}
+<h3>{{ category.name }}</h3>
+<ul class="posts">
+{% for item in category.items | sort: 'name' %}
+<li class="gear">
+<a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
