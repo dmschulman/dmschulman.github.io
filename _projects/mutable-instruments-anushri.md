@@ -17,6 +17,7 @@ tags:
   - module
   - lead
   - bass
+  - sequencer
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 bom: https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html
 guide: https://mutable-instruments.net/archive/anushri/build/
@@ -26,9 +27,9 @@ albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424Kd
 
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
-The synth's bright orange plexiglass case was certainly the first detail caught my attention, but after reading on to see what it was all about, the concept behind the instrument sold me lmoast immediately on why I should make the Anushri my first foray into the world of soldering and DIY electronics. The Anushri was almost my first semi-modular synthesizer, opening me up to the possibility of a studio beyond MIDI, interfacing voltages and CV signals into the unit to create less traditional, more exotic (and chaotic) kinds of sounds.
+The synth's bright orange plexiglass case was certainly the first detail caught my attention, but after reading on to see what it was all about, the concept behind the instrument sold almost immediately on why I should make the Anushri my first foray into the world of soldering and DIY electronics. The Anushri was almost my first semi-modular synthesizer, opening me up to the possibility of a studio beyond MIDI, interfacing voltages and CV signals into the unit to create less traditional, more exotic (and chaotic) kinds of sounds.
 
-Buying and building the Anushri was very straightforward. Although it was a bit intimidating for my first DIY project (bags upon bags of parts, 400+ solider points, 20 ICs to socket, etc) the build guide from Mutable Instruments was pristine and I could buy every part, from the PCBs, case, and all of the necessary components, from the MI website. The kit even came with a little French lemon sweet (the "victory candy") to celebrate a long successful build with.
+Buying and building the Anushri was very straightforward. Although it was a bit intimidating for my first DIY project (bags upon bags of parts, 400+ solder points, 20 ICs to socket, etc) the build guide from Mutable Instruments was pristine and I could buy every part, from the PCBs, case, and all of the necessary components, from the MI website. The kit even came with a little French lemon sweet (the "victory candy") to celebrate a long successful build with.
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" title="Mutable Instruments Anushri parts" target="_blank">
     <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts">
@@ -37,7 +38,7 @@ Buying and building the Anushri was very straightforward. Although it was a bit 
 
 Though it would take some time to build (I believe I clocked in at around 6 hours, taking my time at every step of the process), the Anushri appealed to me as it was a pseudo clone of the legendary [Roland SH-101](https://dmschulman.com/studio/gear/roland-sh-101.html) with a few extra tricks up its sleeve. The SH-101 was a highly sought after but realistically unobtainable synth for someone on a budget like me, second-hand prices would fetch up to $2,000 for something that retailed at $400 back in 1984.
 
-Most people had eventually taken to modifying their SH-101 with extra input jacks, additional LFO circuits, fuzz overdrive circuits to beef up the VCO, and other enhancements. The Anushri offered a lot of those improvements by design, as well as a built in lo-fi drum machine with a unique pattern generator. No costly hacks to a vintage instrument necessary, though if you wanted to, the Anushri's open-source nature allowed you to modify the synth to your heart's content!
+Most people had eventually taken to modifying their SH-101 with extra input jacks, additional LFO circuits, fuzz overdrive circuits to beef up the VCO, and other enhancements. The Anushri offered a lot of those improvements by design, as well as a built-in lo-fi drum machine with a unique pattern generator. No costly hacks to a vintage instrument necessary, though if you wanted to, the Anushri's open-source nature allowed you to modify the synth to your heart's content!
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" title="Mutable Instruments Anushri main board and control board PCB" target="_blank">
@@ -64,15 +65,15 @@ Being a true beginner to soldering synthesizers (I'd taken on some smaller elect
 Later on, I realized bending the components legs appropriately helped get them to sit more easily on the PCB, and in most cases, applying a little extra pressure will properly snap a piece into place.
 
 <figure>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" title="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transitors, and jacks on the Mutable Instruments Anushri">
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" title="Installing the electrolytic capacitors, voltage regulators, transistors, and jacks on the Mutable Instruments Anushri" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transistors, and jacks on the Mutable Instruments Anushri">
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" title="Socketing the ICs into the Mutable Instruments Anushri control board" target="_blank">
     <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" alt="Socketing the ICs into the Mutable Instruments Anushri control board">
   </a>
 </figure>
 
-There isn't much specific advice I have to share for building the main board give how well documented the build instructions are. Obviously I would say double checking which components you're placing is paramount, but since this was the single greatest fear I had during my build (besides possibly burning myself with the soldering iron) I made sure to measure each component to confirm the value and where it should go. There was much less trepidation when assembling the control board which, besides soldering all of the IC sockets in to place, turned out to be my favorite part of the build process.
+There isn't much specific advice I have to share for building the main board given how well documented the build instructions are. Obviously I would say double checking which components you're placing is paramount, but since this was the single greatest fear I had during my build (besides possibly burning myself with the soldering iron) I made sure to measure each component to confirm the value and where it should go. There was much less trepidation when assembling the control board which, besides soldering all of the IC sockets into place, turned out to be my favorite part of the build process.
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" title="Finishing up the top of the control board on the Mutable Instruments Anushri" target="_blank">
@@ -82,6 +83,44 @@ There isn't much specific advice I have to share for building the main board giv
     <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" alt="All ready to be placed in a case">
   </a>
 </figure>
+
+Once everything is soldered together and the main board and control board are sandwiched together, the last thing there is left to do is to assemble the plexiglass case around the unit and plop on all the knobs and jack nuts. There's something extremely psychedelic and fun about the orange plexi used to house this remarkable monosynth.
+
+I took liberties with my case and traced some colorful designs into the geometric inlays etched into the case. This was accomplished with a handful of fine-tipped Sharpie markers in blue, red, green, and black, which blended into the plexiglass rather well. Coloring in the labels for each knob also helped them stand out for easier viewing. I'm sure a steadier hand could use miniature paint and a fine paint brush to accomplish the same effect.
+
+<figure>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg" title="Detail of the colored inlay I designed on the Mutable Instruments Anushri" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg" alt="Detail of the colored inlay I designed on the Mutable Instruments Anushri">
+  </a>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg" title="A long build finally finished, the assembled Mutable Instruments Anushri in all its glory" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg" alt="A long build finally finished, the assembled Mutable Instruments Anushri in all its glory">
+  </a>
+</figure>
+
+Once built, there is a very quick tuning and calibration procedure one should undertake with a multimeter, but besides twiddling a few adjustment screws on the main board, the Anushri is ready to rock out! There was just one part from the kit left to place, the lemony sweet victory candy into my mouth.
+
+The synth itself is a great sounding instrument. I was glad to see it converted to the Eurorack format many years later by Mutable Instruments. If I had one gripe, beyond some of the fiddlyness of the sequencer, it would be the layout of the top panel. The design makes sense, but given there are 3 modes to the instrument (synth, drums, and sequencer) it would have been nice for the front panel to detail what each knob did in each mode.
+
+I decided to solve this problem myself a few years after building the project. The Anushri case design, as well as every other aspect of the project, is [free and open-source](https://github.com/pichenettes/anushri). A user on the [Mutable Instruments forum](https://forum.mutable-instruments.net/) had created their own version of the Anushri front panel which included the extra function labels I desired. Though I still felt their design lacked something.
+
+I decided to create [my own version of the case](https://github.com/dmschulman/anushri-case-design), including a full MIDI implementation chart (CC values) on the bottom, as well as a smattering wingding designs which were created as part of the original Mutable Instruments branding but never necessarily saw its way into any official projects. I like the aesthetic a lot and wanted to cram as many on the case as possible.
+
+<figure>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" title="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" alt="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri">
+  </a>
+  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-29.jpg" title="The MIDI CC chart I included on my custom Mutable Instruments Anushri case" target="_blank">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-29.jpg" alt="The MIDI CC chart I included on my custom Mutable Instruments Anushri case">
+  </a>
+</figure>
+
+<h2>Sounds</h2>
+
+Here are a handful of sound demos I had recorded immediately after completing the synth build. These demos are 100% dry signal, recorded straight from the mono output of the Anushri and into my recording interface. I was still exploring the limits of what the Anushri was capable of, so forgive any crackles or pops in the audio. This machine is definitely techno in a box!
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/4548089&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<h2>Modifications</h2>
 
 <h2>Pictures</h2>
 <ul class="pictures">
@@ -133,10 +172,7 @@ There isn't much specific advice I have to share for building the main board giv
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg"></a></li>
 <li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg"></a></li>
 </ul>
-
