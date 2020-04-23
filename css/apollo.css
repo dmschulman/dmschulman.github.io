@@ -466,12 +466,15 @@ ul.photo-gallery li h2 {
 }
 
 .content.gear ul li p,
-.content.gear ul li p a {
+.content.gear ul li p a,
+.content li.gear p,
+.content li.gear p a {
 	font-style: italic;
 	font-size: .875rem;
 }
 
-.content.gear ul li p {
+.content.gear ul li p,
+.content li.gear p {
 	margin: 0 0 0 1rem;
 }
 
