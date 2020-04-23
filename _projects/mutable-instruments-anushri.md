@@ -5,7 +5,7 @@ description: "The Anushri is a DIY monosynth styled around the legendary Roland 
 permalink: /projects/mutable-instruments-anushri.html
 make: "Mutable Instruments"
 model: "Anushri"
-category: "Synthesizers"
+category: "Synthesizer"
 tags:
   - analog
   - DIY
