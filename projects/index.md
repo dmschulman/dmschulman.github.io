@@ -19,7 +19,7 @@ A repository for all of my various projects. Most of the items here will be rela
   </ul>
 </div> -->
 
-{% assign project = site.project | group_by: 'category' | sort: 'name' | reverse %}
+{% assign project = site.projects | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in project %}
 <h3>{{ category.name }}</h3>
 <ul class="posts">
