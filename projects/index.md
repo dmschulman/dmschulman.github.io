@@ -13,7 +13,7 @@ A repository for all of my various projects. Most of the items here will be rela
 {% for item in category.items | sort: 'name' %}
 <li class="gear">
 <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-<p>{{ item.blurb }}</p>
+<p>{{ item.description }}</p>
 </li>
 {% endfor %}
 </ul>
