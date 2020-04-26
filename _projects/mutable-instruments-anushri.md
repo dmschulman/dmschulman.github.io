@@ -19,11 +19,12 @@ tags:
   - bass
   - sequencer
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
-bom: https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html
-guide: https://mutable-instruments.net/archive/anushri/build/
-manual: https://mutable-instruments.net/archive/anushri/manual/
-albumURL: https://photos.google.com/share/AF1QipOkIYtNxTaQUbuy639nWMk7L-hH2424KdNLAbdWo2zfrXucrY45TfUDQSfa3pLcMw?key=RVJpcHRaSHlhUkNFZVBsNy0zbmNzam5ORkZfcG93
 ---
+
+<h2>Project Resources</h2>
+[Manual](https://mutable-instruments.net/archive/anushri/manual/)
+[Build Guide](https://mutable-instruments.net/archive/anushri/build/)
+[Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
 
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
@@ -103,7 +104,7 @@ The synth itself is a great sounding instrument. I was glad to see it converted 
 
 I decided to solve this problem myself a few years after building the project. The Anushri case design, as well as every other aspect of the project, is [free and open-source](https://github.com/pichenettes/anushri). A user on the [Mutable Instruments forum](https://forum.mutable-instruments.net/) had created their own version of the Anushri front panel which included the extra function labels I desired. Though I still felt their design lacked something.
 
-I decided to create [my own version of the case](https://github.com/dmschulman/anushri-case-design), including a full MIDI implementation chart (CC values) on the bottom, as well as a smattering wingding designs which were created as part of the original Mutable Instruments branding but never necessarily saw its way into any official projects. I like the aesthetic a lot and wanted to cram as many on the case as possible.
+I decided to create [my own version of the case](https://github.com/dmschulman/anushri-case-design), including a full MIDI implementation chart (CC values) on the bottom, as well as a smattering of wingding designs which were created as part of the original Mutable Instruments branding but never necessarily saw its way into any official projects. I like the aesthetic a lot and wanted to cram as many on the case as possible.
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" title="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri" target="_blank">
