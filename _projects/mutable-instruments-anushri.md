@@ -25,7 +25,8 @@ image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 * [Manual](https://mutable-instruments.net/archive/anushri/manual/)
 * [Build Guide](https://mutable-instruments.net/archive/anushri/build/)
 * [Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
-Project Difficulty: Medium
+
+<strong>Project Difficulty:</strong> Medium
 
 <h2>Build Log</h2>
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
