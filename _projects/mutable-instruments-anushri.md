@@ -25,7 +25,9 @@ image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 * [Manual](https://mutable-instruments.net/archive/anushri/manual/)
 * [Build Guide](https://mutable-instruments.net/archive/anushri/build/)
 * [Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
+Project Difficulty: Medium
 
+<h2>Build Log</h2>
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
 The synth's bright orange plexiglass case was certainly the first detail caught my attention, but after reading on to see what it was all about, the concept behind the instrument sold almost immediately on why I should make the Anushri my first foray into the world of soldering and DIY electronics. The Anushri was almost my first semi-modular synthesizer, opening me up to the possibility of a studio beyond MIDI, interfacing voltages and CV signals into the unit to create less traditional, more exotic (and chaotic) kinds of sounds.
@@ -100,7 +102,7 @@ I took liberties with my case and traced some colorful designs into the geometri
 
 Once built, there is a very quick tuning and calibration procedure one should undertake with a multimeter, but besides twiddling a few adjustment screws on the main board, the Anushri is ready to rock out! There was just one part from the kit left to place, the lemony sweet victory candy into my mouth.
 
-The synth itself is a great sounding instrument. I was glad to see it converted to the Eurorack format many years later by Mutable Instruments. If I had one gripe, beyond some of the fiddlyness of the sequencer, it would be the layout of the top panel. The design makes sense, but given there are 3 modes to the instrument (synth, drums, and sequencer) it would have been nice for the front panel to detail what each knob did in each mode.
+The synth itself is a great sounding instrument. I was glad to see it [converted to the Eurorack format](https://www.modulargrid.net/e/mutable-instruments-anushri-eurorack) many years later by Mutable Instruments. If I had one gripe, beyond some of the fiddlyness of the sequencer, it would be the layout of the top panel. The design makes sense, but given there are 3 modes to the instrument (synth, drums, and sequencer) it would have been nice for the front panel to detail what each knob did in each mode.
 
 I decided to solve this problem myself a few years after building the project. The Anushri case design, as well as every other aspect of the project, is [free and open-source](https://github.com/pichenettes/anushri). A user on the [Mutable Instruments forum](https://forum.mutable-instruments.net/) had created their own version of the Anushri front panel which included the extra function labels I desired. Though I still felt their design lacked something.
 
@@ -116,12 +118,9 @@ I decided to create [my own version of the case](https://github.com/dmschulman/a
 </figure>
 
 <h2>Sounds</h2>
-
 Here are a handful of sound demos I had recorded immediately after completing the synth build. These demos are 100% dry signal, recorded straight from the mono output of the Anushri and into my recording interface. I was still exploring the limits of what the Anushri was capable of, so forgive any crackles or pops in the audio. This machine is definitely techno in a box!
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/4548089&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<h2>Modifications</h2>
 
 <h2>Pictures</h2>
 <ul class="pictures">
