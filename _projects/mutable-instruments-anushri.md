@@ -23,9 +23,7 @@ image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 
 <h2>Build Resources</h2>
 * [Anushri Manual](https://mutable-instruments.net/archive/anushri/manual/)
-
 * [Anushri Build Guide](https://mutable-instruments.net/archive/anushri/build/)
-
 * [Anushri Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
 
 **Difficulty:** Medium
