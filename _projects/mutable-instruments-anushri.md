@@ -21,13 +21,15 @@ tags:
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
 ---
 
-<h2>Project Resources</h2>
-* [Manual](https://mutable-instruments.net/archive/anushri/manual/)
-* [Build Guide](https://mutable-instruments.net/archive/anushri/build/)
-* [Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
-* <strong>Project Difficulty:</strong> Medium
+<h2>Build Resources</h2>
+* [Anushri Manual](https://mutable-instruments.net/archive/anushri/manual/)
+* [Anushri Build Guide](https://mutable-instruments.net/archive/anushri/build/)
+* [Anushri Bill Of Materials](https://docs.google.com/spreadsheets/d/1d-y_RS1UOPwOYie9UAxuSk6lw4EMsUKHqyzrb82ioHI/pub?output=html)
 
-<h2>Build Log</h2>
+**Difficulty:** Medium
+* Many of components and parts to keep track of, lots of solder points to fill, but the build instructions are easy to follow and the actual electronics work is quite rudimentary.
+
+<h2>Project Log</h2>
 I first stumbled upon [Mutable Instruments](https://mutable-instruments.net/) in 2011. It's very likely I came across Mutable's website while searching for more information about their flagship [Shruthi](https://mutable-instruments.net/archive/shruthi/manual/) digital/analog hybrid monosynth (a project which I later built a couple of), but after browsing all of the DIY synthesizer projects they offered at the time, the [Mutable Instruments Anushri](https://mutable-instruments.net/archive/anushri/manual/) intrigued me the most.
 
 The synth's bright orange plexiglass case was certainly the first detail caught my attention, but after reading on to see what it was all about, the concept behind the instrument sold almost immediately on why I should make the Anushri my first foray into the world of soldering and DIY electronics. The Anushri was almost my first semi-modular synthesizer, opening me up to the possibility of a studio beyond MIDI, interfacing voltages and CV signals into the unit to create less traditional, more exotic (and chaotic) kinds of sounds.
