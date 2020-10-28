@@ -167,6 +167,7 @@ header p.intro {
 	font-size: .9rem;
 	line-height: 1;
 	letter-spacing: -.5px;
+	margin: 0;
 }
 
 header ul.social {
@@ -569,13 +570,17 @@ footer span {
 		float: left;
 		margin: 0 1rem 0 0;
 	}
+	
+	header p.intro {
+		text-align: right;
+	}
 
     header ul li {
         display: inline;
     }
   
     header ul.global {
-        margin: 10px 0 20px 0px;
+        margin: 1rem 0;
     }
 
     header ul.global li {
