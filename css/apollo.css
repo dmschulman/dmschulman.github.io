@@ -67,6 +67,7 @@ h1 {
 	line-height: 3rem;
 	letter-spacing: -1px;
 	font-weight: bold;
+	margin: 0 0 .5rem 0;
 }
 
 h2 {
@@ -74,6 +75,7 @@ h2 {
 	line-height: 2.5rem;
 	letter-spacing: -1px;
 	font-weight: bold;
+	margin: 0 0 .5rem 0;
 }
 
 h3 {
@@ -81,6 +83,7 @@ h3 {
 	line-height: 2rem;
 	letter-spacing: -1px;
  	font-weight: bold;
+	margin: 0 0 .5rem 0;
 }
 
 h4 {
@@ -88,6 +91,7 @@ h4 {
 	line-height: 1.7rem;
 	letter-spacing: -1px;
 	font-weight: bold;
+	margin: 0 0 .5rem 0;
 }
 
 blockquote {
