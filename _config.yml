@@ -4,7 +4,7 @@
 # Site settings
 title: dmschulman.com
 title_separator: "|"
-description: "My great website"
+description: "the sometimes blog containing words, works, and wonders by david m. schulman"
 url: "https://dmschulman.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
