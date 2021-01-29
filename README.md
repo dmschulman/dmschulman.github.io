@@ -1,4 +1,2 @@
 # dmschulman.github.io
-my great website
-
-hosted by github
+the sometimes blog containing words, works, and wonders by david m. schulman
