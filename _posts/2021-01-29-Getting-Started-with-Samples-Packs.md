@@ -56,7 +56,7 @@ While they're more of an auction site for music gear than anything else, you can
 
 Want to flip samples of every drum machine, synth, ROMpler, and workstation under the sun but have to work within the pesky constraints of having a life and limited budget? Fear not, [KB6.de](https://samples.kb6.de/downloads.php) has you covered with what is very likely the largest sample library on the internet. Their free archive contains the complete contents of 309 different instruments, mostly drum machines but also synthesized drum sounds from hardware like the Moog Modular 55 and Suzuki Omnichord OM-84. KB6.de is another site that, if you have some spare change to give, I highly suggest your donate to keep the project alive (you can learn more on their [FAQ page](https://samples.kb6.de/faq.htm)).
 
-![image alt text]({{ site.url }}/public/hVGqUJU4iWDZz0f1JIePrw_img_4.png)
+![image alt text]({{ site.url }}/public/hVGqUJU4iWDZz0f1JIePrw_img_4.jpg)
 
 One final place to consider searching is amongst your favorite recording artists. Almost every Hip Hop producer and Beatmaker has a signature kit with their name attached to it (official or unofficial) [floating around the web](https://www.reddit.com/r/Drumkits/). A variety of big name electronic acts such as SOPHIE, Mr. Oizo, Com Truse, have been known to release their own sample packs, many of which can be purchased on [Splice](https://splice.com/sounds/splice/com-truise-pack)*, but these collections act more like construction kits for making music that sound like the aforementioned artist than anything else.
 
