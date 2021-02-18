@@ -184,6 +184,11 @@ header ul.social li {
 	margin: 0 0 2rem 0;
 }
 
+img.headshot {
+	float: right;
+ 	margin: 1rem 0 1rem 1rem;
+}
+
 .content.resume p {
 	margin: 0;
 }
