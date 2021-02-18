@@ -183,13 +183,19 @@ header ul.social li {
 	display: inline;
 }
 
-ul.social a.gh:hover { color: #6a737d; }
-ul.social a.tw:hover { color: #1da1f2; }
-ul.social a.li:hover { color: #0072b1; }
-ul.social a.fm:hover { color: #d51007; }
-ul.social a.mc:hover { color: #52aad8; }
-ul.social a.sc:hover { color: #fe5000; }
-ul.social a.ig:hover { color: #8a3ab9; }
+a i.fab {
+	-webkit-transition: all .2s ease-in-out 0s;
+	-moz-transition: all .2s ease-in-out 0s;
+	transition: all .2s ease-in-out 0s;
+}
+
+ul.social a.gh:hover i { color: #6a737d; }
+ul.social a.tw:hover i { color: #1da1f2; }
+ul.social a.li:hover i { color: #0072b1; }
+ul.social a.fm:hover i { color: #d51007; }
+ul.social a.mc:hover i { color: #52aad8; }
+ul.social a.sc:hover i { color: #fe5000; }
+ul.social a.ig:hover i { color: #8a3ab9; }
 
 /* CONTENT */
 
@@ -439,7 +445,6 @@ ul.photo-gallery li h2 {
 	text-transform: capitalize;
 }
 
-/* GEAR */
 
 .content img.hero {
 	max-height: 360px;
