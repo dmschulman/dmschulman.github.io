@@ -524,6 +524,14 @@ footer span {
 	margin: 0 0 .1rem 0;
 }
 
+footer ul.social a.gh:hover { color: #6a737d; }
+footer ul.social a.tw:hover { color: #1da1f2; }
+footer ul.social a.li:hover { color: #0072b1; }
+footer ul.social a.fm:hover { color: #d51007; }
+footer ul.social a.mc:hover { color: #52aad8; }
+footer ul.social a.sc:hover { color: #fe5000; }
+footer ul.social a.ig:hover { color: #8a3ab9; }
+
 /* BREAKPOINTS */
 @media only screen and (min-width: 1024px) {
     header {
