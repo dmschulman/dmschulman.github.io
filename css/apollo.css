@@ -147,19 +147,18 @@ header a:active,
 header a:focus {
 	font-size: 1.5rem;
 	line-height: 1.9rem;
-	color: #757575;
 	border: none;
 }
 
 header a.logo {
-	color: #000000;
+	color: #000;
 	font-size: 1.7rem;
 }
 
 header a:hover.logo,
 header a:active.logo,
 header a:focus.logo {
-	color: #202020;
+	color: #000;
 	font-size: 1.7rem;
 }
 
@@ -170,6 +169,12 @@ header p.intro {
 	margin: 0;
 }
 
+header ul.global a:hover,
+header ul.global a:active,
+header ul.global a:focus {
+	color: #757575;
+}
+
 header ul.social {
 	margin: 10px 0;
 }
@@ -177,6 +182,14 @@ header ul.social {
 header ul.social li {
 	display: inline;
 }
+
+ul.social a.gh:hover { color: #6a737d; }
+ul.social a.tw:hover { color: #1da1f2; }
+ul.social a.li:hover { color: #0072b1; }
+ul.social a.fm:hover { color: #d51007; }
+ul.social a.mc:hover { color: #52aad8; }
+ul.social a.sc:hover { color: #fe5000; }
+ul.social a.ig:hover { color: #8a3ab9; }
 
 /* CONTENT */
 
@@ -523,14 +536,6 @@ footer span {
 	display: block;
 	margin: 0 0 .1rem 0;
 }
-
-footer ul.social a.gh:hover { color: #6a737d; }
-footer ul.social a.tw:hover { color: #1da1f2; }
-footer ul.social a.li:hover { color: #0072b1; }
-footer ul.social a.fm:hover { color: #d51007; }
-footer ul.social a.mc:hover { color: #52aad8; }
-footer ul.social a.sc:hover { color: #fe5000; }
-footer ul.social a.ig:hover { color: #8a3ab9; }
 
 /* BREAKPOINTS */
 @media only screen and (min-width: 1024px) {
