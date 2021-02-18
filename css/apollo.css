@@ -8,7 +8,7 @@ html * {
 	box-sizing: border-box;
 	background: #ffffff;
 	font-family: 'Helvetica', 'Arial', sans-serif;
-	color: #383838;
+	color: #202020;
 	letter-spacing: -.5px;
 	font-weight: normal;
 }
@@ -34,22 +34,22 @@ p {
 
 a {
 	text-decoration: none;
-	border-bottom: solid 1px #595959;
-	color: #595959;
+	border-bottom: solid 1px #202020;
+	color: #202020;
 	font-size: 1rem;
 	font-weight: bold;
 	line-height: 1.5rem;
-	-webkit-transition: all .5s ease-in-out 0s;
-	-moz-transition: all .5s ease-in-out 0s;
-	transition: all .5s ease-in-out 0s;
+	-webkit-transition: all .2s ease-in-out 0s;
+	-moz-transition: all .2s ease-in-out 0s;
+	transition: all .2s ease-in-out 0s;
 }
 
 a:active,
 a:hover,
 a:focus {
 	text-decoration: none;
-	border-bottom: solid 1px #757575;
-	color: #757575;
+	border-bottom: solid 1px #FF7900;
+	color: #FF7900;
 }
 
 ul,
@@ -97,7 +97,7 @@ h4 {
 blockquote {
 	margin: 0 0 20px 40px;
 	padding: 0 0 0 10px;
-	border-left: 2px solid #383838;
+	border-left: 2px solid #202020;
 }
 
 iframe {
@@ -137,7 +137,7 @@ header nav {
 header a {
 	font-size: 1.5rem;
 	line-height: 1.9rem;
-	color: #595959;
+	color: #202020;
 	border: none;
 	font-weight: normal;
 }
@@ -159,7 +159,7 @@ header a.logo {
 header a:hover.logo,
 header a:active.logo,
 header a:focus.logo {
-	color: #595959;
+	color: #202020;
 	font-size: 1.7rem;
 }
 
