@@ -270,7 +270,7 @@ p.footnote,
 p.footnote a {
 	font-style: italic;
 	font-size: .875rem;
-	line-height: 1rem;
+	line-height: 1.2;
 }
 
 /* POST */
@@ -355,7 +355,7 @@ ul.posts li span.date {
 
 ul.posts li.gear {
 	list-style: disc;
-	margin: 0 0 0 2rem;
+	margin: 0 0 1rem 2rem;
 }
 
 /* PHOTO STYLES */
@@ -507,6 +507,7 @@ ul.photo-gallery li h2 {
 .content li.gear p a {
 	font-style: italic;
 	font-size: .875rem;
+	line-height: 1.3;
 }
 
 .content.gear ul li p,
