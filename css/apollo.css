@@ -238,6 +238,8 @@ img.headshot {
 .content.resume h3,
 .content.resume h4 {
 	display: inline-block;
+	margin: 0;
+	line-height: 1;
 }
 
 .flexi-row {
