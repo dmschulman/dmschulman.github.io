@@ -48,7 +48,7 @@ _2013 - 2016_
 * Authored dozens of healthcare-related articles, marketing materials, and visually re-branded client's business
 
 ### National Positions
-#### Senior Web Specialist and SEO Support
+#### Senior Web Specialist
 _2011 - 2013_
 
 * Supported a portfolio of hundreds of agency clients as a web development and technical support liaison, handling web projects across a variety of software platforms, eventually transitioning to a business strategy role
