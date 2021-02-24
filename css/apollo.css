@@ -209,6 +209,8 @@ ul.social a.ig:hover i { color: #8a3ab9; }
 	margin: 0 0 2rem 0;
 }
 
+/* RESUME */
+
 img.headshot {
 	float: right;
  	margin: 1rem 0 1rem 1rem;
@@ -216,6 +218,10 @@ img.headshot {
 
 .content.resume p {
 	margin: 0;
+	display: inline;
+}
+
+.content.resume p em {
 	float: right;
 }
 
@@ -228,18 +234,17 @@ img.headshot {
 }
 
 .content.resume h2 {
-	margin: 2rem 0 .5rem 0;
-}
-
-.content.resume h2:first-of-type {
 	margin: 1rem 0 .5rem 0;
 }
 
 .content.resume h3,
 .content.resume h4 {
-	display: inline-block;
-	margin: 0;
+	margin: 0 0 .2rem 0;
 	line-height: 1;
+}
+
+.content.resume h4 {
+	display: inline-block;
 }
 
 .flexi-row {
