@@ -12,7 +12,7 @@ _2004 - 2008_
 * B.A., Journalism, Politics minor
 * B.A., Art History
 
-## Languages & Technologies
+## Technologies & Skills
 
 HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Drupal, OUCampus, Google Analytics
 
@@ -34,7 +34,7 @@ _2014 - 2015_
 * Redeveloped the Francisvale shelter’s web presence, modernized Wordpress CMS codebase, improved animal adoption matching system, re-crafted web content, and promoted the shelter via SEO and SEM campaigns
 
 ### The Quixote Center
-#### Wordpress Developer and Designer
+#### Web Developer and Designer
 _2014 - 2015_
 
 * Recovered data and key assets from the non-profit’s malware-infected database, redesigned and rebuilt the center’s Wordpress website to better support the organization’s mission of spreading literacy and social justice
