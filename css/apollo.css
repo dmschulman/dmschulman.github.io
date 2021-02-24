@@ -216,9 +216,6 @@ img.headshot {
 
 .content.resume p {
 	margin: 0;
-}
-
-.content.resume p em {
 	float: right;
 }
 
@@ -238,6 +235,7 @@ img.headshot {
 	margin: 1rem 0 .5rem 0;
 }
 
+.content.resume h3,
 .content.resume h4 {
 	display: inline-block;
 }
