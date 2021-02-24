@@ -53,13 +53,8 @@ a:focus {
 }
 
 ul,
-ol { 
-	list-style: none;
+ol {
 	margin: 1rem 0 1rem 1rem;
-}
-
-li {
-	list-style: square;
 }
 
 ul li > ul {
@@ -293,13 +288,13 @@ p.footnote a {
 
 .content ul li,
 .post ul li {
-	list-style: disc;
+	list-style: square;
 	margin: 0 0 0 1.5rem;
 }
 	
 .content ul li > ul li,
 .post ul li > ul li {
-	list-style: circle;
+	list-style: square;
 }
 
 .content ol li,
