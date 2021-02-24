@@ -365,6 +365,7 @@ ul.posts li span.date {
 }
 
 ul.posts li.gear {
+	list-style: square;
 	margin: 0 0 0 2rem;
 }
 
