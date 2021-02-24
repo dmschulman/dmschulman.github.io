@@ -20,7 +20,7 @@ HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Dr
 
 ### University of the Sciences
 #### Lead Web Developer
-2015 - Present
+_2015 - Present_
 
 * Conceptualized, coded, and deployed new website features, functional improvements, third-party products, and template designs leveraging XML/XSLT to support university admissions, marketing, and institutional goals
 * Developed numerous web projects including major campaign landing pages, database-oriented information systems, and an online mobile-responsive version of the university’s alumni magazine, ‘The Bulletin’
@@ -29,19 +29,19 @@ HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Dr
 
 ### Francisvale Home for Smaller Animals
 #### Web Developer
-2014 - 2015
+_2014 - 2015_
 
 * Redeveloped the Francisvale shelter’s web presence, modernized Wordpress CMS codebase, improved animal adoption matching system, re-crafted web content, and promoted the shelter via SEO and SEM campaigns
 
 ### The Quixote Center
 #### Wordpress Developer and Designer
-2014 - 2015
+_2014 - 2015_
 
 * Recovered data and key assets from the non-profit’s malware-infected database, redesigned and rebuilt the center’s Wordpress website to better support the organization’s mission of spreading literacy and social justice
 
 ### BenefitPackages Insurance Agency
 #### Lead Web Developer
-2013 - 2016
+_2013 - 2016_
 
 * Provided web development, design, online content, social media strategy, and support services in the creation of multiple Wordpress sites including CAMedicare.com, BenefitPackages.com, and CoverageCA.com
 * Leveraged strong SEO campaigns, design split testing, and email marketing to promote lead generation and attract users seeking information about the Affordable Care Act and purchasing health insurance in California
@@ -49,7 +49,7 @@ HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Dr
 
 ### National Positions
 #### Senior Web Specialist and SEO Support
-2011 - 2013
+_2011 - 2013_
 
 * Supported a portfolio of hundreds of agency clients as a web development and technical support liaison, handling web projects across a variety of software platforms, eventually transitioning to a business strategy role
 * Directed the creation of a web development and technical support team at an Inc. 500 marketing agency based in Los Angeles, elevating the company's ability to deliver competitive services in a rapid-growth online industry
