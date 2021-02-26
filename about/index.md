@@ -1,6 +1,6 @@
 ---
 layout: apollo
-title: "About David Michael Schulman"
+title: "About"
 description: ""
 ---
 
