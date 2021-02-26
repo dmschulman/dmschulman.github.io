@@ -48,6 +48,10 @@ collections:
     output: true
     output_ext: .html
     title: "Gear"
+  music:
+    output: true
+    output_ext: .html
+    title: "Music"
 
 # Defaults
 defaults:
@@ -64,6 +68,12 @@ defaults:
     values:
       layout: "gear"
       permalink: /studio/:collection/:name.html
+    - scope:
+      path: ""
+      type: "music"
+    values:
+      layout: "music"
+      permalink: /studio/music/:name.html
       
 # Build settings
 markdown: kramdown
