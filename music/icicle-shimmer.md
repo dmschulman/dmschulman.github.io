@@ -3,8 +3,8 @@ layout: music
 title: "Icicle Shimmer"
 artist: "Porter Vance"
 description: ""
-date: ""
-format: "Keyboard"
+date: "11/10/2014"
+category: "Music"
 tags: 
   - ambient
   - cold
