@@ -11,7 +11,7 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
 <table>
     <tr>
         <td rowspan="2" class="album-art">
-            <img src="http://placehold.it/250x250" alt=""/> 
+            <img src="http://placehold.it/100x100" alt="" /> 
         </td>
         <td>
           <span>Track Name</span>
