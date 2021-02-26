@@ -8,3 +8,41 @@ Here you'll find a repository of some of the musical projects I've embarked on u
 
 To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/).
 
+<table cellpadding="10">
+    <tr>
+        <td rowspan="2" class="album-art">
+            <img src="http://placehold.it/60x60" alt="Company logo"/> 
+        </td>
+        <td>
+          <span>Track Name</span>
+        </td>
+        <td>
+          <span>Artist Name</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="1">
+          <audio></audio>
+        </td>
+    </tr>
+    <tr> 
+        <td>
+          <span>Tags/Genre</span>
+        </td>
+        <td>
+          <span>
+            Release Date
+          </span>
+      </td>
+      <td>
+        <span>
+          Something else
+        </span>
+      </td>
+    </tr>
+    <tr>
+        <td colspan="3">
+          <p>Additional Notes</p>
+        </td>
+    </tr>
+</table>
