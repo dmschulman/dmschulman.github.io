@@ -8,10 +8,10 @@ Here you'll find a repository of some of the musical projects I've embarked on u
 
 To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/).
 
-<table cellpadding="10">
+<table>
     <tr>
         <td rowspan="2" class="album-art">
-            <img src="http://placehold.it/60x60" alt="Company logo"/> 
+            <img src="http://placehold.it/250x250" alt=""/> 
         </td>
         <td>
           <span>Track Name</span>
@@ -22,7 +22,7 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
     </tr>
     <tr>
         <td colspan="2" rowspan="1">
-          <audio></audio>
+          <audio controls src=""> Your browser does not support the <code>audio</code> element.></audio>
         </td>
     </tr>
     <tr> 
