@@ -61,14 +61,14 @@ defaults:
     values:
       layout: "post"
       author: "David Schulman"
-      permalink: /blog/:year/:slug.html  
+      permalink: /blog/:year/:slug.html
   - scope:
       path: ""
       type: "gear"
     values:
       layout: "gear"
       permalink: /studio/:collection/:name.html
-    - scope:
+  - scope:
       path: "/studio/music"
       type: "music"
     values:
