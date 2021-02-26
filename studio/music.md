@@ -10,6 +10,7 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
 
 {% assign music = site.music | sort: 'date' | reverse %}
 {% for category in music %}
+<h2>{{ category.name }}</h2>
 <ul class="audio">
 {% for item in category.items | sort: 'name' %}
 <li>
