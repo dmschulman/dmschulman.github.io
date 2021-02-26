@@ -22,7 +22,7 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
     </tr>
     <tr>
         <td colspan="2" rowspan="1">
-          <audio controls src=""> Your browser does not support the <code>audio</code> element.></audio>
+          <audio controls src=""> Your browser does not support the <code>audio</code> element.</audio>
         </td>
     </tr>
     <tr> 
