@@ -69,7 +69,7 @@ defaults:
       layout: "gear"
       permalink: /studio/:collection/:name.html
   - scope:
-      path: "/studio/music"
+      path: "/studio/_music"
       type: "music"
     values:
       layout: "music"
