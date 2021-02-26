@@ -1,0 +1,17 @@
+---
+layout: music
+title: "Icicle Shimmer"
+artist: "Porter Vance"
+description: ""
+date: ""
+format: "Keyboard"
+tags: 
+  - ambient
+  - cold
+  - modular
+  - roland
+  - JX-3P
+image: https://dmschulman.com/studio/music/icicle-shimmer.jpg
+audio: https://dmschulman.com/studio/music/icicle-shimmer.jpg
+notes: "A Roland JX-3P being played via a modular sequence."
+---
