@@ -69,10 +69,10 @@ defaults:
       layout: "gear"
       permalink: /studio/:collection/:name.html
   - scope:
-      path: "/studio/_music"
+      path: ""
       type: "music"
     values:
-      layout: "music"
+      layout: "post"
       permalink: /studio/music/:name.html
       
 # Build settings
