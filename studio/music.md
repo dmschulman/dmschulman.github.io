@@ -8,7 +8,7 @@ Here you'll find a repository of some of the musical projects I've embarked on u
 
 To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/).
 
-{% assign music = site.music | sort: 'date' | reverse %}
+{% assign music = site.music %}
 {% for category in music %}
 <h2>{{ category.name }}</h2>
 <ul class="audio">
