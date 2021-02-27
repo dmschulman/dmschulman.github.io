@@ -14,16 +14,16 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
 <ul class="posts">
 {% for item in category.items | sort: 'name' %}
 <li class="music">
-    <img src="{{ page.image }}" alt="{{ page.title }}" />
-    <h1>{{ page.title }}</h1>
-    <audio controls src="{{ page.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
+    <img src="{{ item.image }}" alt="{{ item.title }}" />
+    <span class="name">{{ item.title }}</span>
+    <audio controls src="{{ item.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
     <div class="track-info">
-        <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
-        {% if page.tags.size > 0 %}
-            <span class="tags">{{ page.tags | sort | join: ", " }}</span>
+        <span class="date">{{ item.date | date: '%B %d, %Y' }}</span>
+        {% if item.tags.size > 0 %}
+            <span class="tags">{{ item.tags | sort | join: ", " }}</span>
         {% endif %}
     </div>
-    <span class="notes">{{ page.description }}</span>
+    <span class="notes">{{ item.description }}</span>
 </li>
 {% endfor %}
 </ul>
