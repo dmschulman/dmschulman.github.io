@@ -8,13 +8,22 @@ Here you'll find a repository of some of the musical projects I've embarked on u
 
 To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/).
 
-{% assign music = site.music %}
+{% assign music = site.music | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in music %}
 <h2>{{ category.name }}</h2>
-<ul class="audio">
+<ul class="posts">
 {% for item in category.items | sort: 'name' %}
-<li>
-{{ item.title }}
+<li class="music">
+    <img src="{{ page.image }}" alt="{{ page.title }}" />
+    <h1>{{ page.title }}</h1>
+    <audio controls src="{{ page.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
+    <div class="track-info">
+        <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
+        {% if page.tags.size > 0 %}
+            <span class="tags">{{ page.tags | sort | join: ", " }}</span>
+        {% endif %}
+    </div>
+    <span class="notes">{{ page.description }}</span>
 </li>
 {% endfor %}
 </ul>
