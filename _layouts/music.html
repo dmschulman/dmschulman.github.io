@@ -16,10 +16,10 @@
 				<h1>{{ page.title }}</h1>
 				<audio controls src="{{ page.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
 				<div class="track-info">
-					<span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
 					{% if page.tags.size > 0 %}
 						<span class="tags">{{ page.tags | sort | join: ", " }}</span>
 					{% endif %}
+					<span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
 				</div>
 				<span class="notes">{{ page.description }}</span>
 			</article>
