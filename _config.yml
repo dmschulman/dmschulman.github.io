@@ -72,7 +72,7 @@ defaults:
       path: ""
       type: "music"
     values:
-      layout: "post"
+      layout: "music"
       permalink: /studio/music/:name.html
       
 # Build settings
