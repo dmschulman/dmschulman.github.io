@@ -13,5 +13,5 @@ tags:
   - JX-3P
 image: https://dmschulman.com/studio/music/icicle-shimmer.jpg
 audio: https://dmschulman.com/studio/music/icicle-shimmer.wav
-notes: "A Roland JX-3P being played via a modular sequence."
+notes: "A frosty ambient track, the sound of a Roland JX-3P being played via a modular CV sequence."
 ---
