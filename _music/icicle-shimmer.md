@@ -4,7 +4,7 @@ title: "Icicle Shimmer"
 artist: "Porter Vance"
 description: "A frosty ambient track, the sound of a Roland JX-3P being played via a modular CV sequence."
 date: 2014-11-10
-category: "Music"
+category: "Tracks"
 tags: 
   - ambient
   - cold
