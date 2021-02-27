@@ -11,7 +11,7 @@ tags:
   - modular
   - roland
   - JX-3P
-image: https://dmschulman.com/studio/_music/icicle-shimmer.jpg
-audio: https://dmschulman.com/studio/_music/icicle-shimmer.jpg
+image: https://dmschulman.com/studio/music/icicle-shimmer.jpg
+audio: https://dmschulman.com/studio/music/icicle-shimmer.jpg
 notes: "A Roland JX-3P being played via a modular sequence."
 ---
