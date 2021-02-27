@@ -18,10 +18,10 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
     <span class="name">{{ item.title }}</span>
     <audio controls src="{{ item.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
     <div class="track-info">
-        <span class="date">{{ item.date | date: '%B %d, %Y' }}</span>
         {% if item.tags.size > 0 %}
             <span class="tags">{{ item.tags | sort | join: ", " }}</span>
         {% endif %}
+        <span class="date">{{ item.date | date: '%B %d, %Y' }}</span>
     </div>
     <span class="notes">{{ item.description }}</span>
 </li>
