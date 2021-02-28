@@ -6,7 +6,7 @@ description: "Find out more about how I produce techno and electronic music, vie
 
 Welcome my constantly changing, ever evolving bedroom music studio. Here you will find a wealth of resources related to synthesizers, mixers, effects, electronic music production, studio tips, and sage advice from someone who has and continues to find new ways to organize their music making equipment. Alongside information about the gear I currently use, I will be hosting in-depth pages about specific instruments (complete with patches, controller templates, manuals, and other collected bits), as well as articles and other explainers related to my production style and my take on building a home music studio.
 
-Oh yeah, and some [music](/music.html) too.
+Oh yeah, and some [music](/studio/music.html) too.
 
 ## Music Gear
 Below are some of the synthesizers, drum machines, instruments, devices, boxes, hardware, effects, tools, technology, and other doohickies I use (or have previously used) in my studio. This collection represents my favorite music making machines, the hardware which I've found to be the most versatile, best sounding, and easiest to get along with when recording.
