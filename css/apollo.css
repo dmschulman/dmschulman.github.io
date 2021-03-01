@@ -286,6 +286,7 @@ li.music audio {
 
 li.music .track-info {
 	clear: left;
+	line-height: 1.3;
 }
 
 li.music span.date:before,
