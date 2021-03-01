@@ -1,7 +1,7 @@
 ---
 layout: music
 title: "Icicle Shimmer"
-artist: "Porter Vance"
+artist: "Khyber"
 description: "A frosty ambient track, the sound of a Roland JX-3P being played via a modular CV sequence."
 date: 2014-11-10
 category: "Tracks"
