@@ -248,10 +248,11 @@ img.headshot {
 
 /* MUSIC */
 
-.music {
+.music li {
+	max-width: 600px;
 	width: 100%;
-	max-width: 480px;
-	display: block;
+	display: inline-block;
+	margin: 0 33px 1.5rem 0;
 }
 
 .music img {
