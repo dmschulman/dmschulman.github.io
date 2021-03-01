@@ -4,7 +4,7 @@ title: "Modular SH-101"
 artist: "Khyber"
 description: "Running a CV and gate sequence from a modular system into a Roland SH-101. It gave me a little melody in return."
 date: 2014-10-13
-category: "Demo"
+category: "Demos"
 tags: 
   - modular
   - melody
