@@ -12,18 +12,18 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
 {% for category in music %}
 <h2>{{ category.name }}</h2>
 <ul class="posts">
-{% for item in category.items | sort: 'name' %}
+{% for item in category.items | sort: 'date' %}
 <li class="music">
     <img src="{{ item.image }}" alt="{{ item.title }}" />
     <span class="name">{{ item.title }}</span>
     <audio controls src="{{ item.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
+    <span class="notes">{{ item.description }}</span>
     <div class="track-info">
         {% if item.tags.size > 0 %}
             <span class="tags">{{ item.tags | sort | join: ", " }}</span>
         {% endif %}
-        <span class="date">{{ item.date | date: '%B %d, %Y' }}</span>
+        <span class="date">{{ item.date | date: '%m/%d/%Y' }}</span>
     </div>
-    <span class="notes">{{ item.description }}</span>
 </li>
 {% endfor %}
 </ul>
