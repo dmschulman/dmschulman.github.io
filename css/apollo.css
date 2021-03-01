@@ -248,62 +248,62 @@ img.headshot {
 
 /* MUSIC */
 
-.music li {
+li.music {
 	max-width: 600px;
 	width: 100%;
 	display: inline-block;
 	margin: 0 33px 1.5rem 0;
 }
 
-.music img {
+li.music img {
 	width: 120px;
 	height: 120px;
 	float: left;
 	margin: 0 1rem 1rem 0;
 }
 
-.music h1,
-.music span.name {
+li.music h1,
+li.music span.name {
 	font-size: 1.3rem;
 	margin: 0 0 1rem 0;
 	line-height: 1.5;
 }
 
-.music span.name,
-.music audio,
-.music span.date,
-.music span.tags,
-.music span.notes,
-.music .track-info {
+li.music span.name,
+li.music audio,
+li.music span.date,
+li.music span.tags,
+li.music span.notes,
+li.music .track-info {
 	display: block;
 	float: none !important;
 }
 
-.music audio {
+li.music audio {
 	margin: 1rem 0;
 	width: calc(100% - (120px + 1rem));
 }
 
-.music .track-info {
+li.music .track-info {
 	clear: left;
 }
 
-.music span.date:before,
-.music span.tags:before,
-.music span.notes:before {
+li.music span.date:before,
+li.music span.tags:before,
+li.music span.notes:before {
 	font-weight: bold;
 	font-style: normal;
 }
 
-.music span.date:before {
+li.music span.date:before {
 	content: 'Release Date: ';
 }
 
-.music span.tags:before {
+li.music span.tags:before {
 	content: 'Tags: ';
 }
 
-.music span.notes:before {
+li.music span.notes:before {
 	content: 'Notes: ';
 }
 
