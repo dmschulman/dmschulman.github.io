@@ -9,7 +9,7 @@ tags:
   - ambient
   - cold
   - modular
-  - roland
+  - Roland
   - JX-3P
 image: https://dmschulman.com/studio/music/icicle-shimmer.jpg
 audio: https://dmschulman.com/studio/music/icicle-shimmer.mp3
