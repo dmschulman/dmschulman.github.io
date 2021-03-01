@@ -4,9 +4,9 @@ title: "Music"
 description: ""
 ---
 
-Here you'll find a repository of some of the musical projects I've embarked on under various names since I began twiddling around with Ableton Live in 2010. Much of my musical output in the early days came from exploriations with various synthesizers, eurorack modules, digital audio softwares, and studying different production techniques (and much of it still does!). Most of this content lived in Soundclound for the longest time, but in the interest of divesting myself from profit-driven platforms that have taken a turn for the worst, I'm instead offering it all up here, for free, under a [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+This page is a repository for many of the musical projects I've embarked on under various names since I began twiddling around with Ableton Live in 2010. Much of my musical output in the early days came from exploriations with a variety of synthesizers, eurorack modules, digital audio softwares, and from studying different production techniques (and much of it still does!). Most of this content lived on Soundcloud for the longest time, but in the interest of divesting myself from profit-driven platforms that have taken a turn for the worst, I'm offering it all up here, for free, under a [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/).
+If you'd like to support my music, or just hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/). I also occasionally upload a DJ set to [Mixcloud](https://www.mixcloud.com/khybersound/), though I'm beginning to livestream sets on [Twitch](https://www.twitch.tv/khybersound).
 
 {% assign music = site.music | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in music %}
