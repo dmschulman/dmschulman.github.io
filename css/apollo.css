@@ -249,10 +249,9 @@ img.headshot {
 /* MUSIC */
 
 li.music {
-	max-width: 600px;
 	width: 100%;
-	display: inline-block;
-	margin: 0 33px 1.5rem 0 !important;
+	margin-bottom: 1.5rem;
+	vertical-align: top;
 }
 
 li.music img {
@@ -625,6 +624,18 @@ footer span {
 }
 
 /* BREAKPOINTS */
+
+@media only screen and (min-width: 1600px) {
+	li.music {
+		max-width: 48%;
+		display: inline-block;
+	}
+	
+	li.music:nth-child(even) {
+		margin-left: 3%;
+	}
+}
+
 @media only screen and (min-width: 1024px) {
     header {
         position: fixed;
@@ -649,6 +660,15 @@ footer span {
         max-width: 1600px;
         padding: 30px 100px 30px 230px;
     }
+	
+	li.music {
+		max-width: 48%;
+		display: inline-block;
+	}
+	
+	li.music:nth-child(even) {
+		margin-left: 2%;
+	}
         
     ul.posts li span.date {
         float: right;
