@@ -12,5 +12,5 @@ tags:
   - roland
   - JX-3P
 image: https://dmschulman.com/studio/music/icicle-shimmer.jpg
-audio: https://dmschulman.com/studio/music/icicle-shimmer.wav
+audio: https://dmschulman.com/studio/music/icicle-shimmer.mp3
 ---
