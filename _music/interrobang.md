@@ -8,6 +8,8 @@ category: "Tracks"
 tags: 
   - house
   - remix
+  - dance
+  - french
 image: https://dmschulman.com/studio/music/interrobang.jpg
 audio: https://dmschulman.com/studio/music/interrobang.mp3
 ---
