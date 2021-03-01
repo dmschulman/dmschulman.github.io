@@ -288,6 +288,10 @@ li.music .track-info {
 	line-height: 1.3;
 }
 
+li.music span.tags {
+	text-transform: capitalize;
+}
+
 li.music span.date:before,
 li.music span.tags:before,
 li.music span.notes:before {
