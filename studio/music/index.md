@@ -17,8 +17,8 @@ To hear my more cohesive musical endeavors, please visit my [Bandcamp](https://k
     <img src="{{ item.image }}" alt="{{ item.title }}" />
     <span class="name">{{ item.title }}</span>
     <audio controls src="{{ item.audio }}"> Your browser does not support the <code>audio</code> element.</audio>
-    <span class="notes">{{ item.description }}</span>
     <div class="track-info">
+        <span class="notes">{{ item.description }}</span>
         {% if item.tags.size > 0 %}
             <span class="tags">{{ item.tags | sort | join: ", " }}</span>
         {% endif %}
