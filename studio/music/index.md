@@ -4,7 +4,7 @@ title: "Music"
 description: ""
 ---
 
-This page is a repository for many of the musical projects I've embarked on under various names since I began twiddling around with Ableton Live in 2010. Much of my musical output in the early days came from exploriations with a variety of synthesizers, eurorack modules, digital audio softwares, and from studying different production techniques (and much of it still does!). Most of this content lived on Soundcloud for the longest time, but in the interest of divesting myself from profit-driven platforms that have taken a turn for the worst, I'm offering it all up here, for free, under a [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+This page is a repository for many of the musical projects I've embarked on under various names since I began twiddling around with Ableton Live in 2008. Much of my musical output in the early days came from exploriations with a variety of synthesizers, eurorack modules, digital audio softwares, and from studying different production techniques (and much of it still does!). Most of this content lived on Soundcloud for the longest time, but in the interest of divesting myself from profit-driven platforms that have taken a turn for the worst, I'm offering it all up here, for free, under a [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 If you'd like to support my music, or just hear my more cohesive musical endeavors, please visit my [Bandcamp](https://khybersound.bandcamp.com/). I also occasionally upload a DJ set to [Mixcloud](https://www.mixcloud.com/khybersound/), though I'm beginning to livestream more and more of my sets to [Twitch](https://www.twitch.tv/khybersound).
 
