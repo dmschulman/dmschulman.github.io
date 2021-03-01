@@ -7,10 +7,10 @@ date: 2014-02-28
 category: "Demos"
 tags: 
   - modular
-  - nord
+  - Nord
+  - G2
   - bass
   - virtual analog
-  - demo
 image: https://dmschulman.com/studio/music/nord-g2-first-patch.jpg
 audio: https://dmschulman.com/studio/music/nord-g2-first-patch.mp3
 ---
