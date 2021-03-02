@@ -70,12 +70,12 @@
 }
 
 @media only screen and (min-width: 1024px) {
-    #lightbox #prev, #lightbox #next { height: 60px; font-size: 3rem; }
+    #lightbox #prev, #lightbox #next { height: 60px; font-size: 3rem; padding: 10px 10px 0 10px; }
     #lightbox #close { height: 45px; width: 45px; font-size: 2.5rem; padding: 0 10px 0 12px; }
 }
 
 @media only screen and (max-width: 1023px) {
-    #lightbox #prev, #lightbox #next { height: 40px; font-size: 2rem; padding: 6px 10px;}
+    #lightbox #prev, #lightbox #next { height: 40px; font-size: 2rem; padding: 6px 10px; }
     #lightbox #close { height: 37px; width: 37px; font-size: 2rem; padding: 0 10px; }
 }
 
