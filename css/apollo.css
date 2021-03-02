@@ -630,17 +630,6 @@ footer span {
 
 /* BREAKPOINTS */
 
-@media only screen and (min-width: 1600px) {
-	li.music {
-		max-width: 48%;
-		display: inline-block;
-	}
-	
-	li.music:nth-child(even) {
-		margin-left: 3%;
-	}
-}
-
 @media only screen and (min-width: 1024px) {
     header {
         position: fixed;
