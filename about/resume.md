@@ -5,9 +5,9 @@ description: ""
 permalink: /about/resume.html
 ---
 
-## Technologies & Skills
+## Languages & Techologies
 
-HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Drupal, OUCampus, Google Analytics
+HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Invision, Git, Docker, Wordpress, Drupal, OUCampus, Google Analytics
 
 ## Work Experience
 
