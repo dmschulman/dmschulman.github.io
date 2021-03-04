@@ -61,4 +61,4 @@ _2011 - 2013_
 
 ## Certifications
 
-* Google Analytics Individual Qualification [#28941424](https://skillshop.exceedlms.com/student/award/28941424)
+* Google Analytics Individual Qualification [#73459754](https://skillshop.exceedlms.com/student/award/73459754)
