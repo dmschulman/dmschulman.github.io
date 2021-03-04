@@ -5,13 +5,6 @@ description: ""
 permalink: /about/resume.html
 ---
 
-## Education
-
-### Ithaca College
-_2004 - 2008_
-* B.A., Journalism, Politics minor
-* B.A., Art History
-
 ## Technologies & Skills
 
 HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Git, Docker, Wordpress, Drupal, OUCampus, Google Analytics
@@ -60,6 +53,11 @@ _2011 - 2013_
 * Educational Advertising Award, Merit - _USciences Website (2018)_
 * CUPPIE Award, Gold - _‘Tuition Reset’ PR Campaign Website (2018)_
 * CUPPIE Award, Bronze - _‘Proven Everywhere’ Campaign Website (2016)_
+
+## Education
+
+### Ithaca College
+* B.A., Journalism
 
 ## Certifications
 
