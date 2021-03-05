@@ -1,10 +1,10 @@
 ---
 layout: work
-title: "DavidAndAdrienneWed.com"
-description: ""
-name: "Italy 2004"
+title: "David and Adrienne Wed"
+description: "If getting engaged has taught me anything it's that weddings are super complex occasions to plan! To help some of this process, I built out a small microsite to help our guests find information about our special day, submit their paperless RSVP, see what stores we're registered at, and even learn more about the happy couple. Implementation was kept simple with a mobile-first concept and content presented in an easy to find way. Think of it as the digital program to our analog wedding, plus much much more."
 permalink: "/about/work/david-and-adrienne-wed.html"
+url: "https://davidandadriennewed.com/.
 thumbnail: ""
-date: 2004-07-20
+date: 2020-07-20
 tags: 
 ---
