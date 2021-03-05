@@ -52,6 +52,10 @@ collections:
     output: true
     output_ext: .html
     title: "Music"
+  work:
+    output: true
+    output_ext: .html
+    title: "Portfolio"
 
 # Defaults
 defaults:
