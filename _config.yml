@@ -74,6 +74,12 @@ defaults:
     values:
       layout: "music"
       permalink: /studio/music/:name.html
+  - scope:
+      path: ""
+      type: "work"
+    values:
+      layout: "work"
+      permalink: /about/work/:name.html
       
 # Build settings
 markdown: kramdown
