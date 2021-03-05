@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "The Bulletin Online"
-description: "As a print publication, The Bulletin helps support UScience's mission of engaging alumni audiences, industry partners, and university constituencies through sharing stories, research breakthroughs, profiling distinguished students, and providing updates on the latest campus news. Furthering this goal, I approached a complete reimagining of the digital edition of The Bulletin in 2017, bringing the site out of an external blogging platform and into our new website's CMS."
+description: "As a print publication, The Bulletin helps support UScience's mission of engaging alumni audiences, industry partners, and university constituencies through sharing stories, research breakthroughs, profiling distinguished students, and providing updates on the latest campus news. Furthering this goal, I approached a complete reimagining of the digital edition of The Bulletin Online in 2017, bringing the site out of an external blogging platform and into our new website's CMS."
 thumbnail: "https://dmschulman.com/about/work/bulletin-online.jpg"
 link: https://www.usciences.edu/bulletin
 date: 2017-05-15
@@ -10,12 +10,12 @@ tags:
 
 ## Challenges
 
-The previous website for The Bulletin Online had been hosted on Typepad.com and lacked a variety of features that alumni had come to expect from an online alumni magazine. Publishing the online edition was also tedious, so finding ways to streamline the publishing process was crucialand further, the finished product looked dated and was neither accessible nor mobile friendly.
+The previous website for The Bulletin Online had been hosted on Typepad.com and lacked a variety of features that alumni had come to expect from an online alumni magazine. Publishing the online edition was also tedious, so finding ways to streamline the publishing process was crucial, and further, the finished product looked dated and was neither accessible nor mobile friendly.
 
 ## Solutions
 
 A visual redesign was approached with the intent of giving The Bulletin Online a modern look and feel that slightly echoed qualities of the print edition:
-* Flexible content regions were designed that could support multiple layout styles and positionings as well as background and foreground colors.
+* Flexible content regions were designed that could support multiple layout styles and positionings as well as unique background and foreground colors.
 * Layouts were standardized to provide a consistent experience across editions
 * Additional CSS design touches were added for extra impact and effect.
 
@@ -45,8 +45,8 @@ New Class Notes/In Memoriam features were developed with searchability, data int
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-class-memoriam.jpg" title="The Bulletin Online in memoriam" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-class-memoriam.jpg" alt="The Bulletin Online in memoriam">
+    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" title="The Bulletin Online in memoriam" target="_blank">
+      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" alt="The Bulletin Online in memoriam">
     </a>
   </li>
 </ul>
