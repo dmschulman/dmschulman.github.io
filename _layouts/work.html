@@ -15,9 +15,12 @@
 				<h1>{{ page.title }}</h1>
 				<img class="hero" src="{{ page.thumbnail }}" alt="{{ page.title }}" />
         			<p>{{ page.description }}</p>
-				{% if page.url %}
+				
+				{{ page.content }}
+				
+				{% if page.link %}
 					<p>
-						<a href="{{ page.url }}" title="Visit {{ page.title }}" target="_blank">Visit {{ page.title }}</a>
+						<a href="{{ page.link }}" title="Visit {{ page.title }}" target="_blank">Visit {{ page.title }}</a>
 					</p>
 				{% endif %}
 			</article>
