@@ -12,9 +12,14 @@
 		</header>
 		<main>
 			<article class="content work">
-				<img src="{{ page.thumbnail }}" alt="{{ page.title }}" />
 				<h1>{{ page.title }}</h1>
+				<img class="hero" src="{{ page.thumbnail }}" alt="{{ page.title }}" />
         			<p>{{ page.description }}</p>
+				{% if page.url %}
+					<p>
+						<a href="{{ page.url }}" title="Visit {{ page.title }}" target="_blank">Visit {{ page.title }}</a>
+					</p>
+				{% endif %}
 			</article>
 			<footer>
 				{% include footer.html %}
