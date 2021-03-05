@@ -30,11 +30,6 @@ New Class Notes/In Memoriam features were developed with searchability, data int
 
 <ul class="pictures">
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" title="The Bulletin Online desktop view" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" alt="The Bulletin Online desktop view">
-    </a>
-  </li>
-  <li>
     <a href="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" title="The Bulletin Online mobile view" target="_blank">
       <img src="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" alt="The Bulletin Online mobile view">
     </a>
@@ -47,6 +42,11 @@ New Class Notes/In Memoriam features were developed with searchability, data int
   <li>
     <a href="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" title="The Bulletin Online in memoriam" target="_blank">
       <img src="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" alt="The Bulletin Online in memoriam">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" title="The Bulletin Online desktop view" target="_blank">
+      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" alt="The Bulletin Online desktop view">
     </a>
   </li>
 </ul>
