@@ -225,14 +225,15 @@ footer span {
 	margin: 0 0 2rem 0;
 }
 
-	.content li.row figure img {
-		float: left;
-		margin: 0 1rem 1rem 0;
-	}
+.content li.row figure img {
+	float: left;
+	margin: 0 1rem 1rem 0;
+}
 
 .content li.row figure figcaption {
 	line-height: 1;
 	margin-bottom: 1rem;
+	display: inline-block;
 }
 
 /* RESUME */
@@ -450,11 +451,13 @@ p.footnote a {
 
 ul.posts {
     	margin: 0 0 1rem 0;
+	overflow: auto;
 }
 
 ul.posts li {
 	list-style: none;
 	margin: 0 0 1.5rem 0;
+	overflow: auto;
 }
 
 ul.posts li span.date {
