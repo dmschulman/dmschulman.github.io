@@ -7,7 +7,7 @@ description: ""
 {% assign work = site.work %}
 <ul class="posts">
 {% for item in site.work %}
-<li class="content-row">
+<li class="row">
   <a href="{{ item.url }}" title="{{ item.title }}">
     <figure>
       <img src="{{ item.thumbnail }}" alt="{{ item.title }}" />
