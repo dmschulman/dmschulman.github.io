@@ -21,7 +21,9 @@
 					{% endif %}
 				</div>
 				<div class="post">
-					<img class="hero lightbox-image" src="{{ page.image }}" alt="{{ page.title }}">
+					<a class="lightbox-img" src="{{ page.image }}" alt="{{ page.title }}">
+						<img class="hero" src="{{ page.image }}" alt="{{ page.title }}">
+					</a>
 					<p>
 						{{ page.blurb }}
 						{{ content }}
