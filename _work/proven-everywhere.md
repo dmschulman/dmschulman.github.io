@@ -10,7 +10,7 @@ tags:
 
 ## Challenges
 
-
+This landing page receives a complete design makeover on an annual basis, in line with the university’s bi-annual enrollment cycles. Though the purpose of the page does not change from year to year, the concept of the page and the information hierarchy does along with the look and feel. Being able to pivot to these new designs without having to reinvent the wheel each cycle is critical to delivering each landing page on time so as not to miss alignment with out-of-home, terrestrial, and digital advertising efforts.
 
 ## Solutions
 
