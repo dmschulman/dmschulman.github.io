@@ -16,13 +16,13 @@ Over 1/3rd of the web traffic these landing pages receive comes from mobile devi
 
 ## Solutions
 
-As the brand landing page has evolved from campaign cycle to campaign cycle so to have our strategies for delivering content and messaging.
+As the brand landing page has evolved from campaign cycle to campaign cycle so too have our strategies for delivering content and messaging.
 
 * As a best practice, any region that can be generated using CSS instead of a graphic _is_ generated using CSS. This includes designed text layouts, gradient backgrounds, calls to action, infographics, buttons, and more. My spearheading of this improvement accounted for the single biggest increase of on page performance.
 * Mobile users are served different versions of banner graphics and other images on the page, pairing down filesize and narrowing dimensions (while accounting for mobile viewports) without sacrificing noticable quality.
 * A/B testing our call to action placements helped improve visit and application conversions year over year.
 
-Keeping users on our website increases conversion success, who would have thought?!
+Keeping users on our website increased conversion success, who would have thought?!
 
 * For conversion actions such as "apply now" and "visit", we have utilized different products to facilitate these requests campaign to campaign.
 * Earlier versions of this landing pages sent users off site to fill out a form or start their application, actions which were not ideal for user engagement.
