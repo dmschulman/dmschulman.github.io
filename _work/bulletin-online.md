@@ -2,7 +2,7 @@
 layout: work
 title: "The Bulletin Online"
 description: "As a print publication, The Bulletin helps support UScience's mission of engaging alumni audiences, industry partners, and university constituencies through sharing stories, research breakthroughs, profiling distinguished students, and providing updates on the latest campus news. Furthering this goal, I approached a complete reimagining of the digital edition of The Bulletin Online in 2017, bringing the site out of an external blogging platform and into our new website's CMS."
-thumbnail: "https://dmschulman.com/about/work/bulletin-online.jpg"
+thumbnail: "https://dmschulman.com/about/work/bulletin-online-106-1.jpg"
 link: https://www.usciences.edu/bulletin
 date: 2017-05-15
 tags: 
@@ -30,8 +30,8 @@ New Class Notes/In Memoriam features were developed with searchability, data int
 
 <ul class="pictures">
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" title="The Bulletin Online mobile view" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" alt="The Bulletin Online mobile view">
+    <a href="https://dmschulman.com/about/work/bulletin-online-106-1-letter.jpg" title="The Bulletin Online president's letter" target="_blank">
+      <img src="https://dmschulman.com/about/work/bulletin-online-106-1-letter.jpg" alt="The Bulletin Online president's letter">
     </a>
   </li>
   <li>
@@ -42,6 +42,11 @@ New Class Notes/In Memoriam features were developed with searchability, data int
   <li>
     <a href="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" title="The Bulletin Online in memoriam" target="_blank">
       <img src="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" alt="The Bulletin Online in memoriam">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" title="The Bulletin Online mobile view" target="_blank">
+      <img src="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" alt="The Bulletin Online mobile view">
     </a>
   </li>
   <li>
