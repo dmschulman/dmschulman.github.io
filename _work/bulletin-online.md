@@ -50,6 +50,11 @@ New Class Notes/In Memoriam features were developed with searchability, data int
     </a>
   </li>
   <li>
+    <a href="https://dmschulman.com/about/work/bulletin-online-before.jpg" title="The Bulletin Online previous version on Typepad.com" target="_blank">
+      <img src="https://dmschulman.com/about/work/bulletin-online-before.jpg" alt="The Bulletin Online previous version on Typepad.com">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" title="The Bulletin Online desktop view" target="_blank">
       <img src="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" alt="The Bulletin Online desktop view">
     </a>
