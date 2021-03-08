@@ -32,7 +32,8 @@ p {
 	line-height: 1.5rem;
 }
 
-a {
+a,
+a figcaption {
 	text-decoration: none;
 	border-bottom: solid 1px #202020;
 	color: #202020;
@@ -46,7 +47,10 @@ a {
 
 a:active,
 a:hover,
-a:focus {
+a:focus,
+a figcaption:active,
+a figcaption:hover,
+a figcaption:focus {
 	text-decoration: none;
 	border-bottom: solid 1px #fe5000;
 	color: #fe5000;
@@ -203,10 +207,32 @@ ul.social a.sc:hover i { color: #fe5000; }
 ul.social a.dr:hover i { color: #ea4c89; }
 ul.social a.ig:hover i { color: #8a3ab9; }
 
+/* FOOTER */
+
+footer {
+	border-top: 1px solid #bbbbbb;
+	padding: 1rem 0 0 0;
+}
+
+footer span {
+	display: block;
+	margin: 0 0 .1rem 0;
+}
+
 /* CONTENT */
 
 .content {
 	margin: 0 0 2rem 0;
+}
+
+	.content li.row figure img {
+		float: left;
+		margin: 0 1rem 1rem 0;
+	}
+
+.content li.row figure figcaption {
+	line-height: 1;
+	margin-bottom: 1rem;
 }
 
 /* RESUME */
@@ -616,18 +642,6 @@ img.favicon {
 	vertical-align: middle;
 }
 
-/* FOOTER */
-
-footer {
-	border-top: 1px solid #bbbbbb;
-	padding: 1rem 0 0 0;
-}
-
-footer span {
-	display: block;
-	margin: 0 0 .1rem 0;
-}
-
 /* BREAKPOINTS */
 
 @media only screen and (min-width: 1024px) {
@@ -654,6 +668,14 @@ footer span {
         max-width: 1600px;
         padding: 30px 100px 30px 230px;
     }
+	
+	.content li.row figure img {
+		max-width: 300px;
+	}
+
+	.content li.row figure figcaption {
+		font-size: 1.5rem;
+	}
 	
 	li.music {
 		max-width: 48%;
@@ -735,6 +757,14 @@ footer span {
     main {
         padding: 20px;
     }
+	
+	.content li.row figure img {
+		max-width: 200px;
+	}
+
+	.content li.row figure figcaption {
+		font-size: 1.2rem;
+	}
   
     ul.bookmarks {
         -webkit-column-count: 2;
