@@ -15,13 +15,15 @@ description: ""
     </figure>
   </a>
   <div class="post-meta">
+    {% if item.category.size > 0 %}
+      <span class="category">
+        <i aria-hidden class="fas fa-folder" title="Category"></i> {{ item.category }}
+      </span>
+    {% endif %}
     {% if item.tags.size > 0 %}
       <span class="tags">
         <i aria-hidden class="fas fa-tags" title="Tags"></i> {{ item.tags | sort | join: ", " }}
       </span>
-    {% endif %}
-    {% if item.category.size > 0 %}
-      <span class="category">{{ item.category }}</span>
     {% endif %}
   </div>
   <p>{{ item.description }}</p>
