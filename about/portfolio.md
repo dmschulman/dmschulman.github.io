@@ -14,6 +14,16 @@ description: ""
       <figcaption>{{ item.title }}</figcaption>
     </figure>
   </a>
+  <div class="post-meta">
+    {% if page.tags.size > 0 %}
+      <span class="tags">
+        <i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
+      </span>
+    {% endif %}
+    {% if page.category.size > 0 %}
+      <span class="category">{{ page.category }}</span>
+    {% endif %}
+  </div>
   <p>{{ item.description }}</p>
 </li>
 {% endfor %}
