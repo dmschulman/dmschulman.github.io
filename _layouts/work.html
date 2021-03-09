@@ -27,7 +27,9 @@
 						</span>
 					{% endif %}
 				</div>
-				<img class="hero" src="{{ page.image }}" alt="{{ page.title }}">
+				<a href="{{ page.image }}" title="{{ page.title }}" target="_blank">
+				<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}">
+				</a>
         			<p>{{ page.description }}</p>
 				
 				{{ page.content }}
