@@ -182,19 +182,20 @@ header ul.global a:focus {
 	color: #757575;
 }
 
-header ul.social {
-	margin: 10px 0;
-}
-
-header ul.social li {
-	display: inline;
-}
-
 a i.fab,
 a i.fas {
 	-webkit-transition: all .2s ease-in-out 0s;
 	-moz-transition: all .2s ease-in-out 0s;
 	transition: all .2s ease-in-out 0s;
+}
+
+ul.social {
+	margin: 10px 0;
+}
+
+ul.social li {
+	display: inline;
+	padding-left: .5rem;
 }
 
 ul.social a.em:hover i { color: #757575; }
@@ -668,10 +669,6 @@ img.favicon {
 		margin: 20px 0;
 	}
 
-	header ul.social li {
-		padding-right: 7px;    
-	}
-
 	main {
 		max-width: 1600px;
 		padding: 30px 100px 30px 230px;
@@ -703,20 +700,20 @@ img.favicon {
 		margin-left: 2%;
 	}
         
-    ul.posts li span.date {
-        float: right;
-    }
-        
-    ul.bookmarks {
-        -webkit-column-count: 4;
-        -moz-column-count: 4;
-        column-count: 4;
-    }
-        
-    ul.bookmarks li a {
-        font-size: .875rem;
-        line-height: 1.3rem;
-    }
+	ul.posts li span.date {
+		float: right;
+	}
+
+	ul.bookmarks {
+		-webkit-column-count: 4;
+		-moz-column-count: 4;
+		column-count: 4;
+	}
+
+	ul.bookmarks li a {
+		font-size: .875rem;
+		line-height: 1.3rem;
+	}
 }
 
 @media only screen and (max-width: 1023px) {
@@ -762,14 +759,6 @@ img.favicon {
 	header ul.global li {
 		padding-right: 20px;
 	}
-
-	header ul.social {
-		text-align: right;
-	}
-
-	header ul.social li {
-		padding-left: 7px;
-	}
 	
 	.hidden-d {
 		display: none;
@@ -791,15 +780,15 @@ img.favicon {
 	.content li.row figure figcaption {
 		font-size: 1.2rem;
 	}
-  
-    ul.bookmarks {
-        -webkit-column-count: 2;
-        -moz-column-count: 2;
-        column-count: 2;
-    }
-        
-    ul.bookmarks li a {
-        font-size: 1rem;
-        line-height: 1.5rem;
-    }
+
+	ul.bookmarks {
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+	}
+
+	ul.bookmarks li a {
+		font-size: 1rem;
+		line-height: 1.5rem;
+	}
 }
