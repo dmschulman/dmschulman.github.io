@@ -5,7 +5,12 @@ description: ""
 thumbnail: "https://dmschulman.com/about/work/usciences-online-v1.jpg"
 link: https://online.usciences.edu
 date: 2019-10-10
+category: "University of the Sciences"
 tags: 
+  - OUCampus
+  - XSL
+  - HTML
+  - CSS
 ---
 
 ## Challenges
