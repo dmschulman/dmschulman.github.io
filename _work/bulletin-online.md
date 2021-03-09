@@ -11,6 +11,8 @@ tags:
   - XSL
   - HTML
   - CSS
+  - database
+  - XML
 ---
 
 ## Challenges
