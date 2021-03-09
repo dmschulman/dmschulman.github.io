@@ -5,7 +5,12 @@ description: "As a print publication, The Bulletin helps support UScience's miss
 thumbnail: "https://dmschulman.com/about/work/bulletin-online-106-1.jpg"
 link: https://www.usciences.edu/bulletin
 date: 2017-05-15
+category: "University of the Sciences" 
 tags: 
+  - OUCampus
+  - XSL
+  - HTML
+  - CSS
 ---
 
 ## Challenges
