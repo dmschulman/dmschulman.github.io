@@ -2,7 +2,7 @@
 layout: work
 title: "The Bulletin Online"
 description: "As a print publication, The Bulletin helps support UScience's mission of engaging alumni audiences, industry partners, and university constituencies through sharing stories, research breakthroughs, profiling distinguished students, and providing updates on the latest campus news. Furthering this goal, I approached a complete reimagining of the digital edition of The Bulletin Online in 2017, bringing the site out of an external blogging platform and into our new website's CMS."
-thumbnail: "https://dmschulman.com/about/work/bulletin-online-106-1.jpg"
+image: "https://dmschulman.com/about/work/bulletin-online-106-1.jpg"
 link: https://www.usciences.edu/bulletin
 date: 2017-05-15
 category: "University of the Sciences" 
