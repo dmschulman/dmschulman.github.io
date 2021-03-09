@@ -189,10 +189,6 @@ a i.fas {
 	transition: all .2s ease-in-out 0s;
 }
 
-ul.social {
-	margin: 1rem 0;
-}
-
 ul.social li {
 	display: inline;
 	padding-right: .5rem;
@@ -682,6 +678,10 @@ img.favicon {
 	header ul {
 		margin: 20px 0;
 	}
+	
+	ul.social {
+		margin: 1rem 0;
+	}
 
 	main {
 		max-width: 1600px;
@@ -772,6 +772,10 @@ img.favicon {
 
 	header ul.global li {
 		padding-right: 20px;
+	}
+	
+	ul.social {
+		margin: .5rem 0 1rem 0;
 	}
 	
 	.hidden-d {
