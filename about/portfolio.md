@@ -4,6 +4,8 @@ title: "Portfolio"
 description: ""
 ---
 
+The digital portfolio below contains recent web development and design projects that I'm rather proud of. Click into each entry to view more information, see additional screenshots, and more.
+
 {% assign work = site.work %}
 <ul class="posts">
   {% for item in site.work %}
