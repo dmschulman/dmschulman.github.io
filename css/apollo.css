@@ -429,18 +429,19 @@ p.footnote a {
 }
 
 .post-meta {
-	padding-bottom: 1rem;
+	padding-bottom: .5rem;
+}
+
+.post-meta i.fab,
+.post-meta i.fas {
+	width: 20px;
 }
 
 .post-meta span {
 	display: inline-block;
-	margin: 0 10px 3px 0;
+	margin: 0 0 3px 0;
 	text-transform: capitalize;
-}
-
-.post-meta span.tags {
-	display: block;
-	line-height: 1.5;
+	font-weight: bold;
 }
 
 .post em.update {
