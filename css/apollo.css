@@ -653,29 +653,38 @@ img.favicon {
 /* BREAKPOINTS */
 
 @media only screen and (min-width: 1024px) {
-    header {
-        position: fixed;
-        width: 230px;
-        padding: 30px 30px 0 40px;
-    }
+	header {
+		position: fixed;
+		width: 230px;
+		padding: 30px 30px 0 40px;
+	}
 
 	header a.logo {
 		display: block;
 		margin: 0 0 .5rem 0;
 	}
 	
-    header ul {
-        margin: 20px 0;
-    }
-  
-    header ul.social li {
-        padding-right: 7px;    
-    }
+	header ul {
+		margin: 20px 0;
+	}
 
-    main {
-        max-width: 1600px;
-        padding: 30px 100px 30px 230px;
-    }
+	header ul.social li {
+		padding-right: 7px;    
+	}
+
+	main {
+		max-width: 1600px;
+		padding: 30px 100px 30px 230px;
+	}
+	
+	.hidden-d {
+		visibility: visible;	
+	}
+
+	.hidden-m {
+		display: none;
+		visibility: hidden;
+	}
 	
 	.content li.row figure img {
 		max-width: 300px;
@@ -711,9 +720,9 @@ img.favicon {
 }
 
 @media only screen and (max-width: 1023px) {
-    header {
-        padding: 20px 20px 0 20px;
-    }
+	header {
+		padding: 20px 20px 0 20px;
+	}
 	
 	header a.logo {
 		float: left;
@@ -724,12 +733,12 @@ img.favicon {
 		text-align: right;
 	}
 
-    header ul li {
-        display: inline;
-    }
+	header ul li {
+		display: inline;
+	}
   
-    header ul.global {
-        margin: 1rem 0;
+	header ul.global {
+		margin: 1rem 0;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
@@ -748,23 +757,32 @@ img.favicon {
 		-webkit-align-items: stretch;
 		-ms-flex-align: stretch;
 		align-items: stretch;
-    }
+	}
 
-    header ul.global li {
-        padding-right: 20px;
-    }
+	header ul.global li {
+		padding-right: 20px;
+	}
+
+	header ul.social {
+		text-align: right;
+	}
+
+	header ul.social li {
+		padding-left: 7px;
+	}
+	
+	.hidden-d {
+		display: none;
+		visibility: hidden;	
+	}
+
+	.hidden-m {
+		visibility: visible;
+	}
     
-    header ul.social {
-        text-align: right;
-    }
-    
-    header ul.social li {
-        padding-left: 7px;
-    }
-    
-    main {
-        padding: 20px;
-    }
+	main {
+		padding: 20px;
+	}
 	
 	.content li.row figure img {
 		max-width: 200px;
