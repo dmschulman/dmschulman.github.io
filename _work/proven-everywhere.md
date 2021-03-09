@@ -45,7 +45,7 @@ Keeping users on our website increased conversion success, who would have though
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/proven-everywhere-2018-full.jpg" title="Proven Everywhere landing page 20218" target="_blank">
+    <a href="https://dmschulman.com/about/work/proven-everywhere-2018-full.jpg" title="Proven Everywhere landing page 2018" target="_blank">
       <img src="https://dmschulman.com/about/work/proven-everywhere-2018-full.jpg" alt="Proven Everywhere landing page 2018">
     </a>
   </li>
