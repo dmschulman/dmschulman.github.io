@@ -5,7 +5,12 @@ description: "To help promote the university and its educational mission to pros
 thumbnail: "https://dmschulman.com/about/work/proven-everywhere-2020.jpg"
 link: https://www.usciences.edu/proveneverywhere
 date: 2020-09-15
+category: "University of the Sciences" 
 tags: 
+  - OUCampus
+  - XSL
+  - HTML
+  - CSS
 ---
 
 ## Challenges
