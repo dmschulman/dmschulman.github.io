@@ -5,5 +5,6 @@ description: "If getting engaged has taught me anything it's that weddings are s
 thumbnail: "https://dmschulman.com/about/work/david-and-adrienne-wed.jpg"
 link: https://davidandadriennewed.com/
 date: 2019-08-13
+category: "Side Projects"
 tags: 
 ---
