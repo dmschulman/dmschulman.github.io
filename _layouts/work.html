@@ -15,7 +15,7 @@
 		<main>
 			<article class="content">
 				<h1>{{ page.title }}</h1>
-				<div class="post-meta">
+				<section class="post-meta">
 					{% if page.category.size > 0 %}
 						<span class="category">
 							<i aria-hidden class="fas fa-folder" title="Category"></i> {{ page.category }}
@@ -26,8 +26,8 @@
 							<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
 						</span>
 					{% endif %}
-				</div>
-				<p>
+				</section>
+				<p class="hero">
 					<a href="{{ page.image }}" title="{{ page.title }}" target="_blank">
 						<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}" />
 					</a>
