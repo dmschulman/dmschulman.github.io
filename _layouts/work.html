@@ -13,7 +13,7 @@
 			</span>
 		</header>
 		<main>
-			<article class="content work">
+			<article class="content">
 				<h1>{{ page.title }}</h1>
 				<div class="post-meta">
 					{% if page.category.size > 0 %}
@@ -29,7 +29,7 @@
 				</div>
 				<p>
 					<a href="{{ page.image }}" title="{{ page.title }}" target="_blank">
-						<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}">
+						<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}" />
 					</a>
 				</p>
         			<p class="intro">
@@ -41,6 +41,11 @@
 				{% if page.link %}
 					<p>
 						Visit <a href="{{ page.link }}" title="{{ page.title }}" target="_blank">{{ page.title }}</a>
+					</p>
+				{% endif %}
+				{% if page.updated %}
+					<p>
+						<em class="update">This page was last updated {{ page.updated }}.</em>
 					</p>
 				{% endif %}
 			</article>
