@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function() {
     elements.forEach(element => {
         element.addEventListener("click", function(event) {
             event.preventDefault();
-            document.getElementById('lightbox').innerHTML = '<a id="close">x</a><a id="next">&gt;</a><a id="prev">&lt;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;" title="'+this.getAttribute('title')+'" ><img src="'+this.getAttribute('href')+'" alt="'+this.getAttribute('title')+'" /></div><span>'+this.getAttribute('alt')+'</span>';
+            document.getElementById('lightbox').innerHTML = '<a id="close">x</a><a id="next">&gt;</a><a id="prev">&lt;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;" ><img src="'+this.getAttribute('href')+'" alt="'+this.getAttribute('title')+'" /></div><span>'+this.getAttribute('title')+'</span>';
             document.getElementById('lightbox').style.display = 'block';
 
             setGallery(this);
