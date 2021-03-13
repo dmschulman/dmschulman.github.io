@@ -197,7 +197,7 @@ Here are a handful of sound demos I had recorded immediately after completing th
   </li>
   <li>
     <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg" title="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg" alt="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" />
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg" alt="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" title="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" />
     </a>
   </li>
 </ul>
