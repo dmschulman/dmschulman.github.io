@@ -36,7 +36,7 @@ The synth's bright orange plexiglass case was certainly the first detail caught 
 Buying and building the Anushri was very straightforward. Although it was a bit intimidating for my first DIY project (bags upon bags of parts, 400+ solder points, 20 ICs to socket, etc) the build guide from Mutable Instruments was pristine and I could buy every part, from the PCBs, case, and all of the necessary components, from the MI website. The kit even came with a little French lemon sweet (the "victory candy") to celebrate a long successful build with.
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" title="Mutable Instruments Anushri parts" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-1.jpg" alt="Mutable Instruments Anushri parts" />
   </a>
 </figure>
 
@@ -46,10 +46,10 @@ Most people had eventually taken to modifying their SH-101 with extra input jack
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" title="Mutable Instruments Anushri main board and control board PCB" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" alt="Mutable Instruments Anushri main board and control board PCB">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-2.jpg" alt="Mutable Instruments Anushri main board and control board PCB" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" title="Mutable Instruments Anushri plexiglass case" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" alt="Mutable Instruments Anushri plexiglass case">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-3.jpg" alt="Mutable Instruments Anushri plexiglass case" />
   </a>
 </figure>
 
@@ -57,10 +57,10 @@ As I mentioned before, the build was incredibly straightforward. The simplicity 
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" title="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" alt="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-7.jpg" alt="Adding the film capacitors and quartz clock to the Mutable Instruments Anushri" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" title="Adding the IC sockets to the main board on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" alt="Adding the IC sockets to the main board on the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-8.jpg" alt="Adding the IC sockets to the main board on the Mutable Instruments Anushri" />
   </a>
 </figure>
 
@@ -70,10 +70,10 @@ Later on, I realized bending the components legs appropriately helped get them t
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" title="Installing the electrolytic capacitors, voltage regulators, transistors, and jacks on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transistors, and jacks on the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-12.jpg" alt="Installing the electrolytic capacitors, voltage regulators, transistors, and jacks on the Mutable Instruments Anushri" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" title="Socketing the ICs into the Mutable Instruments Anushri control board" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" alt="Socketing the ICs into the Mutable Instruments Anushri control board">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-14.jpg" alt="Socketing the ICs into the Mutable Instruments Anushri control board" />
   </a>
 </figure>
 
@@ -81,10 +81,10 @@ There isn't much specific advice I have to share for building the main board giv
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" title="Finishing up the top of the control board on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" alt="Finishing up the top of the control board on the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-17.jpg" alt="Finishing up the top of the control board on the Mutable Instruments Anushri" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" title="All ready to be placed in a case" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" alt="All ready to be placed in a case">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-19.jpg" alt="All ready to be placed in a case" />
   </a>
 </figure>
 
@@ -94,10 +94,10 @@ I took liberties with my case and traced some colorful designs into the geometri
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg" title="Detail of the colored inlay I designed on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg" alt="Detail of the colored inlay I designed on the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-23.jpg" alt="Detail of the colored inlay I designed on the Mutable Instruments Anushri" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg" title="A long build finally finished, the assembled Mutable Instruments Anushri in all its glory" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg" alt="A long build finally finished, the assembled Mutable Instruments Anushri in all its glory">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-25.jpg" alt="A long build finally finished, the assembled Mutable Instruments Anushri in all its glory" />
   </a>
 </figure>
 
@@ -111,10 +111,10 @@ I decided to create [my own version of the case](https://github.com/dmschulman/a
 
 <figure>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" title="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" alt="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-28.jpg" alt="The updated front panel includes references for each knob's function in the various modes on the Mutable Instruments Anushri" />
   </a>
   <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-29.jpg" title="The MIDI CC chart I included on my custom Mutable Instruments Anushri case" target="_blank">
-  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-29.jpg" alt="The MIDI CC chart I included on my custom Mutable Instruments Anushri case">
+  <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-29.jpg" alt="The MIDI CC chart I included on my custom Mutable Instruments Anushri case" />
   </a>
 </figure>
 
@@ -127,53 +127,77 @@ Here are a handful of sound demos I had recorded immediately after completing th
 <ul class="pictures">
   <li>
     <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" title="My workspace while putting together the Mutable Instruments Anushri" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" alt="My workspace while putting together the Mutable Instruments Anushri">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-4.jpg" alt="My workspace while putting together the Mutable Instruments Anushri" />
     </a>
   </li>
   <li>
     <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg" title="Inserting all of the resistors in the Mutable Instruments Anushri main board" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg" alt="Inserting all of the resistors in the Mutable Instruments Anushri main board">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-5.jpg" alt="Inserting all of the resistors in the Mutable Instruments Anushri main board" />
     </a>
   </li>
   <li>
     <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" title="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted" target="_blank">
-      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" alt="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-6.jpg" alt="The bottom of the Mutable Instruments Anushri with all the through hole resistors inserted" />
     </a>
   </li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" title="Jury rigging a work surface where I could solder without the components moving around" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" alt="Jury rigging a work surface where I could solder without the components moving around">
-  </a>
-</li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg" title="Mounting all of the IC sockets on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg" alt="Mounting all of the IC sockets on the Mutable Instruments Anushri">
-  </a>
-</li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" title="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" alt="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers.">
-  </a>
-</li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" title="Installing the buttons on the Mutable Instruments Anushri control board" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" alt="Installing the buttons on the Mutable Instruments Anushri control board">
-  </a>
-</li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" title="Adding switches and jacks to the Mutable Instruments Anushri control board" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" alt="Adding switches and jacks to the Mutable Instruments Anushri control board">
-  </a>
-</li>
-<li>
-  <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" title="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri" target="_blank">
-    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" alt="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri">
-  </a>
-</li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg"></a></li>
-<li><a href="" title="" target="_blank"><img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg"></a></li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" title="Jury rigging a work surface where I could solder without the components moving around" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-9.jpg" alt="Jury rigging a work surface where I could solder without the components moving around" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg" title="Mounting all of the IC sockets on the Mutable Instruments Anushri" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-10.jpg" alt="Mounting all of the IC sockets on the Mutable Instruments Anushri" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" title="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-13.jpg" alt="Attaching the final control board component on the Mutable Instruments Anushri, the pin headers." />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" title="Installing the buttons on the Mutable Instruments Anushri control board" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-15.jpg" alt="Installing the buttons on the Mutable Instruments Anushri control board" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" title="Adding switches and jacks to the Mutable Instruments Anushri control board" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-16.jpg" alt="Adding switches and jacks to the Mutable Instruments Anushri control board" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" title="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-18.jpg" alt="Placing the header recepticals on the bottom of the control board on the Mutable Instruments Anushri" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg" title="All finished, the complete Shruthi assembled in its case" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-20.jpg" alt="All finished, the complete Shruthi assembled in its case" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg" title="The orange plexiglass case is really magnificent in person" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-21.jpg" alt="The orange plexiglass case is really magnificent in person" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg" title="Detail of the mandala engraving on the case. I colored mine in with some Sharpie pens" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg" alt="Detail of the mandala engraving on the case. I colored mine in with some Sharpie pens" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg" title="On the back of the unit we have MIDI in/out, mono audio in/out, and power jacks" target="_blank">
+    <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-24.jpg" alt="On the back of the unit we have MIDI in/out, mono audio in/out, and power jacks" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg" title="A closeup of the front panel under different lighting conditions" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-26.jpg" alt="A closeup of the front panel under different lighting conditions" />
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg" title="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" target="_blank">
+      <img src="https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-27.jpg" alt="Another closeup of the front panel, I colored in the panel etchings with Sharpie to make them move visible" />
+    </a>
+  </li>
 </ul>
