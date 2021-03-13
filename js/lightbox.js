@@ -97,14 +97,20 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             if(is_imagelink(url) && !element.classList.contains('no-lightbox')) {
                 element.classList.add('lightbox-image');
-		element.setAttribute("loading", "lazy");
                 var href = element.getAttribute('href');
                 var filename = href.split('/').pop();
                 var split = filename.split(".");
                 var name = split[0];
+                // element.setAttribute('title',name);
             }
         }
     });
+	
+    //custom: add lazy
+    var elements = document.querySelectorAll('img');
+	elements.forEach(element => {
+	    element.setAttribute("loading", "lazy");
+        });
 
     //remove the clicked lightbox
     document.getElementById('lightbox').addEventListener("click", function(event) {
