@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "USciences Online"
-description: ""
+description: "Online education presents a unique opportunity for traditional brick-and-mortar universities, especially established schools like USciences who have made a name for themselves in higher education over the last two centuries. The university had dabbled in online courses in the past, but when a new push was initiated in 2019 to create degree-granting online programs for graduate and undergraduate students it was imperative to quickly establish a digital presence which would allow the university to promote the new initiative as well as attract and enroll online learners."
 image: "https://dmschulman.com/about/work/usciences-online-v1.jpg"
 link: https://online.usciences.edu
 date: 2019-10-10
