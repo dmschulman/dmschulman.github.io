@@ -15,9 +15,11 @@ tags:
 
 ## Challenges
 
-Getting our product to market as quickly as possible was an important requirement for USciences Online. Distance learning is not a new concept to most, but being able to educate prospective students about the unique value proposition of our degree programs was the first step in growing the brand, enrolling our first class of students, and fufilling the mission of the online education initiative.
+Getting our product to market as quickly as possible was an important requirement for USciences Online. Distance learning is not a new concept to most, but being able to educate prospective students about the unique value proposition of our degree programs was the first step in growing the brand, enrolling our first class of students, and fulfilling the mission of the online education initiative.
 
-The accelerated timeline of the project required a variety of compromises on all fronts, and to this end, the website I'd create would need to fulfill a niche that consituted more than a landing page but less than a full-fledged university website. The website also needed to serve as a unifying presence to tie together our digital advertising efforts, parts of our external partner's enrollment funnel, and be flexible enough to accomodate the growing needs of the online university until a larger web presence could be realized.
+The accelerated timeline of the project required a variety of compromises on all fronts, and to this end, the website I'd create would need to fulfill a niche that constituted more than a landing page but less than a full-fledged university website. The website also needed to serve as a unifying presence to tie together our digital advertising efforts, parts of our external partner's enrollment funnel, and be flexible enough to accommodate the growing needs of the online university until a larger web presence could be realized.
+
+There is also great difficulty in getting a new brand off the ground. Students appreciate schools that can provide excellent educational outcomes as well as job prospects after graduation. It's not possible to promote these messages when you’re enrolling your very first class, no graduates have made it through the programming yet, so a unique challenge also existed in the way we advertise our degree offerings and position our fledgling brand to the market.
 
 ## Solutions
 
