@@ -23,6 +23,9 @@ There is also great difficulty in getting a new brand off the ground. Students a
 
 ## Solutions
 
+Designing and building out the web presence was the most immediate need as our digital advertising efforts were already in place. I wasted no time in creating the site.
+* This scaffolding was aided by the modular approach I had begun implementing on the university's primary web presence. Instead of starting from scratch to build core parts of the site (global navigation, footer, banner boxes, content regions, etc) I was able to repurpose chunks of my own code that could be quickly modified to support an evolved design.
+* Wireframes and mockups for the new site were created with Invision and presented to stakeholders. It was understood that the design should be similar to our primary website but different enough to not confuse prospective students or too closely mingle our distinct brands.
 
 
 <ul class="pictures">
