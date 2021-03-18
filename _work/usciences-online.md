@@ -24,9 +24,13 @@ There is also great difficulty in getting a new brand off the ground. Students a
 ## Solutions
 
 Designing and building out the web presence was the most immediate need as our digital advertising efforts were already in place. I wasted no time in creating the site.
-* This scaffolding was aided by the modular approach I had begun implementing on the university's primary web presence. Instead of starting from scratch to build core parts of the site (global navigation, footer, banner boxes, content regions, etc) I was able to repurpose chunks of my own code that could be quickly modified to support an evolved design.
-* Wireframes and mockups for the new site were created with Invision and presented to stakeholders. It was understood that the design should be similar to our primary website but different enough to not confuse prospective students or too closely mingle our distinct brands.
+* Wireframes and mockups for the new site were created with Invision and presented to stakeholders. It was understood that the design should be similar to our primary website but different enough to not confuse prospective students or too closely mingle our distinct brands. It also needed to be simple enough to quickly build out and pivot as necessary.
+* Quickly standing up the website was aided by the modular approach I had begun implementing on the university's primary web presence. Instead of starting from scratch to build core parts of the site (global navigation, footer, banner boxes, content regions, etc) I was able to repurpose chunks of my own code that could be quickly modified to support our evolving web design.
+* Though time was of the essence, special attention was given to WCAG accessibility standards, quick page load times, and mobile design. More than a third of the web traffic to our primary university website comes from mobile devices. For an online university we can assume those numbers to be much higher, especially given our targeted digital advertising strategies.
 
+Simply providing a website with basic information about degree options and programs would have been enough to satisfy the project, but it would not have been effective at building a search profile or presence for the new online university. Features were advocated for and built out to improve user experience, bolster online visibility, and drive traffic to our primary calls to action.
+* An early proposal from our vendor regarding our enrollment funnel required users to leave our website in order to request more information or apply. From a conversion standpoint as well as UX standpoint this felt unacceptable. I instead leveraged the vendor's technology so we could provide conversion forms hosted on our website instead of forcing users to bounce to a third-party site.
+* Decisions were initially made to use graphic banners instead of HTML/CSS assets. Though it added a little work to the project I lobbied for including banners that rendered as text on the page. Banners contained major selling points of the online programs, the SEO benefit alone was enough to justify the feature.
 
 <ul class="pictures">
   <li>
