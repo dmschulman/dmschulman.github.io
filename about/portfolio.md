@@ -6,9 +6,9 @@ description: ""
 
 The digital portfolio below contains recent web development and design projects that I'm rather proud of. Click into each entry to view more information, see additional information, screenshots, and more.
 
-{% assign work = site.work %}
+{% assign work = site.work | sort: 'date' | reverse %}
 <ul class="posts">
-  {% for item in site.work | sort: 'date'  %}
+  {% for item in site.work %}
   <li class="row">
     <a href="{{ item.url }}" title="{{ item.title }}">
       <figure>
