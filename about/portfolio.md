@@ -8,7 +8,7 @@ The digital portfolio below contains recent web development and design projects 
 
 {% assign work = site.work %}
 <ul class="posts">
-  {% for item in site.work | sort: 'date' | reverse %}
+  {% for item in site.work | sort: 'date' %}
   <li class="row">
     <a href="{{ item.url }}" title="{{ item.title }}">
       <figure>
