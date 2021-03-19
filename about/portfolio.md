@@ -4,11 +4,11 @@ title: "Portfolio"
 description: ""
 ---
 
-The digital portfolio below contains recent web development and design projects that I'm rather proud of. Click into each entry to view more information, see additional screenshots, and more.
+The digital portfolio below contains recent web development and design projects that I'm rather proud of. Click into each entry to view more information, see additional information, screenshots, and more.
 
 {% assign work = site.work %}
 <ul class="posts">
-  {% for item in site.work %}
+  {% for item in site.work | sort: 'date' | reverse  %}
   <li class="row">
     <a href="{{ item.url }}" title="{{ item.title }}">
       <figure>
