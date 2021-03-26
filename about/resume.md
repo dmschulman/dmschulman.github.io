@@ -1,13 +1,17 @@
 ---
 layout: resume
-title: "Resume"
-description: ""
+title: "David M. Schulman's Resume"
+description: "Are you looking for a front-end web developer and designer? A one-man website army? A web accessibility advocate? Someone who can drive you creative digital marketing and email efforts? With any luck, I'm already employed! But you can still check out my resume here and keep in touch."
 permalink: /about/resume.html
 ---
 
+## Core Skills
+
+Front-end web development, responsive web design, web accessibility (WCAG), UX/UI design, web analytics, server administration, search engine optimization, digital marketing strategy, email marketing, content creation
+
 ## Languages & Techologies
 
-HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Invision, Git, Docker, Wordpress, Drupal, OUCampus, Google Analytics
+HTML, CSS, XML, XSL/XSLT, JavaScript, Ruby, MySQL, Docker, Invision, Figma, Git, OUCampus, Jekyll, Wordpress, Joomla, Drupal, Amazon AWS, Apache Server, Microsoft IIS, Google Analytics, Adobe Creative Suite
 
 ## Work Experience
 
@@ -15,10 +19,11 @@ HTML, CSS, XML, XSL, JavaScript, PHP, Ruby, Markdown, Invision, Git, Docker, Wor
 #### Lead Web Developer
 _2015 - Present_
 
-* Conceptualized, coded, and deployed new website features, functional improvements, third-party products, and template designs leveraging XML/XSLT to support university admissions, marketing, and institutional goals
-* Developed numerous web projects including major campaign landing pages, database-oriented information systems, and an online mobile-responsive version of the university’s alumni magazine, ‘The Bulletin’
-* Performed lead implementation duties during the university’s website transition to the OUCampus CMS platform, meeting critical deadlines and milestones throughout the 16 month process
-* Generated functional documentation for usability of all new web projects to allow for cross-team training
+* Designed and developed numerous award-winning websites including major campaign landing pages, funnel-driven micro-sites, and an online version of USciences’ alumni magazine, among many other projects.
+* Developed and launched the university’s online learning initiative, USciences Online, evolved the presence as the online university grew in enrollment and programming, and as our enrollment strategy grew in complexity.
+* Conceptualized, coded, and deployed new website features, functional improvements, third-party integrations, and template designs leveraging XML/XSLT to support university admissions, marketing, and institutional goals.
+* Managed web team and performed lead implementation duties during the university’s website transition to the OUCampus CMS platform, meeting critical deadlines and milestones throughout the 16 month-long process.
+* Generated functional documentation for usability of all new web projects to allow for cross-team training.
 
 ### Francisvale Home for Smaller Animals
 #### Web Developer
