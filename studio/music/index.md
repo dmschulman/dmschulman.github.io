@@ -12,7 +12,7 @@ If you'd like to support my music, or just hear my more cohesive musical endeavo
 {% for category in music %}
 <h2>{{ category.name }}</h2>
 <ul class="posts">
-{% for item in category.items | sort: 'date' %}
+{% for item in category.items | groub_by: 'category' | sort: 'date' | reverse %}
 <li class="music">
     <img src="{{ item.image }}" alt="{{ item.title }}" />
     <span class="name">{{ item.title }}</span>
