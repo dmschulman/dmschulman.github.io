@@ -11,7 +11,7 @@ tags:
 source-id: 1WVzqSRaoUQzp7HhV7o4kjTuEqhjbR-m7ofERar9rkOY
 published: true
 ---
-The last time I got my hands dirty with building a custom PC was about 10 years ago, cobbling together a small home theater computer that also doubled as a large RAID array for storing a burgeoning media collection.I had built a few desktop machines before then in the late 90s/early 2000s, a time when PC gaming and PC building was a much less of a cool pursuit, but since then I've reliably stuck with laptops if not only for the simple reason that I can fit my entire digital workspace in a backpack and take it whenever I please.
+The last time I got my hands dirty with building a custom PC was about 10 years ago, cobbling together a small home theater computer that also doubled as a large RAID array for storing a burgeoning media collection. I had built a few desktop machines before then in the late 90s/early 2000s, a time when PC gaming and PC building was a much less of a cool pursuit, but since then I've reliably stuck with laptops if not only for the simple reason that I can fit my entire digital workspace in a backpack and take it whenever I please.
 
 But fast forward twenty years, PC gaming has become a lifestyle and PC building a mainstream hobby. Wars rage online about AMD vs Intel processors, enthusiasts battle cryptominers (as well as each other) for bleeding edge graphics cards and hardware, and live-streaming or competitive gaming have become new careers people aspire to. Not to mention the technology has taken a leap forward, and with it, new terms and specs to pay attention to if you desire to build an optimized and well-suited machine.
 
