@@ -44,7 +44,9 @@ strong {
 }
 
 strong em {
-	background-color: #ff0;	
+	background-color: #ff0;
+	font-style: normal;
+	font-weight: normal;
 }
 
 a,
