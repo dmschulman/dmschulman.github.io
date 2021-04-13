@@ -6,8 +6,8 @@ permalink: /why-build-a-music-studio-pc-in-2021/
 tags:
 - technology
 - computing
-- sffpc
-- pc building
+- SFFPC
+- PC building
 source-id: 1WVzqSRaoUQzp7HhV7o4kjTuEqhjbR-m7ofERar9rkOY
 published: true
 ---
