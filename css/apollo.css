@@ -43,6 +43,10 @@ strong {
 	font-weight: 700;
 }
 
+strong em {
+	background-color: #ff0;	
+}
+
 a,
 a figcaption {
 	text-decoration: none;
