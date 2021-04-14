@@ -3,6 +3,7 @@ layout: work
 title: "Mutable Instruments Anushri"
 description: "The Anushri is a DIY monosynth styled around the legendary Roland SH-101 synthesizer. It includes a built-in sequencer, simple drum machine circuit, and was quite a fun straight-forward project to build."
 permalink: /projects/mutable-instruments-anushri.html
+date: 2012-12-15
 make: "Mutable Instruments"
 model: "Anushri"
 category: "Synthesizers"
