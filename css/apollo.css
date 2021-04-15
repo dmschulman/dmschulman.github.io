@@ -17,6 +17,11 @@ body {
 	width: 100%;
 }
 
+.wrapper {
+	max-width: 1600px;
+	margin: 0 auto;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -706,7 +711,6 @@ img.favicon {
 	}
 
 	main {
-		max-width: 1600px;
 		padding: 30px 100px 30px 230px;
 	}
 	
