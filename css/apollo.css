@@ -369,6 +369,12 @@ footer span {
 	display: inline-block;
 }
 
+span.update {
+	display: block;
+	font-style: italic;
+	margin: 2rem 0 0 0;
+}
+
 /* POST */
 
 .post-meta {
@@ -389,10 +395,6 @@ footer span {
 
 .post-meta span:last-child {
 	margin: 0;
-}
-
-.post em.update {
-	margin: 1rem 0 0 0;
 }
 
 /* POST FEEDS */
