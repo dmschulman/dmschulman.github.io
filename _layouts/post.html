@@ -28,8 +28,7 @@
 				</div>
 				<div class="post">
 					{{ content }}
-					<br />
-					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
+					<span class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</span>
 				</div>
 			</article>
 			<footer>
