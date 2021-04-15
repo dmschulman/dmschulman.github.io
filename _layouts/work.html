@@ -4,49 +4,53 @@
 		{% include head-code.html %}
 	</head>
 	<body>
-		<header>
-			<nav>
-				{% include nav.html %}
-			</nav>
-			<span class="hidden-d">
-				{% include social.html %}
-			</span>
-		</header>
-		<main>
-			<article class="content">
-				<h1>{{ page.title }}</h1>
-				<section class="post-meta">
-					{% if page.category.size > 0 %}
-						<span class="category">
-							<i aria-hidden class="fas fa-folder" title="Category"></i> {{ page.category }}
-						</span>
-					{% endif %}
-					{% if page.tags.size > 0 %}
-						<span class="tags">
-							<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
-						</span>
-					{% endif %}
-				</section>
-				<p class="hero">
-					<a href="{{ page.image }}" title="{{ page.title }}" target="_blank">
-						<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}" />
-					</a>
-				</p>
-        			<p class="intro">
-					{{ page.description }}
-				</p>
-				
-				{{ page.content }}
-				
-				{% if page.link %}
-					<p>
-						Visit <a href="{{ page.link }}" title="{{ page.title }}" target="_blank">{{ page.title }}</a>
+		<div class="wrapper">
+			<header>
+				<nav>
+					{% include nav.html %}
+				</nav>
+				<span class="hidden-d">
+					{% include social.html %}
+				</span>
+			</header>
+			<main>
+				<article class="content">
+					<h1>{{ page.title }}</h1>
+					<section class="post-meta">
+						{% if page.category.size > 0 %}
+							<span class="category">
+								<i aria-hidden class="fas fa-folder" title="Category"></i> {{ page.category }}
+							</span>
+						{% endif %}
+						{% if page.tags.size > 0 %}
+							<span class="tags">
+								<i aria-hidden class="fas fa-tags" title="Tags"></i> {{ page.tags | sort | join: ", " }}
+							</span>
+						{% endif %}
+					</section>
+					<p class="hero">
+						<a href="{{ page.image }}" title="{{ page.title }}" target="_blank">
+							<img class="lightbox-image" src="{{ page.image }}" alt="{{ page.title }}" />
+						</a>
 					</p>
-				{% endif %}
-			</article>
-			<footer>
-				{% include footer.html %}
-			</footer>
-		</main>
+					<p class="intro">
+						{{ page.description }}
+					</p>
+
+					{{ page.content }}
+
+					{% if page.link %}
+						<p>
+							Visit <a href="{{ page.link }}" title="{{ page.title }}" target="_blank">{{ page.title }}</a>
+						</p>
+					{% endif %}
+					<br />
+					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
+				</article>
+				<footer>
+					{% include footer.html %}
+				</footer>
+			</main>
+		</div>
 	</body>
 </html>
