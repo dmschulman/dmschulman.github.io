@@ -34,6 +34,8 @@
 							{{ content }}
 						</p>
 					</div>
+					<br />
+					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
 				</article>
 				<footer>
 					{% include footer.html %}
