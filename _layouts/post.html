@@ -33,6 +33,7 @@
 				</div>
 			</article>
 			<footer>
+				<em class="update">This page was last updated {{ page.path | prepend: "/" | prepend: site.source | file_date | date_to_string }}.</em>
 				{% include footer.html %}
 			</footer>
 		</main>
