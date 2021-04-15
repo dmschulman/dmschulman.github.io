@@ -27,13 +27,11 @@
 				</div>
 				<div class="post">
 					{{ content }}
-					{% if page.updated %}
-						<em class="update">This post was last updated {{ page.updated }}.</em>
-					{% endif %}
+					<br />
+					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
 				</div>
 			</article>
 			<footer>
-				<em class="update">This page was last updated {{ page.path | prepend: "/" | prepend: site.source | file_date | date_to_string }}.</em>
 				{% include footer.html %}
 			</footer>
 		</main>
