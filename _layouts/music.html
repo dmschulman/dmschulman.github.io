@@ -25,6 +25,8 @@
 						{% endif %}
 						<span class="date">{{ page.date | date: '%m/%d/%Y' }}</span>
 					</div>
+					<br />
+					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
 				</article>
 				<footer>
 					{% include footer.html %}
