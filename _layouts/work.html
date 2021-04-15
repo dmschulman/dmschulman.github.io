@@ -45,7 +45,7 @@
 						</p>
 					{% endif %}
 					<br />
-					<em class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y at %r" }}.</em>
+					<em class="update">This page was last updated on {{ page.path | file_date | date: "%B %d, %Y at %r" }}.</em>
 				</article>
 				<footer>
 					{% include footer.html %}
