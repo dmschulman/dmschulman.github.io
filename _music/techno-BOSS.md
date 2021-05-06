@@ -8,6 +8,7 @@ category: "Tracks"
 tags: 
   - techno
   - Machinedrum
+  - Elektron
   - distortion
   - Virus C
 image: https://dmschulman.com/studio/music/techno-BOSS.jpg
