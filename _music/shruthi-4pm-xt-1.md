@@ -13,5 +13,5 @@ tags:
   - DIY
   - monophonic
 image: https://dmschulman.com/studio/music/shruthi-4pm-xt.jpg
-audio: https://dmschulman.com/studio/music/nord-lead-1-noodle.mp3
+audio: https://dmschulman.com/studio/music/shruthi-4pm-xt-1.mp3
 ---
