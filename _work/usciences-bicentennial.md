@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "USciences Bicentennial"
-description: ""
+description: "Being the first college of pharmacy in the nation, University of the Sciences (established in 1821) has a lot to be proud of in its 200 years of educating leaders in science and healthcare. To celebrate this milestone, a series of events, lectures, fundraising campaigns, class reunions, and other festivities were planned for the 2020-2021 academic year. To help promote and communicate the Bicentennial and build excitement around the event it was determined a microsite would need to be built within our existing CMS allowing the university to promote the event and its storied past to the public."
 image: "https://dmschulman.com/about/work/usciences-bicentennial.jpg"
 link: https://www.usciences.edu/200
 date: 2020-12-15
@@ -12,11 +12,16 @@ tags:
   - HTML
   - CSS
   - XML
+  - JS
 ---
 
 Coming Soon!
 
 <!-- ## Challenges
+
+The story of University of the Sciences is a complex one with multiple facets to present, all of them depending on images and visual materials pulled from the unversity archives. Presenting this material within our normal site templates was not an option as we wanted to strike a more inspiring tone, but creating a separate web presence was beyond the scope and timeline of what we wanted to accomplish. Therefore a solution had to be designed and coded within our content management system.
+
+
 
 ## Solutions
 
