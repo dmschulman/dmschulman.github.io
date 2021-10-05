@@ -25,7 +25,11 @@ It was necessary that the design of the microsite incorporate some flexibility a
 
 ## Solutions
 
+We went through many iterations of the two most promient pages on the microsite: the main landing page and the historic timeline. We eventually landed on concepts that allow for easy reflowing of new distinct content (using horizontal container and repeatable regions that could be easily customized) and the inclusion of just enough visual flare that it would support the tone without overwhelming visitors or the web browser.
 
+Graphic assets, such as banners and background images, were saved down separately for desktop and mobile presentations, helping us save valuable bandwidth without compromising on image quality. Techniques such as lazy loading were also utlized to provide the best user experience, natively, across platforms, and without the use of additional Javascript. Where we could, we took advantage of SVG icons and transparent PNG files to give the illusion of a contiguous image or asset (but saving on file size and bandwidth on the backend).
+
+These savings were especially important for the Timeline presentation, a chronological list of important events and moments during the university's 200 year history, each illustrated with a set of images and a marker to delineate when it occured. An XSL transformation was utlized to capture the information for each item and render it into a designed component on the timeline. This allowed for easy data entry and management for the content itself while foolproofing the way the element would appear within the context of the greater timeline's design.
 
 <ul class="pictures">
   <li>
