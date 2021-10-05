@@ -31,35 +31,35 @@ These savings were especially important for the timeline presentation, a chronol
 
 The timeline serves as both a snapshot of the university's past as well as UScience's maturation into a university and the bright future that lies ahead for the institution. The introductory banner graphic helps present the "spark" that ignited the presence of the university (a theme throughout our Bicentennial campaign marketing) and a background gradient is used to convey the passage of time: the original Philadelphia College of Pharmacy, represented by their blue varsity color, transitioning over the centuries to become the maroon-hued University of the Sciences we know today.
 
-<!-- <ul class="pictures">
+<ul class="pictures">
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-106-1-letter.jpg" title="The Bulletin Online president's letter" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-106-1-letter.jpg" alt="The Bulletin Online president's letter">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-profiles.jpg" title="Alumni profiles widget" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-profiles.jpg" alt="Alumni profiles widget from the USciences Bicentennial website">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-class-notes.jpg" title="The Bulletin Online class notes" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-class-notes.jpg" alt="The Bulletin Online class notes">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" title="Alumni Reunion banner" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" alt="A banner promoting USciences Alumni Reunion weekend and activities">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" title="The Bulletin Online in memoriam" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-memoriam.jpg" alt="The Bulletin Online in memoriam">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" title="Then and Now widget" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" alt="A feature juxtoposing old photos of campus with recent images of the same place">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" title="The Bulletin Online mobile view" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-104-3-mobile.jpg" alt="The Bulletin Online mobile view">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" title="Bicentennial Timeline beginning" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" alt="The introduction to the USciences Bicentennial Timeline which beings in the year 1821">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-before.jpg" title="The Bulletin Online previous version on Typepad.com" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-before.jpg" alt="The Bulletin Online previous version on Typepad.com">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" title="Bicentennial Timeline past" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" alt="A section of the Bicentennial Timeline describing the creation of the Philadelphia College of Pharmacy in 1822">
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" title="The Bulletin Online desktop view" target="_blank">
-      <img src="https://dmschulman.com/about/work/bulletin-online-105-2-full.jpg" alt="The Bulletin Online desktop view">
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-3.jpg" title="Bicentennial Timeline modern era" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-3.jpg" alt="A section of the Bicentennial Timeline describing the McNeil Sciences and Technology Center building, constructed in 2006">
     </a>
   </li>
-</ul> -->
+</ul>
