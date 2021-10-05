@@ -19,11 +19,13 @@ Coming Soon!
 
 <!-- ## Challenges
 
-The story of University of the Sciences is a complex one with multiple facets to present, all of them depending on images and visual materials pulled from the unversity archives. Presenting this material within our normal site templates was not an option as we wanted to strike a more inspiring tone, but creating a separate web presence was beyond the scope and timeline of what we wanted to accomplish. Therefore a solution had to be designed and coded within our content management system.
+The story of University of the Sciences is a complex one with multiple facets to present, highly dependent on images and visual materials pulled from the unversity archives. Presenting this material within our normal site templates was not an option, but creating a separate web presence was beyond the scope and timeline of what we needed to accomplish. A unique solution had to be designed and coded within our existing content management system, and one that would work well and load quickly for our majority mobile audience. After content was finalized it was decided that building a microsite would be the only way to achieve the inspirational tone and forward-thinking design the project required.
 
-
+It was necessary that the design of the microsite incorporate some flexibility as the campaign would evolve throughout the 2021 and 2022 academic years and new content would need to be included, no matter the format. The microsite would additionally need to deliver an image-heavy presentation though be nimble enough to load quickly on a mobile phone. A balance between immersive visual design and clever coding would need to be established in order to deliver on spec and within the confines of our CMS.
 
 ## Solutions
+
+
 
 <ul class="pictures">
   <li>
