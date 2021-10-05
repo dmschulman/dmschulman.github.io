@@ -273,6 +273,7 @@ footer span {
 .post ul li {
 	list-style-type: square;
 	margin: 0 0 0 1.5rem;
+	line-height: 1.5rem;
 }
 	
 .content ul li > ul li,
