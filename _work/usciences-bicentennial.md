@@ -40,23 +40,23 @@ The timeline serves as both a snapshot of the university's past as well as UScie
     </a>
   </li>
   <li>
-    <a href="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" title="Alumni Reunion banner" target="_blank">
-      <img src="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" alt="A banner promoting USciences Alumni Reunion weekend and activities">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" title="Then and Now widget" target="_blank">
-      <img src="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" alt="A feature juxtoposing old photos of campus with recent images of the same place">
-    </a>
-  </li>
-  <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" title="Bicentennial Timeline beginning" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" alt="The introduction to the USciences Bicentennial Timeline which beings in the year 1821">
     </a>
   </li>
   <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" title="Alumni Reunion banner" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" alt="A banner promoting USciences Alumni Reunion weekend and activities">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" title="Bicentennial Timeline past" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" alt="A section of the Bicentennial Timeline describing the creation of the Philadelphia College of Pharmacy in 1822">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" title="Then and Now widget" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-then-now.jpg" alt="A feature juxtoposing old photos of campus with recent images of the same place">
     </a>
   </li>
   <li>
