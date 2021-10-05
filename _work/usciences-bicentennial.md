@@ -55,6 +55,16 @@ The timeline serves as both a snapshot of the university's past as well as UScie
     </a>
   </li>
   <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" title="Memory Lane webpage" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" alt="A series of quotations from university faculty and alumni">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" title="Proven Alumni webpage" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" alt="A series of pictures and names describing famous and noteworthy USciences alumns">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" title="Bicentennial Timeline beginning" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-1.jpg" alt="The introduction to the USciences Bicentennial Timeline which beings in the year 1821">
     </a>
@@ -67,16 +77,6 @@ The timeline serves as both a snapshot of the university's past as well as UScie
   <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-3.jpg" title="Bicentennial Timeline modern era" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-3.jpg" alt="A section of the Bicentennial Timeline describing the McNeil Sciences and Technology Center building, constructed in 2006">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" title="Memory Lane webpage" target="_blank">
-      <img src="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" alt="A series of quotations from university faculty and alumni">
-    </a>
-  </li>
-  <li>
-    <a href="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" title="Proven Alumni webpage" target="_blank">
-      <img src="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" alt="A series of pictures and names describing famous and noteworthy USciences alumns">
     </a>
   </li>
 </ul>
