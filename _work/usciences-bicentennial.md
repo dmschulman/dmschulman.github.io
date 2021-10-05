@@ -35,6 +35,11 @@ The timeline serves as both a snapshot of the university's past as well as UScie
 
 <ul class="pictures">
   <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-full.jpg" title="USciences Bicentennial landing page" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-full.jpg" alt="A webpage for the USciences Bicentennial event featuring various content sections about the university and its alumni">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-profiles.jpg" title="Alumni profiles widget" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-profiles.jpg" alt="Alumni profiles widget from the USciences Bicentennial website">
     </a>
@@ -45,6 +50,11 @@ The timeline serves as both a snapshot of the university's past as well as UScie
     </a>
   </li>
   <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" title="Memory Lane webpage" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-memory-lane.jpg" alt="A series of quotations from university faculty and alumni">
+    </a>
+  </li>
+  <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" title="Alumni Reunion banner" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-reunion.jpg" alt="A banner promoting USciences Alumni Reunion weekend and activities">
     </a>
@@ -52,6 +62,11 @@ The timeline serves as both a snapshot of the university's past as well as UScie
   <li>
     <a href="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" title="Bicentennial Timeline past" target="_blank">
       <img src="https://dmschulman.com/about/work/usciences-bicentennial-timeline-2.jpg" alt="A section of the Bicentennial Timeline describing the creation of the Philadelphia College of Pharmacy in 1822">
+    </a>
+  </li>
+  <li>
+    <a href="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" title="Proven Alumni webpage" target="_blank">
+      <img src="https://dmschulman.com/about/work/usciences-bicentennial-proven-alumni.jpg" alt="A series of pictures and names describing famous and noteworthy USciences alumns">
     </a>
   </li>
   <li>
