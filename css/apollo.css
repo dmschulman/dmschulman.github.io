@@ -6,15 +6,18 @@ html, * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	font-family: monospace; /*'Helvetica', 'Arial', sans-serif;*/
+	color: #202020;
+	letter-spacing: -.5px;
 }
 
 body {
 	width: 100%;
 	background: #ffffff;
-	font-family: 'Helvetica', 'Arial', sans-serif;
-	color: #202020;
-	letter-spacing: -.5px;
-	font-weight: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .wrapper {
@@ -207,7 +210,7 @@ header p.intro {
 header ul.global a:hover,
 header ul.global a:active,
 header ul.global a:focus {
-	color: #757575;
+	color: color: #fe5000; /*#757575;*/
 }
 
 a i.fab,
@@ -256,6 +259,7 @@ footer {
 footer span {
 	display: block;
 	margin: 0 0 .1rem 0;
+	font-size: 1rem;
 }
 
 /* CONTENT */
@@ -409,6 +413,7 @@ ul.posts li {
 ul.posts li span.date {
 	display: block;
 	line-height: 1.5rem;
+	font-size: 1rem;
 }
 
 ul.posts li.gear {
