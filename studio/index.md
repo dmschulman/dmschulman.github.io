@@ -33,7 +33,7 @@ Rather than simply compiling a big list here, my intent is to share all of the v
 <li>
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-<p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
+<p class="excerpt">{{ post.excerpt | strip_html | truncatewords:55 }}</p>
 </li>
 {% endif %}
 {% endfor %}
