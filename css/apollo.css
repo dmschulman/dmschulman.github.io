@@ -2,7 +2,7 @@
 
 /* GLOBAL */
 
-html * {
+html, * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
@@ -179,7 +179,7 @@ header a {
 	line-height: 1.9rem;
 	color: #202020;
 	border: none;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 header a:hover,
@@ -761,7 +761,7 @@ img.favicon {
 
 @media only screen and (max-width: 1023px) {
 	header {
-		padding: 20px 20px 0 20px;
+		padding: 1rem 1rem 0 1rem;
 	}
 	
 	header a.logo {
@@ -778,7 +778,8 @@ img.favicon {
 	}
   
 	header ul.global {
-		margin: 1rem 0 0 0;
+		max-width: 640px;
+		margin: 1.5rem auto 0 auto;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
@@ -788,9 +789,9 @@ img.favicon {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		-webkit-justify-content: space-around;
-		-ms-flex-pack: distribute;
-		justify-content: space-around;
+		-webkit-justify-content: space-between;
+		-ms-flex-pack: space-between;
+		justify-content: space-between;
 		-webkit-align-content: stretch;
 		-ms-flex-line-pack: stretch;
 		align-content: stretch;
@@ -803,8 +804,8 @@ img.favicon {
 		padding-right: 20px;
 	}
 	
-	ul.social {
-		margin: .5rem 0 1rem 0;
+	header ul.global li:last-child {
+		padding-right: 0px;
 	}
 	
 	.hidden-d {
@@ -817,7 +818,7 @@ img.favicon {
 	}
     
 	main {
-		padding: 20px;
+		padding: 1rem;
 	}
 	
 	.content li.row figure img {
@@ -837,5 +838,10 @@ img.favicon {
 	ul.bookmarks li a {
 		font-size: 1rem;
 		line-height: 1.5rem;
+	}
+	
+	footer {
+		margin: 1rem;
+		text-align: center;
 	}
 }
