@@ -710,8 +710,8 @@ img.favicon {
 		margin: 0 0 .5rem 0;
 	}
 	
-	header ul {
-		margin: 20px 0;
+	header ul.global {
+		margin: 1rem 0 2rem 0;
 	}
 	
 	ul.social {
@@ -791,6 +791,7 @@ img.favicon {
 	}
   
 	header ul.global {
+		clear: both;
 		max-width: 640px;
 		margin: 1rem auto 0 auto;
 		display: -ms-flexbox;
@@ -811,14 +812,6 @@ img.favicon {
 		-webkit-align-items: stretch;
 		-ms-flex-align: stretch;
 		align-items: stretch;
-	}
-
-	header ul.global li {
-		padding-right: 1rem;
-	}
-	
-	header ul.global li:last-child {
-		padding-right: 0px;
 	}
 	
 	header ul.global li a {
