@@ -764,6 +764,11 @@ img.favicon {
 		padding: 1rem 1rem 0 1rem;
 	}
 	
+	header a,
+	header a:hover {
+		line-height: 1.2;
+	}
+	
 	header a.logo {
 		float: left;
 		margin: 0 1rem 0 0;
@@ -779,7 +784,7 @@ img.favicon {
   
 	header ul.global {
 		max-width: 640px;
-		margin: 1.5rem auto 0 auto;
+		margin: 1rem auto 0 auto;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
@@ -801,11 +806,15 @@ img.favicon {
 	}
 
 	header ul.global li {
-		padding-right: 20px;
+		padding-right: 1rem;
 	}
 	
 	header ul.global li:last-child {
 		padding-right: 0px;
+	}
+	
+	header ul.global li a {
+		font-size: clamp(1.15rem, 2.5vw, 1.5rem);
 	}
 	
 	.hidden-d {
