@@ -28,7 +28,7 @@ Rather than simply compiling a big list here, my intent is to share all of the v
 
 ## Production Posts
 <ul class="posts">
-{% for post in site.posts | sort: 'date' limit:4 %}
+{% for post in site.posts limit:4 %}
 {% if post.tags contains 'music production' %}
 <li>
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
