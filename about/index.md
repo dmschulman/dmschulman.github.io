@@ -4,7 +4,7 @@ title: "About"
 description: "Hey there, my name is David Michael Schulman (he/him) and I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk."
 ---
 
-<img src="https://dmschulman.com/assets/david-schulman-headshot.jpg" title="David M. Schulman" class="headshot" />
+<img src="https://dmschulman.com/assets/david-schulman-headshot.jpg" alt="David M. Schulman" class="headshot" />
 
 Hey there, my name is David Michael Schulman (he/him) and I’m a front-end web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk. Currently I lead full-stack web development at [University of the Sciences](https://www.usciences.edu/index.html), maintaining and evolving the university's online presence across all public-facing, admission-focused websites and applications.
 
