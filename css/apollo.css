@@ -104,8 +104,6 @@ h3 { font-size: clamp(1.563rem, calc(1.563rem + ((1vw - 0.2rem) * 0.65)), 1.953r
 h4 { font-size: clamp(1.25rem, calc(1.25rem + ((1vw - 0.2rem) * 0.5217)), 1.563rem); }
 h5 { font-size: clamp(1rem, calc(1rem + ((1vw - 0.2rem) * 0.4167)), 1.25rem); }
 
-
-
 blockquote {
 	margin: 0 0 20px 40px;
 	padding: 0 0 0 10px;
@@ -418,7 +416,7 @@ ul.posts li.gear {
 
 img.headshot {
 	float: right;
- 	margin: 1rem 0 1rem 1rem;
+ 	margin: 0 0 2rem 2rem;
   border-radius: 100px;
 }
 
