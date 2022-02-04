@@ -88,7 +88,7 @@ ol {
 }
 
 ul li > ul {
-	margin: 0;	
+	margin: 0;
 }
 
 h1, h2, h3, h4, h5 {
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5 {
 	font-weight: bold;
 	margin: 0 0 1rem 0;
 }
-	
+
 h1 { font-size: clamp(2.441rem, calc(2.441rem + ((1vw - 0.2rem) * 1.0183)), 3.052rem); }
 h2 { font-size: clamp(1.953rem, calc(1.953rem + ((1vw - 0.2rem) * 0.8133)), 2.441rem); }
 h3 { font-size: clamp(1.563rem, calc(1.563rem + ((1vw - 0.2rem) * 0.65)), 1.953rem); }
@@ -267,7 +267,7 @@ footer span {
 	margin: 0 0 0 1.5rem;
 	line-height: 1.5rem;
 }
-	
+
 .content ul li > ul li,
 .post ul li > ul li {
 	list-style-type: square;
@@ -419,6 +419,7 @@ ul.posts li.gear {
 img.headshot {
 	float: right;
  	margin: 1rem 0 1rem 1rem;
+  border-radius: 100px;
 }
 
 .content.resume p {
@@ -577,93 +578,40 @@ p.footnote a {
 	line-height: 1.2;
 }
 
-/* PHOTO STYLES */
+/* PHOTOS */
 
-.content ul.photo-gallery {
-	display: -ms-flexbox;
-	display: -webkit-flex;
+ul.photo-gallery {
 	display: flex;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
-	flex-direction: row;
-	-webkit-flex-wrap: wrap;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
-	-webkit-justify-content: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-align-content: stretch;
-	-ms-flex-line-pack: stretch;
-	align-content: stretch;
-	-webkit-align-items: flex-start;
-	-ms-flex-align: start;
-	align-items: flex-start;
+  flex-wrap: wrap;
 	margin: 0 auto;
 	padding: 0;
 	list-style: none;
 }
 
 ul.photo-gallery li {
-	-webkit-order: 0;
-	-ms-flex-order: 0;
-	order: 0;
-	-webkit-flex: 0 1 auto;
-	-ms-flex: 0 1 auto;
-	flex: 0 1 auto;
-	-webkit-align-self: auto;
-	-ms-flex-item-align: auto;
-	align-self: auto;
-	position: relative;
-	overflow: hidden;
-	margin: 5px;
-	max-width: 520px;
-	min-width: 320px;
-	max-height: 325px;
-	min-height: 200px;
-	width: 100%;
+  flex-grow: 1;
 	height: auto;
-	background-size: cover;
+  list-style-type: none;
+	margin: 0 auto;
+	padding: 2px;
 }
 
-ul.photo-gallery li a {
-	-moz-transition: all 1s;
-	-webkit-transition: all 1s;
-	transition: all 1s;
-	background: none;
-	border-bottom: none;
-	display: block;
+ul.photo-gallery li img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
 }
 
-ul.photo-gallery li a:hover,
-ul.photo-gallery li a:focus {
-	overflow: hidden;
-	background: none;
-	border-bottom: none;
-}
-
-ul.photo-gallery li h2 {
-	background: none;
-	color: #ffffff;
-	padding: 20px;
-	font-weight: normal;
-	line-height: 2rem;
-	align-self: flex-end;
-}
-
-/* ul.photo-gallery li a .gallery-meta {
-    position: absolute;
-    display: flex;
-    width: 360px;
-    height: 280px;
-    top: 46%;
-    left: 58%;
-    transform: translate(-50%, -50%);
-} */
-
-.gallery-meta span {
-	display: inline-block;
-	margin: 0 10px 3px 0;
+.post-meta span {
+  font-size: 1.1rem;
+  display: inline-block;
+	margin: 0 1.5rem .25rem 0;
 	text-transform: capitalize;
+}
+
+.post-meta span.tags-block {
+  display: block;
 }
 
 /* MISC CONTENT */
@@ -697,15 +645,15 @@ img.favicon {
 		display: block;
 		margin: 0 0 .5rem 0;
 	}
-	
+
 	header ul.global {
 		margin: 1.5rem 0 2rem 0;
 	}
-	
+
 	header ul.global li {
 		margin-bottom: .3rem;
 	}
-	
+
 	ul.social {
 		display: grid;
 		grid-row-gap: 10px;
@@ -716,16 +664,16 @@ img.favicon {
 	main {
 		padding: 30px 40px 30px 230px;
 	}
-	
+
 	.hidden-d {
-		visibility: visible;	
+		visibility: visible;
 	}
 
 	.hidden-m {
 		display: none;
 		visibility: hidden;
 	}
-	
+
 	.content li.row figure img {
 		max-width: 300px;
 	}
@@ -733,16 +681,16 @@ img.favicon {
 	.content li.row figure figcaption {
 		font-size: 1.5rem;
 	}
-	
+
 	li.music {
 		max-width: 48%;
 		display: inline-block;
 	}
-	
+
 	li.music:nth-child(even) {
 		margin-left: 2%;
 	}
-        
+
 	ul.posts li span.date {
 		float: right;
 	}
@@ -763,17 +711,17 @@ img.favicon {
 	header {
 		padding: 1rem 1rem 0 1rem;
 	}
-	
+
 	header a,
 	header a:hover {
 		line-height: 1.2;
 	}
-	
+
 	header a.logo {
 		float: left;
 		margin: 0 1rem 0 0;
 	}
-	
+
 	header p.intro {
 		text-align: right;
 	}
@@ -781,11 +729,11 @@ img.favicon {
 	header ul li {
 		display: inline;
 	}
-  
+
 	header ul.global {
 		clear: both;
 		max-width: 640px;
-		margin: 1rem auto 0 auto;
+		margin: 1.3rem auto 0 auto;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
@@ -805,24 +753,24 @@ img.favicon {
 		-ms-flex-align: stretch;
 		align-items: stretch;
 	}
-	
+
 	header ul.global li a {
 		font-size: clamp(1.15rem, 2.5vw, 1.5rem);
 	}
-	
+
 	.hidden-d {
 		display: none;
-		visibility: hidden;	
+		visibility: hidden;
 	}
 
 	.hidden-m {
 		visibility: visible;
 	}
-    
+
 	main {
 		padding: 1rem;
 	}
-	
+
 	.content li.row figure img {
 		max-width: 200px;
 	}
@@ -841,7 +789,7 @@ img.favicon {
 		font-size: 1rem;
 		line-height: 1.5rem;
 	}
-	
+
 	footer {
 		margin: 1rem;
 		text-align: center;
