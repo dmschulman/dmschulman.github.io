@@ -666,8 +666,7 @@ img.favicon {
 		grid-template-rows: repeat(2, 1fr);
 	}
 
-	main,
-	footer {
+	main {
 		padding: 30px 40px 30px 230px;
 	}
 
@@ -710,6 +709,10 @@ img.favicon {
 	ul.bookmarks li a {
 		font-size: .875rem;
 		line-height: 1.3rem;
+	}
+	
+	footer {
+		margin: 30px 40px 30px 230px;
 	}
 }
 
@@ -761,8 +764,7 @@ img.favicon {
 		visibility: visible;
 	}
 
-	main,
-	footer {
+	main {
 		padding: 1rem;
 	}
 
@@ -787,5 +789,6 @@ img.favicon {
 
 	footer {
 		text-align: center;
+		margin: 1rem;
 	}
 }
