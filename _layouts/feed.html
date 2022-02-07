@@ -10,7 +10,7 @@
 				{% include social.html %}
 			</header>
 			<main>
-				<div class="content">
+				<article class="content">
 					<h1>{{ page.title }}</h1>
 					<div class="post-meta">
 						<p><strong>Published:</strong> {{ page.date | date: '%B %d, %Y' }}</p>
@@ -21,13 +21,14 @@
 							</p>
 						{% endif %}
 					</div>
-				<div class="post">
-					{{ content }}
-				</div>
-				<footer>
-						{% include footer.html %}
-				</footer>
+					<div class="post">
+						{{ content }}
+					</div>
+				</article>
 			</main>
+			<footer>
+				{% include footer.html %}
+			</footer>
 		</div>
 	</body>
 </html>
