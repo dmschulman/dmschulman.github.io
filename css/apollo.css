@@ -366,6 +366,10 @@ span.update {
 	margin: 2rem 0 0 0;
 }
 
+a.icon {
+	border: none;
+}
+
 /* POST */
 
 .post-meta {
