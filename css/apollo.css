@@ -664,7 +664,8 @@ img.favicon {
 		grid-template-rows: repeat(2, 1fr);
 	}
 
-	main {
+	main,
+	footer {
 		padding: 30px 40px 30px 230px;
 	}
 
@@ -770,7 +771,8 @@ img.favicon {
 		visibility: visible;
 	}
 
-	main {
+	main,
+	footer {
 		padding: 1rem;
 	}
 
@@ -794,7 +796,6 @@ img.favicon {
 	}
 
 	footer {
-		margin: 1rem;
 		text-align: center;
 	}
 }
