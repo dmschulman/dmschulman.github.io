@@ -190,7 +190,7 @@ header a:focus.logo {
 }
 
 header p.intro {
-	font-size: .9rem;
+	font-size: .875rem;
 	line-height: 1;
 	letter-spacing: -.5px;
 	margin: 0;
@@ -725,7 +725,7 @@ img.favicon {
 /* MOBILE */
 @media only screen and (max-width: 1023px) {
 	header {
-		padding: 1rem 1rem 0 1rem;
+		padding: .8rem 1rem 0 1rem;
 	}
 
 	header a,
@@ -748,6 +748,8 @@ img.favicon {
 
 	header ul.global {
 		clear: both;
+		margin: 0 auto;
+		padding-top: .5rem;
 		max-width: 640px;
 		display: flex;
 		flex-direction: row;
