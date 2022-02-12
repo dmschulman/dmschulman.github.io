@@ -6,7 +6,7 @@ permalink: /projects/mutable-instruments-ambika.html
 date: 2013-01-30
 make: "Mutable Instruments"
 model: "Ambika"
-category: "Synthesizers"
+category: "DIY Electronics"
 tags:
   - digital
   - DIY
