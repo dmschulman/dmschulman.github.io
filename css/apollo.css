@@ -419,6 +419,54 @@ ul.posts li.gear {
 	margin: 0 0 0 2rem;
 }
 
+/* ITEM GRID */
+
+ul.item-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1.5rem;
+  list-style: none;
+  max-width: 800px;
+  padding: 0;
+  margin: 0;
+}
+
+ul.item-grid li a {
+  text-decoration: none;
+}
+
+ul.item-grid li a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+ul.item-grid li a img {
+  display: block;
+  margin: 0 0 10px 0;
+  max-width: 100%;
+}
+
+ul.item-grid h2 {
+  font-size: 1rem;
+  display: inline;
+  color: #666;
+}
+
+ul.item-grid span {
+  color: #666;
+}
+
+ul.item-grid .grid-thumbnail {
+    margin: 0 auto 1rem auto;
+    width: 100%;
+    max-width: 640px;
+    height: 200px;
+    max-height: 480px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 /* RESUME */
 
 img.headshot {
