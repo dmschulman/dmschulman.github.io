@@ -9,7 +9,7 @@ A repository for all of my various projects. Most of the items here will be rela
 {% assign project = site.projects | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in project %}
 <h2>{{ category.name }}</h2>
-  <ul class="item-grid">
+  <ul id="item-grid">
   {% for item in category.items | sort: 'date' %}
     <li>
       <a href="{{ item.url }}" title="{{ item.title }}">
