@@ -431,8 +431,13 @@ ul.item-grid {
   margin: 0;
 }
 
+ul.item-grid li {
+list-item-style: none;
+	margin: 0;
+}
+
 ul.item-grid li a {
-  text-decoration: none;
+  border: none;
 }
 
 ul.item-grid li a:hover {
@@ -446,7 +451,7 @@ ul.item-grid li a img {
   max-width: 100%;
 }
 
-ul.item-grid h2 {
+ul.item-grid h3 {
   font-size: 1rem;
   display: inline;
   color: #666;
