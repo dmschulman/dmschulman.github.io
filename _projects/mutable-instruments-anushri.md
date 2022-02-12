@@ -20,6 +20,7 @@ tags:
   - bass
   - sequencer
 image: https://dmschulman.com/studio/img/mutable-instruments-anushri.jpg
+thumbnail: https://dmschulman.com/projects/img/anushri/mutable-instruments-anushri-build-22.jpg
 ---
 
 <h2>Build Resources</h2>
