@@ -13,7 +13,7 @@ A repository for all of my various projects. Most of the items here will be rela
   {% for item in category.items | sort: 'date' %}
     <li>
       <a href="{{ item.url }}" title="{{ item.title }}">
-        <div class="thumbnail" style="background-image: url('{{ item.image }}')"></div>
+        <div class="thumbnail" style="background-image: url('{{ item.thumbnail }}')"></div>
         <h3>{{ item.title }}</h3>
         <span>{{ item.description }}</span>
       </a>
