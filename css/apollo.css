@@ -456,7 +456,7 @@ ul.item-grid span {
   color: #666;
 }
 
-ul.item-grid .grid-thumbnail {
+ul.item-grid .thumbnail {
     margin: 0 auto 1rem auto;
     width: 100%;
     max-width: 640px;
