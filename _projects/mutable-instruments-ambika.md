@@ -17,4 +17,5 @@ tags:
   - pads
   - sequencer
 image: https://dmschulman.com/studio/img/mutable-instruments-ambika.jpg
+thumbnail: https://dmschulman.com/projects/img/ambika/mutable-instruments-ambika-thumbnail.jpg
 ---
