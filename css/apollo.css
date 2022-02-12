@@ -71,7 +71,6 @@ a figcaption {
 	color: #202020;
 	font-size: 1rem;
 	font-weight: bold;
-	/* line-height: 1.5rem; */
 	-webkit-transition: all .2s ease-in-out 0s;
 	-moz-transition: all .2s ease-in-out 0s;
 	transition: all .2s ease-in-out 0s;
@@ -255,68 +254,63 @@ footer span {
 	font-size: 1rem;
 }
 
-/* CONTENT */
+/* CONTENT STYLES */
 
-.content {
-	margin: 0 0 1rem 0;
+#content p.intro {
+	font-size: clamp(1.2rem, calc(1rem + ((1vw - 0.2rem) * 0.4167)), 1.3rem);
+	font-style: italic;
 }
 
-.content ul li,
-.post ul li {
+#content ul li {
 	list-style-type: square;
 	margin: 0 0 0 1.5rem;
 	line-height: 1.5rem;
 }
 
-.content ul li > ul li,
-.post ul li > ul li {
+#content ul li > ul li {
 	list-style-type: square;
 }
 
-.content ol li,
-.post ol li {
+#content ol li {
 	list-style-type: decimal-leading-zero;
 	margin: 0 0 0 1.5rem;
 	font-weight: bold;
 }
 
-.content ul li p,
-.content ul li p a,
-.content ol li p,
-.content ol li p a,
-.post ul li p,
-.post ol li p {
+#content ul li p,
+#content ul li p a,
+#content ol li p,
+#content ol li p a {
 	margin: 0;
 }
 
-.content ul li ul a,
-.post ul li ul a {
+#content ul li ul a {
 	line-height: 1;
 }
 
-.content li.row figure {
+#content li.row figure {
 	display: inline;
 }
 
-.content li.row figure img {
+#content li.row figure img {
 	float: left;
 	margin: 0 1rem 1rem 0;
 }
 
-.content li.row figure figcaption {
+#content li.row figure figcaption {
 	line-height: 1;
 	margin-bottom: 1rem;
 	display: inline-block;
 }
 
-.content img.hero {
+#content img.hero {
 	max-height: 360px;
 	margin: 0 auto 1rem auto;
 	display: block;
 	text-align: center;
 }
 
-.content a.lightbox-image {
+#content a.lightbox-image {
 	border: none;
 	margin: 0 auto;
 	display: -ms-flexbox;
@@ -340,25 +334,25 @@ footer span {
 	max-width: 640px;
 }
 
-.content ul.pictures {
+#content ul.pictures {
 	-webkit-column-count: 3;
 	-moz-column-count: 3;
 	column-count: 3;
 	margin: 1rem  auto 0 auto;
 }
 
-.content ul.pictures li {
+#content ul.pictures li {
 	list-style: none;
 	margin: 0;
 }
 
-.content ul.pictures li a {
+#content ul.pictures li a {
 	border: none;
 	display: block;
 	line-height: 2.5;
 }
 
-.content ul.pictures li img {
+#content ul.pictures li img {
 	display: inline-block;
 }
 
@@ -372,7 +366,7 @@ a.icon {
 	border: none;
 }
 
-/* POST */
+/* META */
 
 .post-meta {
 	margin-bottom: .5rem;
@@ -480,34 +474,34 @@ img.headshot {
   border-radius: 100px;
 }
 
-.content.resume p {
+#content.resume p {
 	margin: 0;
 	display: inline;
 }
 
-.content.resume p em {
+#content.resume p em {
 	float: right;
 }
 
-.content.resume ul {
+#content.resume ul {
 	margin: 0 0 1rem 2rem;
 }
 
-.content.resume li {
+#content.resume li {
 	margin: .3rem 0;
 }
 
-.content.resume h2 {
+#content.resume h2 {
 	margin: 1rem 0 .5rem 0;
 }
 
-.content.resume h3,
-.content.resume h4 {
+#content.resume h3,
+#content.resume h4 {
 	margin: 0 0 .2rem 0;
 	line-height: 1;
 }
 
-.content.resume h4 {
+#content.resume h4 {
 	display: inline-block;
 }
 
@@ -578,17 +572,17 @@ li.music span.notes:before {
 
 /* GEAR */
 
-.content.gear ul li p,
-.content.gear ul li p a,
-.content li.gear p,
-.content li.gear p a {
+#content.gear ul li p,
+#content.gear ul li p a,
+#content li.gear p,
+#content li.gear p a {
 	font-style: italic;
 	font-size: .875rem;
 	line-height: 1.3;
 }
 
-.content.gear ul li p,
-.content li.gear p {
+#content.gear ul li p,
+#content li.gear p {
 	margin: 0 0 0 1rem;
 }
 
@@ -692,7 +686,6 @@ img.favicon {
 
 /* BREAKPOINTS */
 
-/* DESKTOP */
 @media only screen and (min-width: 1024px) {
 	header {
 		position: fixed;
@@ -738,11 +731,11 @@ img.favicon {
 		visibility: hidden;
 	}
 
-	.content li.row figure img {
+	#content li.row figure img {
 		max-width: 300px;
 	}
 
-	.content li.row figure figcaption {
+	#content li.row figure figcaption {
 		font-size: 1.5rem;
 	}
 
@@ -775,7 +768,6 @@ img.favicon {
 	}
 }
 
-/* MOBILE */
 @media only screen and (max-width: 1023px) {
 	header {
 		padding: .8rem 1rem 0 1rem;
@@ -829,11 +821,11 @@ img.favicon {
 		padding: 1rem;
 	}
 
-	.content li.row figure img {
+	#content li.row figure img {
 		max-width: 200px;
 	}
 
-	.content li.row figure figcaption {
+	#content li.row figure figcaption {
 		font-size: 1.2rem;
 	}
 
