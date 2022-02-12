@@ -6,7 +6,7 @@ permalink: /projects/mutable-instruments-anushri.html
 date: 2012-12-15
 make: "Mutable Instruments"
 model: "Anushri"
-category: "Synthesizers"
+category: "DIY Synthesizers"
 tags:
   - analog
   - DIY
