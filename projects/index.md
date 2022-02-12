@@ -8,6 +8,22 @@ A repository for all of my various projects. Most of the items here will be rela
 
 {% assign project = site.projects | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in project %}
+<h2>{{ category.name }}</h2>
+  <ul class="item-grid">
+  {% for item in category.items | sort: 'date' %}
+    <li>
+      <a href="{{ item.url }}" title="{{ item.title }}">
+        <div class="thumbnail" style="background-image: url('{{ item.image }}')"></div>
+        <h3>{{ item.title }}</h3>
+        <span>{{ item.description }}</span>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+<!-- {% assign project = site.projects | group_by: 'category' | sort: 'name' | reverse %}
+{% for category in project %}
 <h3>{{ category.name }}</h3>
 <ul class="posts">
 {% for item in category.items | sort: 'name' %}
@@ -18,3 +34,4 @@ A repository for all of my various projects. Most of the items here will be rela
 {% endfor %}
 </ul>
 {% endfor %}
+-->
