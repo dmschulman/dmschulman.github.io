@@ -16,6 +16,6 @@ tags:
   - lead
   - pads
   - sequencer
-image: https://dmschulman.com/projects/ambika/mutable-instruments-ambika.jpg
-thumbnail: https://dmschulman.com/projects/ambika/mutable-instruments-ambika-thumbnail.jpg
+image: https://dmschulman.com/projects/mutable-instruments-ambika/mutable-instruments-ambika.jpg
+thumbnail: https://dmschulman.com/projects/mutable-instruments-ambika/mutable-instruments-ambika-thumbnail.jpg
 ---
