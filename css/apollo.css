@@ -87,9 +87,14 @@ a figcaption:focus {
 	color: #fe5000;
 }
 
-ul,
-ol {
-	margin: 1rem 0 1rem 1rem;
+ul li {
+	margin: 0 0 0 1.5rem;
+	line-height: 1.5rem;
+}
+
+ol li {
+	list-style-type: decimal-leading-zero;
+	font-weight: bold;
 }
 
 ul li > ul {
@@ -261,22 +266,6 @@ footer span {
 	font-style: italic;
 }
 
-#content ul li {
-	list-style-type: square;
-	margin: 0 0 0 1.5rem;
-	line-height: 1.5rem;
-}
-
-#content ul li > ul li {
-	list-style-type: square;
-}
-
-#content ol li {
-	list-style-type: decimal-leading-zero;
-	margin: 0 0 0 1.5rem;
-	font-weight: bold;
-}
-
 #content ul li p,
 #content ul li p a,
 #content ol li p,
@@ -313,23 +302,10 @@ footer span {
 #content a.lightbox-image {
 	border: none;
 	margin: 0 auto;
-	display: -ms-flexbox;
- 	display: -webkit-flex;
  	display: flex;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
 	flex-direction: row;
- 	-webkit-flex-wrap: nowrap;
- 	-ms-flex-wrap: nowrap;
- 	flex-wrap: nowrap;
- 	-webkit-justify-content: center;
- 	-ms-flex-pack: center;
  	justify-content: center;
- 	-webkit-align-content: stretch;
- 	-ms-flex-line-pack: stretch;
  	align-content: stretch;
- 	-webkit-align-items: center;
- 	-ms-flex-align: center;
  	align-items: center;
 	max-width: 640px;
 }
@@ -356,7 +332,7 @@ footer span {
 	display: inline-block;
 }
 
-span.update {
+#content span.update {
 	display: block;
 	font-style: italic;
 	margin: 2rem 0 0 0;
@@ -390,27 +366,16 @@ a.icon {
 
 /* POST FEEDS */
 
-ul.posts {
-    	margin: 0 0 1rem 0;
-	overflow: auto;
-}
-
-ul.posts li {
-	list-style: none;
+#content ul.posts li {
 	margin: 0 0 1.5rem 0;
 	overflow: auto;
 }
 
-ul.posts li span.date {
+#content ul.posts li span.date {
 	display: block;
 	line-height: 1.5rem;
 	font-size: 1rem;
 	font-weight: bold;
-}
-
-ul.posts li.gear {
-	list-style: square;
-	margin: 0 0 0 2rem;
 }
 
 /* ITEM GRID */
@@ -586,6 +551,11 @@ li.music span.notes:before {
 	margin: 0 0 0 1rem;
 }
 
+ul li.gear {
+	list-style: disc;
+	margin: 0 0 0 2rem;
+}
+
 /* FLEXI ROW */
 
 .flexi-row {
@@ -630,7 +600,7 @@ p.footnote a {
 	line-height: 1.2;
 }
 
-/* PHOTOS */
+/* PHOTO GALLERY */
 
 ul.photo-gallery {
 	display: flex;
