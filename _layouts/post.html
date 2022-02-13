@@ -14,7 +14,7 @@
 				</span>
 			</header>
 			<main>
-				<article id="content">
+				<article id="content" class="post">
 					<h1>{{ page.title }}</h1>
 					<div class="post-meta">
 						<span>
@@ -26,10 +26,8 @@
 							</span>
 						{% endif %}
 					</div>
-					<div class="post">
-						{{ content }}
-						<span class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y" }}.</span>
-					</div>
+					{{ content }}
+					<span class="update">This page was last updated on {{ page.path | prepend: "/" | prepend: site.source | file_date | date: "%B %d, %Y" }}.</span>
 				</article>
 			</main>
 			<footer>
