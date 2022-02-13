@@ -347,7 +347,11 @@ a.icon {
 	border: none;
 }
 
-/* META */
+/* POST */
+
+#content.post ul li {
+	list-style: disc;	
+}
 
 .post-meta {
 	margin-bottom: .5rem;
