@@ -200,6 +200,11 @@ header p.intro {
 	margin: 0;
 }
 
+header ul.global li,
+header ul.social li {
+	margin: 0;
+}
+
 header ul.global a:hover,
 header ul.global a:active,
 header ul.global a:focus {
@@ -219,7 +224,7 @@ ul.social {
 
 ul.social li {
 	display: inline;
-	padding-right: .5rem;
+	/* padding-right: .5rem; */
 }
 
 ul.social li a {
