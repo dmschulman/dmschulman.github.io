@@ -551,7 +551,7 @@ li.music span.notes:before {
 	margin: 0 0 0 1rem;
 }
 
-ul li.gear {
+ul.item-list li {
 	list-style: disc;
 	margin: 0 0 0 2rem;
 }
