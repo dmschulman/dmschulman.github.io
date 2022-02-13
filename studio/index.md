@@ -15,9 +15,9 @@ Rather than simply compiling a big list here, my intent is to share all of the v
 {% assign gear = site.gear | group_by: 'category' | sort: 'name' | reverse %}
 {% for category in gear %}
 <h3>{{ category.name }}</h3>
-<ul class="posts">
+<ul class="item-list">
 {% for item in category.items | sort: 'name' %}
-<li class="gear">
+<li>
 <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
 </li>
 {% endfor %}
