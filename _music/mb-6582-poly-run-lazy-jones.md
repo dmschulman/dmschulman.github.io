@@ -1,6 +1,6 @@
 ---
 layout: music
-title: "MB-6582 Poly run - Lazy Jones"
+title: "MB-6582 Poly Run - Lazy Jones"
 artist: "Porter Vance"
 description: "Testing the polyphony on the MB-6582 using 3 stereo SID voices. Notes played are from Lazy Jones, a C64 game I never played but a song you will recognize nonetheless."
 date: 2014-01-12
