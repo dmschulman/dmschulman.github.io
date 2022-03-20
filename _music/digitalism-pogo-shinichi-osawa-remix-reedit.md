@@ -2,7 +2,7 @@
 layout: music
 title: "Digitalism - Pogo (Shinichi Osawa Remix REEDIT)"
 artist: "Porter Vance"
-description: "I've always admired Shinichi Osawa and their remix of Digitalism's Pogo brought that track to life in a completely new way. I wanted to build on that momentum with a reedit. The track as a hit at shows during the banger era."
+description: "I've always admired Shinichi Osawa and their remix of Digitalism's Pogo brought that track to life in a completely new way. I wanted to build on that momentum with a reedit. The track was a hit at shows during the banger era."
 date: 2010-4-20
 category: "Tracks"
 tags: 
