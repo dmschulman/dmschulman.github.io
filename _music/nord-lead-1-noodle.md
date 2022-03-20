@@ -1,6 +1,6 @@
 ---
 layout: music
-title: "Nord Lead 1 noodle"
+title: "Nord Lead 1 Noodle"
 artist: "Porter Vance"
 description: "Not my first Nord Lead, but likely my favorite."
 date: 2015-05-08
