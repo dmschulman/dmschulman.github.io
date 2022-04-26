@@ -1,5 +1,14 @@
 ---
-published: false
+title: Writer's drip
+layout: post
+author: dmschulman
+permalink: /writers-drip/
+tags:
+- internet
+- musings
+- writing
+- social media
+published: true
 ---
 It only took me 15 years, but I’ve finally started to properly manage, organize, and zero out my Gmail inbox. This wasn’t for lack of trying. Every 2 or 3 years I try to set up a few filters and categorize the mountain of emails that come my way, but after sitting down with the problem and stumbling upon a system that works for me, I’ve been meaning to write about it here and share my solution with the world.
 
