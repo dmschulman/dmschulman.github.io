@@ -4,7 +4,7 @@ title: "About"
 description: "Hey there, my name is David Michael Schulman (he/him) and I’m a frontend web developer currently based out of Philadelphia, PA. I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk."
 ---
 
-<img src="https://dmschulman.com/assets/david-schulman-headshot.jpg" alt="David M. Schulman" class="headshot" />
+<img src="https://dmschulman.com/assets/img/david-m-schulman-headshot.jpg" alt="David M. Schulman" class="headshot" />
 
 _Hey there_, my name is David Michael Schulman (he/him) and I am a frontend web developer currently based out of **Philadelphia, PA**. ***I admire minimal, lightweight, and well-designed web applications, endeavoring to incorporate those values into every project that comes across my desk***. In my current role, I cover full-stack web development (with a focus on frontend) for [Saint Joseph's University in Philadelphia](https://www.sju.edu/), maintaining and evolving the university's public-facing web presence across a variety of systems and applications.
 

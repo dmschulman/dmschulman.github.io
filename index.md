@@ -1,7 +1,7 @@
 ---
 layout: apollo
-title: "dmschulman.com - a wonderful place"
-description: "My homepage, yippie!"
+title: "David M. Schulman - a wonderful website"
+description: "The sometimes blog containing words, works, and wonders by David M. Schulman. Come for the web development, stay for the DIY electronics and synthesizers."
 ---
 
 Welcome to my homepage, things are a little drafty here at the moment. At least you'll be able to watch this site come together in some sort of pseudo real-time fashion. My website is a good place to read up and find out about various topics, pictures, code, maybe some other things who knows?
