@@ -6,14 +6,18 @@ description: "'blog' /bläɡ/ noun, a regularly updated website or web page, typ
 
 <ul class="posts">
   {% for post in site.posts limit: 20 %}
-    <li>
-	<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	<span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-	<p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
-    </li>
+    {% assign startdate = '2022-01-01' | date: '%s' %}
+    {% assign mydate = 'now' | date: '%s' %}
+    {% if mydate > startdate %}
+      <li>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <p class="excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
 <p>
-	<a href="archive.html" title="Blog Archive">Blog Archive</a>
+	Or if you'd prefer to see it all, view the <a href="archive.html" title="Blog Archive">blog archive</a>.
 </p>
