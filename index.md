@@ -1,6 +1,6 @@
 ---
 layout: apollo
-title: "Welcome to dmschulman.com - a wonderful place"
+title: "dmschulman.com - a wonderful place"
 description: "The sometimes blog containing words, works, and wonders by David M. Schulman. Come for the web development, stay for the DIY electronics and synthesizers."
 ---
 

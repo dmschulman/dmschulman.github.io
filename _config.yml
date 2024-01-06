@@ -2,9 +2,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "David M. Schulman"
-title_separator: "|"
-description: "A sometimes blog containing words, works, and wonders"
+title: David M. Schulman
+title_separator: |
+description: A sometimes blog containing words, works, and wonders by David M. Schulman
 url: "https://dmschulman.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
@@ -23,8 +23,8 @@ paginate_path: "/:num/"
 # tracking_id:
 
 # Contact
-name: "David M. Schulman"
-email: "hello@dmschulman.com"
+name: David M. Schulman
+email: hello@dmschulman.com
 
 # Social
 twitter:
