@@ -4,26 +4,29 @@
 # Site settings
 title: dmschulman.com
 title_separator: "|"
-description: "the sometimes blog containing words, works, and wonders by david m. schulman"
+description: "The sometimes blog containing words, works, and wonders by David M. Schulman"
 url: "https://dmschulman.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "dmschulman/dmschulman.github.io"
-locale: "en-US"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+
+# Jekyll settings
+locale: "en-US"
 breadcrumbs: false # true, false (default)
-read_more: "enabled" # if enabled, adds "Read more" links to excerpts
+read_more: enabled # if enabled, adds "Read more" links to excerpts
 paginate: 10
 paginate_path: "/:num/"
 
-name: "David Schulman"
-email: "david@dmschulman.com"
-
-#analytics:
- # provider: "google-universal" # false (default), "google", "google-universal", "custom"
+# Analytics
+  # provider: "google-universal" # false (default), "google", "google-universal", "custom"
   #google:
-   # tracking_id:
+# tracking_id:
 
-# Social media
+# Contact
+name: "David M. Schulman"
+email: "hello@dmschulman.com"
+
+# Social
 twitter:
   username: dmschulman
 facebook:
@@ -62,28 +65,28 @@ defaults:
   - scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
-    values:
-      layout: "post"
-      author: "David Schulman"
-      permalink: /blog/:year/:slug.html
+      values:
+        layout: "post"
+        author: "David Schulman"
+        permalink: /blog/:year/:slug.html
   - scope:
       path: ""
       type: "gear"
-    values:
-      layout: "gear"
-      permalink: /studio/:collection/:name.html
+      values:
+        layout: "gear"
+        permalink: /studio/:collection/:name.html
   - scope:
       path: ""
       type: "music"
-    values:
-      layout: "music"
-      permalink: /studio/music/:name.html
+      values:
+        layout: "music"
+        permalink: /studio/music/:name.html
   - scope:
       path: ""
       type: "work"
-    values:
-      layout: "work"
-      permalink: /about/work/:name.html
+      values:
+        layout: "work"
+        permalink: /about/work/:name.html
       
 # Build settings
 markdown: kramdown
