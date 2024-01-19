@@ -92,13 +92,13 @@ defaults:
 markdown: kramdown
 #theme: apollo
 plugins:
-  - github-pages
+  # - github-pages
   #- jekyll-avatar
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-titles-from-headings
+  - jekyll-titles-from-headings
   # - jemoji
   # - nokogiri
   # - rouge

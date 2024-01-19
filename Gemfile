@@ -1,20 +1,22 @@
 source "https://rubygems.org"
 
-ruby '~> 2.4'
+ruby '~> 3.3'
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 4.3"
 
 group :jekyll_plugins do
-  gem "jekyll-seo-tag", "~> 2.7.1"
+  gem "csv"
+  gem "base64"
+  gem "bigdecimal"
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-titles-from-headings"
+  gem "nokogiri"
 
-# OLD
-# gem 'github-pages'
-# gem 'jekyll-avatar'
-# gem 'jekyll-feed'
-# gem 'jekyll-paginate'
-# gem 'jekyll-seo-tag'
-# gem 'jekyll-sitemap'
-# gem 'jekyll-titles-from-headings'
-# gem 'jemoji'
-# gem 'nokogiri'
-# gem 'rouge'
+gem "webrick", "~> 1.8"
+gem "rexml", "~> 3.2"
+
+
+end
