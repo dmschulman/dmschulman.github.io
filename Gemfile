@@ -1,11 +1,19 @@
 source "https://rubygems.org"
 
-gem 'github-pages'
+ruby '~> 2.4'
+
+gem "jekyll", "~> 4.2.0"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag", "~> 2.7.1"
+
+# OLD
+# gem 'github-pages'
 # gem 'jekyll-avatar'
-gem 'jekyll-feed'
-gem 'jekyll-paginate'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
+# gem 'jekyll-feed'
+# gem 'jekyll-paginate'
+# gem 'jekyll-seo-tag'
+# gem 'jekyll-sitemap'
 # gem 'jekyll-titles-from-headings'
 # gem 'jemoji'
 # gem 'nokogiri'
