@@ -2,7 +2,6 @@
 title: 31 Days of NPR - The Art Of The Danish Open-Face Sandwich
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-the-art-of-the-danish-open-face-sandwich/
 tags:
 - NPR
 - food

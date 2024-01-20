@@ -2,7 +2,6 @@
 title: A list of essential programs
 layout: post
 author: dmschulman
-permalink: /a-list-of-essential-programs/
 tags:
 - windows
 - computing

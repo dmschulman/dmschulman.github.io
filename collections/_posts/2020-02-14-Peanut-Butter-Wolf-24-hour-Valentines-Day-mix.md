@@ -2,7 +2,6 @@
 title: Peanut Butter Wolf 24-hour Valentine's Day mix
 layout: post
 author: dmschulman
-permalink: /peanut-butter-wolf-24-hour-valentines-day-mix/
 tags:
 - music
 - mixtape

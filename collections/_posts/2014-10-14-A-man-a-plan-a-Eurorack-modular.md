@@ -2,7 +2,6 @@
 title: A man, a plan, a Eurorack modular
 layout: post
 author: dmschulman
-permalink: /a-man-a-plan-a-eurorack-modular/
 tags:
 - synthesizer
 - music production

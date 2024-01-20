@@ -2,7 +2,6 @@
 title: 31 Days of NPR - A New Congress But (Sadly) The Same Old Jokes
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-a-new-congress-but-sadly-the-same-old-jokes/
 tags:
 - NPR
 - politics

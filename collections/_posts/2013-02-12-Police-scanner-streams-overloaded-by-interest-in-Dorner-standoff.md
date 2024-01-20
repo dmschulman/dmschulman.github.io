@@ -2,7 +2,6 @@
 title: Police scanner streams overloaded by interest in Dorner standoff
 layout: post
 author: dmschulman
-permalink: /police-scanner-streams-overloaded-by-interest-in-dorner-standoff/
 tags:
 - journalism
 - technology
@@ -22,5 +21,7 @@ Perhaps it was the terrible, sensational, and uninformative news coverage combin
 
 Though online traffic may have overloaded the websites hosting these feeds, it's likely there was coordination between these websites and city of San Bernardino to disable access out of fear for the safety of officers on the ground. Despite owning a Yaesu transceiver myself (radio is important to me!), I would still be unable to receive SBPD frequencies based on my lack of proximity to the scene. News coverage might be a better filter for this information for some (the amount of codes and radio jargon used during these conversations makes it difficult to understand exactly what’s happening), but having the ability to listen in on those engaged in a live situation is incredibly helpful in filling in information gaps that the news may present (either intentionally or unintentionally).
 
-With all the public interest a case such as Dorner's has generated it’s no surprise some disinformation may be present on the news. It’s gotten to a point where even the SBPD are instructing citizens and news organizations [to cease Twittering](https://www.scpr.org/news/2013/02/12/35924/dorner-manhunt-san-bernardino-sheriff-s-asks-media/) about the unfolding situation. Questions still remain about news reports of the SBPD’s activities verses what has been said over their own radios.Though the news reported tear gas has been fired into the suspect’s cabin, radio chatter indicates that authorization to  "use a burner" on the house was given. I find it hard to believe that tear gas would ignite and start a fire in a building in the fashion it did tonight, though I’m sure we will see (and hopefully hear) what develops as in this insane situation continues.
+With all the public interest a case such as Dorner's has generated it’s no surprise some disinformation may be present on the news. It’s gotten to a point where even the SBPD are instructing citizens and news organizations [to cease Twittering](https://www.scpr.org/news/2013/02/12/35924/dorner-manhunt-san-bernardino-sheriff-s-asks-media/) about the unfolding situation. Questions still remain about news reports of the SBPD’s activities verses what has been said over their own radios.
+
+Though the news reported tear gas has been fired into the suspect’s cabin, radio chatter indicates that authorization to  "use a burner" on the house was given. I find it hard to believe that tear gas would ignite and start a fire in a building in the fashion it did tonight, though I’m sure we will see (and hopefully hear) what develops as in this insane situation continues.
 

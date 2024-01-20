@@ -2,7 +2,6 @@
 title: 31 Days of NPR - The Hunt Is On
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-the-hunt-is-on/
 tags:
 - science
 - NPR

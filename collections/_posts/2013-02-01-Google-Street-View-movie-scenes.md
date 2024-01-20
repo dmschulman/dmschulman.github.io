@@ -2,7 +2,6 @@
 title: Google Street View movie scenes
 layout: post
 author: dmschulman
-permalink: /google-street-view-movie-scenes/
 tags:
 - internet
 - film

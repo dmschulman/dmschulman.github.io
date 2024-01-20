@@ -2,7 +2,6 @@
 title: 31 Days of NPR - Folklorist Alan Lomax
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-folklorist-alan-lomax/
 tags:
 - music
 - NPR

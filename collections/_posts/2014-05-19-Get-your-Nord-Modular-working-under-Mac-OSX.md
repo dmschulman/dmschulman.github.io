@@ -2,7 +2,6 @@
 title: Get your Nord Modular working under Mac OSX
 layout: post
 author: dmschulman
-permalink: /get-your-nord-modular-working-under-mac-osx/
 tags:
 - synthesizer
 - how-to

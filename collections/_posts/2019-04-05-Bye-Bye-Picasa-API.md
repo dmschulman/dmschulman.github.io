@@ -2,7 +2,6 @@
 title: Bye Bye Picasa API
 layout: post
 author: dmschulman
-permalink: /bye-bye-picasa-api/
 tags:
 - google
 - jekyll

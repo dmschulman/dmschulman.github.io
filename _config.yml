@@ -39,55 +39,54 @@ social:
 
 # Collections
 collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:slug.html
+  pages:
+    output: true
   photos:
     output: true
-    output_ext: .html
-    title: "Photos"
   projects:
     output: true
-    output_ext: .html
-    title: "Projects"
+    permalink: /studio/projects/:name.html
   gear:
     output: true
-    output_ext: .html
-    title: "Gear"
+    permalink: /studio/gear/:name.html
   music:
     output: true
-    output_ext: .html
-    title: "Music"
+    permalink: /studio/music/:name.html
   work:
     output: true
-    output_ext: .html
-    title: "Portfolio"
+    permalink: /about/work/:name.html
+collections_dir: collections
 
 # Defaults
 defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-      values:
-        layout: "post"
-        author: "David Schulman"
-        permalink: /blog/:year/:slug.html
-  - scope:
-      path: ""
+  -
+    scope:
+      path: "/collections/_posts"
+    values:
+      layout: "post"
+      author: "David Schulman"
+  -
+    scope:
+      path: "/collections/_gear"
       type: "gear"
-      values:
-        layout: "gear"
-        permalink: /studio/:collection/:name.html
-  - scope:
-      path: ""
+    values:
+      layout: "gear"
+  -
+    scope:
+      path: "/collections/_music"
       type: "music"
-      values:
-        layout: "music"
-        permalink: /studio/music/:name.html
-  - scope:
-      path: ""
+    values:
+      layout: "music"
+  -
+    scope:
+      path: "/collections/_work"
       type: "work"
-      values:
-        layout: "work"
-        permalink: /about/work/:name.html
-      
+    values:
+      layout: "work"
+
 # Build settings
 markdown: kramdown
 #theme: apollo

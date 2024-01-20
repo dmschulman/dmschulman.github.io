@@ -2,7 +2,6 @@
 title: Constructing a complete drum kit
 layout: post
 author: dmschulman
-permalink: /constructing-a-complete-drum-kit/
 tags:
 - how-to
 - music

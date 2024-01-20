@@ -2,7 +2,6 @@
 title: Aaron's Army
 layout: post
 author: dmschulman
-permalink: /aaron's-army/
 tags:
 - hacking
 - politics

@@ -2,7 +2,6 @@
 title: 31 Days of NPR - American Media's True Ideology? Avoiding One
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-american-medias-true-ideology-avoiding-one/
 tags:
 - NPR
 - the media

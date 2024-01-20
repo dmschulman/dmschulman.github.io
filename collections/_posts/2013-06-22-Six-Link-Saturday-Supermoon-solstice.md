@@ -2,7 +2,6 @@
 title: Six Link Saturday – Supermoon Solstice
 layout: post
 author: dmschulman
-permalink: /six-link-saturday-supermoon-solstice/
 tags:
 - comic
 - bookmarks

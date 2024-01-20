@@ -2,7 +2,6 @@
 title: Trials and tribulations of syncing Droid data
 layout: post
 author: dmschulman
-permalink: /trials-and-tribulations-of-syncing-droid-data/
 tags:
 - google
 - apps

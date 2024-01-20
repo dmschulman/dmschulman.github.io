@@ -2,7 +2,6 @@
 title: Six Link Saturday
 layout: post
 author: dmschulman
-permalink: /six-link-saturday/
 tags:
 - art
 - film

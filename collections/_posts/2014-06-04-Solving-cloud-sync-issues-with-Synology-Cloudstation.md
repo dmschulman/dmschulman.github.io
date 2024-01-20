@@ -2,7 +2,6 @@
 title: Solving cloud sync issues with Synology Cloudstation
 layout: post
 author: dmschulman
-permalink: /solving-cloud-sync-issues-with-synology-cloudstation/
 tags:
 - computing
 - windows
@@ -16,13 +15,17 @@ I like the cloud, I really do. Being able to seamlessly transfer and make your f
 
 That's some cool stuff if you’re someone who has been working with computers for a long time.
 
-The truth is though that many cloud services and deployments, which you'll end up paying money for if you’re a person with lots of data or development needs, are just a nice repackaging of services you can provide on your own network. There are many advantages to setting up your own cloud storage solution, not having to spend money on a monthly service plan being one.If you’re checking out this post then you might also understand the advantages of keeping gigabytes of important project and personal data confined to your own network (at the very least, it’s a heck of a lot faster), but on top of any added benefits to your security, being able to configure your own network and use as much disk space as you can afford is just more practical for someone who codes, develops, or has a lot of data they want to sync.
+The truth is though that many cloud services and deployments, which you'll end up paying money for if you’re a person with lots of data or development needs, are just a nice repackaging of services you can provide on your own network. There are many advantages to setting up your own cloud storage solution, not having to spend money on a monthly service plan being one.
+
+If you’re checking out this post then you might also understand the advantages of keeping gigabytes of important project and personal data confined to your own network (at the very least, it’s a heck of a lot faster), but on top of any added benefits to your security, being able to configure your own network and use as much disk space as you can afford is just more practical for someone who codes, develops, or has a lot of data they want to sync.
 
 ![image alt text]({{ site.url }}/public/MkB48U2BCwCmmbW2FZJe5A_img_0.jpg)
 
 When I first went down the path of building a local file server and development machine I decided to build it all myself like you would a gaming machine (full disclosure: I also stuck a few graphics cards in there and used it as a gaming machine). Long story short, if you're not deeply experienced in administering a RAID system it’s probably a lot easier, depending on your needs, to buy an off-the-shelf solution like a [Drobo](https://www.drobo.com/) or [Synology](https://www.synology.com/) NAS. You could also use something besides RAID to synchronize your hard disks, but I don’t suggest it. As it stands now, I’m running a Synology 4-bay DiskStation and it’s been chugging along error-free for almost 3 years. Highly recommended.
 
-I've been looking into doing some incremental backups and cloud syncing for my machines (ironically something I bought the DiskStation for initially but have only now come around to configuring) and decided to give [Synology CloudStation](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudStation/cloudstation) a try. The app is part of the Synology ecosystem, so that made the choice pretty easy, but there are also Cloudstation clients for Windows, Mac, and Linux available as well as Android devices, which is important for someone like me who uses all 4 of these operating systems in my day to day.My biggest goals for CloudStation are:
+I've been looking into doing some incremental backups and cloud syncing for my machines (ironically something I bought the DiskStation for initially but have only now come around to configuring) and decided to give [Synology CloudStation](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudStation/cloudstation) a try. The app is part of the Synology ecosystem, so that made the choice pretty easy, but there are also Cloudstation clients for Windows, Mac, and Linux available as well as Android devices, which is important for someone like me who uses all 4 of these operating systems in my day to day.
+
+My biggest goals for CloudStation are:
 
 * Combine 3 separate Downloads folders into one synced directory.
 

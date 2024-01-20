@@ -2,7 +2,6 @@
 title: Getting Started with Samples Packs
 layout: post
 author: dmschulman
-permalink: /getting-started-with-samples-packs/
 tags:
 - synthesizer
 - technology

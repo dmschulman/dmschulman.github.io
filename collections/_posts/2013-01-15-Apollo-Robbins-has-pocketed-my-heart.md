@@ -2,7 +2,6 @@
 title: Apollo Robbins has pocketed my heart
 layout: post
 author: dmschulman
-permalink: /apollo-robbins-has-pocketed-my-heart/
 tags:
 - how-to
 - magic

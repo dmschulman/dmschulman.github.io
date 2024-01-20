@@ -2,7 +2,6 @@
 title: Six Link Saturday – Second helpings edition
 layout: post
 author: dmschulman
-permalink: /six-link-saturday-second-helpings-edition/
 tags:
 - art
 - food

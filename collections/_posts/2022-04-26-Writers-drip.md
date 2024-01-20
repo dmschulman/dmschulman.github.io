@@ -2,7 +2,6 @@
 title: Writer's drip
 layout: post
 author: dmschulman
-permalink: /writers-drip/
 tags:
 - internet
 - musings

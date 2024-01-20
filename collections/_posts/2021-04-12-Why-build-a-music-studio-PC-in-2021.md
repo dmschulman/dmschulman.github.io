@@ -2,7 +2,6 @@
 title: Why build a music studio PC in 2021?
 layout: post
 author: dmschulman
-permalink: /why-build-a-music-studio-pc-in-2021/
 tags:
 - technology
 - computing

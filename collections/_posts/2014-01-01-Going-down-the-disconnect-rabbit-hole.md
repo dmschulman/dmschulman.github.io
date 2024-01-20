@@ -2,7 +2,6 @@
 title: Going down the disconnect rabbit hole
 layout: post
 author: dmschulman
-permalink: /going-down-the-disconnect-rabbit-hole/
 tags:
 - life
 - musings

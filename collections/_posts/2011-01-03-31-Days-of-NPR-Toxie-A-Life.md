@@ -2,7 +2,6 @@
 title: 31 Days of NPR - Toxie, A Life
 layout: post
 author: dmschulman
-permalink: /31-days-of-npr-toxie-a-life/
 tags:
 - NPR
 - economy

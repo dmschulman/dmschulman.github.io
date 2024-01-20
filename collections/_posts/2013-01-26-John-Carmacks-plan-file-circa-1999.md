@@ -2,7 +2,6 @@
 title: John Carmack’s .plan file circa 1999
 layout: post
 author: dmschulman
-permalink: /john-carmacks-plan-file-circa-1999/
 tags:
 - internet
 - gaming

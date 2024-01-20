@@ -2,7 +2,6 @@
 title: RSS Habits
 layout: post
 author: dmschulman
-permalink: /rss-habits/
 tags:
 - google
 - computing

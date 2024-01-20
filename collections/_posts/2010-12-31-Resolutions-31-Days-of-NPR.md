@@ -2,7 +2,6 @@
 title: Resolutions - 31 Days of NPR
 layout: post
 author: dmschulman
-permalink: /resolutions-31-days-of-npr/
 tags:
 - musings
 - the media
